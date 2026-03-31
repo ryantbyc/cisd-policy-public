@@ -15,64 +15,64 @@
   <style>
     /* ── Design tokens ─────────────────────────────────────────── */
     :root {
-      --bg-page:        #f4f6f9;
+      --bg-page:        #f2f6f3;
       --bg-card:        #ffffff;
-      --bg-header:      #1a3a5c;
-      --bg-disclaimer:  #fff8e8;
-      --text-primary:   #1a1a2e;
-      --text-secondary: #555;
+      --bg-header:      #1a3d2e;
+      --bg-disclaimer:  #f0f9f2;
+      --text-primary:   #111e16;
+      --text-secondary: #4a5e50;
       --text-header:    #ffffff;
-      --text-disclaimer:#7a5a00;
-      --text-section:   #1a3a5c;
-      --text-footer:    #888;
-      --text-code:      #1a3a5c;
-      --bg-code:        #e8f0fe;
-      --border-accent:  #e8a020;
-      --border-section: #e8a020;
-      --border-card:    #e8edf5;
-      --shadow-card:    0 1px 4px rgba(0,0,0,0.08);
-      --shadow-hover:   0 4px 14px rgba(0,0,0,0.12);
+      --text-disclaimer:#2d6a42;
+      --text-section:   #1a3d2e;
+      --text-footer:    #7a9080;
+      --text-code:      #1a3d2e;
+      --bg-code:        #e2f2e8;
+      --border-accent:  #4a9e6a;
+      --border-section: #4a9e6a;
+      --border-card:    #d8eadc;
+      --shadow-card:    0 1px 4px rgba(0,0,0,0.07);
+      --shadow-hover:   0 4px 14px rgba(0,0,0,0.11);
       --ctrl-bg:        rgba(255,255,255,0.15);
       --ctrl-bg-hover:  rgba(255,255,255,0.28);
       --ctrl-border:    rgba(255,255,255,0.3);
       --ctrl-text:      #ffffff;
-      --badge-adopted-bg:   #e8f5e9;
-      --badge-adopted-text: #2e7d32;
-      --badge-pending-bg:   #fff8e0;
+      --badge-adopted-bg:   #e4f5e8;
+      --badge-adopted-text: #1e6e30;
+      --badge-pending-bg:   #fdf5dc;
       --badge-pending-text: #7a5a00;
       --badge-tabled-bg:    #fce8e6;
       --badge-tabled-text:  #8c1a1a;
-      --badge-info-bg:      #f0f4fa;
-      --badge-info-text:    #1a3a5c;
+      --badge-info-bg:      #eaf2ec;
+      --badge-info-text:    #1a3d2e;
     }
 
     [data-theme="dark"] {
-      --bg-page:        #0f1117;
-      --bg-card:        #1a1d27;
-      --bg-header:      #0a1929;
-      --bg-disclaimer:  #1e1a08;
-      --text-primary:   #e2e8f4;
-      --text-secondary: #8a9ec0;
+      --bg-page:        #0c1210;
+      --bg-card:        #151d17;
+      --bg-header:      #0a1a10;
+      --bg-disclaimer:  #0e1a10;
+      --text-primary:   #d8eedc;
+      --text-secondary: #7aaa88;
       --text-header:    #ffffff;
-      --text-disclaimer:#c8a840;
-      --text-section:   #88aadd;
-      --text-footer:    #5a6a88;
-      --text-code:      #6a9ade;
-      --bg-code:        #142040;
-      --border-card:    #2a3a55;
+      --text-disclaimer:#6abf82;
+      --text-section:   #6abf82;
+      --text-footer:    #4a7055;
+      --text-code:      #6abf82;
+      --bg-code:        #0e2218;
+      --border-card:    #243a2c;
       --shadow-card:    0 1px 4px rgba(0,0,0,0.4);
       --shadow-hover:   0 4px 14px rgba(0,0,0,0.6);
       --ctrl-bg:        rgba(255,255,255,0.1);
       --ctrl-bg-hover:  rgba(255,255,255,0.2);
       --ctrl-border:    rgba(255,255,255,0.2);
-      --badge-adopted-bg:   #1a3020;
-      --badge-adopted-text: #4acc80;
+      --badge-adopted-bg:   #142a1a;
+      --badge-adopted-text: #4acc70;
       --badge-pending-bg:   #2a2000;
       --badge-pending-text: #c8a840;
-      --badge-tabled-bg:    #301414;
+      --badge-tabled-bg:    #2a1010;
       --badge-tabled-text:  #de6a6a;
-      --badge-info-bg:      #141e30;
-      --badge-info-text:    #6a9ade;
+      --badge-info-bg:      #122018;
+      --badge-info-text:    #6abf82;
     }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -124,7 +124,7 @@
       background: var(--bg-card); color: var(--text-primary); outline: none;
       transition: border-color 0.15s, box-shadow 0.15s;
     }
-    .search-bar input:focus { border-color: var(--bg-header); box-shadow: 0 0 0 3px rgba(26,58,92,0.12); }
+    .search-bar input:focus { border-color: var(--bg-header); box-shadow: 0 0 0 3px rgba(26,61,46,0.12); }
     .search-bar .search-icon { position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); color: var(--text-secondary); font-size: 0.95rem; pointer-events: none; }
     .search-count { font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 0.75rem; }
 
@@ -191,7 +191,6 @@
       <h1>CISD Policy Tracker</h1>
       <p>Board policy changes for Conroe ISD — unofficial constituent resource</p>
     </div>
-    <a class="header-link" href="https://ryantbyc.github.io/cisd-bmm-public/">&#8592; Meeting Summaries</a>
   </div>
 </header>
 
