@@ -115,22 +115,29 @@
       border-bottom: 4px solid var(--border-accent);
     }
     .header-inner { max-width: 900px; margin: 0 auto; display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
-    .header-brand { display: flex; align-items: center; gap: 0.9rem; }
-    .header-code-badge {
-      background: rgba(255,255,255,0.15);
-      color: #ffffff;
-      font-family: "SF Mono", "Fira Code", monospace;
-      font-size: 1.4rem;
-      font-weight: 700;
-      padding: 0.35rem 0.75rem;
-      border-radius: 6px;
-      border: 1px solid rgba(255,255,255,0.25);
-      flex: 0 0 auto;
-    }
-    .header-title h1 { font-size: 1.25rem; font-weight: 700; letter-spacing: -0.01em; line-height: 1.3; }
-    .header-title p  { margin-top: 0.25rem; font-size: 0.85rem; opacity: 0.75; }
+    .header-brand h1 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.02em; }
+    .header-brand p  { margin-top: 0.35rem; font-size: 0.9rem; opacity: 0.8; }
     .header-back { font-size: 0.8rem; opacity: 0.75; color: var(--text-header); text-decoration: none; white-space: nowrap; margin-top: 0.5rem; }
     .header-back:hover { opacity: 1; text-decoration: underline; }
+
+    /* ── Policy title block (in-page) ── */
+    .policy-title-block {
+      display: flex; align-items: center; gap: 1rem;
+      margin-bottom: 1.25rem; flex-wrap: wrap;
+    }
+    .policy-title-code {
+      flex: 0 0 auto;
+      background: var(--bg-code);
+      color: var(--text-code);
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 1.1rem; font-weight: 700;
+      padding: 0.4rem 0.8rem; border-radius: 6px;
+    }
+    .policy-title-text { flex: 1; min-width: 0; }
+    .policy-title-text h1 { font-size: 1.35rem; font-weight: 700; letter-spacing: -0.01em; color: var(--text-primary); }
+    .policy-title-text .policy-last-action { font-size: 0.82rem; color: var(--text-secondary); margin-top: 0.2rem; }
+    .policy-title-text .policy-last-action a { color: var(--border-accent); text-decoration: none; }
+    .policy-title-text .policy-last-action a:hover { text-decoration: underline; }
 
     /* ── Controls ── */
     .controls-bar { background: var(--bg-header); border-bottom: 1px solid rgba(255,255,255,0.1); padding: 0.4rem 1.5rem; }
@@ -306,11 +313,8 @@
 <header>
   <div class="header-inner">
     <div class="header-brand">
-      <div class="header-code-badge" id="hdr-code">…</div>
-      <div class="header-title">
-        <h1 id="hdr-title">Loading…</h1>
-        <p id="hdr-subtitle"></p>
-      </div>
+      <h1>CISD Policy Tracker</h1>
+      <p>Board policy changes for Conroe ISD — unofficial constituent resource</p>
     </div>
     <a class="header-back" href="index.html">&#8592; All Policies</a>
   </div>
@@ -545,14 +549,36 @@
   /* ── Main render ── */
   function renderPolicy(data) {
     document.title = `${data.code} — CISD Policy Tracker`;
-    document.getElementById('hdr-code').textContent  = data.code;
-    document.getElementById('hdr-title').textContent = data.title || data.code;
-    if (data.last_action_date) {
-      document.getElementById('hdr-subtitle').textContent = `Last action: ${formatDate(data.last_action_date)}`;
-    }
 
     const main = document.getElementById('main-content');
     main.innerHTML = '';
+
+    /* Policy title block */
+    const titleBlock = document.createElement('div');
+    titleBlock.className = 'policy-title-block';
+    const codeBadge = document.createElement('div');
+    codeBadge.className = 'policy-title-code';
+    codeBadge.textContent = data.code;
+    const titleText = document.createElement('div');
+    titleText.className = 'policy-title-text';
+    const h1 = document.createElement('h1');
+    h1.textContent = data.title || data.code;
+    titleText.appendChild(h1);
+    if (data.last_action_date) {
+      const sub = document.createElement('div');
+      sub.className = 'policy-last-action';
+      sub.textContent = `Last action: ${formatDate(data.last_action_date)}`;
+      titleText.appendChild(sub);
+    }
+    if (data.policy_connect_url) {
+      const link = document.createElement('div');
+      link.className = 'policy-last-action';
+      link.innerHTML = `<a href="${esc(data.policy_connect_url)}" target="_blank" rel="noopener">View on PolicyConnect ↗</a>`;
+      titleText.appendChild(link);
+    }
+    titleBlock.appendChild(codeBadge);
+    titleBlock.appendChild(titleText);
+    main.appendChild(titleBlock);
 
     /* Description */
     if (data.description) {
