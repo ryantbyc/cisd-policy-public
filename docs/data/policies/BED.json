@@ -1,0 +1,36 @@
+{
+  "code": "BED",
+  "title": "Board Meetings: Public Participation",
+  "description": "This policy sets the rules for how members of the public can speak and participate during official school board meetings. It applies to parents, community members, and anyone who wishes to address the board in a public forum. The recent update is particularly relevant to parents of currently enrolled students, as it gives them priority when signing up to make public comments — meaning parents now have a more defined opportunity to have their voices heard directly by board members before other community speakers.",
+  "last_action_date": "2025-10-21",
+  "last_action_result": "adopted",
+  "timeline": [
+    {
+      "date": "2025-10-21",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "Policy BED (Local) for Conroe ISD is being updated to: (1) add a new 'Public Comment' section prioritizing parents of currently enrolled students to speak first during the citizenship/participation portion of public board meetings, with a requirement that the District make provision to identify parents; and (2) rename the section heading 'Complaints' to 'Grievances and Concerns,' and update terminology from 'complaints' to 'grievances' throughout the bullet list referencing employee, student/parent, and public resolution policies.",
+      "changes_added": [
+        "Parents of students currently enrolled in the District shall be allowed to speak first during the citizenship participation portion of any public board meeting [See BED.]. The District shall make provision to ensure that parents are identified.",
+        "Grievances (in section heading 'Complaints Grievances and Concerns')",
+        "grievances (replacing 'complaints' in bullet: 'Employee complaints grievances: DGBA')",
+        "grievances (replacing 'complaints' in bullet: 'Student or parent complaints grievances: FNG')",
+        "grievances (replacing 'complaints' in bullet: 'Public complaints grievances: GF')"
+      ],
+      "changes_removed": [
+        "Complaints (from section heading, replaced by 'Grievances and Concerns')",
+        "complaints (from bullet: 'Employee complaints grievances: DGBA')",
+        "complaints (from bullet: 'Student or parent complaints grievances: FNG')",
+        "complaints (from bullet: 'Public complaints grievances: GF')"
+      ],
+      "discussion": "policy EM (teaching about controversial issues). Raised two specific concerns: (1) the addition of \"unpatriotic or anti-American sentiments\" as prohibited — terms he called undefined and ambiguous; (2) a new \"prohibited terms\" section banning \"Latinx\" and \"minor attracted person,\" which he opposed. He urged the board to give these revisions appropriate scrutiny.",
+      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        125
+      ],
+      "confidence": "high",
+      "notes": "The added 'Public Comment' section text appears in red/underlined formatting in the scan, indicating new language. The section heading and bullet terminology changes use strikethrough for removed text and underline for added text. This is labeled 'Policy Update Page Number 4' and is page 126 of the meeting packet. Action type inferred as 'adopted' per triage hint."
+    }
+  ]
+}

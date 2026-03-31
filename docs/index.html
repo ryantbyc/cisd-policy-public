@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CISD Board Policy Tracker</title>
+  <script>
+    (function(){
+      var f = parseInt(localStorage.getItem('cisd-font-size')) || 17;
+      var t = localStorage.getItem('cisd-theme') || 'light';
+      document.documentElement.style.fontSize = f + 'px';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+  <style>
+    /* ── Design tokens ─────────────────────────────────────────── */
+    :root {
+      --bg-page:        #f4f6f9;
+      --bg-card:        #ffffff;
+      --bg-header:      #1a3a5c;
+      --bg-disclaimer:  #fff8e8;
+      --text-primary:   #1a1a2e;
+      --text-secondary: #555;
+      --text-header:    #ffffff;
+      --text-disclaimer:#7a5a00;
+      --text-section:   #1a3a5c;
+      --text-footer:    #888;
+      --text-code:      #1a3a5c;
+      --bg-code:        #e8f0fe;
+      --border-accent:  #e8a020;
+      --border-section: #e8a020;
+      --border-card:    #e8edf5;
+      --shadow-card:    0 1px 4px rgba(0,0,0,0.08);
+      --shadow-hover:   0 4px 14px rgba(0,0,0,0.12);
+      --ctrl-bg:        rgba(255,255,255,0.15);
+      --ctrl-bg-hover:  rgba(255,255,255,0.28);
+      --ctrl-border:    rgba(255,255,255,0.3);
+      --ctrl-text:      #ffffff;
+      --badge-adopted-bg:   #e8f5e9;
+      --badge-adopted-text: #2e7d32;
+      --badge-pending-bg:   #fff8e0;
+      --badge-pending-text: #7a5a00;
+      --badge-tabled-bg:    #fce8e6;
+      --badge-tabled-text:  #8c1a1a;
+      --badge-info-bg:      #f0f4fa;
+      --badge-info-text:    #1a3a5c;
+    }
+
+    [data-theme="dark"] {
+      --bg-page:        #0f1117;
+      --bg-card:        #1a1d27;
+      --bg-header:      #0a1929;
+      --bg-disclaimer:  #1e1a08;
+      --text-primary:   #e2e8f4;
+      --text-secondary: #8a9ec0;
+      --text-header:    #ffffff;
+      --text-disclaimer:#c8a840;
+      --text-section:   #88aadd;
+      --text-footer:    #5a6a88;
+      --text-code:      #6a9ade;
+      --bg-code:        #142040;
+      --border-card:    #2a3a55;
+      --shadow-card:    0 1px 4px rgba(0,0,0,0.4);
+      --shadow-hover:   0 4px 14px rgba(0,0,0,0.6);
+      --ctrl-bg:        rgba(255,255,255,0.1);
+      --ctrl-bg-hover:  rgba(255,255,255,0.2);
+      --ctrl-border:    rgba(255,255,255,0.2);
+      --badge-adopted-bg:   #1a3020;
+      --badge-adopted-text: #4acc80;
+      --badge-pending-bg:   #2a2000;
+      --badge-pending-text: #c8a840;
+      --badge-tabled-bg:    #301414;
+      --badge-tabled-text:  #de6a6a;
+      --badge-info-bg:      #141e30;
+      --badge-info-text:    #6a9ade;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 17px; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg-page);
+      color: var(--text-primary);
+      min-height: 100vh;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--bg-header);
+      color: var(--text-header);
+      padding: 1.4rem 1.5rem 1.2rem;
+      border-bottom: 4px solid var(--border-accent);
+    }
+    .header-inner { max-width: 900px; margin: 0 auto; display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+    .header-brand h1 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.02em; }
+    .header-brand p { margin-top: 0.35rem; font-size: 0.9rem; opacity: 0.8; }
+    .header-link { font-size: 0.8rem; opacity: 0.75; color: var(--text-header); text-decoration: none; white-space: nowrap; margin-top: 0.5rem; }
+    .header-link:hover { opacity: 1; text-decoration: underline; }
+
+    /* ── Controls ── */
+    .controls-bar { background: var(--bg-header); border-bottom: 1px solid rgba(255,255,255,0.1); padding: 0.4rem 1.5rem; }
+    .controls-bar-inner { max-width: 900px; margin: 0 auto; display: flex; justify-content: flex-end; align-items: center; gap: 0.4rem; }
+    .hctrl-btn {
+      background: var(--ctrl-bg); color: var(--ctrl-text); border: 1px solid var(--ctrl-border);
+      border-radius: 5px; padding: 0.28rem 0.65rem; font-size: 0.82rem; font-weight: 700;
+      cursor: pointer; transition: background 0.12s; line-height: 1; min-width: 2.4rem; text-align: center;
+    }
+    .hctrl-btn:hover { background: var(--ctrl-bg-hover); }
+
+    /* ── Disclaimer ── */
+    .disclaimer { background: var(--bg-disclaimer); border-left: 4px solid var(--border-accent); padding: 0.6rem 1.5rem; font-size: 0.82rem; color: var(--text-disclaimer); }
+    .disclaimer-inner { max-width: 900px; margin: 0 auto; }
+
+    /* ── Main ── */
+    main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+    h2 { font-size: 1.15rem; color: var(--text-section); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--border-section); }
+
+    /* ── Search ── */
+    .search-bar { margin-bottom: 1.25rem; position: relative; }
+    .search-bar input {
+      width: 100%; padding: 0.65rem 1rem 0.65rem 2.5rem; font-size: 0.95rem;
+      border: 1px solid var(--border-section); border-radius: 6px;
+      background: var(--bg-card); color: var(--text-primary); outline: none;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .search-bar input:focus { border-color: var(--bg-header); box-shadow: 0 0 0 3px rgba(26,58,92,0.12); }
+    .search-bar .search-icon { position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); color: var(--text-secondary); font-size: 0.95rem; pointer-events: none; }
+    .search-count { font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 0.75rem; }
+
+    /* ── Policy cards ── */
+    .policy-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 8px;
+      box-shadow: var(--shadow-card);
+      padding: 1rem 1.25rem;
+      margin-bottom: 0.75rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      text-decoration: none;
+      color: inherit;
+      transition: box-shadow 0.15s, transform 0.15s;
+    }
+    .policy-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-1px); }
+
+    .policy-code-badge {
+      flex: 0 0 auto;
+      background: var(--bg-code);
+      color: var(--text-code);
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 0.9rem;
+      font-weight: 700;
+      padding: 0.4rem 0.7rem;
+      border-radius: 5px;
+      min-width: 4rem;
+      text-align: center;
+    }
+
+    .policy-info { flex: 1; min-width: 0; }
+    .policy-info h3 { font-size: 0.95rem; font-weight: 600; margin-bottom: 0.25rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .policy-info p { font-size: 0.8rem; color: var(--text-secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+    .policy-meta { flex: 0 0 auto; display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem; }
+
+    .result-badge {
+      font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;
+      padding: 0.2rem 0.55rem; border-radius: 3px;
+    }
+    .result-adopted   { background: var(--badge-adopted-bg);  color: var(--badge-adopted-text); }
+    .result-pending   { background: var(--badge-pending-bg);  color: var(--badge-pending-text); }
+    .result-tabled    { background: var(--badge-tabled-bg);   color: var(--badge-tabled-text); }
+    .result-info      { background: var(--badge-info-bg);     color: var(--badge-info-text); }
+
+    .policy-date { font-size: 0.75rem; color: var(--text-secondary); }
+    .policy-count { font-size: 0.72rem; color: var(--text-secondary); }
+
+    .arrow { flex: 0 0 auto; color: var(--text-secondary); font-size: 1.2rem; opacity: 0.4; }
+
+    #loading { text-align: center; padding: 3rem; color: var(--text-secondary); }
+
+    footer { text-align: center; padding: 2rem 1rem; color: var(--text-footer); font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="header-brand">
+      <h1>CISD Policy Tracker</h1>
+      <p>Board policy changes for Conroe ISD — unofficial constituent resource</p>
+    </div>
+    <a class="header-link" href="https://ryantbyc.github.io/cisd-bmm-public/">&#8592; Meeting Summaries</a>
+  </div>
+</header>
+
+<div class="controls-bar">
+  <div class="controls-bar-inner">
+    <button class="hctrl-btn" id="font-down" title="Decrease font size">A−</button>
+    <button class="hctrl-btn" id="font-up" title="Increase font size">A+</button>
+    <button class="hctrl-btn" id="theme-toggle" title="Toggle dark mode">☾</button>
+  </div>
+</div>
+
+<div class="disclaimer">
+  <div class="disclaimer-inner">Unofficial policy change summaries generated from public board meeting records. Not affiliated with or endorsed by Conroe Independent School District.</div>
+</div>
+
+<main>
+  <h2>Board Policies</h2>
+  <div class="search-bar">
+    <span class="search-icon">&#128269;</span>
+    <input type="search" id="search-input" placeholder="Search by policy code, title, or topic…" autocomplete="off">
+  </div>
+  <div id="search-count" class="search-count" style="display:none"></div>
+  <div id="policies-list">
+    <p id="loading">Loading policies...</p>
+  </div>
+</main>
+
+<footer>
+  CISD Policy Tracker &mdash; Unofficial constituent resource
+</footer>
+
+<script src="fuse.min.js"></script>
+<script>
+  const FONT_MIN = 13, FONT_MAX = 22, FONT_DEFAULT = 17;
+
+  function applyFont(size) { document.documentElement.style.fontSize = size + 'px'; }
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    document.getElementById('theme-toggle').textContent = theme === 'dark' ? '☀' : '☾';
+  }
+
+  applyFont(parseInt(localStorage.getItem('cisd-font-size')) || FONT_DEFAULT);
+  applyTheme(localStorage.getItem('cisd-theme') || 'light');
+
+  document.getElementById('font-up').addEventListener('click', () => {
+    const next = Math.min((parseInt(localStorage.getItem('cisd-font-size')) || FONT_DEFAULT) + 1, FONT_MAX);
+    localStorage.setItem('cisd-font-size', next); applyFont(next);
+  });
+  document.getElementById('font-down').addEventListener('click', () => {
+    const next = Math.max((parseInt(localStorage.getItem('cisd-font-size')) || FONT_DEFAULT) - 1, FONT_MIN);
+    localStorage.setItem('cisd-font-size', next); applyFont(next);
+  });
+  document.getElementById('theme-toggle').addEventListener('click', () => {
+    const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('cisd-theme', next); applyTheme(next);
+  });
+
+  function resultBadgeClass(result) {
+    if (!result) return 'result-info';
+    if (result === 'adopted') return 'result-adopted';
+    if (result === 'tabled') return 'result-tabled';
+    if (result === 'first_reading' || result === 'pending_adoption') return 'result-pending';
+    return 'result-info';
+  }
+
+  function resultLabel(result) {
+    if (!result || result === 'unknown') return 'On Record';
+    const map = {
+      adopted: 'Adopted', tabled: 'Tabled', first_reading: 'First Reading',
+      pending_adoption: 'Second Reading', rejected: 'Rejected',
+      withdrawn: 'Withdrawn', information_only: 'Info Only',
+    };
+    return map[result] || result.replace(/_/g, ' ');
+  }
+
+  function formatDate(dateStr) {
+    if (!dateStr) return '';
+    const [y, m, d] = dateStr.split('-').map(Number);
+    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return `${months[m-1]} ${d}, ${y}`;
+  }
+
+  function buildCard(p) {
+    const card = document.createElement('a');
+    card.className = 'policy-card';
+    card.href = `policy.html?code=${encodeURIComponent(p.code)}`;
+    const badgeClass = resultBadgeClass(p.last_action_result);
+    const label = resultLabel(p.last_action_result);
+    const dateStr = formatDate(p.last_action_date);
+    const count = p.timeline_count || 0;
+    card.innerHTML = `
+      <div class="policy-code-badge">${p.code}</div>
+      <div class="policy-info">
+        <h3>${p.title || p.code}</h3>
+        <p>${p.description_short || ''}</p>
+      </div>
+      <div class="policy-meta">
+        <span class="result-badge ${badgeClass}">${label}</span>
+        ${dateStr ? `<span class="policy-date">${dateStr}</span>` : ''}
+        <span class="policy-count">${count} event${count !== 1 ? 's' : ''}</span>
+      </div>
+      <div class="arrow">&#8250;</div>`;
+    return card;
+  }
+
+  let allPolicies = [];
+  let fuse = null;
+  const container = document.getElementById('policies-list');
+  const countEl = document.getElementById('search-count');
+  const searchInput = document.getElementById('search-input');
+
+  function renderPolicies(policies) {
+    container.innerHTML = '';
+    if (!policies.length) {
+      container.innerHTML = '<p style="padding:1rem;color:var(--text-secondary)">No matching policies found.</p>';
+      return;
+    }
+    policies.forEach(p => container.appendChild(buildCard(p)));
+  }
+
+  function onSearch() {
+    const q = searchInput.value.trim();
+    if (!q) { countEl.style.display = 'none'; renderPolicies(allPolicies); return; }
+    const results = fuse ? fuse.search(q).map(r => allPolicies.find(p => p.code === r.item.code)).filter(Boolean) : [];
+    countEl.textContent = `${results.length} polic${results.length !== 1 ? 'ies' : 'y'} found`;
+    countEl.style.display = 'block';
+    renderPolicies(results);
+  }
+
+  fetch('data/index.json').then(r => r.json()).then(index => {
+    allPolicies = index.policies || [];
+    document.getElementById('loading').remove();
+
+    if (!allPolicies.length) {
+      container.innerHTML = '<p style="padding:1rem">No policies published yet.</p>';
+      return;
+    }
+
+    renderPolicies(allPolicies);
+
+    fuse = new Fuse(allPolicies, {
+      keys: [
+        { name: 'code',              weight: 0.5 },
+        { name: 'title',             weight: 0.4 },
+        { name: 'description_short', weight: 0.2 },
+      ],
+      threshold: 0.35,
+      ignoreLocation: true,
+      minMatchCharLength: 2,
+    });
+    searchInput.addEventListener('input', onSearch);
+  }).catch(() => {
+    document.getElementById('loading').textContent = 'Could not load policy data.';
+  });
+</script>
+</body>
+</html>

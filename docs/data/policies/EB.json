@@ -1,0 +1,54 @@
+{
+  "code": "EB",
+  "title": "School Year Calendar",
+  "description": "This policy covers how the school district creates and approves the annual academic calendar, including the start and end of the school year, holidays, and instructional days. It affects all students, families, and staff who need to plan around the school schedule. Understanding this policy matters to parents because it explains how decisions about the school calendar are made and who has input in that process.",
+  "last_action_date": "2025-11-18",
+  "last_action_result": "information_only",
+  "timeline": [
+    {
+      "date": "2025-11-18",
+      "school_year": "2025-2026",
+      "action": "information_only",
+      "result": "information_only",
+      "summary": "The board is receiving information about the development process for the 2026-2027 school calendar. No policy text is being changed. The District Level Planning and Decision-Making Committee will collect community survey responses (November 3–11, 2025), develop draft calendars, post them for public comment, and bring a final calendar recommendation to the Board in January 2026.",
+      "discussion": "policy and a superintendent Facebook post",
+      "votes": {
+        "for": [],
+        "against": [],
+        "abstain": [],
+        "absent": [],
+        "tally": "7-0"
+      },
+      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "confidence": "high",
+      "notes": "This is not a policy amendment or redline document. It is a procedural/informational agenda item referencing Policy EB (School Year Calendar) as the governing authority. No policy language changes are proposed. The action hint of 'adoption' from triage does not match the document content, which is explicitly an information-only item."
+    },
+    {
+      "date": "2025-10-21",
+      "school_year": "2025-2026",
+      "action": "information_only",
+      "result": "information_only",
+      "summary": "This is not a policy change document. The board is receiving information and providing input for the development of the 2026-2027 school calendar. The District Level Planning and Decision-Making Committee is developing draft calendars for public review, gathering feedback, and will bring a final calendar recommendation to the Board in January 2026. Policy EB is referenced as the governing authority for this process.",
+      "discussion": "policy EM (teaching about controversial issues). Raised two specific concerns: (1) the addition of \"unpatriotic or anti-American sentiments\" as prohibited — terms he called undefined and ambiguous; (2) a new \"prohibited terms\" section banning \"Latinx\" and \"minor attracted person,\" which he opposed. He urged the board to give these revisions appropriate scrutiny.",
+      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        60
+      ],
+      "confidence": "high",
+      "notes": "This page (p. 60) is a board agenda item cover sheet — not a redline policy document. It references Legal and Local Board Policy EB but contains no proposed amendments to that policy. No policy language additions or removals are present. The action is informational: the board is being asked to receive information and provide input, not to adopt any policy changes."
+    }
+  ]
+}

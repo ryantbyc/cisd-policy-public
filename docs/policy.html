@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Policy — CISD Policy Tracker</title>
+  <script>
+    (function(){
+      var f = parseInt(localStorage.getItem('cisd-font-size')) || 17;
+      var t = localStorage.getItem('cisd-theme') || 'light';
+      document.documentElement.style.fontSize = f + 'px';
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+  <style>
+    /* ── Design tokens ─────────────────────────────────────────── */
+    :root {
+      --bg-page:        #f4f6f9;
+      --bg-card:        #ffffff;
+      --bg-header:      #1a3a5c;
+      --bg-disclaimer:  #fff8e8;
+      --text-primary:   #1a1a2e;
+      --text-secondary: #555;
+      --text-header:    #ffffff;
+      --text-disclaimer:#7a5a00;
+      --text-section:   #1a3a5c;
+      --text-footer:    #888;
+      --text-code:      #1a3a5c;
+      --bg-code:        #e8f0fe;
+      --border-accent:  #e8a020;
+      --border-section: #e8a020;
+      --border-card:    #e8edf5;
+      --shadow-card:    0 1px 4px rgba(0,0,0,0.08);
+      --shadow-hover:   0 4px 14px rgba(0,0,0,0.12);
+      --ctrl-bg:        rgba(255,255,255,0.15);
+      --ctrl-bg-hover:  rgba(255,255,255,0.28);
+      --ctrl-border:    rgba(255,255,255,0.3);
+      --ctrl-text:      #ffffff;
+      --badge-adopted-bg:   #e8f5e9;
+      --badge-adopted-text: #2e7d32;
+      --badge-pending-bg:   #fff8e0;
+      --badge-pending-text: #7a5a00;
+      --badge-tabled-bg:    #fce8e6;
+      --badge-tabled-text:  #8c1a1a;
+      --badge-info-bg:      #f0f4fa;
+      --badge-info-text:    #1a3a5c;
+      --change-added-bg:    #f0faf2;
+      --change-added-border:#2e7d32;
+      --change-added-text:  #1b5e20;
+      --change-removed-bg:  #fdf0f0;
+      --change-removed-border:#c62828;
+      --change-removed-text:#b71c1c;
+      --discussion-bg:      #f7f9fc;
+      --discussion-border:  #c8d8ee;
+      --discussion-text:    #2a3a50;
+      --vote-bg:            #f4f6f9;
+      --vote-border:        #c8d0de;
+    }
+
+    [data-theme="dark"] {
+      --bg-page:        #0f1117;
+      --bg-card:        #1a1d27;
+      --bg-header:      #0a1929;
+      --bg-disclaimer:  #1e1a08;
+      --text-primary:   #e2e8f4;
+      --text-secondary: #8a9ec0;
+      --text-header:    #ffffff;
+      --text-disclaimer:#c8a840;
+      --text-section:   #88aadd;
+      --text-footer:    #5a6a88;
+      --text-code:      #6a9ade;
+      --bg-code:        #142040;
+      --border-card:    #2a3a55;
+      --shadow-card:    0 1px 4px rgba(0,0,0,0.4);
+      --shadow-hover:   0 4px 14px rgba(0,0,0,0.6);
+      --ctrl-bg:        rgba(255,255,255,0.1);
+      --ctrl-bg-hover:  rgba(255,255,255,0.2);
+      --ctrl-border:    rgba(255,255,255,0.2);
+      --badge-adopted-bg:   #1a3020;
+      --badge-adopted-text: #4acc80;
+      --badge-pending-bg:   #2a2000;
+      --badge-pending-text: #c8a840;
+      --badge-tabled-bg:    #301414;
+      --badge-tabled-text:  #de6a6a;
+      --badge-info-bg:      #141e30;
+      --badge-info-text:    #6a9ade;
+      --change-added-bg:    #0d2014;
+      --change-added-border:#4acc80;
+      --change-added-text:  #80e8a0;
+      --change-removed-bg:  #200d0d;
+      --change-removed-border:#de6a6a;
+      --change-removed-text:#f08080;
+      --discussion-bg:      #131c28;
+      --discussion-border:  #2a3a55;
+      --discussion-text:    #a0b8d8;
+      --vote-bg:            #141820;
+      --vote-border:        #2a3a55;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { font-size: 17px; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg-page);
+      color: var(--text-primary);
+      min-height: 100vh;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--bg-header);
+      color: var(--text-header);
+      padding: 1.4rem 1.5rem 1.2rem;
+      border-bottom: 4px solid var(--border-accent);
+    }
+    .header-inner { max-width: 900px; margin: 0 auto; display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+    .header-brand { display: flex; align-items: center; gap: 0.9rem; }
+    .header-code-badge {
+      background: rgba(255,255,255,0.15);
+      color: #ffffff;
+      font-family: "SF Mono", "Fira Code", monospace;
+      font-size: 1.4rem;
+      font-weight: 700;
+      padding: 0.35rem 0.75rem;
+      border-radius: 6px;
+      border: 1px solid rgba(255,255,255,0.25);
+      flex: 0 0 auto;
+    }
+    .header-title h1 { font-size: 1.25rem; font-weight: 700; letter-spacing: -0.01em; line-height: 1.3; }
+    .header-title p  { margin-top: 0.25rem; font-size: 0.85rem; opacity: 0.75; }
+    .header-back { font-size: 0.8rem; opacity: 0.75; color: var(--text-header); text-decoration: none; white-space: nowrap; margin-top: 0.5rem; }
+    .header-back:hover { opacity: 1; text-decoration: underline; }
+
+    /* ── Controls ── */
+    .controls-bar { background: var(--bg-header); border-bottom: 1px solid rgba(255,255,255,0.1); padding: 0.4rem 1.5rem; }
+    .controls-bar-inner { max-width: 900px; margin: 0 auto; display: flex; justify-content: flex-end; align-items: center; gap: 0.4rem; }
+    .hctrl-btn {
+      background: var(--ctrl-bg); color: var(--ctrl-text); border: 1px solid var(--ctrl-border);
+      border-radius: 5px; padding: 0.28rem 0.65rem; font-size: 0.82rem; font-weight: 700;
+      cursor: pointer; transition: background 0.12s; line-height: 1; min-width: 2.4rem; text-align: center;
+    }
+    .hctrl-btn:hover { background: var(--ctrl-bg-hover); }
+
+    /* ── Disclaimer ── */
+    .disclaimer { background: var(--bg-disclaimer); border-left: 4px solid var(--border-accent); padding: 0.6rem 1.5rem; font-size: 0.82rem; color: var(--text-disclaimer); }
+    .disclaimer-inner { max-width: 900px; margin: 0 auto; }
+
+    /* ── Main ── */
+    main { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+
+    /* ── Description card ── */
+    .description-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 8px;
+      box-shadow: var(--shadow-card);
+      padding: 1.1rem 1.4rem;
+      margin-bottom: 2rem;
+    }
+    .description-card p { font-size: 0.92rem; line-height: 1.65; color: var(--text-secondary); }
+
+    /* ── Section heading ── */
+    h2 { font-size: 1.1rem; color: var(--text-section); margin-bottom: 1.25rem; padding-bottom: 0.45rem; border-bottom: 2px solid var(--border-section); }
+
+    /* ── Timeline ── */
+    .timeline { position: relative; }
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 1.1rem;
+      top: 0.6rem;
+      bottom: 0.6rem;
+      width: 2px;
+      background: var(--border-card);
+    }
+
+    .timeline-entry {
+      position: relative;
+      padding-left: 3rem;
+      margin-bottom: 1.75rem;
+    }
+    .timeline-dot {
+      position: absolute;
+      left: 0.55rem;
+      top: 0.55rem;
+      width: 1.1rem;
+      height: 1.1rem;
+      border-radius: 50%;
+      border: 2px solid var(--bg-card);
+      background: var(--border-accent);
+      z-index: 1;
+    }
+    .timeline-dot.dot-adopted   { background: #2e7d32; }
+    .timeline-dot.dot-tabled    { background: #c62828; }
+    .timeline-dot.dot-pending   { background: #e8a020; }
+    .timeline-dot.dot-info      { background: #5a80b0; }
+
+    .timeline-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 8px;
+      box-shadow: var(--shadow-card);
+      overflow: hidden;
+    }
+
+    .timeline-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.85rem 1.1rem;
+      flex-wrap: wrap;
+    }
+    .tl-date { font-size: 0.85rem; font-weight: 600; color: var(--text-primary); white-space: nowrap; }
+    .tl-action-label { font-size: 0.72rem; color: var(--text-secondary); }
+    .tl-spacer { flex: 1; }
+    .result-badge {
+      font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;
+      padding: 0.2rem 0.55rem; border-radius: 3px; white-space: nowrap;
+    }
+    .result-adopted   { background: var(--badge-adopted-bg);  color: var(--badge-adopted-text); }
+    .result-pending   { background: var(--badge-pending-bg);  color: var(--badge-pending-text); }
+    .result-tabled    { background: var(--badge-tabled-bg);   color: var(--badge-tabled-text); }
+    .result-info      { background: var(--badge-info-bg);     color: var(--badge-info-text); }
+
+    .timeline-body { padding: 0 1.1rem 1rem; display: flex; flex-direction: column; gap: 0.85rem; }
+
+    .tl-summary { font-size: 0.875rem; line-height: 1.6; color: var(--text-primary); }
+
+    /* Changes sections */
+    .changes-section { border-radius: 6px; overflow: hidden; }
+    .changes-label {
+      font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
+      padding: 0.3rem 0.75rem;
+    }
+    .changes-added   .changes-label { background: var(--change-added-bg);   color: var(--change-added-text);   border-bottom: 1px solid var(--change-added-border); }
+    .changes-removed .changes-label { background: var(--change-removed-bg); color: var(--change-removed-text); border-bottom: 1px solid var(--change-removed-border); }
+    .changes-added   { border: 1px solid var(--change-added-border); }
+    .changes-removed { border: 1px solid var(--change-removed-border); }
+
+    .changes-list { list-style: none; padding: 0.5rem 0.75rem; }
+    .changes-list li {
+      font-size: 0.83rem; line-height: 1.55;
+      padding: 0.4rem 0 0.4rem 1.1rem;
+      position: relative;
+      border-bottom: 1px solid rgba(0,0,0,0.05);
+    }
+    [data-theme="dark"] .changes-list li { border-bottom-color: rgba(255,255,255,0.05); }
+    .changes-list li:last-child { border-bottom: none; }
+    .changes-added   .changes-list li::before { content: '+'; position: absolute; left: 0; color: var(--change-added-border); font-weight: 700; }
+    .changes-removed .changes-list li::before { content: '−'; position: absolute; left: 0; color: var(--change-removed-border); font-weight: 700; }
+    .changes-added   .changes-list li { color: var(--change-added-text); }
+    .changes-removed .changes-list li { color: var(--change-removed-text); }
+
+    /* Discussion */
+    .discussion-section {
+      background: var(--discussion-bg);
+      border: 1px solid var(--discussion-border);
+      border-radius: 6px;
+      padding: 0.65rem 0.9rem;
+    }
+    .discussion-label {
+      font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
+      color: var(--text-section); margin-bottom: 0.5rem;
+    }
+    .discussion-text {
+      font-size: 0.83rem; line-height: 1.6; color: var(--discussion-text);
+      white-space: pre-wrap;
+    }
+    .discussion-collapsed { max-height: 6rem; overflow: hidden; position: relative; }
+    .discussion-collapsed::after {
+      content: '';
+      position: absolute; bottom: 0; left: 0; right: 0;
+      height: 2.5rem;
+      background: linear-gradient(transparent, var(--discussion-bg));
+    }
+    .discussion-toggle {
+      background: none; border: none; color: var(--text-section); font-size: 0.78rem;
+      cursor: pointer; padding: 0.25rem 0; margin-top: 0.4rem; display: block;
+      text-decoration: underline;
+    }
+    .discussion-toggle:hover { opacity: 0.75; }
+
+    /* Vote */
+    .vote-section {
+      background: var(--vote-bg);
+      border: 1px solid var(--vote-border);
+      border-radius: 6px;
+      padding: 0.55rem 0.9rem;
+      display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
+    }
+    .vote-label { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-section); }
+    .vote-tally { font-size: 0.92rem; font-weight: 700; color: var(--text-primary); }
+    .vote-names { font-size: 0.78rem; color: var(--text-secondary); }
+    .vote-for   { color: var(--badge-adopted-text); }
+    .vote-against { color: var(--badge-tabled-text); }
+
+    #loading { text-align: center; padding: 3rem; color: var(--text-secondary); }
+    #error-msg { text-align: center; padding: 3rem; color: var(--badge-tabled-text); }
+
+    footer { text-align: center; padding: 2rem 1rem; color: var(--text-footer); font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="header-brand">
+      <div class="header-code-badge" id="hdr-code">…</div>
+      <div class="header-title">
+        <h1 id="hdr-title">Loading…</h1>
+        <p id="hdr-subtitle"></p>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;align-items:flex-end;gap:0.5rem">
+      <a class="header-back" href="index.html">&#8592; All Policies</a>
+      <a class="header-back" href="https://ryantbyc.github.io/cisd-bmm-public/">&#8592; Meeting Summaries</a>
+    </div>
+  </div>
+</header>
+
+<div class="controls-bar">
+  <div class="controls-bar-inner">
+    <button class="hctrl-btn" id="font-down" title="Decrease font size">A−</button>
+    <button class="hctrl-btn" id="font-up" title="Increase font size">A+</button>
+    <button class="hctrl-btn" id="theme-toggle" title="Toggle dark mode">☾</button>
+  </div>
+</div>
+
+<div class="disclaimer">
+  <div class="disclaimer-inner">Unofficial policy change summaries generated from public board meeting records. Not affiliated with or endorsed by Conroe Independent School District.</div>
+</div>
+
+<main id="main-content">
+  <p id="loading">Loading policy…</p>
+</main>
+
+<footer>
+  CISD Policy Tracker &mdash; Unofficial constituent resource
+</footer>
+
+<script>
+  const FONT_MIN = 13, FONT_MAX = 22, FONT_DEFAULT = 17;
+
+  function applyFont(size) { document.documentElement.style.fontSize = size + 'px'; }
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    document.getElementById('theme-toggle').textContent = theme === 'dark' ? '☀' : '☾';
+  }
+
+  applyFont(parseInt(localStorage.getItem('cisd-font-size')) || FONT_DEFAULT);
+  applyTheme(localStorage.getItem('cisd-theme') || 'light');
+
+  document.getElementById('font-up').addEventListener('click', () => {
+    const next = Math.min((parseInt(localStorage.getItem('cisd-font-size')) || FONT_DEFAULT) + 1, FONT_MAX);
+    localStorage.setItem('cisd-font-size', next); applyFont(next);
+  });
+  document.getElementById('font-down').addEventListener('click', () => {
+    const next = Math.max((parseInt(localStorage.getItem('cisd-font-size')) || FONT_DEFAULT) - 1, FONT_MIN);
+    localStorage.setItem('cisd-font-size', next); applyFont(next);
+  });
+  document.getElementById('theme-toggle').addEventListener('click', () => {
+    const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('cisd-theme', next); applyTheme(next);
+  });
+
+  /* ── Helpers ── */
+  function resultBadgeClass(result) {
+    if (!result || result === 'unknown') return 'result-info';
+    if (result === 'adopted') return 'result-adopted';
+    if (result === 'tabled') return 'result-tabled';
+    if (result === 'first_reading' || result === 'pending_adoption') return 'result-pending';
+    return 'result-info';
+  }
+
+  function resultLabel(result) {
+    if (!result || result === 'unknown') return 'On Record';
+    const map = {
+      adopted: 'Adopted', tabled: 'Tabled', first_reading: 'First Reading',
+      pending_adoption: 'Second Reading', rejected: 'Rejected',
+      withdrawn: 'Withdrawn', information_only: 'Info Only',
+    };
+    return map[result] || result.replace(/_/g, ' ');
+  }
+
+  function dotClass(result) {
+    if (!result || result === 'unknown') return 'dot-info';
+    if (result === 'adopted') return 'dot-adopted';
+    if (result === 'tabled') return 'dot-tabled';
+    return 'dot-pending';
+  }
+
+  function formatDate(dateStr) {
+    if (!dateStr) return '';
+    const [y, m, d] = dateStr.split('-').map(Number);
+    const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+    return `${months[m-1]} ${d}, ${y}`;
+  }
+
+  function esc(str) {
+    if (!str) return '';
+    return String(str)
+      .replace(/&/g,'&amp;')
+      .replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;');
+  }
+
+  /* ── Build a single timeline entry ── */
+  function buildEntry(entry) {
+    const result  = entry.result || entry.action || 'unknown';
+    const dateStr = formatDate(entry.date);
+    const dot     = document.createElement('div');
+    dot.className = `timeline-dot ${dotClass(result)}`;
+
+    const card = document.createElement('div');
+    card.className = 'timeline-card';
+
+    /* Header row */
+    const hdr = document.createElement('div');
+    hdr.className = 'timeline-header';
+    const schoolYear = entry.school_year ? `<span class="tl-action-label">${esc(entry.school_year)}</span>` : '';
+    hdr.innerHTML = `
+      <span class="tl-date">${esc(dateStr)}</span>
+      ${schoolYear}
+      <span class="tl-spacer"></span>
+      <span class="result-badge ${resultBadgeClass(result)}">${esc(resultLabel(result))}</span>`;
+    card.appendChild(hdr);
+
+    /* Body */
+    const body = document.createElement('div');
+    body.className = 'timeline-body';
+
+    /* Summary */
+    if (entry.summary) {
+      const sumEl = document.createElement('p');
+      sumEl.className = 'tl-summary';
+      sumEl.textContent = entry.summary;
+      body.appendChild(sumEl);
+    }
+
+    /* Changes added */
+    if (entry.changes_added && entry.changes_added.length) {
+      const sec = document.createElement('div');
+      sec.className = 'changes-section changes-added';
+      sec.innerHTML = `<div class="changes-label">Language Added</div>`;
+      const ul = document.createElement('ul');
+      ul.className = 'changes-list';
+      entry.changes_added.forEach(c => {
+        const li = document.createElement('li');
+        li.textContent = c;
+        ul.appendChild(li);
+      });
+      sec.appendChild(ul);
+      body.appendChild(sec);
+    }
+
+    /* Changes removed */
+    if (entry.changes_removed && entry.changes_removed.length) {
+      const sec = document.createElement('div');
+      sec.className = 'changes-section changes-removed';
+      sec.innerHTML = `<div class="changes-label">Language Removed</div>`;
+      const ul = document.createElement('ul');
+      ul.className = 'changes-list';
+      entry.changes_removed.forEach(c => {
+        const li = document.createElement('li');
+        li.textContent = c;
+        ul.appendChild(li);
+      });
+      sec.appendChild(ul);
+      body.appendChild(sec);
+    }
+
+    /* Discussion */
+    if (entry.discussion && entry.discussion.trim()) {
+      const text = entry.discussion.trim();
+      const isLong = text.length > 400;
+      const sec = document.createElement('div');
+      sec.className = 'discussion-section';
+      const lbl = document.createElement('div');
+      lbl.className = 'discussion-label';
+      lbl.textContent = 'Board Discussion';
+      sec.appendChild(lbl);
+
+      const textEl = document.createElement('div');
+      textEl.className = 'discussion-text' + (isLong ? ' discussion-collapsed' : '');
+      textEl.textContent = text;
+      sec.appendChild(textEl);
+
+      if (isLong) {
+        const btn = document.createElement('button');
+        btn.className = 'discussion-toggle';
+        btn.textContent = 'Show more';
+        let expanded = false;
+        btn.addEventListener('click', () => {
+          expanded = !expanded;
+          textEl.classList.toggle('discussion-collapsed', !expanded);
+          btn.textContent = expanded ? 'Show less' : 'Show more';
+        });
+        sec.appendChild(btn);
+      }
+      body.appendChild(sec);
+    }
+
+    /* Vote */
+    const votes = entry.votes;
+    if (votes && (votes.tally || (votes.for && votes.for.length) || (votes.against && votes.against.length))) {
+      const sec = document.createElement('div');
+      sec.className = 'vote-section';
+      const lbl = document.createElement('span');
+      lbl.className = 'vote-label';
+      lbl.textContent = 'Vote';
+      sec.appendChild(lbl);
+
+      if (votes.tally) {
+        const t = document.createElement('span');
+        t.className = 'vote-tally';
+        t.textContent = votes.tally;
+        sec.appendChild(t);
+      }
+
+      const forNames  = (votes.for   || []).filter(Boolean);
+      const agstNames = (votes.against || []).filter(Boolean);
+      if (forNames.length) {
+        const s = document.createElement('span');
+        s.className = 'vote-names vote-for';
+        s.textContent = 'For: ' + forNames.join(', ');
+        sec.appendChild(s);
+      }
+      if (agstNames.length) {
+        const s = document.createElement('span');
+        s.className = 'vote-names vote-against';
+        s.textContent = 'Against: ' + agstNames.join(', ');
+        sec.appendChild(s);
+      }
+      body.appendChild(sec);
+    }
+
+    card.appendChild(body);
+
+    const wrapper = document.createElement('div');
+    wrapper.className = 'timeline-entry';
+    wrapper.appendChild(dot);
+    wrapper.appendChild(card);
+    return wrapper;
+  }
+
+  /* ── Main render ── */
+  function renderPolicy(data) {
+    document.title = `${data.code} — CISD Policy Tracker`;
+    document.getElementById('hdr-code').textContent  = data.code;
+    document.getElementById('hdr-title').textContent = data.title || data.code;
+    if (data.last_action_date) {
+      document.getElementById('hdr-subtitle').textContent = `Last action: ${formatDate(data.last_action_date)}`;
+    }
+
+    const main = document.getElementById('main-content');
+    main.innerHTML = '';
+
+    /* Description */
+    if (data.description) {
+      const descCard = document.createElement('div');
+      descCard.className = 'description-card';
+      const p = document.createElement('p');
+      p.textContent = data.description;
+      descCard.appendChild(p);
+      main.appendChild(descCard);
+    }
+
+    /* Timeline heading */
+    const h2 = document.createElement('h2');
+    const count = (data.timeline || []).length;
+    h2.textContent = `Timeline — ${count} Board Action${count !== 1 ? 's' : ''}`;
+    main.appendChild(h2);
+
+    if (!data.timeline || !data.timeline.length) {
+      main.innerHTML += '<p style="color:var(--text-secondary);padding:1rem">No timeline entries yet.</p>';
+      return;
+    }
+
+    /* Entries newest-first */
+    const sorted = [...data.timeline].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    const timeline = document.createElement('div');
+    timeline.className = 'timeline';
+    sorted.forEach(entry => timeline.appendChild(buildEntry(entry)));
+    main.appendChild(timeline);
+  }
+
+  /* ── Load data ── */
+  const params = new URLSearchParams(window.location.search);
+  const code   = (params.get('code') || '').toUpperCase().replace(/[^A-Z0-9]/g, '');
+
+  if (!code) {
+    document.getElementById('loading').outerHTML =
+      '<p id="error-msg">No policy code specified. <a href="index.html">View all policies</a>.</p>';
+  } else {
+    fetch(`data/policies/${code}.json`)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then(data => {
+        document.getElementById('loading').remove();
+        renderPolicy(data);
+      })
+      .catch(err => {
+        document.getElementById('loading').outerHTML =
+          `<p id="error-msg">Policy <strong>${esc(code)}</strong> not found. <a href="index.html">View all policies</a>.</p>`;
+        console.error(err);
+      });
+  }
+</script>
+</body>
+</html>
