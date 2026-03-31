@@ -1,7 +1,7 @@
 {
   "code": "BED",
-  "title": "Board Meetings: Public Participation",
-  "description": "This policy sets the rules for how members of the public can speak and participate during official school board meetings. It applies to parents, community members, and anyone who wishes to address the board in a public forum. The recent update is particularly relevant to parents of currently enrolled students, as it gives them priority when signing up to make public comments — meaning parents now have a more defined opportunity to have their voices heard directly by board members before other community speakers.",
+  "title": "Board Meetings",
+  "description": "The Board Meetings policy establishes how and when Conroe ISD's elected school board conducts its official meetings, including rules for scheduling, public notice, and how decisions are made. Community members, parents, and students can use this information to know when meetings are happening and how to participate in the public comment process. Understanding these guidelines helps residents stay informed and engaged in decisions that affect local schools.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
   "timeline": [
@@ -32,5 +32,6 @@
       "confidence": "high",
       "notes": "The added 'Public Comment' section text appears in red/underlined formatting in the scan, indicating new language. The section heading and bullet terminology changes use strikethrough for removed text and underline for added text. This is labeled 'Policy Update Page Number 4' and is page 126 of the meeting packet. Action type inferred as 'adopted' per triage hint."
     }
-  ]
+  ],
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BED"
 }

@@ -1,7 +1,7 @@
 {
   "code": "BBE",
-  "title": "Board Members: Authority",
-  "description": "This policy defines the scope of authority held by individual school board members and clarifies that decision-making power belongs to the full board acting together, not to any single member acting alone. It applies to elected board members and shapes how they are permitted to represent the district, make commitments, or take action on behalf of the school system. For parents and community members, this policy matters because it helps set clear expectations about how board members can and cannot act, ensuring that decisions affecting students and schools are made transparently through the full board rather than by individuals acting independently.",
+  "title": "Board Member Authority",
+  "description": "Individual school board members have authority only when acting as part of the full board — no single member can make decisions, give directives, or speak officially on behalf of the district alone. This means parents and community members should understand that requests or statements from one board member do not carry official weight unless the whole board has voted on the matter. Knowing this helps the community understand how decisions are actually made and who is authorized to act on behalf of Conroe ISD.",
   "last_action_date": "2025-11-18",
   "last_action_result": "adopted",
   "timeline": [
@@ -77,5 +77,6 @@
       "confidence": "high",
       "notes": "The added text appears in red/highlighted color in the Board Authority section, indicating it is new language being inserted into the policy. The document is dated 2019-06-04, Version 1, and is page 236 of the meeting packet. The action hint from triage indicates adoption. No strikethrough (removed) text is visible on this page."
     }
-  ]
+  ],
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BBE"
 }

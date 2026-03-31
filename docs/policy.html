@@ -167,6 +167,23 @@
     }
     .description-card p { font-size: 0.92rem; line-height: 1.65; color: var(--text-secondary); }
 
+    /* ── Tab bar ── */
+    .tab-bar {
+      display: flex; gap: 0; margin-bottom: 1.5rem;
+      border-bottom: 2px solid var(--border-section);
+    }
+    .tab-btn {
+      background: none; border: none; cursor: pointer;
+      font-size: 0.9rem; font-weight: 600; color: var(--text-secondary);
+      padding: 0.55rem 1.25rem; margin-bottom: -2px;
+      border-bottom: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .tab-btn:hover { color: var(--text-primary); }
+    .tab-btn.active { color: var(--text-section); border-bottom-color: var(--border-section); }
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
     /* ── Section heading ── */
     h2 { font-size: 1.1rem; color: var(--text-section); margin-bottom: 1.25rem; padding-bottom: 0.45rem; border-bottom: 2px solid var(--border-section); }
 
@@ -644,33 +661,74 @@
     titleBlock.appendChild(titleText);
     main.appendChild(titleBlock);
 
-    /* Description */
-    if (data.description) {
-      const descCard = document.createElement('div');
-      descCard.className = 'description-card';
-      const p = document.createElement('p');
-      p.textContent = data.description;
-      descCard.appendChild(p);
-      main.appendChild(descCard);
+    /* Resolve timelines — support both old schema (timeline) and new (timeline_local/legal) */
+    const tlLocal  = data.timeline_local  || (data.timeline_legal ? [] : (data.timeline || []));
+    const tlLegal  = data.timeline_legal  || [];
+    const hasLocal = tlLocal.length > 0;
+    const hasLegal = tlLegal.length > 0;
+
+    /* Decide which tabs to show */
+    const tabs = [];
+    if (hasLocal || !hasLegal) tabs.push({ key: 'local', label: 'Local' });
+    if (hasLegal)              tabs.push({ key: 'legal', label: 'Legal' });
+
+    /* Tab bar (only show if both variants exist) */
+    let activeTab = tabs[0]?.key || 'local';
+    if (tabs.length > 1) {
+      const tabBar = document.createElement('div');
+      tabBar.className = 'tab-bar';
+      tabs.forEach(t => {
+        const btn = document.createElement('button');
+        btn.className = 'tab-btn' + (t.key === activeTab ? ' active' : '');
+        btn.textContent = t.label;
+        btn.dataset.tab = t.key;
+        btn.addEventListener('click', () => {
+          tabBar.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === t.key));
+          main.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.dataset.tab === t.key));
+        });
+        tabBar.appendChild(btn);
+      });
+      main.appendChild(tabBar);
     }
 
-    /* Timeline heading */
-    const h2 = document.createElement('h2');
-    const count = (data.timeline || []).length;
-    h2.textContent = `Timeline — ${count} Board Action${count !== 1 ? 's' : ''}`;
-    main.appendChild(h2);
+    /* Build one panel per tab */
+    tabs.forEach((t, i) => {
+      const panel = document.createElement('div');
+      panel.className = 'tab-panel' + (i === 0 ? ' active' : '');
+      panel.dataset.tab = t.key;
 
-    if (!data.timeline || !data.timeline.length) {
-      main.innerHTML += '<p style="color:var(--text-secondary);padding:1rem">No timeline entries yet.</p>';
-      return;
-    }
+      /* Per-variant description */
+      const descText = data[`description_${t.key}`] || (tabs.length === 1 ? data.description : '') || '';
+      if (descText) {
+        const descCard = document.createElement('div');
+        descCard.className = 'description-card';
+        const p = document.createElement('p');
+        p.textContent = descText;
+        descCard.appendChild(p);
+        panel.appendChild(descCard);
+      }
 
-    /* Entries newest-first */
-    const sorted = [...data.timeline].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-    const timeline = document.createElement('div');
-    timeline.className = 'timeline';
-    sorted.forEach(entry => timeline.appendChild(buildEntry(entry)));
-    main.appendChild(timeline);
+      /* Timeline */
+      const entries = t.key === 'legal' ? tlLegal : tlLocal;
+      const h2 = document.createElement('h2');
+      h2.textContent = `Timeline — ${entries.length} Board Action${entries.length !== 1 ? 's' : ''}`;
+      panel.appendChild(h2);
+
+      if (!entries.length) {
+        const empty = document.createElement('p');
+        empty.style.cssText = 'color:var(--text-secondary);padding:1rem 0';
+        empty.textContent = 'No board actions recorded yet.';
+        panel.appendChild(empty);
+      } else {
+        const sorted = [...entries].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+        const timelineEl = document.createElement('div');
+        timelineEl.className = 'timeline';
+        sorted.forEach(entry => timelineEl.appendChild(buildEntry(entry)));
+        panel.appendChild(timelineEl);
+      }
+
+      main.appendChild(panel);
+    });
   }
 
   /* ── Load data ── */

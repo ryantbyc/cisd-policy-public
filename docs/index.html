@@ -173,6 +173,14 @@
     .result-tabled    { background: var(--badge-tabled-bg);   color: var(--badge-tabled-text); }
     .result-info      { background: var(--badge-info-bg);     color: var(--badge-info-text); }
 
+    .variant-badges { display: flex; gap: 0.25rem; }
+    .variant-badge {
+      font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em;
+      padding: 0.15rem 0.4rem; border-radius: 3px;
+    }
+    .variant-local { background: var(--bg-code); color: var(--text-code); }
+    .variant-legal { background: var(--badge-info-bg); color: var(--badge-info-text); }
+
     .policy-date { font-size: 0.75rem; color: var(--text-secondary); }
     .policy-count { font-size: 0.72rem; color: var(--text-secondary); }
 
@@ -280,6 +288,10 @@
     const label = resultLabel(p.last_action_result);
     const dateStr = formatDate(p.last_action_date);
     const count = p.timeline_count || 0;
+    const variantBadges = [
+      p.has_local ? '<span class="variant-badge variant-local">Local</span>' : '',
+      p.has_legal ? '<span class="variant-badge variant-legal">Legal</span>' : '',
+    ].filter(Boolean).join('');
     card.innerHTML = `
       <div class="policy-code-badge">${p.code}</div>
       <div class="policy-info">
@@ -288,6 +300,7 @@
       </div>
       <div class="policy-meta">
         <span class="result-badge ${badgeClass}">${label}</span>
+        ${variantBadges ? `<div class="variant-badges">${variantBadges}</div>` : ''}
         ${dateStr ? `<span class="policy-date">${dateStr}</span>` : ''}
         <span class="policy-count">${count} event${count !== 1 ? 's' : ''}</span>
       </div>
