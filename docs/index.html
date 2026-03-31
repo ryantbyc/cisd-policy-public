@@ -15,64 +15,64 @@
   <style>
     /* ── Design tokens ─────────────────────────────────────────── */
     :root {
-      --bg-page:        #f2f6f3;
+      --bg-page:        #f5f4f8;
       --bg-card:        #ffffff;
-      --bg-header:      #1a3d2e;
-      --bg-disclaimer:  #f0f9f2;
-      --text-primary:   #111e16;
-      --text-secondary: #4a5e50;
+      --bg-header:      #2e2840;
+      --bg-disclaimer:  #fdf6ee;
+      --text-primary:   #1e1a2e;
+      --text-secondary: #5a5070;
       --text-header:    #ffffff;
-      --text-disclaimer:#2d6a42;
-      --text-section:   #1a3d2e;
-      --text-footer:    #7a9080;
-      --text-code:      #1a3d2e;
-      --bg-code:        #e2f2e8;
-      --border-accent:  #4a9e6a;
-      --border-section: #4a9e6a;
-      --border-card:    #d8eadc;
-      --shadow-card:    0 1px 4px rgba(0,0,0,0.07);
-      --shadow-hover:   0 4px 14px rgba(0,0,0,0.11);
+      --text-disclaimer:#7a4e18;
+      --text-section:   #2e2840;
+      --text-footer:    #8a8098;
+      --text-code:      #2e2840;
+      --bg-code:        #eceaf8;
+      --border-accent:  #c87030;
+      --border-section: #c87030;
+      --border-card:    #dddae8;
+      --shadow-card:    0 1px 4px rgba(0,0,0,0.08);
+      --shadow-hover:   0 4px 14px rgba(0,0,0,0.13);
       --ctrl-bg:        rgba(255,255,255,0.15);
       --ctrl-bg-hover:  rgba(255,255,255,0.28);
       --ctrl-border:    rgba(255,255,255,0.3);
       --ctrl-text:      #ffffff;
-      --badge-adopted-bg:   #e4f5e8;
-      --badge-adopted-text: #1e6e30;
+      --badge-adopted-bg:   #e8f5e9;
+      --badge-adopted-text: #2e7d32;
       --badge-pending-bg:   #fdf5dc;
       --badge-pending-text: #7a5a00;
       --badge-tabled-bg:    #fce8e6;
       --badge-tabled-text:  #8c1a1a;
-      --badge-info-bg:      #eaf2ec;
-      --badge-info-text:    #1a3d2e;
+      --badge-info-bg:      #eeeaf8;
+      --badge-info-text:    #2e2840;
     }
 
     [data-theme="dark"] {
-      --bg-page:        #0c1210;
-      --bg-card:        #151d17;
-      --bg-header:      #0a1a10;
-      --bg-disclaimer:  #0e1a10;
-      --text-primary:   #d8eedc;
-      --text-secondary: #7aaa88;
+      --bg-page:        #100e18;
+      --bg-card:        #1a1728;
+      --bg-header:      #0c0a18;
+      --bg-disclaimer:  #1a1408;
+      --text-primary:   #e0daf0;
+      --text-secondary: #9088b0;
       --text-header:    #ffffff;
-      --text-disclaimer:#6abf82;
-      --text-section:   #6abf82;
-      --text-footer:    #4a7055;
-      --text-code:      #6abf82;
-      --bg-code:        #0e2218;
-      --border-card:    #243a2c;
+      --text-disclaimer:#c89848;
+      --text-section:   #c09060;
+      --text-footer:    #5a507a;
+      --text-code:      #a898d8;
+      --bg-code:        #1e1a30;
+      --border-card:    #2e2848;
       --shadow-card:    0 1px 4px rgba(0,0,0,0.4);
       --shadow-hover:   0 4px 14px rgba(0,0,0,0.6);
       --ctrl-bg:        rgba(255,255,255,0.1);
       --ctrl-bg-hover:  rgba(255,255,255,0.2);
       --ctrl-border:    rgba(255,255,255,0.2);
-      --badge-adopted-bg:   #142a1a;
+      --badge-adopted-bg:   #142a18;
       --badge-adopted-text: #4acc70;
-      --badge-pending-bg:   #2a2000;
+      --badge-pending-bg:   #2a1e00;
       --badge-pending-text: #c8a840;
       --badge-tabled-bg:    #2a1010;
       --badge-tabled-text:  #de6a6a;
-      --badge-info-bg:      #122018;
-      --badge-info-text:    #6abf82;
+      --badge-info-bg:      #1e1a30;
+      --badge-info-text:    #a898d8;
     }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -124,7 +124,7 @@
       background: var(--bg-card); color: var(--text-primary); outline: none;
       transition: border-color 0.15s, box-shadow 0.15s;
     }
-    .search-bar input:focus { border-color: var(--bg-header); box-shadow: 0 0 0 3px rgba(26,61,46,0.12); }
+    .search-bar input:focus { border-color: var(--border-accent); box-shadow: 0 0 0 3px rgba(200,112,48,0.12); }
     .search-bar .search-icon { position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); color: var(--text-secondary); font-size: 0.95rem; pointer-events: none; }
     .search-count { font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 0.75rem; }
 
@@ -222,7 +222,6 @@
   CISD Policy Tracker &mdash; Unofficial constituent resource
 </footer>
 
-<script src="fuse.min.js"></script>
 <script>
   const FONT_MIN = 13, FONT_MAX = 22, FONT_DEFAULT = 17;
 
@@ -297,7 +296,6 @@
   }
 
   let allPolicies = [];
-  let fuse = null;
   const container = document.getElementById('policies-list');
   const countEl = document.getElementById('search-count');
   const searchInput = document.getElementById('search-input');
@@ -311,17 +309,25 @@
     policies.forEach(p => container.appendChild(buildCard(p)));
   }
 
+  function searchPolicies(q) {
+    const lower = q.toLowerCase();
+    return allPolicies.filter(p =>
+      p.code.toLowerCase().includes(lower) ||
+      (p.title || '').toLowerCase().includes(lower)
+    );
+  }
+
   function onSearch() {
     const q = searchInput.value.trim();
     if (!q) { countEl.style.display = 'none'; renderPolicies(allPolicies); return; }
-    const results = fuse ? fuse.search(q).map(r => allPolicies.find(p => p.code === r.item.code)).filter(Boolean) : [];
+    const results = searchPolicies(q);
     countEl.textContent = `${results.length} polic${results.length !== 1 ? 'ies' : 'y'} found`;
     countEl.style.display = 'block';
     renderPolicies(results);
   }
 
   fetch('data/index.json').then(r => r.json()).then(index => {
-    allPolicies = index.policies || [];
+    allPolicies = (index.policies || []).sort((a, b) => a.code.localeCompare(b.code));
     document.getElementById('loading').remove();
 
     if (!allPolicies.length) {
@@ -330,17 +336,6 @@
     }
 
     renderPolicies(allPolicies);
-
-    fuse = new Fuse(allPolicies, {
-      keys: [
-        { name: 'code',              weight: 0.5 },
-        { name: 'title',             weight: 0.4 },
-        { name: 'description_short', weight: 0.2 },
-      ],
-      threshold: 0.35,
-      ignoreLocation: true,
-      minMatchCharLength: 2,
-    });
     searchInput.addEventListener('input', onSearch);
   }).catch(() => {
     document.getElementById('loading').textContent = 'Could not load policy data.';
