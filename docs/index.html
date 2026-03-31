@@ -36,12 +36,6 @@
       --ctrl-bg-hover:  rgba(255,255,255,0.28);
       --ctrl-border:    rgba(255,255,255,0.3);
       --ctrl-text:      #ffffff;
-      --badge-adopted-bg:   #e8f5e9;
-      --badge-adopted-text: #2e7d32;
-      --badge-pending-bg:   #fdf5dc;
-      --badge-pending-text: #7a5a00;
-      --badge-tabled-bg:    #fce8e6;
-      --badge-tabled-text:  #8c1a1a;
       --badge-info-bg:      #eeeaf8;
       --badge-info-text:    #2e2840;
     }
@@ -65,12 +59,6 @@
       --ctrl-bg:        rgba(255,255,255,0.1);
       --ctrl-bg-hover:  rgba(255,255,255,0.2);
       --ctrl-border:    rgba(255,255,255,0.2);
-      --badge-adopted-bg:   #142a18;
-      --badge-adopted-text: #4acc70;
-      --badge-pending-bg:   #2a1e00;
-      --badge-pending-text: #c8a840;
-      --badge-tabled-bg:    #2a1010;
-      --badge-tabled-text:  #de6a6a;
       --badge-info-bg:      #1e1a30;
       --badge-info-text:    #a898d8;
     }
@@ -164,24 +152,14 @@
 
     .policy-meta { flex: 0 0 auto; display: flex; flex-direction: column; align-items: flex-end; gap: 0.3rem; }
 
-    .result-badge {
-      font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;
-      padding: 0.2rem 0.55rem; border-radius: 3px;
+    .policy-last-updated {
+      font-size: 0.75rem; color: var(--text-secondary); text-align: right;
     }
-    .result-adopted   { background: var(--badge-adopted-bg);  color: var(--badge-adopted-text); }
-    .result-pending   { background: var(--badge-pending-bg);  color: var(--badge-pending-text); }
-    .result-tabled    { background: var(--badge-tabled-bg);   color: var(--badge-tabled-text); }
-    .result-info      { background: var(--badge-info-bg);     color: var(--badge-info-text); }
-
-    .variant-badges { display: flex; gap: 0.25rem; }
-    .variant-badge {
-      font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em;
-      padding: 0.15rem 0.4rem; border-radius: 3px;
+    .meta-label {
+      font-size: 0.65rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.06em; color: var(--border-accent); display: block;
+      margin-bottom: 0.1rem;
     }
-    .variant-local { background: var(--bg-code); color: var(--text-code); }
-    .variant-legal { background: var(--badge-info-bg); color: var(--badge-info-text); }
-
-    .policy-date { font-size: 0.75rem; color: var(--text-secondary); }
     .policy-count { font-size: 0.72rem; color: var(--text-secondary); }
 
     .arrow { flex: 0 0 auto; color: var(--text-secondary); font-size: 1.2rem; opacity: 0.4; }
@@ -255,24 +233,6 @@
     localStorage.setItem('cisd-theme', next); applyTheme(next);
   });
 
-  function resultBadgeClass(result) {
-    if (!result) return 'result-info';
-    if (result === 'adopted') return 'result-adopted';
-    if (result === 'tabled') return 'result-tabled';
-    if (result === 'first_reading' || result === 'pending_adoption') return 'result-pending';
-    return 'result-info';
-  }
-
-  function resultLabel(result) {
-    if (!result || result === 'unknown') return 'On Record';
-    const map = {
-      adopted: 'Adopted', tabled: 'Tabled', first_reading: 'First Reading',
-      pending_adoption: 'Second Reading', rejected: 'Rejected',
-      withdrawn: 'Withdrawn', information_only: 'Info Only',
-    };
-    return map[result] || result.replace(/_/g, ' ');
-  }
-
   function formatDate(dateStr) {
     if (!dateStr) return '';
     const [y, m, d] = dateStr.split('-').map(Number);
@@ -284,14 +244,11 @@
     const card = document.createElement('a');
     card.className = 'policy-card';
     card.href = `policy.html?code=${encodeURIComponent(p.code)}`;
-    const badgeClass = resultBadgeClass(p.last_action_result);
-    const label = resultLabel(p.last_action_result);
     const dateStr = formatDate(p.last_action_date);
     const count = p.timeline_count || 0;
-    const variantBadges = [
-      p.has_local ? '<span class="variant-badge variant-local">Local</span>' : '',
-      p.has_legal ? '<span class="variant-badge variant-legal">Legal</span>' : '',
-    ].filter(Boolean).join('');
+    const metaHtml = dateStr
+      ? `<span class="policy-last-updated"><span class="meta-label">Last Updated</span>${dateStr}</span>`
+      : (count ? `<span class="policy-last-updated"><span class="meta-label">Board Actions</span>${count} event${count !== 1 ? 's' : ''}</span>` : '');
     card.innerHTML = `
       <div class="policy-code-badge">${p.code}</div>
       <div class="policy-info">
@@ -299,10 +256,7 @@
         <p>${p.description_short || ''}</p>
       </div>
       <div class="policy-meta">
-        <span class="result-badge ${badgeClass}">${label}</span>
-        ${variantBadges ? `<div class="variant-badges">${variantBadges}</div>` : ''}
-        ${dateStr ? `<span class="policy-date">${dateStr}</span>` : ''}
-        <span class="policy-count">${count} event${count !== 1 ? 's' : ''}</span>
+        ${metaHtml}
       </div>
       <div class="arrow">&#8250;</div>`;
     return card;
