@@ -2,9 +2,30 @@
   "code": "CQB",
   "title": "Technology Resources: Cybersecurity",
   "description": "This policy governs how the school district protects its technology systems, networks, and digital data from cybersecurity threats and unauthorized access. It applies to the district as a whole, including staff, students, and the technology infrastructure used to support school operations. Parents and community members should be aware of this policy because it helps safeguard sensitive student and family information stored in district systems, ensuring that personal data remains secure.",
-  "last_action_date": "2025-11-18",
-  "last_action_result": "pending_adoption",
-  "timeline": [
+  "last_action_date": "2025-12-16",
+  "last_action_result": "adopted",
+  "timeline_local": [
+    {
+      "date": "2025-12-16",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "Revisions to Board Policy CQB (Local) were adopted unanimously at the November 18, 2025 Regular Board Meeting as part of a group adoption (Motion #7207). No specific language changes are described in the meeting minutes.",
+      "discussion": "Policy GKD (Discussion Only, No Action)",
+      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "confidence": "medium",
+      "notes": "Adopted as part of a group motion (#7207) along with BBE, CAA, CDA, EHB, EHBB, and GKB. Vote was 7-0. The specific redline changes are not described in these minutes pages."
+    },
     {
       "date": "2025-11-18",
       "school_year": "2025-2026",
@@ -12,8 +33,7 @@
       "result": "pending_adoption",
       "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
       "changes_added": [
-        "who will oversee implementation of the district's cybersecurity plan and required staff training",
-        "who will oversee implementation of the district's cybersecurity plan and required staff training (added to the description of the cybersecurity coordinator's role, shown in red underlined text)"
+        "who will oversee implementation of the district's cybersecurity plan and required staff training"
       ],
       "discussion": "definitions regarding tobacco, caffeine, and nicotine can be clarified; to return with enforceable language.\n**VOTE to table: Approved 7-0**\n\n**Remaining policies approved as a group:** BBE, CA, CDA, CQB, EHB, GKB (all local).\n**VOTE: Approved 7-0**\n\n---\n\n## Closed Session\nBoard entered closed session at **7:55 PM** under Texas Government Code sections 551.071, 551.072, and 551.074.\n\nBoard returned to open session at **11:13 PM**.\n\n---\n\n## Action Items from Closed Session\n\n### Level Three Grievance Hearing\n**Motion to reinstate employee Tim Bar**, subject to assignment by the superintendent.\n*",
       "votes": {
@@ -35,39 +55,7 @@
         133,
         134,
         135,
-        136,
-        165,
-        166,
-        167,
-        168,
-        169,
-        170,
-        171,
-        172,
-        173,
-        174,
-        175,
-        176,
-        177,
-        178,
-        180,
-        181,
-        182,
-        183,
-        184,
-        185,
-        186,
-        187,
-        188,
-        189,
-        190,
-        191,
-        192,
-        193,
-        194,
-        195,
-        196,
-        197
+        136
       ],
       "confidence": "high",
       "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
@@ -96,5 +84,7 @@
       "confidence": "medium",
       "notes": "Page 251 of the board packet, Policy Update Page Number 15. The document is labeled as a Local Policy dated 2023-10-30, Version 1. The only visible underlined (added) text appears in the Coordinator section: 'who will oversee implementation of the district's cybersecurity plan and required staff training.' This text appears in red/colored underline format indicating it is newly added language. The action hint suggests adoption. The remainder of the policy text appears to be existing language without redline markings. Only page 1 of the policy is visible; additional pages may exist."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy establishes the rules and requirements for protecting the school district's technology systems and digital information from cyber threats. It applies to the district as a whole, requiring the designation of a cybersecurity coordinator and the development of a formal cybersecurity plan. This matters to parents and community members because it helps ensure that sensitive student and family data stored by the district is safeguarded against breaches or cyberattacks."
 }

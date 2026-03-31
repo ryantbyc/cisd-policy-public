@@ -4,7 +4,7 @@
   "description": "This policy outlines the process that school district employees must follow when they have a formal concern or dispute about their working conditions, treatment, or other employment-related matters. It applies to district staff members who wish to raise concerns through an official channel, and it guides how those concerns are reviewed and resolved. Parents and community members may find this policy relevant because a fair and clear grievance process helps ensure that staff are treated consistently and professionally, which can contribute to a healthier school environment overall.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -92,5 +92,7 @@
       "confidence": "high",
       "notes": "This is page 2 of 6 of the DGBA(Local) policy, Policy Update Page Number 22. The redline edits appear in red/orange text throughout the document. The changes are purely terminological — replacing 'complaint(s)' with 'grievance(s)' — with no apparent substantive changes to procedures or requirements. Page number 132 in the board packet."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy outlines the process that school district employees must follow when they have a formal concern or dispute with their employer, such as issues related to working conditions, treatment, or decisions made by the district. It applies to all district employees and governs how those concerns are raised, reviewed, and resolved. Parents and community members may find this policy relevant because it helps ensure staff concerns are addressed fairly, which can affect the overall health and stability of the school environment their children learn in."
 }

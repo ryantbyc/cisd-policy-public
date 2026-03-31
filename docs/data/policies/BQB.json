@@ -4,7 +4,8 @@
   "description": "Campus Planning outlines how each Conroe ISD school develops and updates its own improvement plan to support student learning and achievement. School teams — including teachers, parents, and community members — work together to identify goals and strategies tailored to their campus. These plans help ensure that every school is actively working to meet the needs of its students and community.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BQB",
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -23,5 +24,6 @@
       "notes": "This agenda item references Board Policy BQ and BQB (Legal) as the authority for the action, but it is not a policy text amendment. It is the annual adoption of the District Improvement Plan as required by state law. Developed and approved by the District Level Planning and Decision-Making Committee prior to board presentation. Submitted by Dr. Ted Landry, Deputy Superintendent."
     }
   ],
-  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BQB"
+  "timeline_legal": [],
+  "description_local": "This policy governs how the school district creates and updates its annual District Improvement Plan, a required roadmap that outlines goals and strategies for improving student performance and overall school quality. It applies to the entire district, guiding decisions made by school leaders, staff, and the school board each year. Parents and community members should care about this policy because the improvement plan shapes priorities for how schools are run, where resources are directed, and how the district works toward better outcomes for all students."
 }

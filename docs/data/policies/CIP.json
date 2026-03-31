@@ -4,7 +4,7 @@
   "description": "Campus Improvement Plans (CIPs) are official planning documents that outline each school's goals, strategies, and programs for improving student performance and overall campus operations. These plans affect every student, teacher, and staff member at a given school, as they guide decisions about instruction, resources, and support services. Parents and community members should be aware of these plans because they provide a transparent look at what each school is prioritizing and working toward in the coming school year, and state law requires that community input be part of the planning process.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -22,5 +22,7 @@
       "confidence": "high",
       "notes": "References Board Policy BQ and BQB (Legal) as authority. Not a policy text amendment — this is the annual statutory approval of campus-level plans. Each CIP was reviewed by the supervising Assistant Superintendent. Submitted by Dr. Ted Landry, Deputy Superintendent. Page 55 (TEA Approver Access for Dr. Ted Landry) does not reference a TASB policy code and concerns an administrative access request, not a board policy change."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "Campus Improvement Plans (CIPs) are annual planning documents that outline each school's goals, strategies, and programs for improving student performance and overall school quality. These plans apply to every campus in the district and are shaped by input from teachers, parents, community members, and school staff. For parents and community members, this policy matters because it ensures there is a structured, transparent process for setting school priorities — and that the school board formally reviews and approves these plans each year."
 }

@@ -2,22 +2,43 @@
   "code": "EHB",
   "title": "Curriculum Design: Special Programs",
   "description": "This policy governs how the school district designs and delivers special academic programs, including support for students with dyslexia and other learning differences. It applies to students who may need specialized instruction beyond the standard curriculum, as well as the educators and administrators responsible for providing those services. Parents should be aware of this policy because it outlines the district's commitments and legal obligations for identifying and supporting students with unique learning needs, helping ensure their children receive appropriate educational assistance.",
-  "last_action_date": "2025-11-18",
+  "last_action_date": "2025-12-16",
   "last_action_result": "adopted",
-  "timeline": [
+  "timeline_local": [
     {
-      "date": "2025-11-18",
+      "date": "2025-12-16",
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This policy update revises the dyslexia compliance language to simplify the reference from lengthy state rules/standards/commissioner guidance to simply 'state rules regarding students with dyslexia and related disorders,' and adds a specific reference to The Dyslexia Handbook as an included resource. The update streamlines the compliance language while adding a concrete reference document.",
+      "summary": "Revisions to Board Policy EHB (Local) were adopted twice — first as part of the group adoption (Motion #7207) and then separately (Motion #7208) with a specific amendment: the word 'rules' was added following the word 'state' in the policy text.",
       "changes_added": [
-        "state rules regarding students with dyslexia and related disorders.",
+        "The word 'rules' was added following the word 'state' in the policy text (per board amendment during adoption, Motion #7208)."
+      ],
+      "discussion": "Policy GKD (Discussion Only, No Action)",
+      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "confidence": "medium",
+      "notes": "EHB appears in both the group adoption (Motion #7207) and a separate individual adoption (Motion #7208). The individual adoption includes a board-directed amendment to add the word 'rules' after 'state.' Both votes were 7-0. It is unclear whether the group adoption was superseded by the individual adoption or if these are separate policy versions."
+    },
+    {
+      "date": "2025-11-18",
+      "school_year": "2025-2026",
+      "action": "second_reading",
+      "result": "pending_adoption",
+      "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
+      "changes_added": [
         "This includes the current version of The Dyslexia Handbook."
       ],
       "changes_removed": [
-        "rules and standards adopted by the State Board of Education and guidance published by the commissioner of education to implement the program to test",
-        "for",
         "state rules and standards adopted by the State Board of Education and guidance published by the commissioner of education to implement the program to test' and 'regarding students with"
       ],
       "discussion": "tes** for **Charles Shirley** for a four-year term on the Montgomery County Central Appraisal District Board of Directors.\n**VOTE: Approved 7-0**\n\n### 11. Board Policy Second Readings\n\n**Amendment to EHB Local:** Insert the word \"rules\" after \"state\" (referencing State Board of Education rules on dyslexia education).\n**VOTE on amendment: Approved 7-0**\n**VOTE on EHB as amended: Approved 7-0**\n\n**⚠️ TABLED: GKA Local** — Tabled until definitions regarding tobacco, caffeine, and nicotine can be clarified; to return with enforceable language.\n**VOTE to table: Approved 7-0**\n\n**Remaining policies",
@@ -40,42 +61,10 @@
         133,
         134,
         135,
-        136,
-        165,
-        166,
-        167,
-        168,
-        169,
-        170,
-        171,
-        172,
-        173,
-        174,
-        175,
-        176,
-        177,
-        178,
-        180,
-        181,
-        182,
-        183,
-        184,
-        185,
-        186,
-        187,
-        188,
-        189,
-        190,
-        191,
-        192,
-        193,
-        194,
-        195,
-        196,
-        197
+        136
       ],
       "confidence": "high",
-      "notes": "Date issued is 2023-10-30, Version/Update 1. The redline appears in red text in the scanned document. The original sentence read: 'The District shall comply with all state rules and standards adopted by the State Board of Education and guidance published by the commissioner of education to implement the program to test students for dyslexia and related disorders.' The revised sentence reads: 'The District shall comply with all state rules regarding students with dyslexia and related disorders. This includes the current version of The Dyslexia Handbook.' The second paragraph about training opportunities remains unchanged."
+      "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
     },
     {
       "date": "2025-10-21",
@@ -107,5 +96,7 @@
       "confidence": "high",
       "notes": "Document is dated 2023-10-30, Version/Update 1. The redline text appears in red with strikethrough for removals and underline for additions. The second paragraph regarding regular training opportunities for teachers of students with dyslexia appears unchanged. Page number 260 in the board packet; Policy Update Page Number: 25."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy governs how schools design and deliver special academic programs, with a particular focus on supporting students with dyslexia and related reading difficulties. It applies to students who may need specialized instruction, as well as the educators and administrators responsible for providing it. Parents should be aware of this policy because it outlines the standards schools must follow to identify and support children with dyslexia, helping ensure those students receive appropriate help in the classroom."
 }

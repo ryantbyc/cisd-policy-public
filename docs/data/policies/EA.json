@@ -4,7 +4,7 @@
   "description": "This policy establishes requirements for how Conroe ISD teachers make their instructional plans or course syllabi available to students and families. It applies to teachers and administrators across the district, as well as the students and parents who rely on that information. This policy matters to parents and community members because it helps ensure families can stay informed about what is being taught in the classroom and what to expect throughout the school year.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -31,5 +31,7 @@
       "confidence": "high",
       "notes": "All text on this page appears in red/underlined formatting, indicating this is entirely new policy language being added. There is no prior local policy text being removed. This is labeled 'Update: 1' indicating it is the first local policy update for EA. Page 144 of the meeting packet; Policy Update Page Number 7."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy establishes requirements for how Conroe ISD teachers document and share their instructional plans or course syllabi, ensuring that lesson goals and learning objectives are available to those who need them. It applies to teachers and school staff responsible for planning and delivering instruction across the district. For parents and community members, this policy matters because it supports transparency in the classroom, making it easier to understand what students are expected to learn and how teachers are planning to teach it."
 }

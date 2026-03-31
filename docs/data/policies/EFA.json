@@ -2,9 +2,36 @@
   "code": "EFA",
   "title": "Instructional Resources – Instructional Materials",
   "description": "This policy governs how the school district selects and approves the textbooks, digital resources, and other instructional materials used in classrooms. It applies to district staff, curriculum leaders, and the school board, but directly affects students and the families who rely on quality, vetted materials for their children's education. Parents and community members should be aware of this policy because it outlines the process for ensuring that what is taught in schools meets educational standards and has been reviewed and approved before reaching students.",
-  "last_action_date": "2025-10-21",
-  "last_action_result": "information_only",
-  "timeline": [
+  "last_action_date": "2026-02-17",
+  "last_action_result": "adopted",
+  "timeline_local": [
+    {
+      "date": "2026-02-17",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This is not a policy text amendment. Rather, it is a board action item recommending approval of the purchase of High-Quality Instructional Materials (HQIM) for Mathematics K-12, as selected by the District's Math Instructional Materials Guiding Coalition. The Coalition reviewed SBOE-approved materials, received TEA training, allowed public review from January 5–23, 2026, and voted on recommendations on January 27, 2026. Funds will come from the District's HQIM Entitlement and Instructional Materials (IMTA) Allotment. The action references Legal Board Policy EFA as the governing policy.",
+      "discussion": "Policy) — Multiple Speakers Opposed:\n- **Danell Cass:** Opposed SB11; distinguished existing silent prayer rights from organized religious reading; cited low student performance in core subjects\n- **Adriana Ruiz:** Called SB11 religious overreach; urged focus on education over political signaling\n- **Deborah Leiber:** Person of faith opposing the policy; cited administrative burden, consent form requirements, and legal risks\n- **Laurel Stevens:** Christian opposing the policy on pluralism grounds; urged preserving religious freedom\n- **Destiny Milton:** Criticized lack of transparency by label",
+      "votes": {
+        "for": [
+          "students"
+        ],
+        "against": [
+          "SB",
+          "challenges",
+          "to"
+        ],
+        "abstain": [],
+        "absent": [],
+        "tally": "6-0"
+      },
+      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        182
+      ],
+      "confidence": "high",
+      "notes": "This page (182) is a board agenda/recommendation item, not a redline policy document. There are no underlined additions or strikethrough removals to policy text. The referenced policy is EFA (Instructional Materials), but the document itself is a procurement/adoption recommendation for mathematics instructional materials, not a change to the EFA policy text. Action is adoption of materials, not adoption of a policy revision."
+    },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -19,5 +46,7 @@
       "confidence": "high",
       "notes": "This slide is labeled 'DRAFT' and is a presentation page, not a redline policy document. It references Policy EFA but contains no proposed policy language additions or deletions. It describes the committee-based district selection process for instructional materials. The slide appears to be part of a broader board presentation packet, likely an informational item accompanying a curriculum/materials adoption discussion."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy governs how the school district selects and approves the textbooks, digital resources, and other learning materials used in classrooms. It applies to all students in the district, as well as the teachers and administrators responsible for choosing and using those materials. Parents and community members should be aware of this policy because it outlines the process by which decisions are made about what educational content students are exposed to, and it may include opportunities for public input or review before materials are formally adopted."
 }

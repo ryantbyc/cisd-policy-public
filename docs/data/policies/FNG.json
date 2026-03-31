@@ -4,7 +4,7 @@
   "description": "This policy outlines the process students and parents can follow when they have a formal concern or disagreement with a school decision, action, or condition affecting their child. It applies to all students and their parents or guardians who wish to raise an issue with the school or district. Understanding this policy helps families know their rights and the steps they can take to have their concerns heard and addressed in an official, structured way.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -72,5 +72,7 @@
       "confidence": "high",
       "notes": "This is page 1 of 6 of the FNG(Local) policy redline, page 211 of the board packet. The primary change throughout is a terminology shift from 'complaint/complaints' to 'grievance/grievances.' The definition equating the two terms is removed, implying the district is standardizing on 'grievance' as the sole term. A new sentence tying the policy to Chapter 26 TEC rights and cross-referencing policy FA is added under 'Notice to Students And Parents.'"
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy outlines the process that students and parents can use to formally raise concerns or disputes about decisions, actions, or conditions within the school district. It applies to all students and their parents or guardians who feel their rights have been affected or who disagree with how they have been treated by school staff or administrators. Understanding this policy matters because it gives families a clear, structured path to have their concerns heard and addressed fairly at the campus and district level."
 }

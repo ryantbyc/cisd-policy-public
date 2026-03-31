@@ -2,9 +2,23 @@
   "code": "EMB",
   "title": "Miscellaneous Instructional Policies: Teaching About Controversial Issues",
   "description": "This policy sets guidelines for how controversial or sensitive topics must be handled during instruction in the classroom. It applies to a broader group of school employees — not just teachers, but anyone employed by the district who may be involved in instruction or student interaction. Parents and community members should be aware of this policy because it helps ensure that students are exposed to balanced perspectives on complex issues, rather than being unduly influenced by any one viewpoint.",
-  "last_action_date": "2025-10-21",
-  "last_action_result": "adopted",
-  "timeline": [
+  "last_action_date": "2026-03-17",
+  "last_action_result": "information_only",
+  "timeline_local": [
+    {
+      "date": "2026-03-17",
+      "school_year": "2025-2026",
+      "action": "information_only",
+      "result": "information_only",
+      "summary": "Trustee Marianne Horton requested this agenda item to address perceived inconsistency in how cultural heritage months are celebrated across Conroe ISD campuses. The document proposes a 'Global Heritage Exchange' framework, including an annual district-wide 'World Cultures Day' and integrated 'Oral History' assignments in the Social Studies curriculum, to ensure all students feel included regardless of cultural background. This is a discussion/proposal item, not a redline policy amendment.",
+      "discussion": "policy EFB criteria\n- Requested the board vote to establish a **library advisory council** at the next meeting",
+      "source_packet": "board_packet_March_17_2026_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        189
+      ],
+      "confidence": "high",
+      "notes": "This page (189) is NOT a redline policy document. It is an executive summary/proposal memo referencing Policy EMB as the governing authority for the discussion. There are no underlined additions or strikethrough deletions — no actual policy text amendments are shown. The document outlines a trustee proposal for board discussion. The suspected codes 'NEXT' and 'TWHS' referenced in the triage appear to be campus names (The Woodlands High School area), not policy codes."
+    },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -62,5 +76,7 @@
       "confidence": "high",
       "notes": "This is page 1 of 6 of the EMB (Local) policy document, Policy Update Page Number 8. The action is listed as 'adoption' per triage. The policy significantly expands coverage beyond classroom teachers to include all 'Subject Persons' such as volunteers, contractors, and vendors. The Holidays/Commemorative Months section is entirely new language added per S.B. 12 of the 89th Texas Legislature."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy sets guidelines for how controversial or sensitive topics must be handled during classroom instruction. It applies to a broader group of school district employees — not just classroom teachers, but potentially other staff involved in instruction or educational activities. Parents and community members should be aware of this policy because it shapes how schools approach discussions of complex or contested subjects, helping ensure that multiple perspectives are considered and that students are not unduly influenced by the personal views of school staff."
 }

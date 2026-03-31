@@ -4,7 +4,8 @@
   "description": "The Board Meetings policy establishes how and when Conroe ISD's elected school board conducts its official meetings, including rules for scheduling, public notice, and how decisions are made. Community members, parents, and students can use this information to know when meetings are happening and how to participate in the public comment process. Understanding these guidelines helps residents stay informed and engaged in decisions that affect local schools.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BED",
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -33,5 +34,6 @@
       "notes": "The added 'Public Comment' section text appears in red/underlined formatting in the scan, indicating new language. The section heading and bullet terminology changes use strikethrough for removed text and underline for added text. This is labeled 'Policy Update Page Number 4' and is page 126 of the meeting packet. Action type inferred as 'adopted' per triage hint."
     }
   ],
-  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BED"
+  "timeline_legal": [],
+  "description_local": "This policy governs how school board meetings are conducted, including the rules for scheduling, running, and participating in official board meetings. It applies to school board members, district staff, and members of the public who wish to attend or speak at meetings. For parents and community members, this policy is especially important because it outlines their right to address the board during public comment — and a recent update gives parents of currently enrolled students priority when signing up to speak."
 }

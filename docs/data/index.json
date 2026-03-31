@@ -133,10 +133,10 @@
     {
       "code": "BBE",
       "title": "Board Member Authority",
-      "description_short": "Individual school board members have authority only when acting as part of the full board — no single member can make decisions, give directives, or speak…",
-      "last_action_date": "2025-11-18",
-      "last_action_result": "adopted",
-      "timeline_count": 2,
+      "description_short": "This policy defines the authority and decision-making power of individual school board members and the board as a whole.",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
+      "timeline_count": 5,
       "has_local": true,
       "has_legal": false
     },
@@ -243,11 +243,11 @@
     {
       "code": "BDD",
       "title": "Board-Superintendent Relations",
-      "description_short": "The board of trustees and the superintendent work together under a clear set of expectations that define how they communicate, share responsibilities, and…",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "description_short": "This policy governs how the school board and the superintendent work together to lead the district, including how responsibilities are divided between elected…",
+      "last_action_date": "2026-01-20",
+      "last_action_result": "adopted",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -283,7 +283,7 @@
     {
       "code": "BED",
       "title": "Board Meetings",
-      "description_short": "The Board Meetings policy establishes how and when Conroe ISD's elected school board conducts its official meetings, including rules for scheduling, public…",
+      "description_short": "This policy governs how school board meetings are conducted, including the rules for scheduling, running, and participating in official board meetings.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -433,7 +433,7 @@
     {
       "code": "BQ",
       "title": "Planning and Decision Making",
-      "description_short": "Conroe ISD uses this policy to guide how the district makes important decisions about schools, programs, and resources — and how community input is gathered…",
+      "description_short": "This policy governs how the school district develops and approves its annual District Improvement Plan (DIP), a required document that outlines the district's…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -453,7 +453,7 @@
     {
       "code": "BQB",
       "title": "Campus Planning",
-      "description_short": "Campus Planning outlines how each Conroe ISD school develops and updates its own improvement plan to support student learning and achievement.",
+      "description_short": "This policy governs how the school district creates and updates its annual District Improvement Plan, a required roadmap that outlines goals and strategies for…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -473,37 +473,47 @@
     {
       "code": "CAA",
       "title": "Fiscal Management Goals and Objectives",
-      "description_short": "Conroe ISD's approach to managing public funds is guided by clear goals focused on financial responsibility, transparency, and long-term planning.",
-      "last_action_date": "2025-11-18",
-      "last_action_result": "pending_adoption",
-      "timeline_count": 2,
+      "description_short": "This policy sets the overall financial goals and priorities that guide how Conroe ISD manages its money, including how funds are budgeted, spent, and accounted…",
+      "last_action_date": "2025-12-16",
+      "last_action_result": "adopted",
+      "timeline_count": 3,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "CB",
+      "title": "CB Local (Annual Operating Budget / Policy Reference)",
+      "description_short": "This policy relates to the district's annual operating budget and financial planning processes, as well as the board's authorization of specific financial…",
+      "last_action_date": "2026-01-20",
+      "last_action_result": "adopted",
+      "timeline_count": 1,
       "has_local": true,
       "has_legal": false
     },
     {
       "code": "CDA",
       "title": "Fraud — Federal Awards Disclosure",
-      "description_short": "This policy governs how the school district detects, reports, and addresses fraud, with a specific focus on programs funded by federal money.",
-      "last_action_date": "2025-11-18",
+      "description_short": "This policy governs how the school district detects, prevents, and reports fraud, with a specific focus on disclosing required information when the district…",
+      "last_action_date": "2025-12-16",
       "last_action_result": "adopted",
-      "timeline_count": 2,
+      "timeline_count": 3,
       "has_local": true,
       "has_legal": false
     },
     {
       "code": "CH",
       "title": "CH — Purchasing and Acquisition",
-      "description_short": "This policy governs how the school district purchases goods and services, setting the rules and procedures for spending public funds on everything from…",
-      "last_action_date": "2025-11-18",
+      "description_short": "This policy governs how the school district purchases goods and services, setting the rules for how money is spent on everything from supplies and equipment to…",
+      "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
-      "timeline_count": 1,
+      "timeline_count": 3,
       "has_local": true,
       "has_legal": false
     },
     {
       "code": "CIP",
       "title": "Campus Improvement Plans",
-      "description_short": "Campus Improvement Plans (CIPs) are official planning documents that outline each school's goals, strategies, and programs for improving student performance…",
+      "description_short": "Campus Improvement Plans (CIPs) are annual planning documents that outline each school's goals, strategies, and programs for improving student performance and…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -511,19 +521,49 @@
       "has_legal": false
     },
     {
+      "code": "CKC",
+      "title": "BBE(Local) – Board Members: Authority; CH(Local) – Purchasing and Acquisition; CKC(Local) – Safety Program/Risk Management: Emergency Plans; CKE(Local) – Program/Risk Management: Security Personnel; CL(Local) – Buildings, Grounds, And Equipment Management",
+      "description_short": "This policy covers a range of school district operations, including how board members request information, how the district purchases goods and services,…",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
+      "timeline_count": 2,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "CKE",
+      "title": "BBE(Local) – Board Members: Authority; CH(Local) – Purchasing and Acquisition; CKC(Local) – Safety Program/Risk Management: Emergency Plans; CKE(Local) – Program/Risk Management: Security Personnel; CL(Local) – Buildings, Grounds, And Equipment Management",
+      "description_short": "This policy area covers a range of school operations, including how board members request information, how the district purchases goods and services, emergency…",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
+      "timeline_count": 2,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "CL",
+      "title": "BBE(Local) – Board Members: Authority; CH(Local) – Purchasing and Acquisition; CKC(Local) – Safety Program/Risk Management: Emergency Plans; CKE(Local) – Program/Risk Management: Security Personnel; CL(Local) – Buildings, Grounds, And Equipment Management",
+      "description_short": "This page summarizes recent updates to several district policies covering how Board members request information, how the district purchases goods and services,…",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
+      "timeline_count": 2,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
       "code": "CQB",
       "title": "Technology Resources: Cybersecurity",
-      "description_short": "This policy governs how the school district protects its technology systems, networks, and digital data from cybersecurity threats and unauthorized access.",
-      "last_action_date": "2025-11-18",
-      "last_action_result": "pending_adoption",
-      "timeline_count": 2,
+      "description_short": "This policy establishes the rules and requirements for protecting the school district's technology systems and digital information from cyber threats.",
+      "last_action_date": "2025-12-16",
+      "last_action_result": "adopted",
+      "timeline_count": 3,
       "has_local": true,
       "has_legal": false
     },
     {
       "code": "CY",
       "title": "Intellectual Property (Local)",
-      "description_short": "This policy governs who owns creative works, inventions, and other intellectual property developed by district employees, students, or others using school…",
+      "description_short": "This policy governs ownership and use of intellectual property — such as original materials, curricula, software, or creative works — developed by or for the…",
       "last_action_date": "2025-11-18",
       "last_action_result": "information_only",
       "timeline_count": 1,
@@ -533,7 +573,7 @@
     {
       "code": "DF",
       "title": "Termination of Employment (Local Policy)",
-      "description_short": "This policy governs the rules and grounds for ending the employment of school district staff, including when and why an employee can be dismissed or have their…",
+      "description_short": "This policy governs the rules and conditions under which the school district can end the employment of staff members, including both employees and contractors.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -543,7 +583,7 @@
     {
       "code": "DGBA",
       "title": "Personnel-Management Relations Employee Complaints/Grievances (Local Policy)",
-      "description_short": "This policy outlines the process that school district employees must follow when they have a formal concern or dispute about their working conditions,…",
+      "description_short": "This policy outlines the process that school district employees must follow when they have a formal concern or dispute with their employer, such as issues…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -551,19 +591,29 @@
       "has_legal": false
     },
     {
+      "code": "DGC",
+      "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
+      "description_short": "This policy document covers updates to five separate school district policies affecting both employees and students, including staff legal protections, student…",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
+      "timeline_count": 2,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
       "code": "DH",
       "title": "Employee Standards of Conduct",
-      "description_short": "This policy sets the behavioral and ethical standards that all Conroe ISD employees are expected to follow while on the job.",
-      "last_action_date": "2025-11-18",
-      "last_action_result": "pending_adoption",
-      "timeline_count": 2,
+      "description_short": "This policy sets the standards of behavior and professional conduct that all Conroe ISD employees are expected to follow in the workplace.",
+      "last_action_date": "2026-01-20",
+      "last_action_result": "adopted",
+      "timeline_count": 4,
       "has_local": true,
       "has_legal": false
     },
     {
       "code": "EA",
       "title": "Instructional Goals and Objectives (Local Policy)",
-      "description_short": "This policy establishes requirements for how Conroe ISD teachers make their instructional plans or course syllabi available to students and families.",
+      "description_short": "This policy establishes requirements for how Conroe ISD teachers document and share their instructional plans or course syllabi, ensuring that lesson goals and…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -573,7 +623,7 @@
     {
       "code": "EB",
       "title": "School Year Calendar",
-      "description_short": "This policy covers how the school district creates and approves the annual academic calendar, including the start and end of the school year, holidays, and…",
+      "description_short": "This policy covers how the school district sets its annual academic calendar, including the start and end dates of the school year, holidays, and other…",
       "last_action_date": "2025-11-18",
       "last_action_result": "information_only",
       "timeline_count": 2,
@@ -583,39 +633,49 @@
     {
       "code": "EFA",
       "title": "Instructional Resources – Instructional Materials",
-      "description_short": "This policy governs how the school district selects and approves the textbooks, digital resources, and other instructional materials used in classrooms.",
-      "last_action_date": "2025-10-21",
-      "last_action_result": "information_only",
-      "timeline_count": 1,
-      "has_local": true,
-      "has_legal": false
-    },
-    {
-      "code": "EFB",
-      "title": "Library Materials / Instructional Materials (Local)",
-      "description_short": "This policy governs the selection, use, and removal of library and instructional materials in the district's schools, including rules about what types of…",
-      "last_action_date": "2025-10-21",
-      "last_action_result": "adopted",
-      "timeline_count": 1,
-      "has_local": true,
-      "has_legal": false
-    },
-    {
-      "code": "EHB",
-      "title": "Curriculum Design: Special Programs",
-      "description_short": "This policy governs how the school district designs and delivers special academic programs, including support for students with dyslexia and other learning…",
-      "last_action_date": "2025-11-18",
+      "description_short": "This policy governs how the school district selects and approves the textbooks, digital resources, and other learning materials used in classrooms.",
+      "last_action_date": "2026-02-17",
       "last_action_result": "adopted",
       "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
     {
+      "code": "EFB",
+      "title": "Library Materials / Instructional Materials (Local)",
+      "description_short": "This policy governs the selection, use, and removal of library and instructional materials in the district's schools, including new rules about what types of…",
+      "last_action_date": "2026-03-17",
+      "last_action_result": "tabled",
+      "timeline_count": 4,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "EHB",
+      "title": "Curriculum Design: Special Programs",
+      "description_short": "This policy governs how schools design and deliver special academic programs, with a particular focus on supporting students with dyslexia and related reading…",
+      "last_action_date": "2025-12-16",
+      "last_action_result": "adopted",
+      "timeline_count": 3,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
       "code": "EHBB",
       "title": "Gifted and Talented Students (Local)",
-      "description_short": "This policy governs how the school district identifies, serves, and when necessary, exits students from its Gifted and Talented (GT) program, including the…",
-      "last_action_date": "2025-11-18",
+      "description_short": "This policy sets the rules for how a school district identifies, serves, and supports students in its gifted and talented program, including how students can…",
+      "last_action_date": "2025-12-16",
       "last_action_result": "adopted",
+      "timeline_count": 3,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "EIA",
+      "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
+      "description_short": "This policy covers updates to five different local school district policies, all revised in response to recent changes in Texas law, addressing topics ranging…",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
       "timeline_count": 2,
       "has_local": true,
       "has_legal": false
@@ -623,10 +683,10 @@
     {
       "code": "EMB",
       "title": "Miscellaneous Instructional Policies: Teaching About Controversial Issues",
-      "description_short": "This policy sets guidelines for how controversial or sensitive topics must be handled during instruction in the classroom.",
-      "last_action_date": "2025-10-21",
-      "last_action_result": "adopted",
-      "timeline_count": 1,
+      "description_short": "This policy sets guidelines for how controversial or sensitive topics must be handled during classroom instruction.",
+      "last_action_date": "2026-03-17",
+      "last_action_result": "information_only",
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -641,19 +701,49 @@
       "has_legal": false
     },
     {
+      "code": "FDB",
+      "title": "FDB (Legal and Local Board Policy)",
+      "description_short": "This policy governs student admissions and enrollment for the school district, covering the rules and processes for enrolling children in district schools.",
+      "last_action_date": "2026-03-17",
+      "last_action_result": "information_only",
+      "timeline_count": 1,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "FFAC",
+      "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
+      "description_short": "This policy covers a set of updates to five school district rules governing employee legal protections, student grading and progress reporting, medical…",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
+      "timeline_count": 2,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
       "code": "FFB",
       "title": "Student Welfare: Crisis Intervention",
-      "description_short": "This policy governs how the school district responds to crises involving students, including situations that may pose a safety threat to individuals or the…",
-      "last_action_date": "2025-10-21",
-      "last_action_result": "adopted",
-      "timeline_count": 1,
+      "description_short": "This policy governs how the school district responds to crisis situations involving students, including threats to safety, and outlines the teams and…",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
+      "timeline_count": 3,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "FFG",
+      "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
+      "description_short": "This policy covers updates to five separate school district rules addressing employee legal protections, student grading and progress reporting, medical…",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
     {
       "code": "FL",
       "title": "Student Records (Local Policy)",
-      "description_short": "This policy governs how student records are created, maintained, and shared within the school district, including a wide range of documents such as academic…",
+      "description_short": "This policy governs how the school district collects, maintains, and manages student records, including what types of documents count as official education…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -663,7 +753,7 @@
     {
       "code": "FM",
       "title": "Student Activities (Local Policy)",
-      "description_short": "This policy governs extracurricular and school-sponsored student activities, clubs, and groups within Conroe ISD, and is being updated to include new rules…",
+      "description_short": "This policy governs student participation in school clubs, organizations, extracurricular activities, and other school-sponsored groups.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -673,7 +763,7 @@
     {
       "code": "FNG",
       "title": "Student Rights and Responsibilities: Student And Parent Complaints/Grievances",
-      "description_short": "This policy outlines the process students and parents can follow when they have a formal concern or disagreement with a school decision, action, or condition…",
+      "description_short": "This policy outlines the process that students and parents can use to formally raise concerns or disputes about decisions, actions, or conditions within the…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -683,7 +773,7 @@
     {
       "code": "GF",
       "title": "Public Complaints (Local Policy)",
-      "description_short": "This policy establishes the process that community members and parents must follow when they have a complaint or concern about the school district that isn't…",
+      "description_short": "This policy outlines the process that community members and parents can follow when they have a complaint or concern about the school district that isn't…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -693,23 +783,33 @@
     {
       "code": "GKA",
       "title": "GKA (Local Policy)",
-      "description_short": "This policy governs the rules of conduct for members of the public when they are on school district property or attending school-sponsored events.",
-      "last_action_date": "2025-11-18",
-      "last_action_result": "tabled",
-      "timeline_count": 2,
+      "description_short": "This policy governs how members of the public are expected to behave when on school district property, including rules about prohibited items such as tobacco…",
+      "last_action_date": "2026-01-20",
+      "last_action_result": "adopted",
+      "timeline_count": 4,
       "has_local": true,
       "has_legal": false
     },
     {
       "code": "GKB",
       "title": "Community Relations: Advertising and Fundraising",
-      "description_short": "This policy sets the rules for how outside advertising and fundraising activities are handled within the school district.",
-      "last_action_date": "2025-11-18",
+      "description_short": "This policy governs what types of advertising and fundraising activities are allowed on school district property and through district communications.",
+      "last_action_date": "2025-12-16",
       "last_action_result": "adopted",
-      "timeline_count": 2,
+      "timeline_count": 3,
+      "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "GKD",
+      "title": "Community Relations: Nonschool Use of School Facilities",
+      "description_short": "This policy governs how school buildings, grounds, and other facilities can be used by outside groups and organizations when school is not in session.",
+      "last_action_date": "2026-02-17",
+      "last_action_result": "information_only",
+      "timeline_count": 3,
       "has_local": true,
       "has_legal": false
     }
   ],
-  "generated_at": "2026-03-31T22:09:04Z"
+  "generated_at": "2026-03-31T22:17:12Z"
 }

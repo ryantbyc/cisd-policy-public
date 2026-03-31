@@ -2,9 +2,63 @@
   "code": "DH",
   "title": "Employee Standards of Conduct",
   "description": "This policy sets the behavioral and ethical standards that all Conroe ISD employees are expected to follow while on the job. It applies to every district employee, from teachers and staff to administrators, outlining what conduct is acceptable and what may result in disciplinary action. Parents and community members should be aware of this policy because it helps ensure that the adults working with students maintain professional, safe, and trustworthy behavior in schools.",
-  "last_action_date": "2025-11-18",
-  "last_action_result": "pending_adoption",
-  "timeline": [
+  "last_action_date": "2026-01-20",
+  "last_action_result": "adopted",
+  "timeline_local": [
+    {
+      "date": "2026-01-20",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "The board adopted revisions to strengthen the tobacco/e-cigarette prohibition for employees. The amendment expands the prohibition to explicitly cover e-cigarettes and 'similar products' (aligning with Health and Safety Code §161.081) on District property and while acting within the scope of employment on or off school property, or at school-related/sanctioned events. The provision allowing employees to request an exception was removed.",
+      "changes_added": [
+        "Employees shall not possess or use cigarettes, e-cigarettes, or tobacco products, as defined by Health and Safety Code §161.081 or similar product, on District property or while acting within the scope of their employment on or off school property or at a school-related or school sanctioned event or activity on or off school property."
+      ],
+      "changes_removed": [
+        "An employee may request an exception."
+      ],
+      "discussion": "Board Policy EFB, Senate Bill 13)",
+      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "confidence": "high",
+      "notes": "Adopted at the December 16, 2025 regular board meeting via two motions (Motion #7301 and Motion #7302), both carried unanimously 6-0. These minutes were approved at the January 20, 2026 meeting. The removal of the exception clause represents a stricter enforcement stance."
+    },
+    {
+      "date": "2025-12-16",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This page shows redline changes to policy DH covering employee standards of conduct. Two sections have changes: (1) 'Relationships With Students' expands the notification requirement beyond just 'educator' to include 'employee or person acting as a service provider for the District'; (2) 'Tobacco And E-Cigarettes' adds 'or nicotine products' to the list of prohibited substances and adds a new sentence allowing employees to request an exception for smoking cessation products.",
+      "changes_added": [
+        "employee or person acting as a service provider for the District (replacing/expanding 'educator' in the parent notification requirement)",
+        "or nicotine products (added to the list of prohibited substances alongside tobacco and e-cigarettes)",
+        "An employee may request an exception from this provision for a smoking cessation product."
+      ],
+      "changes_removed": [
+        "educator (replaced by 'employee or person acting as a service provider for the District' in parent notification sentence)",
+        "or (changed from 'or e-cigarettes' to include nicotine products — the word 'or' before 'e-cigarettes' appears struck through, restructuring the list)"
+      ],
+      "discussion": "made between what requires policy changes vs. procedural changes\n- A draft policy proposal will be brought back for board review at a future meeting\n\n---\n\n## Board Policy Actions\n\n### Item A: Policy DH (Employee Standards of Conduct) — Nicotine/Tobacco\n\n- Updates the policy to align with Texas Health and Safety Code §161.081 regarding prohibition of tobacco, e-cigarettes, and nicotine products on district property and at school-related events.\n- **Amendment:** Struck the sentence allowing employees to \"request an exception from this provision for a smoking cessation product,\" as no such excep",
+      "votes": {
+        "for": [],
+        "against": [],
+        "abstain": [],
+        "absent": [],
+        "tally": "6-0"
+      },
+      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        80
+      ],
+      "confidence": "high",
+      "notes": "The added/underlined text appears in red on this document. Page is numbered '3' and '83', suggesting it is page 3 of the policy and page 83 of the board packet. The Tobacco section cross-references [See also GKA]. The Relationships With Students section cross-references [See FFF]."
+    },
     {
       "date": "2025-11-18",
       "school_year": "2025-2026",
@@ -34,39 +88,7 @@
         133,
         134,
         135,
-        136,
-        165,
-        166,
-        167,
-        168,
-        169,
-        170,
-        171,
-        172,
-        173,
-        174,
-        175,
-        176,
-        177,
-        178,
-        180,
-        181,
-        182,
-        183,
-        184,
-        185,
-        186,
-        187,
-        188,
-        189,
-        190,
-        191,
-        192,
-        193,
-        194,
-        195,
-        196,
-        197
+        136
       ],
       "confidence": "high",
       "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
@@ -92,5 +114,7 @@
       "confidence": "medium",
       "notes": "This is page 254 of the board packet, Policy Update Page Number 20. The document shows a clean (non-redlined) version of policy DH, Version 1, issued 2020-02-05. No tracked changes are visible. It is possible this is the adopted final text rather than a redline/comparison document. The policy addresses: employee accountability to Educators' Code of Ethics, violations of conduct standards, and weapons prohibition with exceptions (Board-authorized firearm use per CKE, locked vehicle storage with Texas handgun license, and District-approved supervised activities per FOD)."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy sets the standards of behavior and professional conduct that all Conroe ISD employees are expected to follow in the workplace. It applies to every district employee, from teachers and staff to administrators, and outlines what is considered acceptable and unacceptable conduct on the job. Parents and community members should be aware of this policy because it helps ensure that the adults working with their children are held to clear, consistent ethical and professional standards."
 }

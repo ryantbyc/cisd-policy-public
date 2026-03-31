@@ -4,7 +4,7 @@
   "description": "This policy establishes the rights and responsibilities of parents in their children's education within Conroe ISD, outlining how families can be involved in school decisions and stay informed about their child's academic experience. It applies to all parents and guardians of students enrolled in the district. This policy matters because it formally defines what parents can expect from the district in terms of communication, involvement opportunities, and their role as partners in supporting student success.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -31,5 +31,7 @@
       "confidence": "high",
       "notes": "All text on this page appears in red underlined formatting, indicating this is entirely new local policy language. The document footer shows 'Date Issued: Update: 1 FA(Local)', confirming this is the first update/issuance of this local policy. Policy Update Page Number 14. Cross-references to BED (board meeting public participation) and BE (board meetings) are included."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy establishes the rights and responsibilities of parents in their children's education within Conroe ISD, outlining how families can be involved in and informed about school decisions and activities. It applies to all parents and guardians of students enrolled in the district. This policy matters to families because it defines the ways the district is committed to keeping parents informed and engaged, and clarifies what parents can expect — and what is expected of them — as partners in their children's education."
 }

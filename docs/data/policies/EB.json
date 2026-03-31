@@ -4,7 +4,7 @@
   "description": "This policy covers how the school district creates and approves the annual academic calendar, including the start and end of the school year, holidays, and instructional days. It affects all students, families, and staff who need to plan around the school schedule. Understanding this policy matters to parents because it explains how decisions about the school calendar are made and who has input in that process.",
   "last_action_date": "2025-11-18",
   "last_action_result": "information_only",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-11-18",
       "school_year": "2025-2026",
@@ -50,5 +50,7 @@
       "confidence": "high",
       "notes": "This page (p. 60) is a board agenda item cover sheet — not a redline policy document. It references Legal and Local Board Policy EB but contains no proposed amendments to that policy. No policy language additions or removals are present. The action is informational: the board is being asked to receive information and provide input, not to adopt any policy changes."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy covers how the school district sets its annual academic calendar, including the start and end dates of the school year, holidays, and other important scheduling decisions. It affects all students, families, and staff across the district. Parents and community members should be aware of this policy because the school calendar directly impacts family planning, childcare arrangements, and community activities throughout the year."
 }

@@ -2,9 +2,31 @@
   "code": "CAA",
   "title": "Fiscal Management Goals and Objectives",
   "description": "Conroe ISD's approach to managing public funds is guided by clear goals focused on financial responsibility, transparency, and long-term planning. The district works to ensure that taxpayer dollars are used efficiently to support student learning and district operations. Sound fiscal management helps protect community investments in education and supports the district's ability to plan for future needs.",
-  "last_action_date": "2025-11-18",
-  "last_action_result": "pending_adoption",
-  "timeline": [
+  "last_action_date": "2025-12-16",
+  "last_action_result": "adopted",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CAA",
+  "timeline_local": [
+    {
+      "date": "2025-12-16",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "Revisions to Board Policy CAA (Local) were adopted unanimously at the November 18, 2025 Regular Board Meeting as part of a group adoption (Motion #7207). No specific language changes are described in the meeting minutes.",
+      "discussion": "Policy GKD (Discussion Only, No Action)",
+      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "confidence": "medium",
+      "notes": "Adopted as part of a group motion (#7207) along with BBE, CDA, CQB, EHB, EHBB, and GKB. Vote was 7-0. The specific redline changes are not described in these minutes pages."
+    },
     {
       "date": "2025-11-18",
       "school_year": "2025-2026",
@@ -37,21 +59,7 @@
         133,
         134,
         135,
-        136,
-        165,
-        166,
-        167,
-        168,
-        169,
-        170,
-        171,
-        172,
-        173,
-        174,
-        175,
-        176,
-        177,
-        178
+        136
       ],
       "confidence": "high",
       "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
@@ -78,5 +86,6 @@
       "notes": "This is a cover/proposal page (p. 239) recommending adoption of CAA (Local) revisions, as presented by Superintendent Dr. David Vinson. The actual redline document with specific added/removed language is not included on this page. The action is described as discussion with a recommendation for adoption. Specific change details would be found on subsequent pages of the packet."
     }
   ],
-  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CAA"
+  "timeline_legal": [],
+  "description_local": "This policy sets the overall financial goals and priorities that guide how Conroe ISD manages its money, including how funds are budgeted, spent, and accounted for. It applies to district leadership and administrators who make financial decisions on behalf of the school district. Parents and community members should be aware of this policy because it reflects the district's commitment to responsible stewardship of public funds, which directly affects the resources available for student programs and school operations."
 }

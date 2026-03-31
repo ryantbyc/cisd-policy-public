@@ -4,7 +4,7 @@
   "description": "This policy governs how student records are created, maintained, and shared within the school district, including a wide range of documents such as academic transcripts, disciplinary records, and — following a recent update — school library records. It applies to all students enrolled in the district, as well as the staff, administrators, and other parties who may access or handle those records. Parents and community members should be aware of this policy because it defines what information the school keeps about their children, who can see it, and how it is protected.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -29,5 +29,7 @@
       "confidence": "high",
       "notes": "Item #16 appears underlined in the document, indicating it is newly added text. The previous item 16 ('Other records that may contribute to an understanding of the student') has been renumbered to 17. This is page 1 of 3 of the FL Local Policy, labeled as Policy Update Page Number 17, for Conroe ISD. The action is inferred as adoption based on the triage hint and meeting date of 2025-10-21."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy governs how the school district collects, maintains, and manages student records, including what types of documents count as official education records. It applies to all students enrolled in the district, as well as their parents or guardians who have rights related to accessing and protecting those records. A recent update now specifically includes library records as an official type of education record, which matters to families because it clarifies that information about a student's library activity is formally protected under the district's student privacy rules."
 }

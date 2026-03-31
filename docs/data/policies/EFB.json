@@ -2,9 +2,70 @@
   "code": "EFB",
   "title": "Library Materials / Instructional Materials (Local)",
   "description": "This policy governs the selection, use, and removal of library and instructional materials in the district's schools, including rules about what types of content are and are not permitted. It applies to all school libraries and classrooms, affecting students, teachers, librarians, and anyone involved in choosing or using educational materials. Recent updates reflecting state law now include clear definitions and specific prohibitions around pornographic or sexually explicit content, which matters to parents because it establishes the standards the district must follow to ensure school materials are age-appropriate for students.",
-  "last_action_date": "2025-10-21",
-  "last_action_result": "adopted",
-  "timeline": [
+  "last_action_date": "2026-03-17",
+  "last_action_result": "tabled",
+  "timeline_local": [
+    {
+      "date": "2026-03-17",
+      "school_year": "2025-2026",
+      "action": "tabled",
+      "result": "tabled",
+      "summary": "This is not a policy change document. It is a board agenda item requesting approval of library materials in accordance with Texas Education Code §33.026, Board Policy EFB, and Senate Bill 13. The Board of Trustees is required to consider and approve all library materials donated to or proposed for procurement in District school and classroom libraries. The Superintendent submits a certified list of recommendations, which is made available for public review for at least 30 days before the Board votes to approve or reject the list.",
+      "discussion": "st Philly* included justifications about lesbian characters, drunkenness, and vomiting that were not discussed in open session\n- Argued discussions seemed \"based on feelings\" rather than local policy EFB criteria\n- Requested the board vote to establish a **library advisory council** at the next meeting\n\n### Kristen Brown (Parent, Oak Ridge feeder)\n- Expressed concern that the 590-page board packet wasn't available until approximately 3:00 PM the day of the meeting\n- Noted it would take roughly 5 pages per minute to review in the available time\n- Referenced previous meetings where packets were",
+      "votes": {
+        "for": [],
+        "against": [],
+        "abstain": [],
+        "absent": [],
+        "tally": "7-0"
+      },
+      "source_packet": "board_packet_March_17_2026_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        197
+      ],
+      "confidence": "high",
+      "notes": "This page (197) is a recommendation/explanation memo, not a redline policy document. It references Policy EFB (Legal and Local) as the policy basis for the action, but does not contain any proposed amendments or changes to the policy itself. The action is a routine board approval of a library materials list, not a policy modification."
+    },
+    {
+      "date": "2026-02-17",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "The board approved library materials donated or procured for use in District school libraries in accordance with Texas Education Code §33.026, Board Policy EFB, and Senate Bill 13. This is an operational adoption of materials under existing policy, not a revision to the policy text itself.",
+      "discussion": "n (AP Calculus AB & BC), Savvas (Multivariable Calculus) (4-year contract):**\n- **Vote: Approved 7-0**\n\n---\n\n## Library Materials Approval\n- Dr. Vinson certified all materials comply with TEC 33.026, EFB, and Senate Bill 13\n- Monthly list covering December and January acquisitions (donations and new catalog items)\n- **Vote: Approved 7-0**\n\n---\n\n## Board Policy — Second Reading (Action Items)\n\n### Items A through H (State-Mandated Updates):\nPolicies: CH Local, CKC Local, CK Local, CL Local, DGC Local, EIA Local, FFAC Local, FFB Local\n- Board noted these are state-mandated changes from the legis",
+      "votes": {
+        "for": [],
+        "against": [],
+        "abstain": [],
+        "absent": [],
+        "tally": "7-0"
+      },
+      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        249
+      ],
+      "confidence": "high",
+      "notes": "Motion #7405, carried unanimously 7-0. This action approves specific library materials under EFB rather than amending the policy language. The triage hint of 'adoption' likely refers to this materials adoption action."
+    },
+    {
+      "date": "2026-01-20",
+      "school_year": "2025-2026",
+      "action": "information_only",
+      "result": "information_only",
+      "summary": "This is not a redline policy document. It is an agenda item cover sheet for Conroe ISD requesting board approval of library materials in accordance with Texas Education Code §33.026, Board Policy EFB, and Senate Bill 13. The Board is required to approve all library materials donated to or procured for District school and classroom libraries. The Superintendent submits a certified list of recommended additions or removals; the list is publicly available for at least 30 days before the Board votes. Exemptions apply for replacement copies, additional copies of already-cataloged titles, or materials previously approved for the same grade levels.",
+      "discussion": "Arnold Elementary zone (C2.1) and Grand Oaks Junior High zone (Scenario B).\n- **Vote: 7-0. Motion carried.**\n\n---\n\n## Item 8: Approval of Library Materials (Texas Education Code 33.026, Board Policy EFB, Senate Bill 13)\n\n**Presenter:** Hedith Upshaw, with Mindy Harding (Assistant Director of Education Technology)\n\n- September through November acquisitions list; thousands of books.\n- All materials went through 30-day public access review.\n- All books have appropriate ISBN numbers as required by state law.\n- District attested all materials are in accordance with the recently adopted book policy",
+      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        82
+      ],
+      "confidence": "high",
+      "notes": "This page (p. 82) is an agenda cover/recommendation sheet, not a redline policy document. No policy language additions or deletions are shown. The policy reference cited is EFB (Legal and Local). The action is board approval of a library materials list, not a change to the policy itself."
+    },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -29,5 +90,7 @@
       "confidence": "medium",
       "notes": "Plain text extraction; underline/strikethrough formatting not preserved. Changes inferred from context. Cross-referenced with EFB(LEGAL) and EMB(Local). Adoption inferred from triage hint."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy governs the selection, use, and removal of library and instructional materials in the district's schools, including new rules about what types of content are prohibited. It applies to all library books and teaching materials available to students, and establishes clear definitions around sexually explicit or pornographic content that cannot be included in school collections. Parents and community members should be aware of this policy because it directly shapes what reading and learning materials students can access at school, and it reflects recent state legislation aimed at setting stricter content standards for school libraries."
 }

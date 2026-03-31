@@ -4,7 +4,7 @@
   "description": "This policy governs the rules and grounds for ending the employment of school district staff, including when and why an employee can be dismissed or have their contract terminated. It applies to district employees and contractors who work in or around schools. Parents and community members should be aware of this policy because it now includes new prohibited behaviors for staff and contractors — aligned with recent state legislation — helping ensure that the adults working with students are held to clear standards of conduct.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -29,5 +29,7 @@
       "confidence": "high",
       "notes": "All new text appears in red/underlined format indicating additions. No strikethrough text (removals) visible on this page. This is page 1 of 2, Policy Update Page Number 5. The policy references related policies DFAA, DFBA, DFCA, and EMB (Local). Changes appear driven by S.B. 12 from the 89th Texas Legislature."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy governs the rules and conditions under which the school district can end the employment of staff members, including both employees and contractors. It applies to all district personnel and is being updated to include new actions that can result in termination, in line with recent Texas state legislation (S.B. 12). Parents and community members should be aware of this policy because it helps ensure that the adults working in schools are held to clear standards of conduct, and that the district has the authority to remove employees who violate those standards."
 }

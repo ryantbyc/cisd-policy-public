@@ -4,7 +4,7 @@
   "description": "This policy governs extracurricular and school-sponsored student activities, clubs, and groups within Conroe ISD, and is being updated to include new rules around student participation in these organizations. The updates would require written parental consent before a student can join certain student groups, among other new provisions. This matters to parents because it gives them a more direct role in deciding which organizations and activities their child participates in at school.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -28,5 +28,7 @@
       "confidence": "high",
       "notes": "The added text appears in red/underlined format indicating new language. The existing sections (Extracurricular Activity Absences, Use of District Facilities, School Insignia, Participation in UIL Activities) appear to be unchanged. This is Policy Update Page Number 20 for Conroe ISD. No strikethrough/removed text is visible on this page."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy governs student participation in school clubs, organizations, extracurricular activities, and other school-sponsored groups. It applies to all students in the district, and in some cases directly involves parents, such as when written consent is required before a student can join certain groups. This policy matters to parents and community members because it shapes what activities are available to students, sets expectations for participation, and gives parents a say in some of the groups their children become involved in at school."
 }

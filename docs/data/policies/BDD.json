@@ -3,7 +3,28 @@
   "title": "Board-Superintendent Relations",
   "description": "The board of trustees and the superintendent work together under a clear set of expectations that define how they communicate, share responsibilities, and support each other's roles. Keeping these boundaries well-defined helps the district run smoothly and ensures that decisions are made in an organized, accountable way. For families and community members, this structure means district leadership is better positioned to focus on student success and respond effectively to community needs.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BDD",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline": []
+  "last_action_date": "2026-01-20",
+  "last_action_result": "adopted",
+  "timeline_local": [
+    {
+      "date": "2026-01-20",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "Pursuant to Board Policy BDD, the board voted to retain Leasor Crass, P.C. as legal counsel for the District. This is an action taken under existing policy rather than a revision to the policy itself.",
+      "discussion": "Board Policy EFB, Senate Bill 13)",
+      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
+      "source_pages": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "confidence": "high",
+      "notes": "Motion #7306, carried unanimously 6-0 at the December 16, 2025 meeting. This is a procurement/retention decision authorized by BDD, not a policy text amendment. Included here because BDD was explicitly cited in the motion."
+    }
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy governs how the school board and the superintendent work together to lead the district, including how responsibilities are divided between elected board members and the hired superintendent. It applies to both the board and the superintendent, shaping how major decisions — such as hiring legal counsel or setting district direction — are made and carried out. For parents and community members, this policy matters because it helps ensure clear leadership, accountability, and a functional working relationship between those who set district policy and those who implement it day to day."
 }

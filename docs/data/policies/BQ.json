@@ -4,7 +4,8 @@
   "description": "Conroe ISD uses this policy to guide how the district makes important decisions about schools, programs, and resources — and how community input is gathered along the way. It outlines who has a role in the planning process, including staff, parents, and community members, and how their feedback shapes district priorities. Understanding this policy helps residents know how they can participate in decisions that affect students and schools.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
-  "timeline": [
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BQ",
+  "timeline_local": [
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
@@ -23,5 +24,6 @@
       "notes": "This agenda item references Board Policy BQ and BQB (Legal) as the authority for the action, but it is not a policy text amendment. It is the annual adoption of the District Improvement Plan as required by state law. Developed and approved by the District Level Planning and Decision-Making Committee prior to board presentation. Submitted by Dr. Ted Landry, Deputy Superintendent."
     }
   ],
-  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BQ"
+  "timeline_legal": [],
+  "description_local": "This policy governs how the school district develops and approves its annual District Improvement Plan (DIP), a required document that outlines the district's goals, strategies, and priorities for student achievement and school operations. It applies to the entire school district, including school board members, administrators, staff, and the broader community who have a role in shaping or are affected by district-wide decisions. Parents and community members should care about this policy because the improvement plan directly influences how resources are allocated, what educational priorities are set, and how the district plans to support student success in the coming school year."
 }

@@ -4,7 +4,7 @@
   "description": "This policy governs who owns creative works, inventions, and other intellectual property developed by district employees, students, or others using school district resources or time. It applies to teachers, staff, students, and vendors who create materials or tools in connection with the district. Parents and community members should be aware of this policy because it affects how educational materials are developed, shared, and protected, and ensures the district is thoughtful about its relationships with outside vendors who may create or use district-related content.",
   "last_action_date": "2025-11-18",
   "last_action_result": "information_only",
-  "timeline": [
+  "timeline_local": [
     {
       "date": "2025-11-18",
       "school_year": "2025-2026",
@@ -45,5 +45,7 @@
       "confidence": "high",
       "notes": "This page is a proposal/cover memo, not a redline policy document. No policy text changes (additions or deletions) are presented. The action is enforcement of existing CY Local policy, recommended by Superintendent Dr. David Vinson. No first or second reading of new policy language is indicated."
     }
-  ]
+  ],
+  "timeline_legal": [],
+  "description_local": "This policy governs ownership and use of intellectual property — such as original materials, curricula, software, or creative works — developed by or for the school district. It primarily affects district employees, vendors, and contractors who create or contribute materials used in schools. Parents and community members should be aware of this policy because it shapes how educational resources are developed, protected, and shared, and ensures the district carefully manages the tools and content used in their children's education."
 }
