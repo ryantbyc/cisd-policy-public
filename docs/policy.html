@@ -44,9 +44,9 @@
       --badge-tabled-text:  #8c1a1a;
       --badge-info-bg:      #eeeaf8;
       --badge-info-text:    #2e2840;
-      --change-added-bg:    #f0faf2;
-      --change-added-border:#2e7d32;
-      --change-added-text:  #1b5e20;
+      --change-added-bg:    #fffbea;
+      --change-added-border:#c8960a;
+      --change-added-text:  #6b4c00;
       --change-removed-bg:  #fdf0f0;
       --change-removed-border:#c62828;
       --change-removed-text:#b71c1c;
@@ -84,9 +84,9 @@
       --badge-tabled-text:  #de6a6a;
       --badge-info-bg:      #1e1a30;
       --badge-info-text:    #a898d8;
-      --change-added-bg:    #0d2014;
-      --change-added-border:#4acc70;
-      --change-added-text:  #7ade98;
+      --change-added-bg:    #201800;
+      --change-added-border:#c8a020;
+      --change-added-text:  #e0c060;
       --change-removed-bg:  #200d0d;
       --change-removed-border:#de6a6a;
       --change-removed-text:#f08080;
@@ -271,8 +271,20 @@
       color: var(--text-section); margin-bottom: 0.5rem;
     }
     .discussion-text {
-      font-size: 0.83rem; line-height: 1.6; color: var(--discussion-text);
-      white-space: pre-wrap;
+      font-size: 0.83rem; line-height: 1.65; color: var(--discussion-text);
+    }
+    .discussion-text p   { margin-bottom: 0.6rem; }
+    .discussion-text p:last-child { margin-bottom: 0; }
+    .discussion-text strong { font-weight: 600; color: var(--text-primary); }
+    .discussion-text h4  { font-size: 0.83rem; font-weight: 700; color: var(--text-section); margin: 0.75rem 0 0.25rem; }
+    .discussion-text hr  { border: none; border-top: 1px solid var(--discussion-border); margin: 0.6rem 0; }
+    .discussion-text .tabled-notice {
+      background: #fff8e0; border-left: 3px solid #c8960a;
+      color: #6b4c00; padding: 0.35rem 0.6rem; border-radius: 3px;
+      font-weight: 600; margin-bottom: 0.4rem;
+    }
+    [data-theme="dark"] .discussion-text .tabled-notice {
+      background: #201800; border-left-color: #c8a020; color: #e0c060;
     }
     .discussion-collapsed { max-height: 6rem; overflow: hidden; position: relative; }
     .discussion-collapsed::after {
@@ -407,6 +419,58 @@
       .replace(/"/g,'&quot;');
   }
 
+  /* ── Discussion markdown renderer ── */
+  function renderDiscussion(raw) {
+    // Escape HTML first so we can safely inject
+    const escaped = raw
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+
+    const lines = escaped.split('\n');
+    const out = [];
+    let inPara = false;
+
+    const flushPara = () => { if (inPara) { out.push('</p>'); inPara = false; } };
+
+    for (let i = 0; i < lines.length; i++) {
+      let line = lines[i];
+
+      // Blank line — end paragraph
+      if (!line.trim()) { flushPara(); continue; }
+
+      // Horizontal rule
+      if (/^---+$/.test(line.trim())) { flushPara(); out.push('<hr>'); continue; }
+
+      // Heading ## or ###
+      const headingMatch = line.match(/^#{2,3}\s+(.+)$/);
+      if (headingMatch) {
+        flushPara();
+        out.push(`<h4>${headingMatch[1]}</h4>`);
+        continue;
+      }
+
+      // Inline markdown: **bold**, *italic*
+      line = line
+        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*([^*]+)\*/g, '<em>$1</em>');
+
+      // Tabled notice — line with ⚠️ or TABLED
+      if (/tabled/i.test(line) && /⚠|TABLED/i.test(line)) {
+        flushPara();
+        out.push(`<div class="tabled-notice">${line}</div>`);
+        continue;
+      }
+
+      // Regular text — accumulate into paragraph
+      if (!inPara) { out.push('<p>'); inPara = true; }
+      else { out.push('<br>'); }
+      out.push(line);
+    }
+    flushPara();
+    return out.join('');
+  }
+
   /* ── Build a single timeline entry ── */
   function buildEntry(entry) {
     const result  = entry.result || entry.action || 'unknown';
@@ -485,7 +549,7 @@
 
       const textEl = document.createElement('div');
       textEl.className = 'discussion-text' + (isLong ? ' discussion-collapsed' : '');
-      textEl.textContent = text;
+      textEl.innerHTML = renderDiscussion(text);
       sec.appendChild(textEl);
 
       if (isLong) {
