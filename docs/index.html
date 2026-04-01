@@ -116,6 +116,17 @@
     .search-bar .search-icon { position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); color: var(--text-secondary); font-size: 0.95rem; pointer-events: none; }
     .search-count { font-size: 0.8rem; color: var(--text-secondary); margin-bottom: 0.75rem; }
 
+    .list-controls { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.75rem; }
+    .sort-toggle { display: flex; gap: 0; border: 1px solid var(--border-card); border-radius: 5px; overflow: hidden; }
+    .sort-btn {
+      background: var(--bg-card); color: var(--text-secondary); border: none; cursor: pointer;
+      font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;
+      padding: 0.3rem 0.75rem; transition: background 0.15s, color 0.15s;
+    }
+    .sort-btn:first-child { border-right: 1px solid var(--border-card); }
+    .sort-btn.active { background: var(--border-accent); color: #fff; }
+    .sort-btn:hover:not(.active) { background: var(--bg-code); }
+
     /* ── Policy cards ── */
     .policy-card {
       background: var(--bg-card);
@@ -198,7 +209,13 @@
     <span class="search-icon">&#128269;</span>
     <input type="search" id="search-input" placeholder="Search by policy code, title, or topic…" autocomplete="off">
   </div>
-  <div id="search-count" class="search-count" style="display:none"></div>
+  <div class="list-controls">
+    <div id="search-count" class="search-count" style="visibility:hidden"></div>
+    <div class="sort-toggle">
+      <button class="sort-btn" id="sort-recent" title="Sort by most recently revised">Recent First</button>
+      <button class="sort-btn" id="sort-alpha" title="Sort alphabetically by code">A → Z</button>
+    </div>
+  </div>
   <div id="policies-list">
     <p id="loading">Loading policies...</p>
   </div>
@@ -263,9 +280,23 @@
   }
 
   let allPolicies = [];
+  let currentSort = 'recent';
   const container = document.getElementById('policies-list');
   const countEl = document.getElementById('search-count');
   const searchInput = document.getElementById('search-input');
+
+  function sortPolicies(list, mode) {
+    if (mode === 'alpha') {
+      return [...list].sort((a, b) => a.code.localeCompare(b.code));
+    }
+    // recent: dated policies by date desc, then undated alphabetically
+    return [...list].sort((a, b) => {
+      if (a.last_action_date && b.last_action_date) return b.last_action_date.localeCompare(a.last_action_date);
+      if (a.last_action_date) return -1;
+      if (b.last_action_date) return 1;
+      return a.code.localeCompare(b.code);
+    });
+  }
 
   function renderPolicies(policies) {
     container.innerHTML = '';
@@ -273,7 +304,7 @@
       container.innerHTML = '<p style="padding:1rem;color:var(--text-secondary)">No matching policies found.</p>';
       return;
     }
-    policies.forEach(p => container.appendChild(buildCard(p)));
+    sortPolicies(policies, currentSort).forEach(p => container.appendChild(buildCard(p)));
   }
 
   function searchPolicies(q) {
@@ -286,15 +317,25 @@
 
   function onSearch() {
     const q = searchInput.value.trim();
-    if (!q) { countEl.style.display = 'none'; renderPolicies(allPolicies); return; }
+    if (!q) { countEl.style.visibility = 'hidden'; renderPolicies(allPolicies); return; }
     const results = searchPolicies(q);
     countEl.textContent = `${results.length} polic${results.length !== 1 ? 'ies' : 'y'} found`;
-    countEl.style.display = 'block';
+    countEl.style.visibility = 'visible';
     renderPolicies(results);
   }
 
+  function setSort(mode) {
+    currentSort = mode;
+    document.getElementById('sort-recent').classList.toggle('active', mode === 'recent');
+    document.getElementById('sort-alpha').classList.toggle('active', mode === 'alpha');
+    onSearch();
+  }
+
+  document.getElementById('sort-recent').addEventListener('click', () => setSort('recent'));
+  document.getElementById('sort-alpha').addEventListener('click', () => setSort('alpha'));
+
   fetch('data/index.json').then(r => r.json()).then(index => {
-    allPolicies = (index.policies || []).sort((a, b) => a.code.localeCompare(b.code));
+    allPolicies = index.policies || [];
     document.getElementById('loading').remove();
 
     if (!allPolicies.length) {
@@ -302,7 +343,7 @@
       return;
     }
 
-    renderPolicies(allPolicies);
+    setSort('recent');
     searchInput.addEventListener('input', onSearch);
   }).catch(() => {
     document.getElementById('loading').textContent = 'Could not load policy data.';
