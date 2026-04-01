@@ -319,6 +319,16 @@
     }
     .meeting-notes-link:hover { text-decoration: underline; }
 
+    .entry-links { display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; margin-top: 0.5rem; }
+    .redline-download {
+      font-size: 0.78rem; font-weight: 600; color: var(--text-secondary);
+      text-decoration: none; display: inline-flex; align-items: center; gap: 0.25rem;
+      border: 1px solid var(--border-card); border-radius: 4px;
+      padding: 0.2rem 0.55rem; background: var(--bg-card);
+      transition: border-color 0.15s, color 0.15s;
+    }
+    .redline-download:hover { border-color: var(--border-accent); color: var(--border-accent); }
+
     .discussion-label {
       font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
       color: var(--text-section); margin-bottom: 0.5rem;
@@ -630,21 +640,37 @@
       body.appendChild(sec);
     }
 
-    /* Meeting notes link */
-    if (entry.meeting_notes_url) {
+    /* Links row — meeting notes + redline download */
+    const hasNotes   = !!entry.meeting_notes_url;
+    const hasRedline = !!entry.source_redline;
+    if (hasNotes || hasRedline) {
       const sec = document.createElement('div');
       sec.className = 'discussion-section';
       const lbl = document.createElement('div');
       lbl.className = 'discussion-label';
-      lbl.textContent = 'Meeting Notes';
+      lbl.textContent = 'References';
       sec.appendChild(lbl);
-      const link = document.createElement('a');
-      link.href = entry.meeting_notes_url;
-      link.target = '_blank';
-      link.rel = 'noopener noreferrer';
-      link.className = 'meeting-notes-link';
-      link.textContent = 'View full meeting summary ↗';
-      sec.appendChild(link);
+      const linksRow = document.createElement('div');
+      linksRow.className = 'entry-links';
+      if (hasNotes) {
+        const a = document.createElement('a');
+        a.href = entry.meeting_notes_url;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.className = 'meeting-notes-link';
+        a.textContent = 'Meeting summary ↗';
+        linksRow.appendChild(a);
+      }
+      if (hasRedline) {
+        const date = entry.date || '';
+        const a = document.createElement('a');
+        a.href = `data/redlines/${date}/${entry.source_redline}`;
+        a.download = entry.source_redline;
+        a.className = 'redline-download';
+        a.innerHTML = '&#8615; Redline PDF';
+        linksRow.appendChild(a);
+      }
+      sec.appendChild(linksRow);
       body.appendChild(sec);
     }
 
