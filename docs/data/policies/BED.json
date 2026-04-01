@@ -35,24 +35,24 @@
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This update to BED (Local) adds a new Public Comment provision giving parents of currently enrolled students priority to speak first during the citizenship participation portion of any public board meeting, and renames the \"Complaints\" section heading and bullet list references to \"Grievances\" throughout.",
+      "summary": "This update to BED (Local) adds a new provision giving parents of currently enrolled students priority to speak first during the citizenship participation portion of any public board meeting, with the District required to make provisions to identify parents. It also renames the \"Complaints\" section header and bullet list items to \"Grievances\" throughout.",
       "changes_added": [
         "Parents of students currently enrolled in the District shall be allowed to speak first during the citizenship participation portion of any public board meeting [See BED.]. The District shall make provision to ensure that parents are identified.",
-        "Grievances (section heading, replacing 'Complaints')",
+        "Grievances (section header, replacing 'Complaints')",
         "Employee grievances: DGBA",
         "Student or parent grievances: FNG",
         "Public grievances: GF"
       ],
       "changes_removed": [
-        "Complaints (section heading, replaced by 'Grievances')",
+        "Complaints (section header, replaced by 'Grievances')",
         "Employee complaints: DGBA",
         "Student or parent complaints: FNG",
         "Public complaints: GF"
       ],
-      "discussion": "sed; one other opposed)\n\n**FNAA Local (Student Expression/Distribution of Non-School Literature)**\n- **Vote: 7-0 — APPROVED**\n\n**GKDA Local (Non-School Use of Facilities/Distribution of Non-School Literature)**\n- **Vote: 7-0 — APPROVED**\n\n### First Reading / Discussion Only Policies (No Votes):\n- **BED** — Board Meeting Public Participation\n- **DF** — Termination of Employment\n- **DGBA** — Employee Complaints and Grievances\n- **EA** — Instructional Goals and Objectives\n- **EMBB** — Teaching About Controversial Issues (added definition)\n- **FA** — Parents Rights/Responsibilities (legislative compliance; board meetings must be held outside regular business hours, defined as 8–5; applies to regular and special meetings but not committee meetings)\n- **FFB** — Threat Assessment (new policy — district was not previously compliant; brought forward by Trustee Horton; moved from incorrect placement to first reading)\n- **FL** — Student Records (legislative)\n- **FM** — Student Activities/Extracurricular\n- **FNG** — Student/Parent Complaints changed to Grievances (legislative)\n- **GF** — Public Complaints/Communications\n\n---\n\n## Closed Session\n- Entered at 10:04 p.m. under Texas Government Code §§551.071, 551.072, 551.074, 551.082\n- Returned to open session at **12:13 a.m.**\n- **No final action taken in closed session**\n\n---\n\n## Post-Closed Session Actions\n\n### Personnel Action\n- **Motion:** Propose termination for good cause and authorize notice of mid-contract termination for **Angela Gerard** (per TGC §551.074)\n- **Vote: 7-0 — APPROVED** (Dungan and Nelson)\n\n### Real Estate Purchase\n- **Motion:** Approve superintendent to negotiate purchase of property (details discussed in closed session)\n- **Vote: 7-0 — APPROVED** (Dungan and Semmler)\n\n### Item 11C: Skipped (no details provided i",
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
       "confidence": "high",
       "source_redline": "BED_LOCAL.pdf",
-      "notes": "Cover page recommendation states the Board should \"adopt\" the updated policy, indicating this is an adoption action. Red underlined text clearly identifies the new Public Comment paragraph for parents of enrolled students. Red strikethrough text clearly shows replacement of the word \"Complaints\" with \"Grievances\" in the section heading and all three bullet points. All other policy text is unchanged black text and was excluded."
+      "notes": "The cover page recommends adoption (not first reading), so action is recorded as 'adopted'. Red underlined text was clearly a new Public Comment paragraph at the top of the policy body. Red strikethrough text was limited to the word 'Complaints'/'complaints' being replaced by 'Grievances'/'grievances' in the section header and three bullet points."
     }
   ],
   "timeline_legal": [],
