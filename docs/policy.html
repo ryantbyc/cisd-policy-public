@@ -505,10 +505,10 @@
 
   /* ── Build a single timeline entry ── */
   function buildStatusCard(entries) {
-    /* Find the most recent entry with a definitive result */
-    const definitive = ['adopted', 'tabled', 'rejected', 'withdrawn', 'first_reading', 'pending_adoption'];
+    /* Find the most recent entry confirmed by meeting notes */
     const sorted = [...entries].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-    const latest = sorted.find(e => definitive.includes(e.result)) || sorted[0];
+    const latest = sorted.find(e => e.meeting_notes_url);
+    if (!latest) return null; // no confirmed outcomes yet
     if (!latest) return null;
 
     const result = latest.result || 'unknown';
@@ -563,7 +563,11 @@
   }
 
   function buildEntry(entry) {
-    const result  = entry.result || entry.action || 'unknown';
+    const rawResult = entry.result || entry.action || 'unknown';
+    // Only show actual outcome (adopted/tabled/etc.) if confirmed by meeting notes.
+    // Without meeting notes we only know a reading occurred.
+    const confirmed = !!entry.meeting_notes_url;
+    const result = confirmed ? rawResult : 'first_reading';
     const dateStr = formatDate(entry.date);
     const dot     = document.createElement('div');
     dot.className = `timeline-dot ${dotClass(result)}`;
