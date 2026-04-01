@@ -1,7 +1,7 @@
 {
   "code": "FDB",
-  "title": "FDB (Legal and Local Board Policy)",
-  "description": "This policy governs student admissions and enrollment for the school district, covering the rules and processes for enrolling children in district schools. It applies to all families seeking to enroll students, as well as district staff who manage the enrollment process. Understanding this policy helps parents know their rights and the steps required to get their child enrolled in the appropriate school.",
+  "title": "Admissions: Intradistrict Transfers and Classroom Assignments",
+  "description": "Conroe ISD uses this policy to guide how students may request transfers to a school other than their assigned campus within the district. It also covers how students are placed into specific classrooms once enrolled. Families who are interested in having their child attend a different campus or who have questions about classroom assignments will find the rules and process outlined here.",
   "last_action_date": "2026-03-17",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -21,5 +21,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs student admissions and enrollment for the school district, covering the rules and processes for enrolling children in district schools. It applies to all families seeking to enroll students, as well as district staff who manage the enrollment process. Understanding this policy helps parents know their rights and the steps required to get their child enrolled in the appropriate school."
+  "description_local": "This policy governs student admissions and enrollment for the school district, covering the rules and processes for enrolling children in district schools. It applies to all families seeking to enroll students, as well as district staff who manage the enrollment process. Understanding this policy helps parents know their rights and the steps required to get their child enrolled in the appropriate school.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FDB"
 }

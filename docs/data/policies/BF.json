@@ -1,9 +1,11 @@
 {
   "code": "BF",
-  "title": "Annual Organizational Meeting",
-  "description": "Each year, the school board holds an organizational meeting to set up its leadership structure, including selecting officers such as the board president and vice president. The meeting establishes who will guide board decisions and oversee district governance for the coming year. Knowing how and when this leadership is determined helps community members understand who is responsible for leading the board and how to engage with district decision-making.",
+  "title": "Board Policies",
+  "description": "The Conroe ISD Board of Trustees maintains a set of written policies that guide how the district is governed and operated. These policies cover a wide range of topics — from student rights to staff conduct to financial decisions — and serve as the foundation for consistent, fair decision-making across the district. Community members can review board policies to understand the rules and standards that shape how the district functions and serves students.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BF",
   "last_action_date": null,
   "last_action_result": null,
-  "timeline": []
+  "timeline": [],
+  "timeline_local": [],
+  "timeline_legal": []
 }

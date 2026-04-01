@@ -1,7 +1,7 @@
 {
   "code": "DF",
-  "title": "Termination of Employment (Local Policy)",
-  "description": "This policy governs the rules and grounds for ending the employment of school district staff, including when and why an employee can be dismissed or have their contract terminated. It applies to district employees and contractors who work in or around schools. Parents and community members should be aware of this policy because it now includes new prohibited behaviors for staff and contractors — aligned with recent state legislation — helping ensure that the adults working with students are held to clear standards of conduct.",
+  "title": "Termination of Employment",
+  "description": "Conroe ISD's rules for ending employment with district staff — whether through resignation, retirement, or dismissal — are outlined here. The policy helps ensure that staffing decisions follow a fair, consistent process that protects the district, its employees, and ultimately the students they serve. Community members can use this information to understand how the district handles situations where an employee's time with the district comes to an end.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -31,5 +31,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs the rules and conditions under which the school district can end the employment of staff members, including both employees and contractors. It applies to all district personnel and is being updated to include new actions that can result in termination, in line with recent Texas state legislation (S.B. 12). Parents and community members should be aware of this policy because it helps ensure that the adults working in schools are held to clear standards of conduct, and that the district has the authority to remove employees who violate those standards."
+  "description_local": "This policy governs the rules and conditions under which the school district can end the employment of staff members, including both employees and contractors. It applies to all district personnel and is being updated to include new actions that can result in termination, in line with recent Texas state legislation (S.B. 12). Parents and community members should be aware of this policy because it helps ensure that the adults working in schools are held to clear standards of conduct, and that the district has the authority to remove employees who violate those standards.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/DF"
 }

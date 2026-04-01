@@ -1,7 +1,7 @@
 {
   "code": "CKE",
-  "title": "BBE(Local) – Board Members: Authority; CH(Local) – Purchasing and Acquisition; CKC(Local) – Safety Program/Risk Management: Emergency Plans; CKE(Local) – Program/Risk Management: Security Personnel; CL(Local) – Buildings, Grounds, And Equipment Management",
-  "description": "This policy area covers a range of school operations, including how board members request information, how the district purchases goods and services, emergency planning, security staffing, and management of school buildings and grounds. It affects school board members, district staff, students, and the broader community. Parents and community members should be aware of these policies because they shape how safely and efficiently schools are run — from who is responsible for security on campus to how taxpayer dollars are spent on purchases and facilities.",
+  "title": "Safety Program/Risk Management: Security Personnel",
+  "description": "Conroe ISD maintains security personnel to help keep students, staff, and visitors safe on school campuses and at school-related activities. The district outlines how these security staff are selected, trained, and deployed to protect the school community. Parents and community members can expect that safety measures involving security personnel follow established guidelines designed to create a secure learning environment.",
   "last_action_date": "2026-02-17",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -76,5 +76,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy area covers a range of school operations, including how board members request information, how the district purchases goods and services, emergency planning, security staffing, and management of school buildings and grounds. It affects school board members, district staff, students, and the broader community. Parents and community members should be aware of these policies because they shape how safely and efficiently schools are run — from who is responsible for security on campus to how taxpayer dollars are spent on purchases and facilities."
+  "description_local": "This policy area covers a range of school operations, including how board members request information, how the district purchases goods and services, emergency planning, security staffing, and management of school buildings and grounds. It affects school board members, district staff, students, and the broader community. Parents and community members should be aware of these policies because they shape how safely and efficiently schools are run — from who is responsible for security on campus to how taxpayer dollars are spent on purchases and facilities.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CKE"
 }

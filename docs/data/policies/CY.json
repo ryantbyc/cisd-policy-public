@@ -1,7 +1,7 @@
 {
   "code": "CY",
-  "title": "Intellectual Property (Local)",
-  "description": "This policy governs who owns creative works, inventions, and other intellectual property developed by district employees, students, or others using school district resources or time. It applies to teachers, staff, students, and vendors who create materials or tools in connection with the district. Parents and community members should be aware of this policy because it affects how educational materials are developed, shared, and protected, and ensures the district is thoughtful about its relationships with outside vendors who may create or use district-related content.",
+  "title": "Intellectual Property",
+  "description": "Conroe ISD's intellectual property policy explains who owns creative works, inventions, and other original content created by employees and students using district resources or as part of their work for the district. It sets clear expectations about copyright, ownership rights, and how such materials may be used or shared. Understanding these guidelines helps students, staff, and community members know their rights and responsibilities when creating or using original work connected to the district.",
   "last_action_date": "2025-11-18",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -47,5 +47,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs ownership and use of intellectual property — such as original materials, curricula, software, or creative works — developed by or for the school district. It primarily affects district employees, vendors, and contractors who create or contribute materials used in schools. Parents and community members should be aware of this policy because it shapes how educational resources are developed, protected, and shared, and ensures the district carefully manages the tools and content used in their children's education."
+  "description_local": "This policy governs ownership and use of intellectual property — such as original materials, curricula, software, or creative works — developed by or for the school district. It primarily affects district employees, vendors, and contractors who create or contribute materials used in schools. Parents and community members should be aware of this policy because it shapes how educational resources are developed, protected, and shared, and ensures the district carefully manages the tools and content used in their children's education.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CY"
 }

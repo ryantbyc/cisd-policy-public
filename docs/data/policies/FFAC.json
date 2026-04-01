@@ -1,7 +1,7 @@
 {
   "code": "FFAC",
-  "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
-  "description": "This policy covers a set of updates to five school district rules governing employee legal protections, student grading and progress reporting, medical treatment at school, crisis intervention, and child abuse and neglect procedures — all revised to reflect recent changes in Texas law. These updates affect teachers and staff, students, and parents across the district. Parents and community members should be aware of these changes because they directly impact how schools communicate student progress, respond to health and safety emergencies, and handle situations involving potential harm to children.",
+  "title": "Wellness and Health Services: Medical Treatment",
+  "description": "Conroe ISD outlines how school staff respond when students need medical attention during the school day, including procedures for handling emergencies, administering first aid, and coordinating with parents or guardians. The policy also addresses when and how medications may be given to students at school, and what documentation is required to keep students safe. Parents and community members can rely on these guidelines to understand the care their children may receive if a health situation arises on campus.",
   "last_action_date": "2026-02-17",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -59,5 +59,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy covers a set of updates to five school district rules governing employee legal protections, student grading and progress reporting, medical treatment at school, crisis intervention, and child abuse and neglect procedures — all revised to reflect recent changes in Texas law. These updates affect teachers and staff, students, and parents across the district. Parents and community members should be aware of these changes because they directly impact how schools communicate student progress, respond to health and safety emergencies, and handle situations involving potential harm to children."
+  "description_local": "This policy covers a set of updates to five school district rules governing employee legal protections, student grading and progress reporting, medical treatment at school, crisis intervention, and child abuse and neglect procedures — all revised to reflect recent changes in Texas law. These updates affect teachers and staff, students, and parents across the district. Parents and community members should be aware of these changes because they directly impact how schools communicate student progress, respond to health and safety emergencies, and handle situations involving potential harm to children.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FFAC"
 }

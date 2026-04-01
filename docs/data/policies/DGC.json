@@ -1,7 +1,7 @@
 {
   "code": "DGC",
-  "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
-  "description": "This policy document covers updates to five separate school district policies affecting both employees and students, including staff legal protections, student grading and progress reporting, medical treatment procedures, crisis intervention protocols, and child abuse and neglect reporting. The changes affect teachers, other school employees, students, and their families, and were made to bring district practices in line with recent Texas state legislation. Parents and community members should be aware of these updates because they directly impact how the school communicates student progress, responds to health and safety emergencies, and fulfills its legal obligations to protect children from abuse and neglect.",
+  "title": "Employee Rights and Privileges: Immunity",
+  "description": "School district employees are protected from personal legal liability when they act in good faith while carrying out their official job duties. This protection encourages staff to make decisions and take actions in the best interest of students without fear of personal lawsuits. Understanding these protections helps the community know how accountability is structured when questions arise about employee conduct.",
   "last_action_date": "2026-02-17",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -57,5 +57,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy document covers updates to five separate school district policies affecting both employees and students, including staff legal protections, student grading and progress reporting, medical treatment procedures, crisis intervention protocols, and child abuse and neglect reporting. The changes affect teachers, other school employees, students, and their families, and were made to bring district practices in line with recent Texas state legislation. Parents and community members should be aware of these updates because they directly impact how the school communicates student progress, responds to health and safety emergencies, and fulfills its legal obligations to protect children from abuse and neglect."
+  "description_local": "This policy document covers updates to five separate school district policies affecting both employees and students, including staff legal protections, student grading and progress reporting, medical treatment procedures, crisis intervention protocols, and child abuse and neglect reporting. The changes affect teachers, other school employees, students, and their families, and were made to bring district practices in line with recent Texas state legislation. Parents and community members should be aware of these updates because they directly impact how the school communicates student progress, responds to health and safety emergencies, and fulfills its legal obligations to protect children from abuse and neglect.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/DGC"
 }

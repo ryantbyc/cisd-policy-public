@@ -1,7 +1,7 @@
 {
   "code": "CH",
-  "title": "CH — Purchasing and Acquisition",
-  "description": "This policy governs how the school district purchases goods and services, setting the rules and procedures for spending public funds on everything from supplies and equipment to contracts with outside vendors. It applies to district administrators and staff who are responsible for making purchasing decisions on behalf of the school system. For parents and community members, this policy matters because it helps ensure that taxpayer money is spent responsibly, transparently, and in accordance with state law.",
+  "title": "Purchasing and Acquisition",
+  "description": "Conroe ISD follows specific rules when spending public money to buy goods and services, ensuring purchases are made fairly and responsibly. These guidelines help prevent waste and require the district to seek competitive pricing on larger purchases, so taxpayer dollars go as far as possible. Community members can trust that school funds are being managed with accountability and transparency.",
   "last_action_date": "2026-02-17",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -105,5 +105,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs how the school district purchases goods and services, setting the rules for how money is spent on everything from supplies and equipment to contracts with outside vendors. It applies to district staff and administrators who make purchasing decisions on behalf of the schools. For parents and community members, this policy matters because it helps ensure taxpayer dollars are spent responsibly, fairly, and in accordance with state law."
+  "description_local": "This policy governs how the school district purchases goods and services, setting the rules for how money is spent on everything from supplies and equipment to contracts with outside vendors. It applies to district staff and administrators who make purchasing decisions on behalf of the schools. For parents and community members, this policy matters because it helps ensure taxpayer dollars are spent responsibly, fairly, and in accordance with state law.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CH"
 }

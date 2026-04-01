@@ -1,7 +1,7 @@
 {
   "code": "CQB",
   "title": "Technology Resources: Cybersecurity",
-  "description": "This policy governs how the school district protects its technology systems, networks, and digital data from cybersecurity threats and unauthorized access. It applies to the district as a whole, including staff, students, and the technology infrastructure used to support school operations. Parents and community members should be aware of this policy because it helps safeguard sensitive student and family information stored in district systems, ensuring that personal data remains secure.",
+  "description": "Conroe ISD's cybersecurity policy outlines how the district protects its technology systems, networks, and the sensitive data stored within them — including student and staff information. It establishes the responsibilities of district staff in preventing, detecting, and responding to cyber threats and security incidents. Keeping these systems secure helps ensure that learning is not disrupted and that personal information remains protected.",
   "last_action_date": "2025-12-16",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -86,5 +86,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy establishes the rules and requirements for protecting the school district's technology systems and digital information from cyber threats. It applies to the district as a whole, requiring the designation of a cybersecurity coordinator and the development of a formal cybersecurity plan. This matters to parents and community members because it helps ensure that sensitive student and family data stored by the district is safeguarded against breaches or cyberattacks."
+  "description_local": "This policy establishes the rules and requirements for protecting the school district's technology systems and digital information from cyber threats. It applies to the district as a whole, requiring the designation of a cybersecurity coordinator and the development of a formal cybersecurity plan. This matters to parents and community members because it helps ensure that sensitive student and family data stored by the district is safeguarded against breaches or cyberattacks.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CQB"
 }

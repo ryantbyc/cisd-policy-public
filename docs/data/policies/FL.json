@@ -1,7 +1,7 @@
 {
   "code": "FL",
-  "title": "Student Records (Local Policy)",
-  "description": "This policy governs how student records are created, maintained, and shared within the school district, including a wide range of documents such as academic transcripts, disciplinary records, and — following a recent update — school library records. It applies to all students enrolled in the district, as well as the staff, administrators, and other parties who may access or handle those records. Parents and community members should be aware of this policy because it defines what information the school keeps about their children, who can see it, and how it is protected.",
+  "title": "Student Records",
+  "description": "Student records in Conroe ISD are protected under clear guidelines about who can access them, how they are maintained, and how long they are kept. Parents and eligible students have the right to review educational records, request corrections, and control who outside the school can see their personal information. Understanding these rules helps families feel confident that their children's academic and personal information is handled with care and respect for their privacy.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -31,5 +31,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs how the school district collects, maintains, and manages student records, including what types of documents count as official education records. It applies to all students enrolled in the district, as well as their parents or guardians who have rights related to accessing and protecting those records. A recent update now specifically includes library records as an official type of education record, which matters to families because it clarifies that information about a student's library activity is formally protected under the district's student privacy rules."
+  "description_local": "This policy governs how the school district collects, maintains, and manages student records, including what types of documents count as official education records. It applies to all students enrolled in the district, as well as their parents or guardians who have rights related to accessing and protecting those records. A recent update now specifically includes library records as an official type of education record, which matters to families because it clarifies that information about a student's library activity is formally protected under the district's student privacy rules.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FL"
 }

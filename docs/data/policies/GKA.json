@@ -1,7 +1,7 @@
 {
   "code": "GKA",
-  "title": "GKA (Local Policy)",
-  "description": "This policy governs the rules of conduct for members of the public when they are on school district property or attending school-sponsored events. It applies to community members, visitors, and anyone who interacts with the district in a public setting. Parents and community members should be aware of this policy because it outlines expectations for behavior on campus, including an updated ban on tobacco products, e-cigarettes, and electronic vaporizing devices, helping ensure a safe and healthy environment for students and staff.",
+  "title": "Community Relations: Conduct on School Premises",
+  "description": "Conroe ISD sets clear expectations for how visitors and community members should behave while on school campuses and other district property. The policy helps ensure that schools remain safe, orderly environments where students can learn without disruption. Parents, volunteers, and other guests visiting district facilities are expected to follow these conduct standards at all times.",
   "last_action_date": "2026-01-20",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -115,5 +115,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs how members of the public are expected to behave when on school district property, including rules about prohibited items such as tobacco products and e-cigarettes. It applies to anyone who visits or spends time on school campuses or other district facilities, not just students and staff. Parents and community members should be aware of this policy because it sets clear expectations for conduct on school grounds and helps ensure a safe environment for everyone, particularly children."
+  "description_local": "This policy governs how members of the public are expected to behave when on school district property, including rules about prohibited items such as tobacco products and e-cigarettes. It applies to anyone who visits or spends time on school campuses or other district facilities, not just students and staff. Parents and community members should be aware of this policy because it sets clear expectations for conduct on school grounds and helps ensure a safe environment for everyone, particularly children.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/GKA"
 }

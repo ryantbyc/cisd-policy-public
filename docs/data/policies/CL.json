@@ -1,7 +1,7 @@
 {
   "code": "CL",
-  "title": "BBE(Local) – Board Members: Authority; CH(Local) – Purchasing and Acquisition; CKC(Local) – Safety Program/Risk Management: Emergency Plans; CKE(Local) – Program/Risk Management: Security Personnel; CL(Local) – Buildings, Grounds, And Equipment Management",
-  "description": "This page summarizes recent updates to several district policies covering how Board members request information, how the district purchases goods and services, how schools plan for emergencies, how security staff are managed, and how school buildings and grounds are maintained. These policies affect school Board members, district staff, and indirectly, every student and family who uses school facilities or relies on a safe school environment. Parents and community members should be aware of these updates because they reflect changes in state law and touch on critical areas like school safety, security personnel, and the responsible use of public funds.",
+  "title": "Buildings, Grounds, and Equipment Management",
+  "description": "Conroe ISD's buildings, grounds, and equipment policy covers how the district maintains, operates, and cares for its physical facilities and property. It establishes standards for keeping schools safe, clean, and functional for students, staff, and visitors. Community members can also look to this policy for guidance on how district facilities are managed and protected as public assets.",
   "last_action_date": "2026-02-17",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -66,5 +66,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This page summarizes recent updates to several district policies covering how Board members request information, how the district purchases goods and services, how schools plan for emergencies, how security staff are managed, and how school buildings and grounds are maintained. These policies affect school Board members, district staff, and indirectly, every student and family who uses school facilities or relies on a safe school environment. Parents and community members should be aware of these updates because they reflect changes in state law and touch on critical areas like school safety, security personnel, and the responsible use of public funds."
+  "description_local": "This page summarizes recent updates to several district policies covering how Board members request information, how the district purchases goods and services, how schools plan for emergencies, how security staff are managed, and how school buildings and grounds are maintained. These policies affect school Board members, district staff, and indirectly, every student and family who uses school facilities or relies on a safe school environment. Parents and community members should be aware of these updates because they reflect changes in state law and touch on critical areas like school safety, security personnel, and the responsible use of public funds.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CL"
 }

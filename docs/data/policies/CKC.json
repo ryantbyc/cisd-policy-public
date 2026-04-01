@@ -1,7 +1,7 @@
 {
   "code": "CKC",
-  "title": "BBE(Local) – Board Members: Authority; CH(Local) – Purchasing and Acquisition; CKC(Local) – Safety Program/Risk Management: Emergency Plans; CKE(Local) – Program/Risk Management: Security Personnel; CL(Local) – Buildings, Grounds, And Equipment Management",
-  "description": "This policy covers a range of school district operations, including how board members request information, how the district purchases goods and services, emergency and safety planning, security personnel, and the management of school buildings and grounds. It affects school board members, district staff, and anyone who uses school facilities or depends on the district's safety and security systems. Parents and community members should be aware of these policies because they directly shape how safe and well-maintained schools are, how public funds are spent, and how the district prepares for and responds to emergencies.",
+  "title": "Safety Program/Risk Management: Emergency Plans",
+  "description": "Conroe ISD maintains emergency plans to help keep students and staff safe during crises such as severe weather, fires, or other threatening situations. The district coordinates these plans with local emergency management agencies to ensure a consistent and practiced response when emergencies occur. Parents and community members can feel confident that schools have documented procedures in place to protect everyone on campus.",
   "last_action_date": "2026-02-17",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -65,5 +65,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy covers a range of school district operations, including how board members request information, how the district purchases goods and services, emergency and safety planning, security personnel, and the management of school buildings and grounds. It affects school board members, district staff, and anyone who uses school facilities or depends on the district's safety and security systems. Parents and community members should be aware of these policies because they directly shape how safe and well-maintained schools are, how public funds are spent, and how the district prepares for and responds to emergencies."
+  "description_local": "This policy covers a range of school district operations, including how board members request information, how the district purchases goods and services, emergency and safety planning, security personnel, and the management of school buildings and grounds. It affects school board members, district staff, and anyone who uses school facilities or depends on the district's safety and security systems. Parents and community members should be aware of these policies because they directly shape how safe and well-maintained schools are, how public funds are spent, and how the district prepares for and responds to emergencies.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CKC"
 }

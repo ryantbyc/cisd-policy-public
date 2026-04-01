@@ -1,7 +1,7 @@
 {
   "code": "EB",
-  "title": "School Year Calendar",
-  "description": "This policy covers how the school district creates and approves the annual academic calendar, including the start and end of the school year, holidays, and instructional days. It affects all students, families, and staff who need to plan around the school schedule. Understanding this policy matters to parents because it explains how decisions about the school calendar are made and who has input in that process.",
+  "title": "School Year",
+  "description": "The School Year policy establishes how Conroe ISD structures its academic calendar, including the number of instructional days students attend school each year. It ensures the district meets state requirements for education time while providing a framework for planning around holidays, breaks, and other schedule changes. Parents and students can use this policy to understand how the school year is organized and what guidelines shape the district's calendar decisions.",
   "last_action_date": "2025-11-18",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -52,5 +52,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy covers how the school district sets its annual academic calendar, including the start and end dates of the school year, holidays, and other important scheduling decisions. It affects all students, families, and staff across the district. Parents and community members should be aware of this policy because the school calendar directly impacts family planning, childcare arrangements, and community activities throughout the year."
+  "description_local": "This policy covers how the school district sets its annual academic calendar, including the start and end dates of the school year, holidays, and other important scheduling decisions. It affects all students, families, and staff across the district. Parents and community members should be aware of this policy because the school calendar directly impacts family planning, childcare arrangements, and community activities throughout the year.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/EB"
 }

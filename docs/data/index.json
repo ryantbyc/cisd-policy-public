@@ -3,7 +3,7 @@
     {
       "code": "AA",
       "title": "School District Legal Status",
-      "description_short": "Conroe ISD operates as a public school district established under Texas law, giving it the authority to provide free education to students in the community.",
+      "description_short": "Conroe ISD operates as a public school district established under Texas state law, which means it is accountable to both the state and the local community it…",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -12,8 +12,8 @@
     },
     {
       "code": "AB",
-      "title": "Fiscal Management Goals and Objectives",
-      "description_short": "Conroe ISD's fiscal management policy sets the foundation for how the district handles its finances, ensuring that money is managed responsibly and in the best…",
+      "title": "District Name",
+      "description_short": "The Conroe Independent School District operates under its official name as established by the district's governing board.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -22,8 +22,38 @@
     },
     {
       "code": "AC",
-      "title": "Nondiscrimination",
-      "description_short": "Conroe ISD is committed to treating all students, staff, and community members fairly, regardless of race, color, religion, sex, national origin, disability,…",
+      "title": "Geographic Boundaries of School District",
+      "description_short": "The geographic boundaries of the Conroe Independent School District define the area the district is responsible for serving.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "AE",
+      "title": "Educational Philosophy",
+      "description_short": "Conroe ISD's educational philosophy sets out the district's core beliefs and guiding principles for how students are taught and supported.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "AF",
+      "title": "Innovation Districts",
+      "description_short": "Conroe ISD has the option under Texas law to apply for designation as an Innovation District, which allows the district to request exemptions from certain…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "AG",
+      "title": "Home Rule Districts",
+      "description_short": "Texas law gives school districts the option to operate under a \"home rule\" charter, which would allow the community to create its own customized rules for how…",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -32,8 +62,48 @@
     },
     {
       "code": "AIA",
-      "title": "Hate Crimes",
-      "description_short": "Conroe ISD takes hate crimes seriously and works with law enforcement when a crime motivated by bias or prejudice occurs on or near school property.",
+      "title": "Accountability: Accreditation and Performance Indicators",
+      "description_short": "Conroe ISD follows state and federal standards to measure how well the district and its schools are performing academically.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "AIB",
+      "title": "Accountability: Performance Reporting",
+      "description_short": "Conroe ISD regularly measures and reports how well its schools are performing academically, following standards set by the state of Texas.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "AIC",
+      "title": "Accountability: Interventions and Sanctions",
+      "description_short": "Conroe ISD follows state and federal guidelines to monitor school and district performance, stepping in with support or corrective actions when campuses are…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "AID",
+      "title": "Accountability: Federal Accountability Standards",
+      "description_short": "Federal accountability standards require Conroe ISD to measure and report how well students are learning and how effectively schools are performing.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "AIE",
+      "title": "Accountability: Investigations",
+      "description_short": "Conroe ISD follows specific procedures when state or federal agencies conduct investigations into the district's programs, operations, or use of funds.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -52,8 +122,8 @@
     },
     {
       "code": "BAA",
-      "title": "School Laws",
-      "description_short": "Conroe ISD operates under the authority of Texas state law, and this policy affirms the district's commitment to following all applicable education laws and…",
+      "title": "Board Powers & Duties",
+      "description_short": "The elected school board holds the authority and responsibility for overseeing Conroe ISD, setting district-wide goals, and making major decisions about…",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -71,9 +141,19 @@
       "has_legal": false
     },
     {
+      "code": "BBA",
+      "title": "Board Members: Eligibility/Qualifications",
+      "description_short": "Conroe ISD's school board is made up of elected community members who must meet certain qualifications to serve.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "BBB",
-      "title": "Board Elections",
-      "description_short": "Conroe ISD's Board Elections policy outlines how school board members are chosen, including the rules for when elections are held, who is eligible to run, and…",
+      "title": "Board Members: Elections",
+      "description_short": "School board elections determine who represents the community in making key decisions about Conroe ISD schools, including budgets, curriculum, and district…",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -82,8 +162,8 @@
     },
     {
       "code": "BBBA",
-      "title": "Board Member Qualifications",
-      "description_short": "Conroe ISD board members must meet specific qualifications to serve, including residency, voter registration, and other eligibility requirements established by…",
+      "title": "Conducting Elections",
+      "description_short": "Conroe ISD's board member elections follow specific rules to ensure the process is fair, transparent, and conducted properly.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -92,8 +172,8 @@
     },
     {
       "code": "BBBB",
-      "title": "Board Member Removal",
-      "description_short": "Conroe ISD's board member removal policy outlines the circumstances and processes under which an elected school board member may be removed from their position.",
+      "title": "Elections: Post-Election Procedures",
+      "description_short": "After each school board election, specific steps must be followed to make the results official and seat newly elected members.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -102,8 +182,18 @@
     },
     {
       "code": "BBBC",
-      "title": "Unexpired Term Fulfillment",
-      "description_short": "When a school board member leaves office before their term ends, this policy explains how the empty seat gets filled.",
+      "title": "Elections: Campaign Finance",
+      "description_short": "School board candidates and current board members must follow rules about how they raise and spend money during election campaigns.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BBBD",
+      "title": "Elections: Campaign Ethics",
+      "description_short": "Board members and candidates running for a seat on the Conroe ISD Board of Trustees are expected to follow ethical standards during election campaigns.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -112,8 +202,8 @@
     },
     {
       "code": "BBC",
-      "title": "Board Member Resignation",
-      "description_short": "When a school board member chooses to leave their position before their term ends, this policy outlines the process they must follow to officially resign.",
+      "title": "Board Members: Vacancies and Removal from Office",
+      "description_short": "When a school board seat becomes empty or a board member needs to be removed from their position, this policy explains how the district handles those…",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -122,8 +212,8 @@
     },
     {
       "code": "BBD",
-      "title": "Board Member Duties",
-      "description_short": "School board members in Conroe ISD follow a set of defined responsibilities that guide how they serve the community, make decisions, and conduct themselves in…",
+      "title": "Board Members: Training and Orientation",
+      "description_short": "School board members in Conroe ISD are required to complete training and orientation to prepare them for their role in governing the district.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -132,7 +222,7 @@
     },
     {
       "code": "BBE",
-      "title": "Board Member Authority",
+      "title": "Board Members: Authority",
       "description_short": "This policy defines the authority and decision-making power of individual school board members and the board as a whole.",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
@@ -142,8 +232,28 @@
     },
     {
       "code": "BBF",
-      "title": "Board Member Ethics",
-      "description_short": "Board members in Conroe ISD are expected to follow a clear set of ethical standards that guide how they conduct themselves in their official roles.",
+      "title": "Board Members: Ethics",
+      "description_short": "School board members in Conroe ISD are expected to follow clear ethical standards in how they carry out their duties and represent the community.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BBFA",
+      "title": "Ethics: Conflict of Interest Disclosures",
+      "description_short": "Board members are required to disclose any personal or financial interests that could influence their decisions on district matters.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BBFB",
+      "title": "Ethics: Prohibited Practices",
+      "description_short": "Board members are held to strict ethical standards that prohibit conflicts of interest, misuse of their position, and other dishonest or self-serving conduct.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -152,8 +262,8 @@
     },
     {
       "code": "BBG",
-      "title": "Board Member Compensation and Expenses",
-      "description_short": "Board members in Conroe ISD serve without pay, but the district has clear rules about when and how members can be reimbursed for expenses related to their…",
+      "title": "Board Members: Compensation and Expenses",
+      "description_short": "School board members in Conroe ISD serve without pay, but they may be reimbursed for reasonable expenses related to their duties, such as attending conferences…",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -162,8 +272,8 @@
     },
     {
       "code": "BBI",
-      "title": "Board Member Development",
-      "description_short": "School board members in Conroe ISD are expected to continuously develop their knowledge and skills so they can make well-informed decisions on behalf of…",
+      "title": "Board Members: Technology Resources and Electronic Communications",
+      "description_short": "School board members are expected to use district technology and electronic communication tools responsibly and in ways that support the board's work.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -221,9 +331,29 @@
       "has_legal": false
     },
     {
+      "code": "BDAA",
+      "title": "Officers and Officials: Duties and Requirements of Board Officers",
+      "description_short": "The Conroe ISD Board of Trustees has specific officers — such as a president, vice president, and secretary — who each carry defined responsibilities for…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BDAE",
+      "title": "Officers and Officials: Duties and Requirements of Depository",
+      "description_short": "Conroe ISD designates an official financial depository — typically a bank or financial institution — to safeguard and manage district funds.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "BDB",
-      "title": "Board Committees",
-      "description_short": "The Conroe ISD Board of Trustees may form committees to study specific issues and provide recommendations that help guide board decisions.",
+      "title": "Board Internal Organization: Internal Committees",
+      "description_short": "The school board has the authority to create internal committees made up of board members to help study issues and carry out the board's work.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -242,7 +372,7 @@
     },
     {
       "code": "BDD",
-      "title": "Board-Superintendent Relations",
+      "title": "Board Internal Organization: Attorney",
       "description_short": "This policy governs how the school board and the superintendent work together to lead the district, including how responsibilities are divided between elected…",
       "last_action_date": "2026-01-20",
       "last_action_result": "adopted",
@@ -262,8 +392,8 @@
     },
     {
       "code": "BDF",
-      "title": "Board Member Communication with Schools",
-      "description_short": "Board members play an important role in the district, but they act on behalf of the community as a whole rather than as individual decision-makers.",
+      "title": "Board Internal Organization: Citizen Advisory Committees",
+      "description_short": "The Conroe ISD Board of Trustees may create citizen advisory committees to gather community input on specific topics or district initiatives.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -281,8 +411,28 @@
       "has_legal": false
     },
     {
-      "code": "BED",
+      "code": "BE",
       "title": "Board Meetings",
+      "description_short": "The Board Meetings policy outlines how and when Conroe ISD's elected school board conducts its official meetings, including rules for scheduling, public…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BEC",
+      "title": "Board Meetings: Closed Meetings",
+      "description_short": "The school board sometimes meets privately to discuss sensitive matters such as employee personnel issues, student information, or certain legal and financial…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BED",
+      "title": "Board Meetings: Public Participation",
       "description_short": "This policy governs how school board meetings are conducted, including the rules for scheduling, running, and participating in official board meetings.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -352,8 +502,8 @@
     },
     {
       "code": "BF",
-      "title": "Annual Organizational Meeting",
-      "description_short": "Each year, the school board holds an organizational meeting to set up its leadership structure, including selecting officers such as the board president and…",
+      "title": "Board Policies",
+      "description_short": "The Conroe ISD Board of Trustees maintains a set of written policies that guide how the district is governed and operated.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -362,8 +512,8 @@
     },
     {
       "code": "BG",
-      "title": "Board Legislative Program",
-      "description_short": "The Board Legislative Program outlines how Conroe ISD's school board engages with state lawmakers to advocate for the needs of students, staff, and the…",
+      "title": "Board Self-Evaluation",
+      "description_short": "The Conroe ISD Board of Trustees regularly evaluates its own performance to ensure it is effectively serving students, families, and the community.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -431,8 +581,98 @@
       "has_legal": false
     },
     {
+      "code": "BJA",
+      "title": "Superintendent: Qualifications and Duties",
+      "description_short": "The superintendent serves as the district's top leader, responsible for managing day-to-day operations and carrying out the direction set by the school board.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BJB",
+      "title": "Superintendent: Recruitment and Appointment",
+      "description_short": "When the district needs to hire a new superintendent, the Board of Trustees follows a defined process for recruiting and selecting the right candidate.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BJC",
+      "title": "Superintendent: Contract",
+      "description_short": "The board's contract with the superintendent outlines the terms of employment for the district's top leader, including compensation, job expectations, and the…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BJCB",
+      "title": "Superintendent: Professional Development",
+      "description_short": "Conroe ISD requires its superintendent to pursue ongoing professional learning and growth to stay current in educational leadership.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BJCD",
+      "title": "Superintendent: Evaluation",
+      "description_short": "The school board regularly evaluates the Superintendent's job performance to ensure district leadership is effective and accountable.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BJCE",
+      "title": "Superintendent: Suspension/Termination During Contract",
+      "description_short": "The policy outlines the process the district follows when considering suspending or terminating the superintendent's employment contract before it expires.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BJCF",
+      "title": "Superintendent: Nonrenewal",
+      "description_short": "The district's process for deciding not to renew a superintendent's employment contract is outlined here, including the grounds and procedures the school board…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BJCG",
+      "title": "Superintendent: Resignation",
+      "description_short": "When the superintendent decides to leave their position, this policy outlines the process they must follow, including how much notice they are required to give…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "BP",
+      "title": "Administrative Regulations",
+      "description_short": "The superintendent has the authority to create and update specific rules and procedures that put the district's broader policies into everyday practice.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "BQ",
-      "title": "Planning and Decision Making",
+      "title": "Planning and Decision-Making Process",
       "description_short": "This policy governs how the school district develops and approves its annual District Improvement Plan (DIP), a required document that outlines the district's…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -442,8 +682,8 @@
     },
     {
       "code": "BQA",
-      "title": "Strategic Planning",
-      "description_short": "Conroe ISD's strategic planning policy guides how the district sets long-term goals and priorities to improve student success and community outcomes.",
+      "title": "Planning and Decision-Making Process: District-Level",
+      "description_short": "Conroe ISD uses a structured planning process to make important decisions about district goals, programs, and budgets.",
       "last_action_date": null,
       "last_action_result": null,
       "timeline_count": 0,
@@ -452,7 +692,7 @@
     },
     {
       "code": "BQB",
-      "title": "Campus Planning",
+      "title": "Planning and Decision-Making Process: Campus-Level",
       "description_short": "This policy governs how the school district creates and updates its annual District Improvement Plan, a required roadmap that outlines goals and strategies for…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -472,7 +712,7 @@
     },
     {
       "code": "CAA",
-      "title": "Fiscal Management Goals and Objectives",
+      "title": "Fiscal Management Goals and Objectives: Financial Ethics",
       "description_short": "This policy sets the overall financial goals and priorities that guide how Conroe ISD manages its money, including how funds are budgeted, spent, and accounted…",
       "last_action_date": "2025-12-16",
       "last_action_result": "adopted",
@@ -482,7 +722,7 @@
     },
     {
       "code": "CB",
-      "title": "CB Local (Annual Operating Budget / Policy Reference)",
+      "title": "State and Federal Revenue Sources",
       "description_short": "This policy relates to the district's annual operating budget and financial planning processes, as well as the board's authorization of specific financial…",
       "last_action_date": "2026-01-20",
       "last_action_result": "adopted",
@@ -491,8 +731,118 @@
       "has_legal": false
     },
     {
+      "code": "CBA",
+      "title": "State and Federal Revenue Sources: State",
+      "description_short": "Conroe ISD follows state rules for receiving and managing funding that comes from Texas government sources.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CBB",
+      "title": "State and Federal Revenue Sources: Federal",
+      "description_short": "Federal funding plays an important role in supporting Conroe ISD programs and services, and this policy outlines how the district receives and manages money…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CCA",
+      "title": "Local Revenue Sources: Bond Issues",
+      "description_short": "Conroe ISD follows specific rules when asking voters to approve bonds, which are a common way school districts raise money for major expenses like new…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CCB",
+      "title": "Local Revenue Sources: Time Warrants",
+      "description_short": "Conroe ISD has the authority to issue time warrants as a way to borrow money locally when needed to fund district operations or projects.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CCC",
+      "title": "Local Revenue Sources: Certificates of Indebtedness",
+      "description_short": "Conroe ISD occasionally needs to borrow money for short-term expenses before tax revenues or other funds become available.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CCD",
+      "title": "Local Revenue Sources: Recreational Facilities Bonds",
+      "description_short": "Conroe ISD has the authority to issue bonds specifically for building or improving recreational facilities, such as gyms, athletic complexes, or other…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CCE",
+      "title": "Local Revenue Sources: Athletic Stadium Authority",
+      "description_short": "Conroe ISD has the authority to establish an Athletic Stadium Authority to help fund the construction or improvement of athletic stadiums using local revenue…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CCF",
+      "title": "Local Revenue Sources: Loans and Notes",
+      "description_short": "Conroe ISD follows specific rules when borrowing money through loans or short-term notes to help fund district operations and needs.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CCGA",
+      "title": "Ad Valorem Taxes: Exemptions and Payments",
+      "description_short": "Conroe ISD follows rules about who qualifies for reductions on their local property taxes and how those taxes are paid.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CCGB",
+      "title": "Ad Valorem Taxes: Economic Development",
+      "description_short": "Conroe ISD's approach to economic development tax agreements explains how the district handles situations where businesses receive local property tax breaks as…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CCH",
+      "title": "Local Revenue Sources: Appraisal District",
+      "description_short": "Conroe ISD follows specific guidelines for working with the local appraisal district, which determines the value of property in the community.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "CDA",
-      "title": "Fraud — Federal Awards Disclosure",
+      "title": "Other Revenues: Investments",
       "description_short": "This policy governs how the school district detects, prevents, and reports fraud, with a specific focus on disclosing required information when the district…",
       "last_action_date": "2025-12-16",
       "last_action_result": "adopted",
@@ -501,13 +851,183 @@
       "has_legal": false
     },
     {
+      "code": "CDB",
+      "title": "Other Revenues: Sale, Lease, or Exchange of School-Owned Property",
+      "description_short": "When Conroe ISD needs to sell, lease, or trade property it owns — such as land, buildings, or equipment — this policy sets the rules for how that process works.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CDBA",
+      "title": "Sale, Lease, or Exchange of School-Owned Property: Revenue Bonds From Proceeds",
+      "description_short": "When the district sells, leases, or exchanges property it owns, any money raised through revenue bonds from those transactions must be handled according to…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CDC",
+      "title": "Other Revenues: Gifts and Solicitations",
+      "description_short": "Conroe ISD's guidelines on gifts and solicitations explain how the district handles donations, fundraising activities, and requests for money or goods from…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CDH",
+      "title": "Other Revenues: Public and Private Facilities",
+      "description_short": "Conroe ISD's rules for using school facilities and generating revenue from public and private sources are outlined here.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CE",
+      "title": "Annual Operating Budget",
+      "description_short": "The annual operating budget policy governs how Conroe ISD plans and manages its spending each school year.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CEA",
+      "title": "Annual Operating Budget: Financial Exigency",
+      "description_short": "Conroe ISD follows a defined process for declaring a financial emergency when the district faces a serious budget shortfall that threatens its ability to…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CFA",
+      "title": "Accounting: Financial Reports and Statements",
+      "description_short": "Conroe ISD follows established standards for preparing and sharing financial reports that show how public funds are managed throughout the year.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CFB",
+      "title": "Accounting: Inventories",
+      "description_short": "Conroe ISD keeps accurate records of the property and equipment it owns, such as furniture, technology, and other valuable items purchased with public funds.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CFC",
+      "title": "Accounting: Audits",
+      "description_short": "Conroe ISD regularly conducts financial audits to make sure public funds are managed honestly and responsibly.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CFD",
+      "title": "Accounting: Activity Funds Management",
+      "description_short": "Conroe ISD uses this policy to manage money collected through school clubs, sports teams, student organizations, and other campus activities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CFE",
+      "title": "Accounting: Payroll Procedures",
+      "description_short": "Conroe ISD follows established procedures to ensure that all district employees are paid accurately and on time.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CFEA",
+      "title": "Payroll Procedures: Salary Deductions and Reductions",
+      "description_short": "Conroe ISD follows specific rules about when and how employee paychecks can have amounts taken out or reduced.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "CH",
-      "title": "CH — Purchasing and Acquisition",
+      "title": "Purchasing and Acquisition",
       "description_short": "This policy governs how the school district purchases goods and services, setting the rules for how money is spent on everything from supplies and equipment to…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
       "timeline_count": 3,
       "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "CHE",
+      "title": "Purchasing and Acquisition: Vendor Disclosures and Contracts",
+      "description_short": "Conroe ISD follows specific rules when working with vendors and signing contracts to make sure public money is spent responsibly and transparently.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CHF",
+      "title": "Purchasing and Acquisition: Payment Procedures",
+      "description_short": "Conroe ISD follows established procedures for reviewing and approving payments to vendors, contractors, and service providers.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CHG",
+      "title": "Purchasing and Acquisition: Real Property and Improvements",
+      "description_short": "Conroe ISD follows specific rules when buying land, buildings, or making major improvements to district property.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CHH",
+      "title": "Purchasing and Acquisition: Financing Personal Property Purchases",
+      "description_short": "Conroe ISD follows specific rules when financing the purchase of equipment and other physical assets for the district.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CI",
+      "title": "School Properties Disposal",
+      "description_short": "Conroe ISD follows specific rules when deciding to sell, donate, or otherwise get rid of school property that is no longer needed.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
       "has_legal": false
     },
     {
@@ -521,8 +1041,58 @@
       "has_legal": false
     },
     {
+      "code": "CJ",
+      "title": "Contracted Services",
+      "description_short": "Conroe ISD follows specific rules when hiring outside companies or individuals to provide services for the district.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CJA",
+      "title": "Contracted Services: Criminal History",
+      "description_short": "Conroe ISD requires criminal history background checks for contractors and their employees who work on district campuses or come into contact with students.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CK",
+      "title": "Safety Program/Risk Management",
+      "description_short": "Conroe ISD maintains a districtwide safety and risk management program to help protect students, staff, and visitors on school campuses and at district…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CKA",
+      "title": "Safety Program/Risk Management: Safety and Security Audits and Monitoring",
+      "description_short": "Conroe ISD regularly conducts safety and security audits to evaluate how well its campuses and facilities protect students and staff.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CKB",
+      "title": "Safety Program/Risk Management: Accident Prevention and Reports",
+      "description_short": "Conroe ISD maintains a safety program focused on preventing accidents and managing risks across its campuses and facilities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "CKC",
-      "title": "BBE(Local) – Board Members: Authority; CH(Local) – Purchasing and Acquisition; CKC(Local) – Safety Program/Risk Management: Emergency Plans; CKE(Local) – Program/Risk Management: Security Personnel; CL(Local) – Buildings, Grounds, And Equipment Management",
+      "title": "Safety Program/Risk Management: Emergency Plans",
       "description_short": "This policy covers a range of school district operations, including how board members request information, how the district purchases goods and services,…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
@@ -531,8 +1101,18 @@
       "has_legal": false
     },
     {
+      "code": "CKD",
+      "title": "Safety Program/Risk Management: Emergency Medical Equipment and Procedures",
+      "description_short": "Conroe ISD maintains emergency medical equipment, such as automated external defibrillators (AEDs), at district facilities and establishes procedures for…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "CKE",
-      "title": "BBE(Local) – Board Members: Authority; CH(Local) – Purchasing and Acquisition; CKC(Local) – Safety Program/Risk Management: Emergency Plans; CKE(Local) – Program/Risk Management: Security Personnel; CL(Local) – Buildings, Grounds, And Equipment Management",
+      "title": "Safety Program/Risk Management: Security Personnel",
       "description_short": "This policy area covers a range of school operations, including how board members request information, how the district purchases goods and services, emergency…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
@@ -541,13 +1121,203 @@
       "has_legal": false
     },
     {
+      "code": "CKEA",
+      "title": "Security Personnel: Commissioned Peace Officers",
+      "description_short": "Conroe ISD employs commissioned peace officers as part of its school security program.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CKEB",
+      "title": "Security Personnel: School Marshals",
+      "description_short": "Conroe ISD's school marshal program allows specially trained district employees to carry firearms on campus as a layer of security.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CKEC",
+      "title": "Security Personnel: School Resource Officers",
+      "description_short": "School Resource Officers (SROs) are licensed peace officers who work inside Conroe ISD schools to help keep students and staff safe.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CKED",
+      "title": "Security Personnel: Other Security Arrangements",
+      "description_short": "Conroe ISD may enter into agreements with local law enforcement agencies or hire outside security contractors to help keep campuses and district facilities…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "CL",
-      "title": "BBE(Local) – Board Members: Authority; CH(Local) – Purchasing and Acquisition; CKC(Local) – Safety Program/Risk Management: Emergency Plans; CKE(Local) – Program/Risk Management: Security Personnel; CL(Local) – Buildings, Grounds, And Equipment Management",
+      "title": "Buildings, Grounds, and Equipment Management",
       "description_short": "This page summarizes recent updates to several district policies covering how Board members request information, how the district purchases goods and services,…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
       "timeline_count": 2,
       "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "CLA",
+      "title": "Buildings, Grounds, and Equipment Management: Security",
+      "description_short": "Conroe ISD maintains safety and security measures across all district buildings, grounds, and equipment to help protect students, staff, and visitors.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CLB",
+      "title": "Buildings, Grounds, and Equipment Management: Maintenance",
+      "description_short": "Conroe ISD maintains its buildings, grounds, and equipment to provide safe and functional learning environments for students and staff.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CLC",
+      "title": "Buildings, Grounds, and Equipment Management: Traffic and Parking Controls",
+      "description_short": "Conroe ISD manages traffic flow and parking on school property to keep students, staff, and visitors safe during drop-off, pick-up, and other campus activities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CLE",
+      "title": "Buildings, Grounds, and Equipment Management: Flag Displays",
+      "description_short": "Conroe ISD follows specific rules about which flags may be displayed on school campuses and how they must be displayed.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CMD",
+      "title": "Equipment and Supplies Management: Instructional Materials Care and Accounting",
+      "description_short": "Conroe ISD outlines how instructional materials — such as textbooks and other learning resources — are distributed, cared for, and tracked throughout the…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CNA",
+      "title": "Transportation Management: Student Transportation",
+      "description_short": "Conroe ISD's rules for transporting students to and from school, including school-sponsored activities, are outlined here.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CNB",
+      "title": "Transportation Management: District Vehicles",
+      "description_short": "Conroe ISD maintains rules for how district-owned vehicles are used, maintained, and operated to keep students, staff, and the public safe.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CNC",
+      "title": "Transportation Management: Transportation Safety",
+      "description_short": "Conroe ISD's transportation safety policy establishes the rules and procedures the district follows to keep students safe while riding school buses and other…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CO",
+      "title": "Food and Nutrition Management",
+      "description_short": "Conroe ISD's food and nutrition management policy sets the standards for how the district plans, operates, and oversees its meal programs for students.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "COA",
+      "title": "Food and Nutrition Management: Procurement",
+      "description_short": "Conroe ISD follows specific rules when purchasing food and supplies for the school nutrition program to make sure public funds are spent responsibly and fairly.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "COB",
+      "title": "Food and Nutrition Management: Free and Reduced-Price Meals",
+      "description_short": "Conroe ISD follows federal and state guidelines to provide free or reduced-price meals to students whose families qualify based on income.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CPAB",
+      "title": "Office Communications: Mail and Delivery",
+      "description_short": "Conroe ISD's guidelines for handling mail and deliveries help ensure that official communications and packages sent to district offices are received,…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CPC",
+      "title": "Office Management: Records Management",
+      "description_short": "Conroe ISD follows established rules for how the district creates, stores, and eventually disposes of official records.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CQ",
+      "title": "Technology Resources",
+      "description_short": "Conroe ISD's technology resources policy covers how the district manages and provides access to computers, networks, internet services, and other digital tools…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CQA",
+      "title": "Technology Resources: Records Management",
+      "description_short": "Conroe ISD follows specific rules for how it stores, manages, and disposes of digital records and technology-based information.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
       "has_legal": false
     },
     {
@@ -561,8 +1331,208 @@
       "has_legal": false
     },
     {
+      "code": "CQC",
+      "title": "Technology Resources: Equipment",
+      "description_short": "Conroe ISD's equipment and technology resources policy outlines how the district acquires, manages, and maintains the devices and tools used for learning and…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CR",
+      "title": "Insurance and Annuities Management",
+      "description_short": "Conroe ISD follows specific rules for managing insurance coverage and annuity programs that protect the district's buildings, equipment, and financial…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CRB",
+      "title": "Insurance and Annuities Management: Liability Insurance",
+      "description_short": "Conroe ISD maintains liability insurance coverage to protect the district, its employees, and its operations from financial losses that could result from…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CRD",
+      "title": "Insurance and Annuities Management: Health and Life Insurance",
+      "description_short": "Conroe ISD offers health and life insurance benefits to eligible employees and manages how those plans are selected and maintained.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CRE",
+      "title": "Insurance and Annuities Management: Workers' Compensation",
+      "description_short": "Conroe ISD maintains workers' compensation coverage to support district employees who are injured or become ill as a result of their jobs.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CRF",
+      "title": "Insurance and Annuities Management: Unemployment Insurance",
+      "description_short": "Conroe ISD maintains unemployment insurance coverage to provide temporary financial support to eligible employees who lose their jobs through no fault of their…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CRG",
+      "title": "Insurance and Annuities Management: Deferred Compensation and Annuities",
+      "description_short": "Conroe ISD allows employees to voluntarily set aside part of their paycheck into retirement savings accounts, such as annuities or deferred compensation plans,…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CS",
+      "title": "Facility Standards",
+      "description_short": "Conroe ISD maintains standards for the design, construction, and upkeep of its school buildings and facilities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CSA",
+      "title": "Facility Standards: Safety and Security",
+      "description_short": "Conroe ISD maintains standards for keeping school buildings, campuses, and facilities safe and secure for everyone who uses them.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CSB",
+      "title": "Facility Standards: Gas and Pipelines",
+      "description_short": "Conroe ISD follows established standards for the safe installation, maintenance, and inspection of gas lines and pipelines on school property.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CSC",
+      "title": "Facility Standards: Asbestos Management",
+      "description_short": "Conroe ISD follows established guidelines to identify, monitor, and manage asbestos in its school buildings.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CV",
+      "title": "Facilities Construction",
+      "description_short": "Conroe ISD follows specific rules and procedures when planning and building new school facilities or making major improvements to existing ones.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CVA",
+      "title": "Facilities Construction: Competitive Bidding",
+      "description_short": "Conroe ISD follows a competitive bidding process when hiring contractors to build or renovate school facilities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CVB",
+      "title": "Facilities Construction: Competitive Sealed Proposals",
+      "description_short": "Conroe ISD uses a competitive sealed proposal process when hiring contractors to build or renovate school facilities, allowing the district to evaluate bids…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CVC",
+      "title": "Facilities Construction: Construction Manager-Agent",
+      "description_short": "When Conroe ISD takes on building or renovation projects, it sometimes hires a construction manager-agent — a professional who oversees the work on the…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CVD",
+      "title": "Facilities Construction: Construction Manager-At-Risk",
+      "description_short": "Conroe ISD uses this policy to guide how it hires and works with a construction manager when building or renovating school facilities using a \"construction…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CVE",
+      "title": "Facilities Construction: Design-Build",
+      "description_short": "Conroe ISD follows specific rules when hiring a single company to both design and build school facilities under one contract, a method known as design-build.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CVF",
+      "title": "Facilities Construction: Job Order Contracts",
+      "description_short": "Conroe ISD uses job order contracts as a streamlined way to hire contractors for smaller construction, repair, and renovation projects on school facilities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CW",
+      "title": "Naming Facilities",
+      "description_short": "The district has a formal process for naming its schools, buildings, and other facilities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "CX",
+      "title": "Contracts for Facilities",
+      "description_short": "Conroe ISD follows specific rules when entering into contracts for building, renovating, or maintaining school facilities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "CY",
-      "title": "Intellectual Property (Local)",
+      "title": "Intellectual Property",
       "description_short": "This policy governs ownership and use of intellectual property — such as original materials, curricula, software, or creative works — developed by or for the…",
       "last_action_date": "2025-11-18",
       "last_action_result": "information_only",
@@ -571,8 +1541,228 @@
       "has_legal": false
     },
     {
+      "code": "DAA",
+      "title": "Employment Objectives: Equal Employment Opportunity",
+      "description_short": "Conroe ISD is committed to hiring and treating all employees fairly, regardless of race, color, religion, sex, national origin, age, disability, or other…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DAB",
+      "title": "Employment Objectives: Genetic Nondiscrimination",
+      "description_short": "Conroe ISD does not use an employee's genetic information — such as family medical history or genetic test results — when making hiring, pay, or other…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DBA",
+      "title": "Employment Requirements and Restrictions: Credentials and Records",
+      "description_short": "Conroe ISD requires all employees to hold valid certifications and keep their personal and professional records accurate and up to date.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DBAA",
+      "title": "Employment Requirements and Restrictions: Pre-Employment Reviews",
+      "description_short": "Before hiring any new employee, Conroe ISD conducts background checks and other pre-employment reviews to help ensure the safety of students and staff.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DBB",
+      "title": "Employment Requirements and Restrictions: Medical Examinations and Communicable Diseases",
+      "description_short": "Conroe ISD requires employees to meet certain health standards to help maintain a safe environment for students and staff.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DBD",
+      "title": "Employment Requirements and Restrictions: Conflict of Interest",
+      "description_short": "Conroe ISD employees are required to disclose any personal or financial relationships that could influence their professional decisions or create a conflict…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DBE",
+      "title": "Employment Requirements and Restrictions: Nepotism",
+      "description_short": "Conroe ISD follows rules that prevent district employees from hiring or recommending the hiring of close relatives, such as spouses, children, siblings, or…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DC",
+      "title": "Employment Practices",
+      "description_short": "Conroe ISD's employment practices policy outlines how the district hires and retains its staff, including teachers, administrators, and support personnel.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DCA",
+      "title": "Employment Practices: Probationary Contracts",
+      "description_short": "Probationary contracts are used when the district first hires a teacher or other professional employee who is new to the district or returning after a break in…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DCB",
+      "title": "Employment Practices: Term Contracts",
+      "description_short": "Conroe ISD uses term contracts to define the length and conditions of employment for certain staff members, such as teachers and administrators.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DCC",
+      "title": "Employment Practices: Continuing Contracts",
+      "description_short": "Continuing contracts outline the employment terms for certain certified teachers and professional staff, explaining how and when these agreements can be…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DCD",
+      "title": "Employment Practices: At-Will Employment",
+      "description_short": "Conroe ISD employees, other than those with a formal contract, work on an at-will basis, meaning the district or the employee can end the employment…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DCE",
+      "title": "Employment Practices: Other Types of Contracts",
+      "description_short": "Conroe ISD uses this policy to outline when and how the district may enter into employment agreements beyond standard teacher and administrator contracts.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DEA",
+      "title": "Compensation and Benefits: Compensation Plan",
+      "description_short": "Conroe ISD's compensation plan establishes how the district sets pay for teachers, staff, and administrators.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DEAA",
+      "title": "Compensation Plan: Incentives and Stipends",
+      "description_short": "Conroe ISD's compensation guidelines for teacher and staff incentives explain how the district awards extra pay for things like specialized skills, additional…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DEAB",
+      "title": "Compensation Plan: Wage and Hour Laws",
+      "description_short": "Conroe ISD follows federal and state wage and hour laws to make sure all district employees are paid fairly and correctly for the time they work.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DEB",
+      "title": "Compensation and Benefits: Fringe Benefits",
+      "description_short": "Conroe ISD offers certain additional benefits to its employees beyond their regular salary, such as health insurance and other forms of compensation support.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DEC",
+      "title": "Compensation and Benefits: Leaves and Absences",
+      "description_short": "Conroe ISD's leave and absence policy outlines the types of paid and unpaid time off available to district employees, including sick leave, personal leave, and…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DECA",
+      "title": "Leaves and Absences: Family and Medical Leave",
+      "description_short": "Conroe ISD provides eligible employees with unpaid, job-protected leave for serious health conditions, the birth or adoption of a child, or to care for a…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DECB",
+      "title": "Leaves and Absences: Military Leave",
+      "description_short": "Conroe ISD supports employees who serve in the military by providing guidelines for how military-related absences from work are handled.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DED",
+      "title": "Compensation and Benefits: Vacations and Holidays",
+      "description_short": "Conroe ISD's vacation and holiday policy outlines the paid time off and scheduled breaks that district employees receive throughout the school year.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DEE",
+      "title": "Compensation and Benefits: Expense Reimbursement",
+      "description_short": "Conroe ISD reimburses employees for work-related expenses they pay out of pocket, such as travel, meals, and supplies purchased while carrying out district…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "DF",
-      "title": "Termination of Employment (Local Policy)",
+      "title": "Termination of Employment",
       "description_short": "This policy governs the rules and conditions under which the school district can end the employment of staff members, including both employees and contractors.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -581,8 +1771,138 @@
       "has_legal": false
     },
     {
+      "code": "DFAA",
+      "title": "Probationary Contracts: Suspension/Termination During Contract",
+      "description_short": "Conroe ISD's guidelines for probationary employees explain the circumstances under which the district may suspend or end a staff member's contract before it…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFAB",
+      "title": "Probationary Contracts: Termination at End of Year",
+      "description_short": "Conroe ISD's rules for ending a teacher's probationary contract at the close of a school year are outlined here.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFAC",
+      "title": "Probationary Contracts: Return to Probationary Status",
+      "description_short": "Experienced teachers and other professional staff can be placed back on a probationary contract under certain circumstances, such as when they are rehired…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFBA",
+      "title": "Term Contracts: Suspension/Termination During Contract",
+      "description_short": "Conroe ISD follows specific rules when considering whether to suspend or end an employment contract with a teacher or other staff member before the contract…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFBB",
+      "title": "Term Contracts: Nonrenewal",
+      "description_short": "Conroe ISD follows specific rules when deciding not to renew an employment contract for a teacher or other staff member who is on a term contract.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFCA",
+      "title": "Continuing Contracts: Suspension/Termination",
+      "description_short": "Conroe ISD follows specific rules when considering whether to suspend or end the employment of a teacher or other staff member who holds a continuing contract.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFD",
+      "title": "Termination of Employment: Hearings Before Hearing Examiner",
+      "description_short": "When a school district employee faces termination and requests a formal hearing, this policy outlines how that review process works through an independent…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFE",
+      "title": "Termination of Employment: Resignation",
+      "description_short": "Employees who choose to leave their jobs with Conroe ISD are expected to follow a formal resignation process, including providing proper notice to the district.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFF",
+      "title": "Termination of Employment: Reduction in Force",
+      "description_short": "When the district needs to reduce the number of employees due to budget changes, program cuts, or declining enrollment, this policy sets the rules for how…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFFA",
+      "title": "Reduction in Force: Financial Exigency",
+      "description_short": "When the district faces serious financial challenges, this policy outlines how Conroe ISD decides whether to reduce the number of staff positions.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DFFB",
+      "title": "Reduction in Force: Program Change",
+      "description_short": "When the district needs to eliminate or reduce certain programs, this policy explains how the district decides which employees may lose their jobs as a result.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DG",
+      "title": "Employee Rights and Privileges",
+      "description_short": "Conroe ISD's Employee Rights and Privileges policy outlines the basic rights and protections afforded to district employees in their workplace.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DGA",
+      "title": "Employee Rights and Privileges: Freedom of Association",
+      "description_short": "School district employees have the right to join or not join professional organizations, unions, or other groups without fear of consequences from the district.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "DGBA",
-      "title": "Personnel-Management Relations Employee Complaints/Grievances (Local Policy)",
+      "title": "Personnel-Management Relations: Employee Complaints/Grievances",
       "description_short": "This policy outlines the process that school district employees must follow when they have a formal concern or dispute with their employer, such as issues…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -592,7 +1912,7 @@
     },
     {
       "code": "DGC",
-      "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
+      "title": "Employee Rights and Privileges: Immunity",
       "description_short": "This policy document covers updates to five separate school district policies affecting both employees and students, including staff legal protections, student…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
@@ -611,8 +1931,148 @@
       "has_legal": false
     },
     {
+      "code": "DHB",
+      "title": "Employee Standards of Conduct: Reports to State Board for Educator Certification",
+      "description_short": "Conroe ISD is required to report certain educator misconduct to the state agency that licenses Texas teachers and administrators.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DHC",
+      "title": "Employee Standards of Conduct: Reports to Texas Education Agency",
+      "description_short": "Conroe ISD is required to report certain employee misconduct to the Texas Education Agency, including actions that could affect an employee's teaching…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DHE",
+      "title": "Employee Standards of Conduct: Searches and Alcohol/Drug Testing",
+      "description_short": "Conroe ISD outlines the conditions under which employees may be subject to searches of their belongings or workplace property, as well as when alcohol and drug…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DI",
+      "title": "Employee Welfare",
+      "description_short": "Conroe ISD's Employee Welfare policy outlines how the district supports the health, safety, and well-being of its staff.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DIA",
+      "title": "Employee Welfare: Freedom from Discrimination, Harassment, and Retaliation",
+      "description_short": "Conroe ISD is committed to providing a workplace free from discrimination, harassment, and retaliation for all district employees.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DK",
+      "title": "Assignment and Schedules",
+      "description_short": "Conroe ISD uses this policy to outline how the district assigns work schedules and duties to its employees.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DL",
+      "title": "Work Load",
+      "description_short": "Conroe ISD's Work Load policy sets guidelines for how employee duties and responsibilities are assigned and managed across the district.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DLB",
+      "title": "Work Load: Required Plans and Reports",
+      "description_short": "Teachers in Conroe ISD are required to prepare lesson plans and submit certain reports as part of their regular duties.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DMA",
+      "title": "Professional Development: Required Staff Development",
+      "description_short": "Conroe ISD requires all teachers and staff to participate in ongoing professional development and training throughout the school year.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DN",
+      "title": "Performance Appraisal",
+      "description_short": "Conroe ISD uses a formal process to evaluate how well its teachers and other staff members are doing their jobs.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DNA",
+      "title": "Performance Appraisal: Evaluation of Teachers",
+      "description_short": "Conroe ISD uses a structured evaluation process to assess teacher performance and support professional growth.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DNB",
+      "title": "Performance Appraisal: Evaluation of Campus Administrators",
+      "description_short": "Conroe ISD regularly evaluates the performance of campus principals and other administrators to ensure schools are being led effectively.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DP",
+      "title": "Personnel Positions",
+      "description_short": "Conroe ISD uses this policy to establish how staff positions are created, organized, and maintained across the district.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "DPB",
+      "title": "Personnel Positions: Substitute, Temporary, and Part-Time Positions",
+      "description_short": "Conroe ISD maintains guidelines for hiring and managing substitute teachers, temporary staff, and part-time employees who support daily school operations.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "EA",
-      "title": "Instructional Goals and Objectives (Local Policy)",
+      "title": "Instructional Goals and Objectives",
       "description_short": "This policy establishes requirements for how Conroe ISD teachers document and share their instructional plans or course syllabi, ensuring that lesson goals and…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -622,7 +2082,7 @@
     },
     {
       "code": "EB",
-      "title": "School Year Calendar",
+      "title": "School Year",
       "description_short": "This policy covers how the school district sets its annual academic calendar, including the start and end dates of the school year, holidays, and other…",
       "last_action_date": "2025-11-18",
       "last_action_result": "information_only",
@@ -631,8 +2091,68 @@
       "has_legal": false
     },
     {
+      "code": "EC",
+      "title": "School Day",
+      "description_short": "The School Day policy sets the required length of the instructional day and school year for Conroe ISD campuses.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EEB",
+      "title": "Instructional Arrangements and Class Size",
+      "description_short": "Conroe ISD's guidelines for instructional arrangements and class size outline how students are grouped for learning and set expectations for the number of…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EEH",
+      "title": "Instructional Arrangements: Homebound Instruction",
+      "description_short": "Homebound instruction allows students who cannot attend school due to a medical condition or disability to continue receiving their education at home or in a…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EEL",
+      "title": "Instructional Arrangements: Contracts with Outside Agencies",
+      "description_short": "Conroe ISD sometimes partners with outside organizations and agencies to provide educational programs or services to students.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EEM",
+      "title": "Instructional Arrangements: Juvenile Residential Facilities",
+      "description_short": "Conroe ISD provides educational services to students who are living in juvenile residential facilities, such as halfway houses or treatment centers, within the…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EF",
+      "title": "Instructional Resources",
+      "description_short": "Conroe ISD's Instructional Resources policy governs how the district selects, approves, and manages the materials used to teach students, including textbooks,…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "EFA",
-      "title": "Instructional Resources – Instructional Materials",
+      "title": "Instructional Resources: Instructional Materials",
       "description_short": "This policy governs how the school district selects and approves the textbooks, digital resources, and other learning materials used in classrooms.",
       "last_action_date": "2026-02-17",
       "last_action_result": "adopted",
@@ -642,12 +2162,62 @@
     },
     {
       "code": "EFB",
-      "title": "Library Materials / Instructional Materials (Local)",
+      "title": "Instructional Resources: Library Materials",
       "description_short": "This policy governs the selection, use, and removal of library and instructional materials in the district's schools, including new rules about what types of…",
       "last_action_date": "2026-03-17",
       "last_action_result": "tabled",
       "timeline_count": 4,
       "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "EHA",
+      "title": "Curriculum Design: Basic Instructional Program",
+      "description_short": "Conroe ISD's basic instructional program policy outlines how the district designs and organizes the courses and learning experiences offered to students across…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHAA",
+      "title": "Basic Instructional Program: Required Instruction (All Levels)",
+      "description_short": "Conroe ISD is required by state law to provide instruction in specific subject areas at all grade levels, including reading, math, science, social studies,…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHAB",
+      "title": "Basic Instructional Program: Required Instruction (Elementary)",
+      "description_short": "Conroe ISD's elementary schools are required to teach specific subjects at every grade level, including reading, math, science, social studies, and other…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHAC",
+      "title": "Basic Instructional Program: Required Instruction (Secondary)",
+      "description_short": "Conroe ISD's requirements for secondary school courses outline which subjects students in middle and high school must take to meet state and district…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHAD",
+      "title": "Basic Instructional Program: Elective Instruction",
+      "description_short": "Conroe ISD offers elective courses that give students the opportunity to explore interests beyond their required core subjects, such as arts, technology, and…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
       "has_legal": false
     },
     {
@@ -661,8 +2231,88 @@
       "has_legal": false
     },
     {
+      "code": "EHBA",
+      "title": "Special Programs: Special Education",
+      "description_short": "Conroe ISD's approach to special education services is guided by this policy, which outlines how the district identifies, evaluates, and supports students with…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBAA",
+      "title": "Special Education: Identification, Evaluation, and Eligibility",
+      "description_short": "Conroe ISD follows specific procedures to find, evaluate, and determine whether students qualify for special education services.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBAB",
+      "title": "Special Education: ARD Committee and Individualized Education Program",
+      "description_short": "Conroe ISD's guidelines for special education meetings explain how the district works with parents to develop personalized learning plans for students with…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBAC",
+      "title": "Special Education: Students in Nondistrict Placement",
+      "description_short": "When a student with disabilities is placed in a school or program outside of Conroe ISD — such as a private school, residential facility, or other specialized…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBAD",
+      "title": "Special Education: Transition Services",
+      "description_short": "Transition services help students with disabilities prepare for life after high school, including college, vocational training, employment, and independent…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBAE",
+      "title": "Special Education: Procedural Requirements",
+      "description_short": "Conroe ISD follows specific steps and procedures to identify, evaluate, and serve students with disabilities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBAF",
+      "title": "Special Education: Video/Audio Monitoring",
+      "description_short": "Conroe ISD uses video and audio monitoring in certain special education settings to help ensure the safety and well-being of students with disabilities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBAG",
+      "title": "Special Education: Legal Cost Transparency",
+      "description_short": "Conroe ISD is required to track and share information about the costs of legal proceedings related to special education disputes.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "EHBB",
-      "title": "Gifted and Talented Students (Local)",
+      "title": "Special Programs: Gifted and Talented Students",
       "description_short": "This policy sets the rules for how a school district identifies, serves, and supports students in its gifted and talented program, including how students can…",
       "last_action_date": "2025-12-16",
       "last_action_result": "adopted",
@@ -671,13 +2321,273 @@
       "has_legal": false
     },
     {
+      "code": "EHBC",
+      "title": "Special Programs: Compensatory Services and Intensive Programs",
+      "description_short": "Conroe ISD provides additional academic support and intensive programs for students who are struggling or at risk of falling behind in school.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBCA",
+      "title": "Compensatory Services and Intensive Programs: Accelerated Instruction",
+      "description_short": "Accelerated instruction outlines how Conroe ISD supports students who do not meet passing standards on state assessments or who are at risk of falling behind…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBD",
+      "title": "Special Programs: Federal Title I",
+      "description_short": "Federal Title I is a federally funded program that provides extra academic support to students in schools with higher rates of economic disadvantage.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBE",
+      "title": "Special Programs: Bilingual Education/ESL",
+      "description_short": "Conroe ISD's bilingual education and ESL (English as a Second Language) program policy outlines how the district identifies, supports, and serves students who…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBF",
+      "title": "Special Programs: Career and Technical Education",
+      "description_short": "Career and technical education (CTE) programs give students the opportunity to explore real-world career pathways and develop practical job skills while still…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBG",
+      "title": "Special Programs: Kindergarten",
+      "description_short": "Conroe ISD's kindergarten program follows state guidelines to ensure young learners receive a strong educational foundation during this critical early stage of…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBH",
+      "title": "Special Programs: Other Special Populations",
+      "description_short": "Conroe ISD provides additional support and resources for students who come from unique or underserved backgrounds, including those experiencing homelessness,…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBI",
+      "title": "Special Programs: Adult and Community Education",
+      "description_short": "Conroe ISD offers adult and community education programs designed to serve learners beyond the traditional K–12 student population, including adults seeking…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBJ",
+      "title": "Special Programs: Innovative and Magnet Programs",
+      "description_short": "Conroe ISD offers innovative and magnet programs that give students access to specialized learning opportunities beyond the traditional classroom experience.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBK",
+      "title": "Special Programs: Other Instructional Initiatives",
+      "description_short": "Conroe ISD uses this policy to guide special instructional programs and initiatives that go beyond standard classroom teaching, such as career and technical…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHBL",
+      "title": "Special Programs: High School Equivalency",
+      "description_short": "Conroe ISD's high school equivalency program provides an alternative path for eligible students who are unable to complete a traditional high school diploma.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHDB",
+      "title": "Alternative Methods for Earning Credit: Credit by Examination with Prior Instruction",
+      "description_short": "Students who have already studied a subject may be able to earn course credit by passing an examination rather than sitting through the class again.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHDC",
+      "title": "Alternative Methods for Earning Credit: Credit by Examination Without Prior Instruction",
+      "description_short": "Students who already have knowledge in a subject — even without taking the class — may be able to earn academic credit by passing an examination.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHDD",
+      "title": "Alternative Methods for Earning Credit: College Course Work/Dual Credit",
+      "description_short": "Conroe ISD students have the opportunity to earn both high school and college credit at the same time by taking dual credit courses through an approved college…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EHDE",
+      "title": "Alternative Methods for Earning Credit: Distance Learning",
+      "description_short": "Distance learning allows students to take courses online or through other remote formats to earn academic credit.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EI",
+      "title": "Academic Achievement",
+      "description_short": "Conroe ISD's academic achievement policy sets the standards and expectations for how students are evaluated and recognized for their academic performance.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "EIA",
-      "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
+      "title": "Academic Achievement: Grading/Progress Reports to Parents",
       "description_short": "This policy covers updates to five different local school district policies, all revised in response to recent changes in Texas law, addressing topics ranging…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
       "timeline_count": 2,
       "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "EIC",
+      "title": "Academic Achievement: Class Ranking",
+      "description_short": "Class ranking determines how a student's academic performance compares to others in their graduating class, and this policy explains how Conroe ISD calculates…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EIE",
+      "title": "Academic Achievement: Retention and Promotion",
+      "description_short": "Conroe ISD's promotion and retention policy outlines how the district decides whether a student moves to the next grade level or repeats their current grade.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EIF",
+      "title": "Academic Achievement: Graduation",
+      "description_short": "Graduation requirements for Conroe ISD students are established through this policy, including the courses students must complete and the diploma options…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EK",
+      "title": "Testing Programs",
+      "description_short": "Conroe ISD's testing programs policy outlines how the district administers state-required and local assessments to measure student learning and academic…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EKB",
+      "title": "Testing Programs: State Assessment",
+      "description_short": "State assessments are standardized tests that Texas requires all public school students to take at certain grade levels and in specific subjects.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EKBA",
+      "title": "State Assessment: English Learners/Emergent Bilingual Students",
+      "description_short": "Students who are learning English or are identified as emergent bilingual may have specific rules about how they take state tests, including possible…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EKC",
+      "title": "Testing Programs: Reading Assessment",
+      "description_short": "Conroe ISD follows state requirements for reading assessments to identify students who may need extra support in developing reading skills.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EKD",
+      "title": "Testing Programs: Mathematics Assessment",
+      "description_short": "Conroe ISD uses this policy to guide how mathematics assessments are administered to students across the district.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EL",
+      "title": "Campus or Program Charters",
+      "description_short": "Campus or program charters allow individual schools within Conroe ISD to operate with some flexibility in how they are structured or managed, while still…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "ELA",
+      "title": "Campus or Program Charters: Partnership Charters",
+      "description_short": "Conroe ISD has the option to create special campus or program charters that allow certain schools or programs to operate with more flexibility in how they are…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
       "has_legal": false
     },
     {
@@ -691,8 +2601,28 @@
       "has_legal": false
     },
     {
+      "code": "EMI",
+      "title": "Miscellaneous Instructional Policies: Study of Religion",
+      "description_short": "Students in Conroe ISD may study religion as part of their academic coursework, including its history, literature, and role in society, but the district does…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "EMIA",
+      "title": "Study of Religion: Released Time Course",
+      "description_short": "Students in Conroe ISD may be released from school during the school day to attend an off-campus religious instruction course offered by a private provider.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "FA",
-      "title": "Parent Rights And Responsibilities",
+      "title": "Parent Rights and Responsibilities",
       "description_short": "This policy establishes the rights and responsibilities of parents in their children's education within Conroe ISD, outlining how families can be involved in…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -701,8 +2631,58 @@
       "has_legal": false
     },
     {
+      "code": "FB",
+      "title": "Equal Educational Opportunity",
+      "description_short": "Conroe ISD is committed to providing every student with equal access to educational programs and opportunities, regardless of race, color, national origin,…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FBA",
+      "title": "Equal Educational Opportunity: Service Animals",
+      "description_short": "Conroe ISD's rules on service animals explain when and how students or visitors may bring a trained service animal onto school campuses or at school-sponsored…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FD",
+      "title": "Admissions",
+      "description_short": "Conroe ISD's admissions policy explains who is eligible to enroll in district schools and what the enrollment process looks like.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FDA",
+      "title": "Admissions: Interdistrict Transfers",
+      "description_short": "Conroe ISD's rules for accepting students who live outside the district are outlined here, including who may apply, under what circumstances transfers are…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FDAA",
+      "title": "Interdistrict Transfers: Public Education Grants",
+      "description_short": "Students who attend a school rated \"Unacceptable\" by the state may have the right to transfer to a higher-performing campus, either within Conroe ISD or in…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "FDB",
-      "title": "FDB (Legal and Local Board Policy)",
+      "title": "Admissions: Intradistrict Transfers and Classroom Assignments",
       "description_short": "This policy governs student admissions and enrollment for the school district, covering the rules and processes for enrolling children in district schools.",
       "last_action_date": "2026-03-17",
       "last_action_result": "information_only",
@@ -711,13 +2691,163 @@
       "has_legal": false
     },
     {
+      "code": "FDC",
+      "title": "Admissions: Homeless Students",
+      "description_short": "Conroe ISD is committed to making sure students experiencing homelessness can enroll in and attend school without unnecessary barriers.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FDD",
+      "title": "Admissions: Military Dependents",
+      "description_short": "Conroe ISD welcomes students from military families and has specific enrollment procedures in place to make their transition into district schools as smooth as…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FDE",
+      "title": "Admissions: School Safety Transfers",
+      "description_short": "Students who feel unsafe at their assigned school may have the option to transfer to another campus under certain circumstances.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FEA",
+      "title": "Attendance: Compulsory Attendance",
+      "description_short": "Texas law requires all children between certain ages to attend school regularly, and this policy explains how Conroe ISD follows those requirements.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FEB",
+      "title": "Attendance: Attendance Accounting",
+      "description_short": "Conroe ISD tracks student attendance to ensure accurate records and meet state requirements for school funding.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FEC",
+      "title": "Attendance: Attendance for Credit",
+      "description_short": "Students must meet minimum attendance requirements to earn credit or a final grade in a course.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FED",
+      "title": "Attendance: Attendance Enforcement",
+      "description_short": "Conroe ISD's attendance enforcement policy explains what happens when a student misses too much school and how the district works with families to address…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FEE",
+      "title": "Attendance: Open/Closed Campus",
+      "description_short": "Conroe ISD's campus access rules determine whether students are allowed to leave school grounds during the school day, such as during lunch or free periods.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FEF",
+      "title": "Attendance: Released Time",
+      "description_short": "Students may be released from school during the day to receive religious or moral instruction off campus.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFA",
+      "title": "Student Welfare: Wellness and Health Services",
+      "description_short": "Conroe ISD's wellness and health services policy sets the standards for how the district supports students' physical and mental well-being during the school…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFAA",
+      "title": "Wellness and Health Services: Physical Examinations",
+      "description_short": "Conroe ISD outlines when and how physical examinations may be required for students, including situations related to sports participation, special education…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFAB",
+      "title": "Wellness and Health Services: Immunizations",
+      "description_short": "Conroe ISD requires students to receive certain vaccinations before attending school to help prevent the spread of contagious diseases.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "FFAC",
-      "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
+      "title": "Wellness and Health Services: Medical Treatment",
       "description_short": "This policy covers a set of updates to five school district rules governing employee legal protections, student grading and progress reporting, medical…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
       "timeline_count": 2,
       "has_local": true,
+      "has_legal": false
+    },
+    {
+      "code": "FFAD",
+      "title": "Wellness and Health Services: Communicable Diseases",
+      "description_short": "Conroe ISD follows specific guidelines for managing communicable diseases to help keep students, staff, and the broader school community safe and healthy.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFAE",
+      "title": "Wellness and Health Services: School-Based Health Centers",
+      "description_short": "Conroe ISD's school-based health centers provide students with access to basic medical and wellness services during the school day.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFAF",
+      "title": "Wellness and Health Services: Care Plans",
+      "description_short": "Conroe ISD maintains individualized care plans for students who have specific health conditions, such as diabetes, severe allergies, asthma, or other medical…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
       "has_legal": false
     },
     {
@@ -731,8 +2861,68 @@
       "has_legal": false
     },
     {
+      "code": "FFBA",
+      "title": "Crisis Intervention: Trauma-Informed Care",
+      "description_short": "Conroe ISD recognizes that students who have experienced trauma may need additional support to succeed in school.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFC",
+      "title": "Student Welfare: Student Support Services",
+      "description_short": "Conroe ISD provides a range of support services to help students succeed academically, socially, and emotionally while at school.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFD",
+      "title": "Student Welfare: Student Insurance",
+      "description_short": "Conroe ISD offers voluntary student accident insurance programs that families can purchase to help cover medical costs if a student is injured at school or…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFEA",
+      "title": "Counseling and Mental Health: Counseling",
+      "description_short": "Conroe ISD provides school counseling services to support students' academic success, personal development, and social and emotional well-being.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFEB",
+      "title": "Counseling and Mental Health: Mental Health",
+      "description_short": "Conroe ISD's approach to student mental health outlines how the district identifies, supports, and connects students who may be experiencing emotional or…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFF",
+      "title": "Student Welfare: Student Safety",
+      "description_short": "Conroe ISD is committed to maintaining a safe environment for every student during the school day and at school-related activities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "FFG",
-      "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
+      "title": "Student Welfare: Child Abuse and Neglect",
       "description_short": "This policy covers updates to five separate school district rules addressing employee legal protections, student grading and progress reporting, medical…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
@@ -741,8 +2931,38 @@
       "has_legal": false
     },
     {
+      "code": "FFH",
+      "title": "Student Welfare: Freedom from Discrimination, Harassment, and Retaliation",
+      "description_short": "Conroe ISD is committed to providing a safe and respectful environment where every student is free from discrimination, harassment, and retaliation.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FFI",
+      "title": "Student Welfare: Freedom from Bullying",
+      "description_short": "Conroe ISD's bullying policy defines what counts as bullying and outlines how the district responds when it happens on campus or in school-related settings.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FJ",
+      "title": "Student Fundraising",
+      "description_short": "School fundraising activities involving students are governed by rules that ensure these efforts are organized, appropriate, and do not interfere with the…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "FL",
-      "title": "Student Records (Local Policy)",
+      "title": "Student Records",
       "description_short": "This policy governs how the school district collects, maintains, and manages student records, including what types of documents count as official education…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -752,7 +2972,7 @@
     },
     {
       "code": "FM",
-      "title": "Student Activities (Local Policy)",
+      "title": "Student Activities",
       "description_short": "This policy governs student participation in school clubs, organizations, extracurricular activities, and other school-sponsored groups.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -761,8 +2981,198 @@
       "has_legal": false
     },
     {
+      "code": "FMA",
+      "title": "Student Activities: School-Sponsored Publications",
+      "description_short": "School-sponsored publications like student newspapers, yearbooks, and literary magazines are guided by this policy, which outlines what students can publish…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FMG",
+      "title": "Student Activities: Travel",
+      "description_short": "Conroe ISD's travel policy for student activities sets the rules for how students are transported and supervised when traveling for school-sponsored events…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FMH",
+      "title": "Student Activities: Commencement",
+      "description_short": "Graduation ceremonies in Conroe ISD are guided by clear rules about how commencement events are planned and conducted.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FN",
+      "title": "Student Rights and Responsibilities",
+      "description_short": "Students in Conroe ISD have both rights and responsibilities that guide how they are expected to behave and how the district is expected to treat them.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNA",
+      "title": "Student Rights and Responsibilities: Student Expression",
+      "description_short": "Students have the right to express themselves freely at school, but that right comes with boundaries designed to keep the learning environment safe and…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNAA",
+      "title": "Student Expression: Distribution of Nonschool Literature",
+      "description_short": "Students and community members who want to hand out flyers, pamphlets, or other printed materials on school campuses need to follow specific guidelines set by…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNAB",
+      "title": "Student Expression: Use of School Facilities for Nonschool Purposes",
+      "description_short": "Students and community members sometimes want to use school buildings or property to share information or hold meetings outside of regular school activities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNC",
+      "title": "Student Rights and Responsibilities: Student Conduct",
+      "description_short": "Students in Conroe ISD are expected to follow a code of conduct that outlines acceptable behavior at school, on school buses, and at school-related activities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNCA",
+      "title": "Student Conduct: Dress Code",
+      "description_short": "Conroe ISD's dress code policy sets the standards for how students are expected to dress while at school and school-related activities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNCB",
+      "title": "Student Conduct: Care of School Property",
+      "description_short": "Students are expected to treat school buildings, equipment, and other district property with care and respect.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNCC",
+      "title": "Student Conduct: Prohibited Organizations and Hazing",
+      "description_short": "Conroe ISD prohibits students from participating in gangs, secret clubs, or any unauthorized organizations that operate in connection with the school.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNCD",
+      "title": "Student Conduct: Tobacco Use and Possession",
+      "description_short": "Conroe ISD prohibits students from using, possessing, or distributing tobacco and e-cigarette products on school property, at school events, and in district…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNCE",
+      "title": "Student Conduct: Personal Telecommunications/Electronic Devices",
+      "description_short": "Conroe ISD's rules for student use of personal cell phones, smartwatches, earbuds, and other electronic devices at school and school-related activities are…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNCF",
+      "title": "Student Conduct: Alcohol and Drug Use",
+      "description_short": "Conroe ISD's rules on alcohol and drug use set clear expectations for student behavior and outline the consequences students may face if they possess, use, or…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNCG",
+      "title": "Student Conduct: Weapons",
+      "description_short": "Conroe ISD's weapons policy sets clear rules about what types of weapons or dangerous items students are prohibited from bringing to school, school events, or…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNCI",
+      "title": "Student Conduct: Disruptions",
+      "description_short": "Conroe ISD's rules on school disruptions explain what behaviors are considered disruptive to the educational environment, both on and off campus during school…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FND",
+      "title": "Student Rights and Responsibilities: Married Students",
+      "description_short": "Married students have the same rights to attend school and participate in programs as any other student.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNE",
+      "title": "Student Rights and Responsibilities: Pregnant Students",
+      "description_short": "Conroe ISD supports pregnant and parenting students by ensuring they have equal access to educational programs and school activities.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FNF",
+      "title": "Student Rights and Responsibilities: Investigations and Searches",
+      "description_short": "School officials have the authority to search students, their belongings, and their lockers when there is a reasonable belief that school rules or laws have…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "FNG",
-      "title": "Student Rights and Responsibilities: Student And Parent Complaints/Grievances",
+      "title": "Student Rights and Responsibilities: Student and Parent Complaints/Grievances",
       "description_short": "This policy outlines the process that students and parents can use to formally raise concerns or disputes about decisions, actions, or conditions within the…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -771,8 +3181,188 @@
       "has_legal": false
     },
     {
+      "code": "FO",
+      "title": "Student Discipline",
+      "description_short": "Conroe ISD's student discipline policy sets out the rules and expectations for student behavior and explains how the district responds when those rules are not…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FOA",
+      "title": "Student Discipline: Removal by Teacher or Bus Driver",
+      "description_short": "Teachers and bus drivers have the authority to remove a student from their classroom or bus when the student's behavior disrupts the learning environment or…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FOB",
+      "title": "Student Discipline: Out-of-School Suspension",
+      "description_short": "Out-of-school suspension temporarily removes a student from school as a consequence for certain rule violations.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FOC",
+      "title": "Student Discipline: Placement in a Disciplinary Alternative Education Setting",
+      "description_short": "Conroe ISD's guidelines for placing students in a Disciplinary Alternative Education Program (DAEP) explain when and how the district may move a student to a…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FOCA",
+      "title": "Student Discipline: Placement in a Disciplinary Alternative Education Setting",
+      "description_short": "Conroe ISD uses this policy to explain when and how a student may be moved to a separate educational setting as a consequence for certain disciplinary…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FOD",
+      "title": "Student Discipline: Expulsion",
+      "description_short": "Expulsion is the most serious form of school discipline, resulting in a student being removed from their regular school setting for a significant period of…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FODA",
+      "title": "Expulsion: Juvenile Justice Alternative Education Program",
+      "description_short": "When a student is expelled for serious misconduct, the district may place them in a Juvenile Justice Alternative Education Program (JJAEP) rather than leaving…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FOE",
+      "title": "Student Discipline: Emergency and Alternative Placement",
+      "description_short": "Conroe ISD uses this policy to guide decisions about temporarily moving a student to a different educational setting when their behavior poses a serious risk…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FOF",
+      "title": "Student Discipline: Students with Disabilities",
+      "description_short": "Students with disabilities who face disciplinary action at school have specific protections and procedures designed to ensure their needs are considered fairly.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FOG",
+      "title": "Student Discipline: In-School Suspension",
+      "description_short": "In-school suspension (ISS) allows the district to temporarily remove a student from regular classes while keeping them on campus and engaged in schoolwork.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "FP",
+      "title": "Student Fees, Fines, and Charges",
+      "description_short": "Conroe ISD uses this policy to explain when the district can charge students fees, collect fines, or require payments for certain activities, materials, or…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GA",
+      "title": "Access to Programs, Services, and Activities",
+      "description_short": "Conroe ISD is committed to making its programs, services, and activities open to everyone, regardless of race, color, national origin, sex, disability, or…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GB",
+      "title": "Public Information Program",
+      "description_short": "Conroe ISD is committed to keeping the public informed about district activities, decisions, and programs.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GBA",
+      "title": "Public Information Program: Access to Public Information",
+      "description_short": "Conroe ISD follows state law to make district records and information available to the public upon request.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GBAA",
+      "title": "Access to Public Information: Requests for Information",
+      "description_short": "Community members, parents, and students have the right to request records and information held by Conroe ISD.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GBBA",
+      "title": "School Communications Program: News Media Relations",
+      "description_short": "Conroe ISD's news media relations policy outlines how the district communicates with journalists and media outlets.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GC",
+      "title": "Public Notices",
+      "description_short": "Conroe ISD follows specific rules about how and where it shares important announcements with the public, such as meeting notices, election information, and…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GE",
+      "title": "Relations with Parent Organizations",
+      "description_short": "The district's relationship with parent organizations — such as PTAs and booster clubs — is shaped by guidelines that clarify how these groups can work…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "GF",
-      "title": "Public Complaints (Local Policy)",
+      "title": "Public Complaints",
       "description_short": "This policy outlines the process that community members and parents can follow when they have a complaint or concern about the school district that isn't…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
@@ -782,7 +3372,7 @@
     },
     {
       "code": "GKA",
-      "title": "GKA (Local Policy)",
+      "title": "Community Relations: Conduct on School Premises",
       "description_short": "This policy governs how members of the public are expected to behave when on school district property, including rules about prohibited items such as tobacco…",
       "last_action_date": "2026-01-20",
       "last_action_result": "adopted",
@@ -801,6 +3391,16 @@
       "has_legal": false
     },
     {
+      "code": "GKC",
+      "title": "Community Relations: Visitors",
+      "description_short": "Conroe ISD welcomes visitors to its campuses while maintaining guidelines to keep students and staff safe.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
       "code": "GKD",
       "title": "Community Relations: Nonschool Use of School Facilities",
       "description_short": "This policy governs how school buildings, grounds, and other facilities can be used by outside groups and organizations when school is not in session.",
@@ -809,7 +3409,127 @@
       "timeline_count": 3,
       "has_local": true,
       "has_legal": false
+    },
+    {
+      "code": "GKDA",
+      "title": "Nonschool Use of School Facilities: Distribution of Nonschool Literature",
+      "description_short": "Conroe ISD has rules about how and when outside groups or individuals can hand out flyers, brochures, or other printed materials on school campuses or through…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GKE",
+      "title": "Community Relations: Business, Civic, and Youth Groups",
+      "description_short": "Conroe ISD's guidelines for working with local businesses, civic organizations, and youth groups explain how these outside groups can partner with or…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GKG",
+      "title": "Community Relations: School Volunteer Program",
+      "description_short": "Conroe ISD welcomes community members, parents, and other volunteers to support students and staff in schools and district programs.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GNA",
+      "title": "Relations with Educational Entities: Other Schools and Districts",
+      "description_short": "Conroe ISD maintains working relationships with other school districts and educational organizations to support student learning and share resources.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GNB",
+      "title": "Relations with Educational Entities: Regional Education Service Centers",
+      "description_short": "Conroe ISD works with the regional education service center that serves its area to access shared resources, training, and support programs that benefit…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GNC",
+      "title": "Relations with Educational Entities: Colleges and Universities",
+      "description_short": "Conroe ISD's relationship with colleges and universities is shaped by guidelines that support partnerships benefiting students and the broader community.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GR",
+      "title": "Relations with Governmental Entities",
+      "description_short": "Conroe ISD works cooperatively with local, state, and federal government agencies to support student learning and community well-being.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GRA",
+      "title": "Relations with Governmental Entities: State and Local Governmental Authorities",
+      "description_short": "Conroe ISD works cooperatively with state and local government agencies to support the needs of students and the broader community.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GRAA",
+      "title": "State and Local Governmental Authorities: Law Enforcement Agencies",
+      "description_short": "Conroe ISD works cooperatively with local, state, and federal law enforcement agencies to support student safety and legal compliance.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GRAC",
+      "title": "State and Local Governmental Authorities: Juvenile Service Providers",
+      "description_short": "Conroe ISD works with local juvenile service providers and government agencies to support students who may be involved in the juvenile justice system.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GRB",
+      "title": "Relations with Governmental Entities: Interlocal Cooperation Contracts",
+      "description_short": "Conroe ISD is authorized to enter into cooperative agreements with other government agencies — such as cities, counties, or other school districts — to share…",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
+    },
+    {
+      "code": "GRC",
+      "title": "Relations with Governmental Entities: Emergency Management",
+      "description_short": "Conroe ISD works with local, state, and federal agencies to prepare for and respond to emergencies that may affect schools and the community.",
+      "last_action_date": null,
+      "last_action_result": null,
+      "timeline_count": 0,
+      "has_local": false,
+      "has_legal": false
     }
   ],
-  "generated_at": "2026-03-31T22:17:12Z"
+  "generated_at": "2026-04-01T01:28:35Z"
 }

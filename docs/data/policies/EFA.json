@@ -1,7 +1,7 @@
 {
   "code": "EFA",
-  "title": "Instructional Resources – Instructional Materials",
-  "description": "This policy governs how the school district selects and approves the textbooks, digital resources, and other instructional materials used in classrooms. It applies to district staff, curriculum leaders, and the school board, but directly affects students and the families who rely on quality, vetted materials for their children's education. Parents and community members should be aware of this policy because it outlines the process for ensuring that what is taught in schools meets educational standards and has been reviewed and approved before reaching students.",
+  "title": "Instructional Resources: Instructional Materials",
+  "description": "Conroe ISD follows a defined process for selecting the textbooks, digital resources, and other learning materials used in classrooms. The district prioritizes materials that align with state curriculum standards and support student learning. Parents and community members can find information about how these materials are reviewed and approved, helping ensure transparency in what students are taught.",
   "last_action_date": "2026-02-17",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -48,5 +48,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs how the school district selects and approves the textbooks, digital resources, and other learning materials used in classrooms. It applies to all students in the district, as well as the teachers and administrators responsible for choosing and using those materials. Parents and community members should be aware of this policy because it outlines the process by which decisions are made about what educational content students are exposed to, and it may include opportunities for public input or review before materials are formally adopted."
+  "description_local": "This policy governs how the school district selects and approves the textbooks, digital resources, and other learning materials used in classrooms. It applies to all students in the district, as well as the teachers and administrators responsible for choosing and using those materials. Parents and community members should be aware of this policy because it outlines the process by which decisions are made about what educational content students are exposed to, and it may include opportunities for public input or review before materials are formally adopted.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/EFA"
 }

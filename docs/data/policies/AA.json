@@ -1,9 +1,11 @@
 {
   "code": "AA",
   "title": "School District Legal Status",
-  "description": "Conroe ISD operates as a public school district established under Texas law, giving it the authority to provide free education to students in the community. The district functions as a legal entity, meaning it can make decisions, enter into agreements, and carry out responsibilities on behalf of the public it serves. Understanding this foundation helps community members know how the district is structured and where its authority comes from.",
+  "description": "Conroe ISD operates as a public school district established under Texas state law, which means it is accountable to both the state and the local community it serves. The district has the legal authority to make decisions about education, facilities, and operations within boundaries set by the state. Understanding this foundation helps community members know how the district is structured and where its responsibilities and authority come from.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/AA",
   "last_action_date": null,
   "last_action_result": null,
-  "timeline": []
+  "timeline": [],
+  "timeline_local": [],
+  "timeline_legal": []
 }

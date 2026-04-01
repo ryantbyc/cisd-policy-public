@@ -1,7 +1,7 @@
 {
   "code": "EIA",
-  "title": "DGC(Local) – Employee Rights And Privileges: Immunity; EIA(Local) – Academic Achievement: Grading/Progress Reports to Parents; FFAC(Local) – Wellness and Health Services: Medical Treatment; FFB(Local) – Student Welfare: Crisis Intervention; FFG(Local) – Student Welfare: Child Abuse and Neglect",
-  "description": "This policy covers updates to five different local school district policies, all revised in response to recent changes in Texas law, addressing topics ranging from employee legal protections and student grading practices to medical treatment, crisis intervention, and child abuse reporting. The changes affect a broad range of people connected to the school community, including teachers and other staff, students, and parents. Parents and community members should be aware of these updates because they directly impact how schools handle student grades and progress reporting, respond to health and safety emergencies, protect children from abuse and neglect, and support the legal rights of school employees.",
+  "title": "Academic Achievement: Grading/Progress Reports to Parents",
+  "description": "Conroe ISD's grading and progress reporting policy sets the rules for how teachers assign grades and how the district communicates student academic performance to families. It covers expectations around grading practices, the frequency of progress reports, and how parents can stay informed about their child's standing in each class. Understanding this policy helps families know what to expect when tracking their child's academic progress throughout the school year.",
   "last_action_date": "2026-02-17",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -63,5 +63,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy covers updates to five different local school district policies, all revised in response to recent changes in Texas law, addressing topics ranging from employee legal protections and student grading practices to medical treatment, crisis intervention, and child abuse reporting. The changes affect a broad range of people connected to the school community, including teachers and other staff, students, and parents. Parents and community members should be aware of these updates because they directly impact how schools handle student grades and progress reporting, respond to health and safety emergencies, protect children from abuse and neglect, and support the legal rights of school employees."
+  "description_local": "This policy covers updates to five different local school district policies, all revised in response to recent changes in Texas law, addressing topics ranging from employee legal protections and student grading practices to medical treatment, crisis intervention, and child abuse reporting. The changes affect a broad range of people connected to the school community, including teachers and other staff, students, and parents. Parents and community members should be aware of these updates because they directly impact how schools handle student grades and progress reporting, respond to health and safety emergencies, protect children from abuse and neglect, and support the legal rights of school employees.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/EIA"
 }

@@ -1,7 +1,7 @@
 {
   "code": "CDA",
-  "title": "Fraud — Federal Awards Disclosure",
-  "description": "This policy governs how the school district detects, reports, and addresses fraud, with a specific focus on programs funded by federal money. It applies to district staff, administrators, and anyone involved in managing federal grant funds on behalf of the school. Parents and community members should be aware of this policy because it helps ensure that taxpayer and federal dollars intended for students are used honestly and appropriately, and that wrongdoing is properly disclosed and addressed.",
+  "title": "Other Revenues: Investments",
+  "description": "Conroe ISD follows specific rules for investing public funds — such as tax revenues and fees — to keep that money safe and growing until it is needed for school operations. The district is required to prioritize security and liquidity over maximizing returns, ensuring funds are available when needed for students and staff. These guidelines help protect taxpayer dollars and ensure the community's money is managed responsibly and transparently.",
   "last_action_date": "2025-12-16",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -98,5 +98,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs how the school district detects, prevents, and reports fraud, with a specific focus on disclosing required information when the district applies for or receives federal grant funding. It applies to district administrators and staff who manage federal awards, but it also affects the broader community since federal funds support many school programs and services. Parents and community members should care about this policy because it helps ensure that taxpayer and federal dollars are used honestly and transparently, and that the district meets the legal requirements tied to receiving federal funding."
+  "description_local": "This policy governs how the school district detects, prevents, and reports fraud, with a specific focus on disclosing required information when the district applies for or receives federal grant funding. It applies to district administrators and staff who manage federal awards, but it also affects the broader community since federal funds support many school programs and services. Parents and community members should care about this policy because it helps ensure that taxpayer and federal dollars are used honestly and transparently, and that the district meets the legal requirements tied to receiving federal funding.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CDA"
 }

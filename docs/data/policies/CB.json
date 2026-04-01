@@ -1,7 +1,7 @@
 {
   "code": "CB",
-  "title": "CB Local (Annual Operating Budget / Policy Reference)",
-  "description": "This policy relates to the district's annual operating budget and financial planning processes, as well as the board's authorization of specific financial actions, such as submitting grant applications. It applies to the school district as a whole, guiding how school board members make and approve key financial decisions. For parents and community members, this matters because it reflects how the district manages and pursues funding that can directly impact programs, resources, and services available to students.",
+  "title": "State and Federal Revenue Sources",
+  "description": "Conroe ISD follows state and federal guidelines to receive funding that supports schools, programs, and students across the district. These funds help pay for resources like special education services, college readiness programs, and support for students from low-income families. Understanding how this funding works helps community members see how the district secures money beyond local property taxes to meet student needs.",
   "last_action_date": "2026-01-20",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -21,5 +21,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy relates to the district's annual operating budget and financial planning processes, as well as the board's authorization of specific financial actions, such as submitting grant applications. It applies to the school district as a whole, guiding how school board members make and approve key financial decisions. For parents and community members, this matters because it reflects how the district manages and pursues funding that can directly impact programs, resources, and services available to students."
+  "description_local": "This policy relates to the district's annual operating budget and financial planning processes, as well as the board's authorization of specific financial actions, such as submitting grant applications. It applies to the school district as a whole, guiding how school board members make and approve key financial decisions. For parents and community members, this matters because it reflects how the district manages and pursues funding that can directly impact programs, resources, and services available to students.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CB"
 }

@@ -1,7 +1,7 @@
 {
   "code": "FM",
-  "title": "Student Activities (Local Policy)",
-  "description": "This policy governs extracurricular and school-sponsored student activities, clubs, and groups within Conroe ISD, and is being updated to include new rules around student participation in these organizations. The updates would require written parental consent before a student can join certain student groups, among other new provisions. This matters to parents because it gives them a more direct role in deciding which organizations and activities their child participates in at school.",
+  "title": "Student Activities",
+  "description": "School activities like clubs, organizations, extracurriculars, and other student groups are governed by this policy. It outlines how these programs are established, who can participate, and what standards apply to student involvement both on and off campus. Parents, students, and community members can use this policy to understand their rights and responsibilities related to school-sponsored and student-initiated activities.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -30,5 +30,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs student participation in school clubs, organizations, extracurricular activities, and other school-sponsored groups. It applies to all students in the district, and in some cases directly involves parents, such as when written consent is required before a student can join certain groups. This policy matters to parents and community members because it shapes what activities are available to students, sets expectations for participation, and gives parents a say in some of the groups their children become involved in at school."
+  "description_local": "This policy governs student participation in school clubs, organizations, extracurricular activities, and other school-sponsored groups. It applies to all students in the district, and in some cases directly involves parents, such as when written consent is required before a student can join certain groups. This policy matters to parents and community members because it shapes what activities are available to students, sets expectations for participation, and gives parents a say in some of the groups their children become involved in at school.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FM"
 }

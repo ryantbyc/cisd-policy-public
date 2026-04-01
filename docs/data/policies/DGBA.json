@@ -1,7 +1,7 @@
 {
   "code": "DGBA",
-  "title": "Personnel-Management Relations Employee Complaints/Grievances (Local Policy)",
-  "description": "This policy outlines the process that school district employees must follow when they have a formal concern or dispute about their working conditions, treatment, or other employment-related matters. It applies to district staff members who wish to raise concerns through an official channel, and it guides how those concerns are reviewed and resolved. Parents and community members may find this policy relevant because a fair and clear grievance process helps ensure that staff are treated consistently and professionally, which can contribute to a healthier school environment overall.",
+  "title": "Personnel-Management Relations: Employee Complaints/Grievances",
+  "description": "Conroe ISD provides a formal process for employees to raise concerns or complaints about their working conditions, treatment, or other workplace matters. The policy outlines the steps employees should follow when seeking resolution, including how to submit a complaint and how the district will respond. Community members may find this policy relevant because a fair and transparent process for addressing employee concerns helps support a positive school environment for staff, students, and families.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -94,5 +94,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy outlines the process that school district employees must follow when they have a formal concern or dispute with their employer, such as issues related to working conditions, treatment, or decisions made by the district. It applies to all district employees and governs how those concerns are raised, reviewed, and resolved. Parents and community members may find this policy relevant because it helps ensure staff concerns are addressed fairly, which can affect the overall health and stability of the school environment their children learn in."
+  "description_local": "This policy outlines the process that school district employees must follow when they have a formal concern or dispute with their employer, such as issues related to working conditions, treatment, or decisions made by the district. It applies to all district employees and governs how those concerns are raised, reviewed, and resolved. Parents and community members may find this policy relevant because it helps ensure staff concerns are addressed fairly, which can affect the overall health and stability of the school environment their children learn in.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/DGBA"
 }

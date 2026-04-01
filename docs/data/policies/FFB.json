@@ -1,7 +1,7 @@
 {
   "code": "FFB",
   "title": "Student Welfare: Crisis Intervention",
-  "description": "This policy governs how the school district responds to crises involving students, including situations that may pose a safety threat to individuals or the broader school community. It applies to students, school staff, and the teams responsible for assessing and responding to potential threats or emergencies. Parents and community members should be aware of this policy because it outlines the structured processes schools use to identify and address safety concerns early, helping to keep students and campuses safe.",
+  "description": "Conroe ISD has procedures in place to identify and support students who may be experiencing a personal crisis, such as a mental health emergency or thoughts of self-harm. The district works to connect these students with appropriate care and resources as quickly as possible. Parents and community members can rely on these guidelines to understand how the school responds when a student's safety or well-being is at serious risk.",
   "last_action_date": "2026-02-17",
   "last_action_result": "information_only",
   "timeline_local": [
@@ -94,5 +94,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs how the school district responds to crisis situations involving students, including threats to safety, and outlines the teams and procedures put in place to assess and address those situations. It applies to students, school staff, and the broader school community who may be affected by a crisis or safety concern. Parents and community members should be aware of this policy because it directly shapes how the district identifies, evaluates, and responds to potential threats, helping to ensure that schools remain safe and supportive environments for all students."
+  "description_local": "This policy governs how the school district responds to crisis situations involving students, including threats to safety, and outlines the teams and procedures put in place to assess and address those situations. It applies to students, school staff, and the broader school community who may be affected by a crisis or safety concern. Parents and community members should be aware of this policy because it directly shapes how the district identifies, evaluates, and responds to potential threats, helping to ensure that schools remain safe and supportive environments for all students.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FFB"
 }

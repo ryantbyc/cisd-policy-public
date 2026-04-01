@@ -1,7 +1,7 @@
 {
   "code": "EFB",
-  "title": "Library Materials / Instructional Materials (Local)",
-  "description": "This policy governs the selection, use, and removal of library and instructional materials in the district's schools, including rules about what types of content are and are not permitted. It applies to all school libraries and classrooms, affecting students, teachers, librarians, and anyone involved in choosing or using educational materials. Recent updates reflecting state law now include clear definitions and specific prohibitions around pornographic or sexually explicit content, which matters to parents because it establishes the standards the district must follow to ensure school materials are age-appropriate for students.",
+  "title": "Instructional Resources: Library Materials",
+  "description": "Conroe ISD's guidelines for library materials explain how books and other resources are selected, maintained, and made available in school libraries. The policy also establishes a process for community members and parents to raise concerns about specific materials they believe may be inappropriate for students. Understanding these guidelines helps families know how library collections are managed and how they can participate if they have questions or objections about available materials.",
   "last_action_date": "2026-03-17",
   "last_action_result": "tabled",
   "timeline_local": [
@@ -92,5 +92,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy governs the selection, use, and removal of library and instructional materials in the district's schools, including new rules about what types of content are prohibited. It applies to all library books and teaching materials available to students, and establishes clear definitions around sexually explicit or pornographic content that cannot be included in school collections. Parents and community members should be aware of this policy because it directly shapes what reading and learning materials students can access at school, and it reflects recent state legislation aimed at setting stricter content standards for school libraries."
+  "description_local": "This policy governs the selection, use, and removal of library and instructional materials in the district's schools, including new rules about what types of content are prohibited. It applies to all library books and teaching materials available to students, and establishes clear definitions around sexually explicit or pornographic content that cannot be included in school collections. Parents and community members should be aware of this policy because it directly shapes what reading and learning materials students can access at school, and it reflects recent state legislation aimed at setting stricter content standards for school libraries.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/EFB"
 }

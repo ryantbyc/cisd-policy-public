@@ -1,7 +1,7 @@
 {
   "code": "FNG",
-  "title": "Student Rights and Responsibilities: Student And Parent Complaints/Grievances",
-  "description": "This policy outlines the process students and parents can follow when they have a formal concern or disagreement with a school decision, action, or condition affecting their child. It applies to all students and their parents or guardians who wish to raise an issue with the school or district. Understanding this policy helps families know their rights and the steps they can take to have their concerns heard and addressed in an official, structured way.",
+  "title": "Student Rights and Responsibilities: Student and Parent Complaints/Grievances",
+  "description": "Parents and students have the right to raise concerns or complaints about decisions made by district staff, and this policy explains the steps to follow when doing so. It outlines a clear, step-by-step process for resolving issues — starting at the campus level and moving up to district leadership or the school board if needed. Having a formal process helps ensure that concerns are heard and addressed fairly and consistently.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -74,5 +74,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy outlines the process that students and parents can use to formally raise concerns or disputes about decisions, actions, or conditions within the school district. It applies to all students and their parents or guardians who feel their rights have been affected or who disagree with how they have been treated by school staff or administrators. Understanding this policy matters because it gives families a clear, structured path to have their concerns heard and addressed fairly at the campus and district level."
+  "description_local": "This policy outlines the process that students and parents can use to formally raise concerns or disputes about decisions, actions, or conditions within the school district. It applies to all students and their parents or guardians who feel their rights have been affected or who disagree with how they have been treated by school staff or administrators. Understanding this policy matters because it gives families a clear, structured path to have their concerns heard and addressed fairly at the campus and district level.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FNG"
 }

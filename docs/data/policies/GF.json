@@ -1,7 +1,7 @@
 {
   "code": "GF",
-  "title": "Public Complaints (Local Policy)",
-  "description": "This policy establishes the process that community members and parents must follow when they have a complaint or concern about the school district that isn't covered by another specific policy. It applies to any member of the public who wants to formally raise an issue with Conroe ISD. Understanding this policy matters because it outlines the proper steps and timelines for getting a complaint heard, helping ensure concerns are addressed in an organized and fair way.",
+  "title": "Public Complaints",
+  "description": "Community members, parents, and students who have concerns or complaints about the district have a clear process to follow for raising those issues and getting a response. The policy outlines the steps for submitting a complaint, who reviews it, and how decisions are made at each level. Having a defined process helps ensure that concerns are heard fairly and consistently.",
   "last_action_date": "2025-10-21",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -70,5 +70,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy outlines the process that community members and parents can follow when they have a complaint or concern about the school district that isn't covered by another specific policy. It applies to any member of the public who wants to formally raise an issue with Conroe ISD. Understanding this policy matters because it explains the steps you need to take and the timeline you must follow to make sure your complaint is heard and addressed by the district."
+  "description_local": "This policy outlines the process that community members and parents can follow when they have a complaint or concern about the school district that isn't covered by another specific policy. It applies to any member of the public who wants to formally raise an issue with Conroe ISD. Understanding this policy matters because it explains the steps you need to take and the timeline you must follow to make sure your complaint is heard and addressed by the district.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/GF"
 }

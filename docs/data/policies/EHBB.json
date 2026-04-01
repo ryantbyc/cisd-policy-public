@@ -1,7 +1,7 @@
 {
   "code": "EHBB",
-  "title": "Gifted and Talented Students (Local)",
-  "description": "This policy governs how the school district identifies, serves, and when necessary, exits students from its Gifted and Talented (GT) program, including the processes for appealing those decisions and how the program is funded. It applies to students currently enrolled in or being considered for GT services, as well as their parents and guardians. Parents should be aware of this policy because it outlines their rights to appeal if their child is removed from the GT program and helps them understand how the district manages and resources these specialized educational services.",
+  "title": "Special Programs: Gifted and Talented Students",
+  "description": "Conroe ISD's approach to identifying and serving gifted and talented students is outlined here, covering how students are selected for these programs and what kinds of services and instruction they receive. The policy ensures the district meets state requirements for supporting students who demonstrate exceptional academic ability or creative talent. Parents, students, and educators can refer to this policy to understand their rights and the district's responsibilities in providing advanced learning opportunities.",
   "last_action_date": "2025-12-16",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -93,5 +93,6 @@
     }
   ],
   "timeline_legal": [],
-  "description_local": "This policy sets the rules for how a school district identifies, serves, and supports students in its gifted and talented program, including how students can enter or exit the program and how families can appeal placement decisions. It applies to students who are nominated or selected for gifted and talented services, as well as their parents and the staff who work with them. Parents should be aware of this policy because it outlines their rights to challenge decisions about their child's participation in the program and explains how the district funds and maintains these specialized services."
+  "description_local": "This policy sets the rules for how a school district identifies, serves, and supports students in its gifted and talented program, including how students can enter or exit the program and how families can appeal placement decisions. It applies to students who are nominated or selected for gifted and talented services, as well as their parents and the staff who work with them. Parents should be aware of this policy because it outlines their rights to challenge decisions about their child's participation in the program and explains how the district funds and maintains these specialized services.",
+  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/EHBB"
 }
