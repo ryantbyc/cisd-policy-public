@@ -23,6 +23,38 @@
       ],
       "confidence": "high",
       "notes": "Motion #7306, carried unanimously 6-0 at the December 16, 2025 meeting. This is a procurement/retention decision authorized by BDD, not a policy text amendment. Included here because BDD was explicitly cited in the motion."
+    },
+    {
+      "date": "2025-08-19",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "Policy BDD (Local) is comprehensively rewritten to reorganize and expand the framework for legal counsel. The old single-block text is replaced with three distinct sections — \"Board Authority,\" \"District General Counsel,\" \"District General Counsel and the Board,\" and \"Board General Counsel\" — clarifying the Board's final authority to retain counsel, establishing protocols for requesting legal advice, and adding provisions for a separate Board General Counsel who advises the Board independently of the District.",
+      "changes_added": [
+        "Board Authority section: 'The Board shall have final authority to retain legal counsel—either internal or external—or a law firm to represent the Board, the District, or both. External services to be performed, along with all reasonable fees and expenses to be paid by the District, shall be outlined in a written engagement letter between the Board and the retained counsel or firm.'",
+        "District General Counsel section: 'The Board shall retain internal or external counsel or a law firm to serve as the District's General Counsel.'",
+        "District General Counsel section: 'The District shall establish protocols for the Superintendent and District staff to request legal advice from the District's General Counsel. Requests should be submitted in writing when appropriate.'",
+        "District General Counsel section: 'Unless the Board has retained separate legal counsel to serve as Board General Counsel, the District General Counsel shall also provide legal services to the Board.'",
+        "District General Counsel section: 'The District General Counsel or Superintendent may recommend that the Board retain external counsel or a law firm to represent the District in legal matters when: 1. An ethical conflict of interest exists for the District's General Counsel, or 2. The matter requires specialized legal expertise beyond the General Counsel's scope.'",
+        "District General Counsel section: 'Advice from the District's General Counsel shall be reported to the Superintendent or the Board, either upon request or when the General Counsel deems it necessary.'",
+        "District General Counsel and the Board section: 'The District General Counsel may assist individual Board members in carrying out their official responsibilities and may provide legal guidance related to their Board service.'",
+        "District General Counsel and the Board section: 'Board members may request a formal written legal opinion on matters of significance to the Board or District. Such requests must be submitted in writing to the District General Counsel.'",
+        "District General Counsel and the Board section: 'Upon receiving a written request for a legal opinion, the District General Counsel shall notify the full Board. Any formal legal opinion prepared in response shall be distributed to all Board members simultaneously.'",
+        "Board General Counsel section: 'The Board may also retain external legal counsel or a law firm to serve as Board Counsel, representing and advising the Board independently of the District. Board Counsel serves the Board as a whole.'",
+        "Board General Counsel section: 'Board Counsel may assist individual Board members in fulfilling their official responsibilities and provide legal guidance on matters related to their service. However, any advice or opinion that pertains to Board-wide governance or matters of material significance shall be shared with the full Board.'",
+        "Board General Counsel section: 'Board members may request a formal written legal opinion on matters of significance to the Board or District. Such requests must be submitted in writing to the Board Counsel.'",
+        "Board General Counsel section: 'Upon receiving a written request for a legal opinion, Board Counsel shall notify the full Board. Any formal legal opinion prepared in response shall be distributed to all Board members simultaneously.'",
+        "Board General Counsel section: 'Board Counsel may consult with the Superintendent, District staff, other legal counsel, or outside entities as appropriate in order to effectively represent and advise the Board.'"
+      ],
+      "changes_removed": [
+        "'The Board shall employ an attorney to serve as the District's general counsel and representative in matters requiring legal services. The District's general counsel, on behalf of the Board, may retain a private attorney or firm to represent the District in legal matters involving an ethical conflict of interest for the general counsel or requiring specialized legal knowledge. Services to be performed and reasonable fees and expenses to be paid by the District to a private attorney or firm shall be set forth in an engagement letter between the Board and the attorney or firm.'",
+        "'Individual Trustees shall channel legal inquiries through the Superintendent or general counsel, as appropriate, when advice or information from the District's outside legal counsel is sought. The Board President may make legal inquiry to retained, outside legal counsel directly, when circumstances so require.'",
+        "'A staff request for legal advice from the District's outside legal counsel must be submitted through the Superintendent or general counsel.'"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-08-19_regular",
+      "confidence": "high",
+      "source_redline": "BDD_LOCAL.pdf",
+      "notes": "All red underlined text is clearly new additions and all red strikethrough text is clearly removed language. The policy is substantially rewritten with new section headers (Board Authority, District General Counsel, District General Counsel and the Board, Board General Counsel) all appearing in red underline. The cover page title reads 'Discuss and Possibly Adopt Revisions to Board Policy BDD (Local)' which maps to action='adopted'."
     }
   ],
   "timeline_legal": [],

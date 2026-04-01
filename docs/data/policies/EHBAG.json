@@ -3,8 +3,48 @@
   "title": "Special Education: Legal Cost Transparency",
   "description": "Conroe ISD is required to track and share information about the costs of legal proceedings related to special education disputes. When families and the district disagree about a student's special education services and the matter goes to a formal hearing or court, the district must report what it spends on those legal processes. This transparency helps the community understand how public funds are being used when special education disagreements arise.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/EHBAG",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline_local": [],
+  "last_action_date": "2025-09-16",
+  "last_action_result": "adopted",
+  "timeline_local": [
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This update establishes a brand-new Local policy (EHBAG Local) for Special Education Legal Cost Transparency at Conroe ISD. The policy creates requirements for a confidential monthly Legal Report to the Board and a public quarterly Financial Report on the District's website, both covering legal fees related to students with disabilities, with a transition deadline of February 1, 2026.",
+      "changes_added": [
+        "In accordance with state and federal law, the District shall provide parents and guardians of students with disabilities required information about their rights. The District shall seek to resolve potential disputes with parents and guardians of students with disabilities at the ARD committee level.",
+        "For this policy legal fees means all legal fees and costs incurred by the District, including but not limited to fees or costs for either a parent or guardian, and school district legal fees and costs of any kind, and settlement amounts, if any.",
+        "If the District incurs any legal fees for a students with disabilities or Section 504 of the Rehabilitation Act, the General Counsel shall submit, after Superintendent review and approval, to the Board a monthly confidential attorney-client privileged report. The report format shall be approved by the Board. The report may include: 1. Estimated current legal fees incurred fiscal year-to-date; 2. The general topic; 3. Anticipated next District steps; 4. If the dispute has entered formal administrative litigation (contested cases or disputes resolved under the jurisdiction of an administrative agency) or judicial litigation (disputes resolved in the judicial branch of the government): a. Copies of the parent or guardian's unedited complaint(s); b. A summary of the District position in the dispute, including the legal claims, defenses, and relief sought; and c. A timeline and summary of any District efforts to resolve the dispute.",
+        "To the extent practicable, the report shall not include any information prohibited from public release by the Family Education Rights and Privacy Acts of 1974 (FERPA) or any personal identifying information. The confidential report shall not be released publicly and is not subject to disclosure under Chapter 552, Government Code.",
+        "Each quarter, the District shall post on its website a report. The report format shall be approved by the Board. The report may include legal fees incurred by the District concerning students with disabilities or Section 504 of the Rehabilitation Act. The report may consist of of the previous two fiscal years and the current fiscal year-to-date total aggregate spending on legal fees. In addition, the report will include for the current fiscal year the total aggregate expenditure on legal fees, with estimates for legal fees disaggregated by general legal topic, such as ARD, administrative litigation or judicial litigation.",
+        "The report shall not include any information prohibited from public release by the Family Education Rights and Privacy Acts of 1974 (FERPA) or any personal identifying information.",
+        "The reports required by this policy shall be implemented as soon as practicable but no later than February 1, 2026."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "high",
+      "source_redline": "EHBAG_LOCAL.pdf",
+      "notes": "All text on page 2 appears in red underline, indicating this is an entirely new policy with no prior language. There is no red strikethrough text, confirming nothing was removed (the policy did not exist before). The cover page title \"Discuss and Possibly Adopt\" maps to action = 'adopted' per the provided rules. The section headings (Special Education Legal Cost Transparency, Legal Report, Financial Report, Transition) are also new red-underlined text serving as structural labels within the policy."
+    },
+    {
+      "date": "2025-08-19",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This update creates a brand-new Board Policy EHBAG (Local) on Special Education Legal Cost Transparency for Conroe ISD. The policy establishes requirements for the District to provide parents/guardians of students with disabilities access to training and resources, seek to resolve disputes before incurring legal fees, submit confidential quarterly reports to the Board when legal fees reach $10,000, publish quarterly public website reports on aggregate special education legal spending, and implement these reporting requirements no later than January 31, 2026.",
+      "changes_added": [
+        "The District shall provide parents and guardians of students with disabilities access to training and resources on their student's educational opportunities and rights. The District shall seek to resolve potential disputes with parents and guardians of students with disabilities prior to incurring legal fees.",
+        "If the District incurs $10,000 in legal fees related to a dispute concerning a students with disabilities, the Superintendent shall submit to the Board quarterly a confidential report designed by the Superintendent and approved by the Board that may include: 1. Current legal fees incurred fiscal year-to-date and an estimate of anticipated fees; and 2. The general topic of dispute for the legal fees incurred; and 3. If the dispute has entered formal litigation: a. A summary of the of the District and guardian's positions in the dispute, including the legal claims, defenses, and relief sought; copies of the guardian's unedited complaint(s); and b. A timeline and summary of any District efforts to resolve the dispute.",
+        "The report shall not include any information prohibited from public release by the Family Education Rights and Privacy Acts of 1974 (FERPA) or any personal identifying information. To the greatest extent practicable, the report shall be confidential and not subject to disclosure under Chapter 552, Government Code.",
+        "Each quarter, the District shall post on its website a report designed by the Superintendent and approved by the Board for legal fees incurred by the District as the result of a dispute concerning students with disabilities. The report may consist of: 1. The previous two fiscal years and the current fiscal year-to-date total aggregate spending on legal fees; and 2. The previous two fiscal years, and the current fiscal year-to-date, total aggregate expenditure on legal fees disaggregated by the general legal topic of dispute.",
+        "The report shall not include any information prohibited from public release by the Family Education Rights and Privacy Acts of 1974 (FERPA) or any personal identifying information.",
+        "The reports required by this policy shall be implemented as soon as practicable but no later than January 31, 2026."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-08-19_regular",
+      "confidence": "high",
+      "source_redline": "EHBAG_LOCAL.pdf",
+      "notes": "The entire policy text on page 2 is rendered in red underlined font, indicating this is an entirely new LOCAL policy (no prior language existed). There is no red strikethrough text, confirming nothing was removed. The cover page title reads \"Consider and Possibly Adopt Revisions to Board Policy EHBAG (Local)\" — this maps to the 'adopted' action per the provided rules. The policy footer shows \"Date Issued: Update: 1 XX(Local)\" confirming it is a first-time issuance."
+    }
+  ],
   "timeline_legal": []
 }

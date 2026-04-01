@@ -30,6 +30,22 @@
       ],
       "confidence": "high",
       "notes": "All text on this page appears in red underlined formatting, indicating this is entirely new local policy language. The document footer shows 'Date Issued: Update: 1 FA(Local)', confirming this is the first update/issuance of this local policy. Policy Update Page Number 14. Cross-references to BED (board meeting public participation) and BE (board meetings) are included."
+    },
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update introduces a new \"Parental Engagement\" section to Policy FA (Local) for Conroe ISD, establishing three new provisions: an online portal for parents to submit comments to administrators and the Board, a priority speaking right for enrolled parents during public board meetings, and a requirement that board meetings be held outside of regular business hours.",
+      "changes_added": [
+        "Parents of students enrolled in the District may submit comments to campus or District administrators and the Board of Trustees through an online portal made available on the District's website.",
+        "Parents of students currently enrolled in the District shall be allowed to speak first during the citizenship participation portion of any public board meeting [See BED.]. The District shall make provision to ensure that parents are identified.",
+        "Board meetings shall be held outside of regular business hours. [See BE.]"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "high",
+      "source_redline": "FA_LOCAL.pdf",
+      "notes": "All red-underlined text on page 2 appears to be entirely new additions under a new \"Parental Engagement\" heading. There is no red strikethrough text, indicating no language was removed — this policy appears to be newly created or previously blank at the local level. The cover page title \"Discuss Revisions to Board Policy FA (Local)\" indicates a first reading."
     }
   ],
   "timeline_legal": [],

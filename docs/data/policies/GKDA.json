@@ -3,8 +3,24 @@
   "title": "Nonschool Use of School Facilities: Distribution of Nonschool Literature",
   "description": "Conroe ISD has rules about how and when outside groups or individuals can hand out flyers, brochures, or other printed materials on school campuses or through the district. The policy sets clear guidelines to keep the distribution process orderly while protecting students and staff from unwanted or inappropriate content. Parents, students, and community members who want to share information through the district should understand these rules before submitting materials for approval.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/GKDA",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline_local": [],
+  "last_action_date": "2025-09-16",
+  "last_action_result": "adopted",
+  "timeline_local": [
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This update to Conroe ISD's GKDA (Local) policy adds two new provisions: a tenth content limitation banning distribution of materials that promote concepts prohibited under Board Policies EFA, EFB, EMB, and EMI (Local), and a new \"Superintendent Authority\" section requiring the Superintendent to develop compliance procedures and certify compliance to the Board no later than February 1, 2026.",
+      "changes_added": [
+        "10. The materials promote concepts described in the prohibited concepts of Board Policies EFA (Local), EFB (Local), EMB (Local) and EMI (Local).",
+        "Superintendent Authority: The Superintendent shall develop policies and procedures to ensure compliance with this Policy. The Superintendent shall certify to the Board of Trustees that the District complies with this Policy not later than February 1, 2026."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "high",
+      "source_redline": "GKDA_LOCAL.pdf",
+      "notes": "Red underlined text was clearly identifiable on pages 2 and 3. No red strikethrough (removal) text was present in the document. The cover page title \"Discuss and Possibly Adopt Revisions to Board Policy GKDA (Local)\" maps to action = 'adopted'."
+    }
+  ],
   "timeline_legal": []
 }

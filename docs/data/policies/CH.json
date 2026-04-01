@@ -102,6 +102,40 @@
       ],
       "confidence": "high",
       "notes": "CH is referenced in consent agenda items V.H, V.I, V.J, V.K, and V.L as the authorization basis for purchasing from selected RFP vendors. No policy text changes are proposed for CH at this meeting."
+    },
+    {
+      "date": "2025-08-19",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's Purchasing and Acquisition policy (CH Local) raises the board-approval threshold from $50,000 to $100,000, replaces prior pre-approval requirements with quarterly cumulative reporting to the Board, and adds a new \"Vendor Alignment\" section requiring vendors who interact with students to acknowledge and agree to district policies—explicitly prohibiting content on topics such as gender fluidity, Critical Race Theory, DEI, and anti-American sentiments.",
+      "changes_added": [
+        "$100,000 (replacing $50,000 as the purchasing authority threshold)",
+        "shall be reported to the Board in a quarterly report. The District shall provide the Board a cumulative report in December, March, June and September, detailing year-to-date expenditures by vendor that exceed $100,000. Each report shall clearly identify all new vendors for the quarter and include the associated commodity category.",
+        "Vendor Alignment section heading (new bold/underlined heading)",
+        "To ensure alignment with the District's adopted policies, educational goals, community standards, and all applicable state and federal laws, any vendor or contractor providing services through direct interaction with students—whether in person or via digital means such as online courses, video conferences, video streaming, or other virtual platforms—or through the development, delivery, or distribution of print or digital materials, shall, prior to purchase, acknowledge and agree through a process designed by the Superintendent and approved by the Board to comply with the requirements of EMB (Local). This vendor alignment process specifically prohibits the inclusion of the following topics, except to the extent that the topic is expressly required as part of the Texas Essential Knowledge and Skills (TEKS):",
+        "1. Gender fluidity, sexual orientation, gender, transitioning;",
+        "2. Pronoun usage inconsistent with biological sex;",
+        "3. Social and Emotional Learning Concepts that are divisive, conflict with District policy, and are inconsistent with the District's education goals;",
+        "4. Critical Race Theory;",
+        "5. Systemic Discrimination Ideologies;",
+        "6. Diversity, Equity, Inclusion (DEI); and",
+        "7. Unpatriotic, anti-American sentiments.",
+        "This requirement includes, but is not limited to services involving curriculum design, in-district professional development concerning direct student outcomes, athletic or professional coaching, student advisory services, specialized lessons, or similar educational or instructional support activities.",
+        "Failure to adhere to the terms of this Vendor Alignment, or any verified misalignment with the District's policies or community values as stated, may constitute grounds for immediate termination of the contract, subject to applicable contractual and legal provisions.",
+        "$100,000 (in competitive procurement threshold on page 3)",
+        "$100,000 (in 'Bids, Quotes, and Other Proposals Under $100,000' subheading on page 3)"
+      ],
+      "changes_removed": [
+        "$50,000 (prior purchasing authority threshold — shown as $5̶0̶,000)",
+        "beginning September 1 of each year shall require Board approval before a transaction may take place,",
+        "$50,000 (in competitive procurement threshold on page 3 — shown as $5̶0̶0,000)",
+        "$50,000 (in 'Bids, Quotes, and Other Proposals Under $50,000' subheading on page 3)"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-08-19_regular",
+      "confidence": "high",
+      "source_redline": "CH_LOCAL.pdf",
+      "notes": "The cover page title reads \"Discussion of Possible Revisions to Board Policy CH (Local)\", which maps to 'first_reading'. Dollar amounts in the redline use a strikethrough digit (e.g., \"$5̶1̶00,000\") to indicate the change from $50,000 to $100,000; context makes interpretation clear. The entire Vendor Alignment section is new (red underlined). All red-underlined and red-strikethrough text has been captured."
     }
   ],
   "timeline_legal": [],

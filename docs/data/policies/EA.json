@@ -30,6 +30,22 @@
       ],
       "confidence": "high",
       "notes": "All text on this page appears in red/underlined formatting, indicating this is entirely new policy language being added. There is no prior local policy text being removed. This is labeled 'Update: 1' indicating it is the first local policy update for EA. Page 144 of the meeting packet; Policy Update Page Number 7."
+    },
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update establishes a new section in Policy EA (Local) titled \"Availability of Instructional Plan or Course Syllabus,\" requiring the District to post instructional plans or course syllabi on its website at the start of each semester, teachers to provide copies to district administration and parents, and teachers to make additional copies available to parents upon request. The entire policy text appears to be newly added language with no prior existing text being removed.",
+      "changes_added": [
+        "At the beginning of each semester, the District shall post on its website an instructional plan or course syllabus for each class offered in the District that semester.",
+        "In order for the District to make this required posting, each teacher shall provide a copy of the instructional plan or course syllabus for each class for which the teacher provides instruction to: 1. District administration; and 2. The parent of each student enrolled in the class.",
+        "Additionally, each teacher shall provide for additional copies of the instructional plan or course syllabus for each class for which the teacher provides instruction to be made available to a parent of a student enrolled in the class on the parent's request."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "high",
+      "source_redline": "EA_LOCAL.pdf",
+      "notes": "The entire policy page consists of red underlined text, indicating this is a wholly new local policy with no prior language. There is no red strikethrough text, so no removals were detected. The cover page title reads \"Discuss Revisions to Board Policy EA (Local),\" indicating a first reading."
     }
   ],
   "timeline_legal": [],

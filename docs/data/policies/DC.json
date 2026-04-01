@@ -3,8 +3,40 @@
   "title": "Employment Practices",
   "description": "Conroe ISD's employment practices policy outlines how the district hires and retains its staff, including teachers, administrators, and support personnel. It establishes the standards and procedures the district follows to bring qualified people into the workforce. Families and community members benefit from these practices because they help ensure that the people working with students meet appropriate qualifications and are selected through a consistent, fair process.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/DC",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline_local": [],
+  "last_action_date": "2025-09-16",
+  "last_action_result": "adopted",
+  "timeline_local": [
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This update to Conroe ISD's DC (Local) Employment Practices policy adds a new \"Retired Employee Surcharge\" section that requires the District to pass TRS and other retirement program surcharge costs on to retired employees hired on or after July 1, 2025, by reducing their pay, while exempting those hired before that date. The new section includes provisions for pay protection, payment of excess amounts, consequences for non-payment, and employee responsibility for understanding the surcharge rules.",
+      "changes_added": [
+        "Retired Employee Surcharge — For any employee hired July 1, 2025 or thereafter, the District shall collect any surcharge and other required fees it must pay to the Teacher Retirement System (TRS) or any other retirement program on behalf of any employee who is currently receiving benefits from TRS or another retirement program. Because the District does not incur such expenses in the employment of other staff members, the affected employee's pay will be reduced to offset this expense.",
+        "Exemption — Employees hired prior to July 1, 2025 are exempt from this provision and the District shall continue to pay the surcharge and other required fees.",
+        "Pay Protection — Deductions shall not reduce the employee's pay below the applicable state minimum salary schedule (if the minimum salary schedule applies to the employee's position) or below the applicable minimum wage rate for hourly employees.",
+        "Payment of Excess Amounts — If the amount owed by the employee exceeds the amount that can be deducted from the employee's paychecks, the employee shall submit payment to the District by personal check.",
+        "Non-Payment Consequences — If, after receiving notice, the employee fails to reimburse the District the amount owed, the employee may be terminated or suspended without pay until all outstanding balances are paid.",
+        "Employee Responsibility — It is the employee's responsibility to understand when and how surcharges will be applied. Detailed information regarding employment after retirement is available in the TRS publication 'Employment After Retirement.' Employees may contact TRS at 800-223-8778 or 512-542-6400, or visit the TRS website for additional information."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "high",
+      "source_redline": "DC_LOCAL.pdf",
+      "notes": "All new language on page 3 appears in red underlined text, indicating additions only — no red strikethrough (removals) were present. The cover page title \"Discuss and Possibly Adopt Revisions to Board Policy DC (Local)\" maps to action = 'adopted' per the extraction rules."
+    },
+    {
+      "date": "2025-08-19",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's Board Policy DC (Employment Practices) adds a new \"Retired Employee Surcharge\" section that requires the District to collect TRS (or other retirement program) surcharges and fees from employees hired on or after July 1, 2025 who are receiving retirement benefits, reducing their pay accordingly, while exempting employees hired before that date. The new section also establishes rules for pay protection floors, payment of excess amounts, consequences for non-payment, and employee responsibility for understanding surcharge obligations.",
+      "changes_added": "[\"Retired Employee Surcharge — For any employee hired July 1, 2025 or thereafter, the District shall collect any surcharge and other required fees it must pay to the Teacher Retirement System (TRS) or any other retirement program on behalf of any employee who is currently receiving benefits from TRS or another retirement program. Because the District does not incur such expenses in the employment of other staff members, the affected employee's pay will be reduced to offset this expense.\", \"Exemption — Employees hired prior to July 1, 2025 are exempt from this provision and the District shall continue to pay the surcharge and other required fees.\", \"Pay Protection — Deductions shall not reduce the employee's pay below the applicable state minimum salary schedule (if the minimum salary schedule applies to the employee's position) or below the applicable minimum wage rate for hourly employees.\", \"Payment of Excess Amounts — If the amount owed by the employee exceeds the amount that can be deducted from the employee's paycheck, the employee shall submit payment to the District by personal check.\", \"Non-Payment Consequences — If, after receiving notice, the employee fails to reimburse the District the amount owed, the employee may be terminated or suspended without pay until all outstanding balances are paid.\", \"Employee Responsibility — It is the employee's responsibility to understand when and how surcharges will be applied. Detailed information regarding employment after retirement is available in the TRS publication \"Employment After Retirement\". Employees may contact TRS at 800-223-8778 or 512-542-6400, or visit the TRS website for additional information.\"]",
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-08-19_regular",
+      "confidence": "high",
+      "source_redline": "DC_LOCAL.pdf",
+      "notes": "The cover page title heading reads \"Discussion of Possible Revisions to Board Policy DC (Local)\" which maps to \"first_reading.\" All red-underlined text on page 3 constitutes the new \"Retired Employee Surcharge\" section and its subsections (Exemption, Pay Protection, Payment of Excess Amounts, Non-Payment Consequences, Employee Responsibility). No red strikethrough (removal) text was identified in the redline pages. Page 4 appears to be blank continuation. Page 2 content appears in standard black text (unchanged existing policy language) and was excluded."
+    }
+  ],
   "timeline_legal": []
 }

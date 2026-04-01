@@ -89,6 +89,16 @@
       ],
       "confidence": "medium",
       "notes": "Plain text extraction; underline/strikethrough formatting not preserved. Changes inferred from context. Cross-referenced with EFB(LEGAL) and EMB(Local). Adoption inferred from triage hint."
+    },
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "Conroe ISD's Policy EFB (Local) on Instructional Resources: Library Materials was comprehensively rewritten, removing the prior framework (collection development standards, selection criteria, parental involvement procedures, and the informal/formal reconsideration committee process) and replacing it with a new structure that emphasizes Board and Superintendent oversight, a formal prohibition on pornographic material, Superintendent certification of library materials for compliance, Board approval of all library material acquisitions, and a streamlined parent opt-out and challenge process aligned with Texas Education Code §§ 33.021–33.027.",
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "medium",
+      "source_redline": "EFB_LOCAL.pdf"
     }
   ],
   "timeline_legal": [],

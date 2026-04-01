@@ -91,6 +91,16 @@
       ],
       "confidence": "high",
       "notes": "This is page 2 of 6 of the DGBA(Local) policy, Policy Update Page Number 22. The redline edits appear in red/orange text throughout the document. The changes are purely terminological — replacing 'complaint(s)' with 'grievance(s)' — with no apparent substantive changes to procedures or requirements. Page number 132 in the board packet."
+    },
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's DGBA (Local) policy systematically replaces the term \"complaint\" with \"grievance\" throughout, and makes substantive changes including: extended filing deadlines, replacement of \"hearing officer\" roles with named administrators, removal of restrictions on post-Level-One document submission, and addition of new sections on recusal, grievance records, remand, decisions on the merits, Board committee delegation, TEA reporting, policy availability, and appeal to the Commissioner of Education.",
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "medium",
+      "source_redline": "DGBA_LOCAL.pdf"
     }
   ],
   "timeline_legal": [],

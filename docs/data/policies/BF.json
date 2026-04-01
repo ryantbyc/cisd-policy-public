@@ -3,9 +3,33 @@
   "title": "Board Policies",
   "description": "The Conroe ISD Board of Trustees maintains a set of written policies that guide how the district is governed and operated. These policies cover a wide range of topics — from student rights to staff conduct to financial decisions — and serve as the foundation for consistent, fair decision-making across the district. Community members can review board policies to understand the rules and standards that shape how the district functions and serves students.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BF",
-  "last_action_date": null,
-  "last_action_result": null,
+  "last_action_date": "2025-09-16",
+  "last_action_result": "adopted",
   "timeline": [],
-  "timeline_local": [],
+  "timeline_local": [
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This update to Board Policy BF (Local) restructures terminology and streamlines language around legally referenced policies, removing a sentence requiring local and legally referenced policies to be read together, removing a standalone sentence stating legally referenced policies are not adopted by the Board, removing a phrase limiting policy development recommendations to the Superintendent, and updating the section header and body language for TASB Localized Policy Updates. Overall, the changes reflect a modernized, simplified approach to how Board policies are described and organized.",
+      "changes_added": [
+        "Legally referencesd policies contain provisions from federal and state statutes and regulations, case law, and other legal authority that together form the framework for local decision making and implementation. These policies are binding on the District until the cited provisions are repealed, revised, or superseded by legislative, regulatory, or judicial action. (revised/re-underlined section heading: 'Organization')",
+        "TASB Localized Policy Updates (revised section heading, replacing prior heading)",
+        "After Board review and adoption of local policies (replacing 'of legally referenced policies')"
+      ],
+      "changes_removed": [
+        "At each policy code the legally referenced policy and the Board-adopted local policy must be read together to further a full understanding of a topic.",
+        "Legally referencesd policies are not adopted by the Board.",
+        "but generally shall be recommended for the Board's consideration by the Superintendent.",
+        "of legally referenced policies (within the TASB Localized Policy Updates section)",
+        "TASB Localized Policy Updates (old heading style — struck through)"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "medium",
+      "source_redline": "BF_LOCAL.pdf",
+      "notes": "The redline scan is somewhat low-resolution and the red text is faint in places, making it difficult to precisely delineate every addition vs. removal boundary. The 'Organization' section heading appears in red (struck through or re-added), suggesting a heading-level change. The phrase 'Legally referencesd policies are not adopted by the Board' appears to be struck through entirely. The Policy Development section has a struck-through clause removed. The TASB section heading and the phrase 'of legally referenced policies' appear struck through in the body text. Some underlined red additions may overlap with existing black text, making exact boundaries uncertain."
+    }
+  ],
   "timeline_legal": []
 }

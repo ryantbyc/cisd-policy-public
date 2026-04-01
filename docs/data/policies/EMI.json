@@ -3,8 +3,32 @@
   "title": "Miscellaneous Instructional Policies: Study of Religion",
   "description": "Students in Conroe ISD may study religion as part of their academic coursework, including its history, literature, and role in society, but the district does not promote or favor any particular faith. Teachers are expected to present religious topics in an objective, educational way that respects the beliefs of all students and families. This approach ensures that learning about religion remains a scholarly subject while keeping the classroom welcoming for everyone.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/EMI",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline_local": [],
+  "last_action_date": "2025-08-19",
+  "last_action_result": "first_reading",
+  "timeline_local": [
+    {
+      "date": "2025-08-19",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update adds an entirely new \"Ten Commandments\" section to Conroe ISD's EMI (Local) policy, requiring each classroom to prominently display a durable poster or framed copy of the Ten Commandments (at least 16×20 inches, legible from anywhere in the room), with the full text specified verbatim. The policy also directs the District to accept private donor offers or use district funds to fulfill the requirement in non-compliant classrooms, and explicitly states there shall be no exemption.",
+      "changes_added": [
+        "Ten Commandments [section heading]",
+        "Notwithstanding any conflicting provisions contained elsewhere in this or other policy, each classroom shall be required to clearly display the Ten Commandments in a conspicuous location. Classroom is defined as any learning environment in which instruction is provided to students. This requirement shall constitute an expressed exception to any general rules to the contrary.",
+        "The Ten Commandments shall:",
+        "1. Be displayed as a durable poster or framed copy, measuring at least 16 inches wide and 20 inches tall;",
+        "2. Be legible to a person with average vision from anywhere in the classroom in which the poster or framed copy is displayed;",
+        "3. Read exactly as outlined below: a. The Ten Commandments b. I AM the LORD thy God. c. Thou shalt have no other gods before me. d. Thou shalt not make to thyself any graven images. e. Thou shalt not take the Name of the Lord thy God in vain. f. Remember the Sabbath day, to keep it holy. g. Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee. h. Thou shalt not kill. i. Thou shalt not commit adultery. j. Thou shalt not steal. k. Thou shalt not bear false witness against thy neighbor. l. Thou shalt not covet thy neighbor's house. m. Thou shalt not covet thy neighbor's wife, nor his manservant, nor his maidservant, nor his cattle, nor anything that is thy neighbor's.",
+        "4. Not contain additional text or content beyond what is required.",
+        "If there are any classrooms that do not include a poster or framed copy of the Ten Commandments, the District must accept any offer from a private donor to comply with the requirements.",
+        "If there are any classrooms that do not include a poster or framed copy of the Ten Commandments, the District may utilize district funds to comply with the requirements.",
+        "There shall be no exemption to this requirement."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-08-19_regular",
+      "confidence": "high",
+      "source_redline": "EMI_LOCAL.pdf",
+      "notes": "The cover page title reads \"Discussion of Possible Revisions to Board Policy EMI (Local),\" which maps to a first_reading action. All red underlined text on pages 2–3 is new addition with no red strikethrough deletions present. The existing black-text policy sections (Teaching About Religion, Religious Texts, Religious Music, Religious Symbols, Religious Elements In Student Work) are unchanged and were not included in the changes lists."
+    }
+  ],
   "timeline_legal": []
 }

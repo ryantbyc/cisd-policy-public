@@ -28,6 +28,20 @@
       ],
       "confidence": "high",
       "notes": "Item #16 appears underlined in the document, indicating it is newly added text. The previous item 16 ('Other records that may contribute to an understanding of the student') has been renumbered to 17. This is page 1 of 3 of the FL Local Policy, labeled as Policy Update Page Number 17, for Conroe ISD. The action is inferred as adoption based on the triage hint and meeting date of 2025-10-21."
+    },
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's Student Records policy (FL Local) adds school library checkout records as a new category of education records maintained by the District. The addition explicitly includes \"Records relating to school library materials the student obtains from a school library\" in the enumerated list of education record types.",
+      "changes_added": [
+        "Records relating to school library materials the student obtains from a school library. (added as item 16 in the Types of Education Records list)"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "high",
+      "source_redline": "FL_LOCAL.pdf",
+      "notes": "The redline is clear: item 16 in the Types of Education Records list is rendered in red underlined text, indicating it is a new addition. All other policy text appears in standard black (unchanged). The cover page title reads \"Discuss Revisions to Board Policy FL (Local),\" which maps to a first_reading action. No red strikethrough text was identified anywhere in the document."
     }
   ],
   "timeline_legal": [],

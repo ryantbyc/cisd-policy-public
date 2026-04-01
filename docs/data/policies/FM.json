@@ -27,6 +27,36 @@
       ],
       "confidence": "high",
       "notes": "The added text appears in red/underlined format indicating new language. The existing sections (Extracurricular Activity Absences, Use of District Facilities, School Insignia, Participation in UIL Activities) appear to be unchanged. This is Policy Update Page Number 20 for Conroe ISD. No strikethrough/removed text is visible on this page."
+    },
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's Board Policy FM (Local) – Student Activities adds three new sections: Student Groups (requiring parental written consent for student group participation), Prohibitions (barring district authorization of groups based on sexual orientation or gender identity and restricting groups from violating certain board policies), and Holidays or Commemorative Months (establishing a three-prong test for how clubs may acknowledge federal/state holidays or commemorative months). No existing language was removed.",
+      "changes_added": [
+        "Student Groups: District may authorize or sponsor a student group. Before a student may participate in a student group, the parent of or person standing in parental relation to a student enrolled in the District shall provide written consent for participation.",
+        "Prohibitions: The District shall not authorize or sponsor a student group based on sexual orientation or gender identity as defined in EMB (Local).",
+        "Prohibitions: Student groups shall not violate the prohibition on certain topics found in Board Policies EFA (Local), EFB (Local), EMB (Local) and EMI (Local).",
+        "Holidays or Commemorative Months: If the club wants to acknowledge the significance of a federal or state holiday or commemorative month, consistent with Education Code 11.005(e)(2) and EMB (Local), the club acknowledgment should generally meet a three-prong test: 1. It should acknowledge the significance of a federal or state holiday or commemorative month (established through a Presidential Proclamation, Congressional law or Resolution, Gubernatorial Proclamation, or Texas legislative law or Resolution); 2. It should acknowledge how the holiday or month fits into the themes of history and the stories of this state and the United States of America; and 3. It should be consistent with the Texas Essential Knowledge and Skills (TEKS)."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "high",
+      "source_redline": "FM_LOCAL.pdf",
+      "notes": "All red-underlined text appears on page 2 under three new section headings: Student Groups, Prohibitions, and Holidays or Commemorative Months. No red strikethrough (removed) text was identified. The cover page title reads \"Discuss Revisions to Board Policy FM (Local),\" indicating a first reading."
+    },
+    {
+      "date": "2025-07-15",
+      "school_year": "2024-2025",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This update to FM (Local) – Student Activities adds a cross-reference directing readers to FD (Local) for eligibility rules governing private school and homeschool students seeking to participate in extracurricular activities. This change is part of CISD's broader effort to formally decline granting non-enrolled students the opportunity to participate in UIL activities, as permitted under SB 401.",
+      "changes_added": [
+        "[For eligibility of a private school student, including a homeschool student, to participate in extracurricular activities, see FD(LOCAL).]"
+      ],
+      "confidence": "high",
+      "source_redline": "FM_LOCAL.pdf",
+      "notes": "The added text appears in blue/cyan underlined formatting on the redline page rather than red, but in context it is clearly the new language being added (marked as a proposed revision dated 6-16-25). The cover page title begins with \"Consider and Adopt,\" which most closely maps to the 'adopted' action. No red strikethrough removals were identified on the redline page."
     }
   ],
   "timeline_legal": [],

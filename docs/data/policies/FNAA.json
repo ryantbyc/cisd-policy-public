@@ -3,8 +3,24 @@
   "title": "Student Expression: Distribution of Nonschool Literature",
   "description": "Students and community members who want to hand out flyers, pamphlets, or other printed materials on school campuses need to follow specific guidelines set by the district. The policy explains where, when, and how nonschool literature can be distributed, and outlines any approval steps required before materials are shared with students. Understanding these rules helps families and outside groups participate in school life while keeping the learning environment safe and orderly.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FNAA",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline_local": [],
+  "last_action_date": "2025-09-16",
+  "last_action_result": "adopted",
+  "timeline_local": [
+    {
+      "date": "2025-09-16",
+      "school_year": "2025-2026",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This update to Policy FNAA (Local) adds two new provisions: a ninth content limitation prohibiting distribution of materials promoting concepts defined as prohibited under Board Policies EFA, EFB, EMB, and EMI (Local), and a new \"Superintendent Authority\" section requiring the Superintendent to develop compliance procedures and certify compliance to the Board no later than February 1, 2026.",
+      "changes_added": [
+        "The materials promote concepts described in the prohibited concepts of Board Policies EFA (Local), EFB (Local), EMB (Local) and EMI (Local). [added as item 9 under Limitations on Content]",
+        "Superintendent Authority section: The Superintendent shall develop policies and procedures to ensure compliance with this Policy. The Superintendent shall certify to the Board of Trustees that the District complies with this Policy not later than February 1, 2026."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "confidence": "high",
+      "source_redline": "FNAA_LOCAL.pdf",
+      "notes": "Red underlined text was clearly identifiable on pages 2 and 3. No red strikethrough text was present, indicating this update is purely additive. The cover page title \"Discuss and Possibly Adopt Revisions to Board Policy FNAA (Local)\" maps to action = 'adopted' per the provided rules."
+    }
+  ],
   "timeline_legal": []
 }

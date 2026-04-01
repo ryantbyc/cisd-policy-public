@@ -3,8 +3,22 @@
   "title": "Admissions",
   "description": "Conroe ISD's admissions policy explains who is eligible to enroll in district schools and what the enrollment process looks like. It covers requirements such as residency, age, and documentation needed to register a student. Parents and guardians can use this policy to understand their child's right to attend a Conroe ISD school and what steps to follow when enrolling.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FD",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline_local": [],
+  "last_action_date": "2025-07-15",
+  "last_action_result": "adopted",
+  "timeline_local": [
+    {
+      "date": "2025-07-15",
+      "school_year": "2024-2025",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This revision to Policy FD Local (Admissions) adds a new \"Students Not Enrolled\" section explicitly prohibiting students enrolled in private schools, including homeschools, from being eligible for concurrent enrollment in the District or for participation in curricular or extracurricular activities. This policy change, required in response to SB 401, allows Conroe ISD to opt out of permitting non-enrolled students to participate in UIL activities.",
+      "changes_added": [
+        "Students Not Enrolled: A student enrolled in a private school, including a homeschool, shall not be eligible for concurrent enrollment in the District nor for participation in curricular or extracurricular activities. [See EEL and FM]"
+      ],
+      "confidence": "high",
+      "source_redline": "FD_LOCAL.pdf",
+      "notes": "The new \"Students Not Enrolled\" section heading and its associated policy text appear in blue/underlined formatting in the PDF, consistent with new added language. No red strikethrough (removed) language was identified in the FD Local redline pages. The cover page title reads \"Consider and Adopt Revisions,\" which maps to action = \"adopted.\" A companion policy FM Local is referenced but its redline pages are not included in this document."
+    }
+  ],
   "timeline_legal": []
 }

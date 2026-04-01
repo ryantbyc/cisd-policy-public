@@ -376,7 +376,7 @@
       "description_short": "This policy governs how the school board and the superintendent work together to lead the district, including how responsibilities are divided between elected…",
       "last_action_date": "2026-01-20",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -504,10 +504,10 @@
       "code": "BF",
       "title": "Board Policies",
       "description_short": "The Conroe ISD Board of Trustees maintains a set of written policies that guide how the district is governed and operated.",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2025-09-16",
+      "last_action_result": "adopted",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -976,7 +976,7 @@
       "description_short": "This policy governs how the school district purchases goods and services, setting the rules for how money is spent on everything from supplies and equipment to…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
-      "timeline_count": 3,
+      "timeline_count": 4,
       "has_local": true,
       "has_legal": false
     },
@@ -1614,10 +1614,10 @@
       "code": "DC",
       "title": "Employment Practices",
       "description_short": "Conroe ISD's employment practices policy outlines how the district hires and retains its staff, including teachers, administrators, and support personnel.",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2025-09-16",
+      "last_action_result": "adopted",
+      "timeline_count": 2,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -1766,7 +1766,7 @@
       "description_short": "This policy governs the rules and conditions under which the school district can end the employment of staff members, including both employees and contractors.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -1906,7 +1906,7 @@
       "description_short": "This policy outlines the process that school district employees must follow when they have a formal concern or dispute with their employer, such as issues…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -2054,10 +2054,10 @@
       "code": "DP",
       "title": "Personnel Positions",
       "description_short": "Conroe ISD uses this policy to establish how staff positions are created, organized, and maintained across the district.",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2025-09-16",
+      "last_action_result": "adopted",
+      "timeline_count": 2,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -2076,7 +2076,7 @@
       "description_short": "This policy establishes requirements for how Conroe ISD teachers document and share their instructional plans or course syllabi, ensuring that lesson goals and…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -2156,7 +2156,7 @@
       "description_short": "This policy governs how the school district selects and approves the textbooks, digital resources, and other learning materials used in classrooms.",
       "last_action_date": "2026-02-17",
       "last_action_result": "adopted",
-      "timeline_count": 2,
+      "timeline_count": 3,
       "has_local": true,
       "has_legal": false
     },
@@ -2166,7 +2166,7 @@
       "description_short": "This policy governs the selection, use, and removal of library and instructional materials in the district's schools, including new rules about what types of…",
       "last_action_date": "2026-03-17",
       "last_action_result": "tabled",
-      "timeline_count": 4,
+      "timeline_count": 5,
       "has_local": true,
       "has_legal": false
     },
@@ -2304,10 +2304,10 @@
       "code": "EHBAG",
       "title": "Special Education: Legal Cost Transparency",
       "description_short": "Conroe ISD is required to track and share information about the costs of legal proceedings related to special education disputes.",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2025-09-16",
+      "last_action_result": "adopted",
+      "timeline_count": 2,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -2596,7 +2596,7 @@
       "description_short": "This policy sets guidelines for how controversial or sensitive topics must be handled during classroom instruction.",
       "last_action_date": "2026-03-17",
       "last_action_result": "information_only",
-      "timeline_count": 2,
+      "timeline_count": 4,
       "has_local": true,
       "has_legal": false
     },
@@ -2604,10 +2604,10 @@
       "code": "EMI",
       "title": "Miscellaneous Instructional Policies: Study of Religion",
       "description_short": "Students in Conroe ISD may study religion as part of their academic coursework, including its history, literature, and role in society, but the district does…",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2025-08-19",
+      "last_action_result": "first_reading",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -2626,7 +2626,7 @@
       "description_short": "This policy establishes the rights and responsibilities of parents in their children's education within Conroe ISD, outlining how families can be involved in…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -2654,10 +2654,10 @@
       "code": "FD",
       "title": "Admissions",
       "description_short": "Conroe ISD's admissions policy explains who is eligible to enroll in district schools and what the enrollment process looks like.",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2025-07-15",
+      "last_action_result": "adopted",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -2856,7 +2856,7 @@
       "description_short": "This policy governs how the school district responds to crisis situations involving students, including threats to safety, and outlines the teams and…",
       "last_action_date": "2026-02-17",
       "last_action_result": "information_only",
-      "timeline_count": 3,
+      "timeline_count": 4,
       "has_local": true,
       "has_legal": false
     },
@@ -2966,7 +2966,7 @@
       "description_short": "This policy governs how the school district collects, maintains, and manages student records, including what types of documents count as official education…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -2976,7 +2976,7 @@
       "description_short": "This policy governs student participation in school clubs, organizations, extracurricular activities, and other school-sponsored groups.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 3,
       "has_local": true,
       "has_legal": false
     },
@@ -3034,10 +3034,10 @@
       "code": "FNAA",
       "title": "Student Expression: Distribution of Nonschool Literature",
       "description_short": "Students and community members who want to hand out flyers, pamphlets, or other printed materials on school campuses need to follow specific guidelines set by…",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2025-09-16",
+      "last_action_result": "adopted",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -3176,7 +3176,7 @@
       "description_short": "This policy outlines the process that students and parents can use to formally raise concerns or disputes about decisions, actions, or conditions within the…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -3366,7 +3366,7 @@
       "description_short": "This policy outlines the process that community members and parents can follow when they have a complaint or concern about the school district that isn't…",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -3414,10 +3414,10 @@
       "code": "GKDA",
       "title": "Nonschool Use of School Facilities: Distribution of Nonschool Literature",
       "description_short": "Conroe ISD has rules about how and when outside groups or individuals can hand out flyers, brochures, or other printed materials on school campuses or through…",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2025-09-16",
+      "last_action_result": "adopted",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -3531,5 +3531,5 @@
       "has_legal": false
     }
   ],
-  "generated_at": "2026-04-01T20:04:51Z"
+  "generated_at": "2026-04-01T23:49:21Z"
 }
