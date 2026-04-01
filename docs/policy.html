@@ -283,18 +283,16 @@
       border-radius: 6px;
       padding: 0.65rem 0.9rem;
     }
+    .meeting-notes-link {
+      font-size: 0.83rem; font-weight: 600; color: var(--border-accent);
+      text-decoration: none; display: inline-block; padding: 0.1rem 0;
+    }
+    .meeting-notes-link:hover { text-decoration: underline; }
+
     .discussion-label {
       font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
       color: var(--text-section); margin-bottom: 0.5rem;
     }
-    .discussion-text {
-      font-size: 0.83rem; line-height: 1.65; color: var(--discussion-text);
-    }
-    .discussion-text p   { margin-bottom: 0.6rem; }
-    .discussion-text p:last-child { margin-bottom: 0; }
-    .discussion-text strong { font-weight: 600; color: var(--text-primary); }
-    .discussion-text h4  { font-size: 0.83rem; font-weight: 700; color: var(--text-section); margin: 0.75rem 0 0.25rem; }
-    .discussion-text hr  { border: none; border-top: 1px solid var(--discussion-border); margin: 0.6rem 0; }
     .discussion-text .tabled-notice {
       background: #fff8e0; border-left: 3px solid #c8960a;
       color: #6b4c00; padding: 0.35rem 0.6rem; border-radius: 3px;
@@ -303,19 +301,6 @@
     [data-theme="dark"] .discussion-text .tabled-notice {
       background: #201800; border-left-color: #c8a020; color: #e0c060;
     }
-    .discussion-collapsed { max-height: 6rem; overflow: hidden; position: relative; }
-    .discussion-collapsed::after {
-      content: '';
-      position: absolute; bottom: 0; left: 0; right: 0;
-      height: 2.5rem;
-      background: linear-gradient(transparent, var(--discussion-bg));
-    }
-    .discussion-toggle {
-      background: none; border: none; color: var(--text-section); font-size: 0.78rem;
-      cursor: pointer; padding: 0.25rem 0; margin-top: 0.4rem; display: block;
-      text-decoration: underline;
-    }
-    .discussion-toggle:hover { opacity: 0.75; }
 
     /* Vote */
     .vote-section {
@@ -553,34 +538,21 @@
       body.appendChild(sec);
     }
 
-    /* Discussion */
-    if (entry.discussion && entry.discussion.trim()) {
-      const text = entry.discussion.trim();
-      const isLong = text.length > 400;
+    /* Meeting notes link */
+    if (entry.meeting_notes_url) {
       const sec = document.createElement('div');
       sec.className = 'discussion-section';
       const lbl = document.createElement('div');
       lbl.className = 'discussion-label';
-      lbl.textContent = 'Board Discussion';
+      lbl.textContent = 'Meeting Notes';
       sec.appendChild(lbl);
-
-      const textEl = document.createElement('div');
-      textEl.className = 'discussion-text' + (isLong ? ' discussion-collapsed' : '');
-      textEl.innerHTML = renderDiscussion(text);
-      sec.appendChild(textEl);
-
-      if (isLong) {
-        const btn = document.createElement('button');
-        btn.className = 'discussion-toggle';
-        btn.textContent = 'Show more';
-        let expanded = false;
-        btn.addEventListener('click', () => {
-          expanded = !expanded;
-          textEl.classList.toggle('discussion-collapsed', !expanded);
-          btn.textContent = expanded ? 'Show less' : 'Show more';
-        });
-        sec.appendChild(btn);
-      }
+      const link = document.createElement('a');
+      link.href = entry.meeting_notes_url;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.className = 'meeting-notes-link';
+      link.textContent = 'View full meeting summary ↗';
+      sec.appendChild(link);
       body.appendChild(sec);
     }
 
