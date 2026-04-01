@@ -436,7 +436,7 @@
       "description_short": "This policy governs how school board meetings are conducted, including the rules for scheduling, running, and participating in official board meetings.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 1,
+      "timeline_count": 2,
       "has_local": true,
       "has_legal": false
     },
@@ -3531,5 +3531,5 @@
       "has_legal": false
     }
   ],
-  "generated_at": "2026-04-01T01:28:35Z"
+  "generated_at": "2026-04-01T19:19:33Z"
 }
