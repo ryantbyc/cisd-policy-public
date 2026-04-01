@@ -276,6 +276,36 @@
     .changes-added   .changes-list li { color: var(--change-added-text); }
     .changes-removed .changes-list li { color: var(--change-removed-text); }
 
+    /* Current status card */
+    .status-card {
+      border-radius: 8px;
+      padding: 0.9rem 1.1rem;
+      margin-bottom: 1.25rem;
+      display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
+      border: 2px solid transparent;
+    }
+    .status-card.status-adopted  { background: #edf7ed; border-color: #4caf50; }
+    .status-card.status-tabled   { background: #fdf5dc; border-color: #c8960a; }
+    .status-card.status-rejected { background: #fdecea; border-color: #e53935; }
+    .status-card.status-pending  { background: #e8eaf6; border-color: #5c6bc0; }
+    .status-card.status-unknown  { background: var(--bg-code); border-color: var(--border-card); }
+    [data-theme="dark"] .status-card.status-adopted  { background: #0d2b0d; border-color: #388e3c; }
+    [data-theme="dark"] .status-card.status-tabled   { background: #2a1e00; border-color: #c8a020; }
+    [data-theme="dark"] .status-card.status-rejected { background: #2a0c0c; border-color: #c62828; }
+    [data-theme="dark"] .status-card.status-pending  { background: #0d0f2a; border-color: #3949ab; }
+    .status-icon { font-size: 1.4rem; flex-shrink: 0; }
+    .status-body { flex: 1; min-width: 0; }
+    .status-result {
+      font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em;
+      color: var(--text-primary);
+    }
+    .status-meta { font-size: 0.78rem; color: var(--text-secondary); margin-top: 0.15rem; }
+    .status-notes-link {
+      font-size: 0.78rem; font-weight: 600; color: var(--border-accent);
+      text-decoration: none; white-space: nowrap;
+    }
+    .status-notes-link:hover { text-decoration: underline; }
+
     /* Discussion */
     .discussion-section {
       background: var(--discussion-bg);
@@ -474,6 +504,64 @@
   }
 
   /* ── Build a single timeline entry ── */
+  function buildStatusCard(entries) {
+    /* Find the most recent entry with a definitive result */
+    const definitive = ['adopted', 'tabled', 'rejected', 'withdrawn', 'first_reading', 'pending_adoption'];
+    const sorted = [...entries].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+    const latest = sorted.find(e => definitive.includes(e.result)) || sorted[0];
+    if (!latest) return null;
+
+    const result = latest.result || 'unknown';
+    const statusClass = {
+      adopted: 'status-adopted',
+      tabled: 'status-tabled',
+      rejected: 'status-rejected',
+      withdrawn: 'status-rejected',
+      first_reading: 'status-pending',
+      pending_adoption: 'status-pending',
+    }[result] || 'status-unknown';
+
+    const icon = {
+      adopted: '✓', tabled: '⏸', rejected: '✕', withdrawn: '✕',
+      first_reading: '◷', pending_adoption: '◷',
+    }[result] || '•';
+
+    const label = resultLabel(result);
+
+    const card = document.createElement('div');
+    card.className = `status-card ${statusClass}`;
+
+    const iconEl = document.createElement('div');
+    iconEl.className = 'status-icon';
+    iconEl.textContent = icon;
+
+    const body = document.createElement('div');
+    body.className = 'status-body';
+    const resultEl = document.createElement('div');
+    resultEl.className = 'status-result';
+    resultEl.textContent = label;
+    const metaEl = document.createElement('div');
+    metaEl.className = 'status-meta';
+    metaEl.textContent = `Board action — ${formatDate(latest.date)}`;
+    body.appendChild(resultEl);
+    body.appendChild(metaEl);
+
+    card.appendChild(iconEl);
+    card.appendChild(body);
+
+    if (latest.meeting_notes_url) {
+      const link = document.createElement('a');
+      link.href = latest.meeting_notes_url;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.className = 'status-notes-link';
+      link.textContent = 'Meeting notes ↗';
+      card.appendChild(link);
+    }
+
+    return card;
+  }
+
   function buildEntry(entry) {
     const result  = entry.result || entry.action || 'unknown';
     const dateStr = formatDate(entry.date);
@@ -692,6 +780,10 @@
         empty.textContent = 'No board actions recorded yet.';
         panel.appendChild(empty);
       } else {
+        /* Current status card */
+        const statusCard = buildStatusCard(entries);
+        if (statusCard) panel.appendChild(statusCard);
+
         const sorted = [...entries].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
         const timelineEl = document.createElement('div');
         timelineEl.className = 'timeline';
