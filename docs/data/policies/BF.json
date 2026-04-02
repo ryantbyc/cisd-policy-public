@@ -22,7 +22,7 @@
         "TASB Localized Policy Updates (section heading — struck in red)",
         "of legally referenced policies"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-09-16_regular",
       "confidence": "medium",
       "source_redline": "BF_LOCAL.pdf",
       "notes": "The redline scan quality is somewhat low and the red text is partially difficult to distinguish from black in certain areas. The section headings \"Organization\" and \"TASB Localized Policy Updates\" appear in red, suggesting they are being changed or removed/replaced, but no clear red-underlined replacement text is visible for those headings. The \"changes_added\" array is minimal because very little new underlined text was identifiable — primarily the typographic correction to \"Legally referencesd\" appears as a tracked change artifact rather than a substantive addition. The main substantive changes are all removals (strikethroughs)."

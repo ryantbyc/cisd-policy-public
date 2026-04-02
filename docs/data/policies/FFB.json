@@ -38,7 +38,7 @@
         "substance abuse program.",
         "to another person, the campus, or the community"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
       "source_redline": "FFB_LOCAL.pdf",
       "notes": "The cover page title heading is not a traditional action title (e.g., \"Discuss Revisions\" or \"Adopt Revisions\") — it reads as a policy document header rather than a board agenda action item, so action is marked 'unknown'. The redline is Version 1, suggesting this is a new local policy being established. Red underlined and red strikethrough formatting was clearly distinguishable. Several additions involve grammatical corrections (Notifying→Notify, Provideing→Provide) that appear as tracked changes. The Notice of a Threat section header and its full text are entirely red-underlined, indicating it is a new section addition."
@@ -62,7 +62,7 @@
         "A Licensed Clinical Social Worker or a Licensed Master Social Worker; or",
         "A Licensed School Psychologist."
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-01-20_regular",
       "confidence": "high",
       "source_redline": "FFB_LOCAL.pdf",
       "notes": "The cover page does not contain a large bold heading indicating a specific board action (e.g., \"Discuss Revisions,\" \"Adopt Revisions,\" etc.) — it only shows the policy title and metadata. Action has been marked as 'unknown' because the action type cannot be determined from the available cover page content. All red underlined text has been captured; no red strikethrough text was identified in the document."
@@ -83,7 +83,7 @@
       "changes_removed": [
         "having a substance abuse issue"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-10-21_regular",
       "confidence": "high",
       "source_redline": "FFB_LOCAL.pdf",
       "notes": "Red underlined and red strikethrough text were clearly distinguishable in the document. The cover page heading reads \"Discuss and Possibly Adopt Revisions to Board Policy FFB (Local)\" which maps to action = 'adopted' per the extraction rules."
@@ -105,7 +105,7 @@
       "changes_removed": [
         "having a substance abuse issue"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-09-16_regular",
       "confidence": "high",
       "source_redline": "FFB_LOCAL.pdf",
       "notes": "Red underlined and red strikethrough text was clearly distinguishable in the redline. The addition of \"and Education Code 37\" is a small inline addition within an existing sentence in the Threat Assessment Process section. The numbered list items 2 and 4 (parental notification before and after assessment) are entirely new additions shown in red underline."

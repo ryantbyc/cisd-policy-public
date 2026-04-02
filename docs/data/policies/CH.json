@@ -26,7 +26,7 @@
         "$50,000 (competitive procurement threshold)",
         "$50,000 (bids, quotes, and other proposals under threshold)"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "medium",
       "source_redline": "CH_LOCAL.pdf",
       "notes": "The cover page does not contain a standard TASB action title heading (e.g., \"Discuss,\" \"Adopt,\" etc.) — it only shows the policy name and a rationale line, so action is marked 'unknown'. The redline uses red underline for additions and red strikethrough for removals; however, the competitive procurement threshold change appears as \"$5100,000\" in the document, which is a typographical redline rendering of the change from $50,000 to $100,000 (the \"51\" represents strikethrough \"5\" and new \"1\" overlapping). Added and removed items for the threshold have been interpreted accordingly. Much of the new \"Purchasing Authority\" paragraph text is red-underlined as new language replacing the old simpler dollar-threshold language."
@@ -49,7 +49,7 @@
         "$50,000 (prior threshold in Competitive Procurement Requirements — replaced by $100,000)",
         "$50,000 (prior threshold in 'Bids, Quotes, And Other Proposals Under $50,000' heading — replaced by $100,000)"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-01-20_regular",
       "confidence": "medium",
       "source_redline": "CH_LOCAL.pdf",
       "notes": "The cover page does not contain a standard TASB action title heading (e.g., 'Discuss Revisions to...' or 'Adopt Revisions to...'); instead it shows only the policy title and metadata, so action is marked 'unknown'. The redline uses a layered number format (e.g., '$5̶1̶0̶0,000') where the red '1' is inserted and the '5' is struck through, indicating the threshold changes from $50,000 to $100,000. The new HUB section on page 3 is entirely red underlined, indicating it is fully new language. No text appears in red strikethrough for the HUB section."
@@ -83,7 +83,7 @@
         "$50,000 (in competitive procurement threshold on page 3 — shown as $5̶0̶0,000)",
         "$50,000 (in 'Bids, Quotes, and Other Proposals Under $50,000' subheading on page 3)"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-08-19_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-08-19_regular",
       "confidence": "high",
       "source_redline": "CH_LOCAL.pdf",
       "notes": "The cover page title reads \"Discussion of Possible Revisions to Board Policy CH (Local)\", which maps to 'first_reading'. Dollar amounts in the redline use a strikethrough digit (e.g., \"$5̶1̶00,000\") to indicate the change from $50,000 to $100,000; context makes interpretation clear. The entire Vendor Alignment section is new (red underlined). All red-underlined and red-strikethrough text has been captured."

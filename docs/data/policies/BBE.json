@@ -19,7 +19,7 @@
         "Public information that is confidential under law shall be redacted from the information provided to the Board member without charge.",
         "Information subject to attorney-client privilege is not subject to disclosure to a member of a Board member unless the attorney-client relationship upon which the privilege is based applies to the member. The district shall inform the Board member if information responsive to a request is withheld due to attorney-client privilege."
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-01-20_regular",
       "confidence": "high",
       "source_redline": "BBE_LOCAL.pdf",
       "notes": "The cover page does not contain a standard TASB action title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\") — it simply shows the policy title \"Board Members: Authority (BBE)\" as a header, so the board action could not be determined from the title convention. Action set to 'unknown'. All red underlined text has been captured; no red strikethrough (removal) text was identified in the document."
@@ -33,7 +33,7 @@
       "changes_added": [
         "An individual Board member has authority only when acting as a member of the Board in a duly called meeting or when delegated specific authority by Board action."
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-11-18_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
       "source_redline": "BBE_LOCAL.pdf",
       "notes": "Only one redline change is visible in the document — a red underlined sentence added to the Board Authority section on page 2. No red strikethrough (removed) text was identified. The cover page title reads \"Discuss and Possibly Adopt Revisions to Board Policy BBE (Local),\" which maps to action = \"adopted\" per the extraction rules."
@@ -47,7 +47,7 @@
       "changes_added": [
         "An individual Board member has authority only when acting as a member of the Board in a duly called meeting or when delegated specific authority by Board action."
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-10-21_regular",
       "confidence": "high",
       "source_redline": "BBE_LOCAL.pdf",
       "notes": "Only one redline change was identified — a red-underlined addition in the Board Authority section on page 2. No red strikethrough (removed) text was present in the document. The cover page title reads \"Discuss Revisions to Board Policy BBE (Local),\" indicating this is a first reading."

@@ -26,7 +26,7 @@
         "ll",
         "potentially affecting"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-11-18_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-11-18_regular",
       "confidence": "medium",
       "source_redline": "CAA_LOCAL.pdf",
       "notes": "The redline on page 4 contains several interleaved additions and deletions within a single paragraph, making precise boundary identification of each change somewhat challenging. The additions and removals have been parsed as faithfully as possible from the red underlined and red strikethrough text visible in the document. The word \"t\" at the start of \"the District\" appears to be part of a sentence restructuring where \"As an applicant, recipient, or subrecipient of a Federal award, t\" was added and the original \"T\" was effectively lowercased/replaced. The fragments \"ll\" (completing \"all\") and \"or\" reflect small in-line substitutions. Color rendering in the PDF scan may have caused some ambiguity."
@@ -51,7 +51,7 @@
         "violations",
         "potentially affecting"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-10-21_regular",
       "confidence": "medium",
       "source_redline": "CAA_LOCAL.pdf",
       "notes": "The redline on page 4 is rendered in red underline and red strikethrough within a single paragraph under \"Federal Awards Disclosure.\" Some of the added and removed text is interleaved within the same sentence, making precise boundary identification challenging. The additions and removals have been separated to the best extent possible based on the visible color-coding. The cover page title heading reads \"Discuss Revisions to Board Policy CAA (Local),\" indicating a first reading. The body text recommends adoption but per instructions, the title heading takes precedence."

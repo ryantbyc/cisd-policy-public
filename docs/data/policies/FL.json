@@ -14,7 +14,7 @@
       "changes_added": [
         "Records relating to school library materials the student obtains from a school library. (added as item 16 under Types of Education Records)"
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-10-21_regular",
       "confidence": "medium",
       "source_redline": "FL_LOCAL.pdf",
       "notes": "The redline text for item 16 appears underlined in the document (\"Records relating to school library materials the student obtains from a school library.\"), indicating it is newly added language. However, the document is a scanned PDF and color rendering is ambiguous — the underline formatting on item 16 was used to identify this as an addition rather than confirmed red color. No strikethrough/removed text was identified. The cover page title \"Discuss and Possibly Adopt Revisions to Board Policy FL (Local)\" maps to action = 'adopted' per the provided rules."
@@ -31,7 +31,7 @@
       "changes_removed": [
         "Parents may deny the release of directory information by submitting a form that is available on the District's website."
       ],
-      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-09-16_regular",
       "confidence": "medium",
       "source_redline": "FL_LOCAL.pdf",
       "notes": "Red underlined text was identified at item 16 on page 2 (new library records category). Red strikethrough text was identified on page 4 (directory information opt-out paragraph). The document was rendered in grayscale making colour identification somewhat ambiguous; however, the underlined formatting on item 16 and the strikethrough formatting on the directory information sentence were distinguishable from surrounding black text. The cover page heading reads \"Discuss Revisions to Board Policy FL (Local)\" indicating a first reading."
