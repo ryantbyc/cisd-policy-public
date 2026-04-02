@@ -421,21 +421,19 @@
 
   /* ── Helpers ── */
   function resultBadgeClass(result) {
-    if (!result || result === 'unknown') return 'result-info';
     if (result === 'adopted') return 'result-adopted';
     if (result === 'tabled') return 'result-tabled';
-    if (result === 'first_reading' || result === 'pending_adoption') return 'result-pending';
-    return 'result-info';
+    if (result === 'rejected' || result === 'withdrawn') return 'result-tabled';
+    return 'result-pending'; // first_reading, pending_adoption, unknown, anything else
   }
 
   function resultLabel(result) {
-    if (!result || result === 'unknown') return 'On Record';
     const map = {
-      adopted: 'Adopted', tabled: 'Tabled', first_reading: 'First Reading',
+      adopted: 'Adopted', tabled: 'Tabled', first_reading: 'Reading',
       pending_adoption: 'Second Reading', rejected: 'Rejected',
       withdrawn: 'Withdrawn', information_only: 'Info Only',
     };
-    return map[result] || result.replace(/_/g, ' ');
+    return map[result] || 'Reading';
   }
 
   function dotClass(result) {
@@ -515,10 +513,11 @@
 
   /* ── Build a single timeline entry ── */
   function buildStatusCard(entries) {
-    /* Find the most recent entry confirmed by meeting notes */
+    /* Find the most recent entry confirmed by meeting notes with a definitive result */
+    const definitive = new Set(['adopted', 'tabled', 'rejected', 'withdrawn', 'pending_adoption']);
     const sorted = [...entries].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-    const latest = sorted.find(e => e.meeting_notes_url);
-    if (!latest) return null; // no confirmed outcomes yet
+    const latest = sorted.find(e => e.meeting_notes_url && definitive.has(e.result));
+    if (!latest) return null; // no confirmed definitive outcome yet
     if (!latest) return null;
 
     const result = latest.result || 'unknown';
