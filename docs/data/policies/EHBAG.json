@@ -11,7 +11,7 @@
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This update establishes a brand-new Local policy (EHBAG Local) for Special Education Legal Cost Transparency at Conroe ISD. The policy creates requirements for a confidential monthly Legal Report to the Board and a public quarterly Financial Report on the District's website, both covering legal fees related to students with disabilities, with a transition deadline of February 1, 2026.",
+      "summary": "This update establishes a brand-new Board Policy EHBAG (Local) on Special Education Legal Cost Transparency for Conroe ISD. The policy creates requirements for a monthly confidential legal report to the Board and a quarterly public financial report on the district's website covering special education-related legal fees, with full implementation required no later than February 1, 2026.",
       "changes_added": [
         "In accordance with state and federal law, the District shall provide parents and guardians of students with disabilities required information about their rights. The District shall seek to resolve potential disputes with parents and guardians of students with disabilities at the ARD committee level.",
         "For this policy legal fees means all legal fees and costs incurred by the District, including but not limited to fees or costs for either a parent or guardian, and school district legal fees and costs of any kind, and settlement amounts, if any.",
@@ -24,7 +24,7 @@
       "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
       "confidence": "high",
       "source_redline": "EHBAG_LOCAL.pdf",
-      "notes": "All text on page 2 appears in red underline, indicating this is an entirely new policy with no prior language. There is no red strikethrough text, confirming nothing was removed (the policy did not exist before). The cover page title \"Discuss and Possibly Adopt\" maps to action = 'adopted' per the provided rules. The section headings (Special Education Legal Cost Transparency, Legal Report, Financial Report, Transition) are also new red-underlined text serving as structural labels within the policy."
+      "notes": "The entire policy text appears in red underline, indicating this is a newly created LOCAL policy (no prior language existed). There is no red strikethrough text, confirming nothing was deleted. The cover page title \"Discuss and Possibly Adopt Revisions to Board Policy EHBAG (Local)\" maps to action = \"adopted\" per the provided rules."
     },
     {
       "date": "2025-08-19",

@@ -11,7 +11,7 @@
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This update to Policy FNAA (Local) adds two new provisions: a ninth content limitation prohibiting distribution of materials promoting concepts defined as prohibited under Board Policies EFA, EFB, EMB, and EMI (Local), and a new \"Superintendent Authority\" section requiring the Superintendent to develop compliance procedures and certify compliance to the Board no later than February 1, 2026.",
+      "summary": "This update to Policy FNAA (Local) adds two new provisions: (1) a new content limitation prohibiting distribution of materials that promote concepts defined as prohibited under Board Policies EFA, EFB, EMB, and EMI (Local), and (2) a new \"Superintendent Authority\" section requiring the Superintendent to develop compliance procedures and certify to the Board that the District complies with this policy no later than February 1, 2026.",
       "changes_added": [
         "The materials promote concepts described in the prohibited concepts of Board Policies EFA (Local), EFB (Local), EMB (Local) and EMI (Local). [added as item 9 under Limitations on Content]",
         "Superintendent Authority section: The Superintendent shall develop policies and procedures to ensure compliance with this Policy. The Superintendent shall certify to the Board of Trustees that the District complies with this Policy not later than February 1, 2026."
@@ -19,7 +19,7 @@
       "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
       "confidence": "high",
       "source_redline": "FNAA_LOCAL.pdf",
-      "notes": "Red underlined text was clearly identifiable on pages 2 and 3. No red strikethrough text was present, indicating this update is purely additive. The cover page title \"Discuss and Possibly Adopt Revisions to Board Policy FNAA (Local)\" maps to action = 'adopted' per the provided rules."
+      "notes": "Red underlined text was clearly identifiable on pages 2 and 3. No red strikethrough (removed) text was present. The cover page heading reads \"Discuss and Possibly Adopt Revisions to Board Policy FNAA (Local)\" which maps to action = \"adopted\" per the provided rules."
     }
   ],
   "timeline_legal": []

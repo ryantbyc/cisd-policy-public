@@ -27,8 +27,9 @@
       "school_year": "2025-2026",
       "action": "first_reading",
       "result": "first_reading",
-      "summary": "This update establishes a new section in Policy EA (Local) titled \"Availability of Instructional Plan or Course Syllabus,\" requiring the District to post instructional plans or course syllabi on its website at the start of each semester, teachers to provide copies to district administration and parents, and teachers to make additional copies available to parents upon request. The entire policy text appears to be newly added language with no prior existing text being removed.",
+      "summary": "This update to Conroe ISD's Board Policy EA (Local) – Instructional Goals and Objectives creates a new \"Availability of Instructional Plan or Course Syllabus\" section. It requires the District to post instructional plans or course syllabi on its website at the start of each semester, directs teachers to provide copies to district administration and parents, and obligates teachers to make additional copies available to parents upon request.",
       "changes_added": [
+        "Availability of Instructional Plan or Course Syllabus (section heading)",
         "At the beginning of each semester, the District shall post on its website an instructional plan or course syllabus for each class offered in the District that semester.",
         "In order for the District to make this required posting, each teacher shall provide a copy of the instructional plan or course syllabus for each class for which the teacher provides instruction to: 1. District administration; and 2. The parent of each student enrolled in the class.",
         "Additionally, each teacher shall provide for additional copies of the instructional plan or course syllabus for each class for which the teacher provides instruction to be made available to a parent of a student enrolled in the class on the parent's request."
@@ -36,7 +37,7 @@
       "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
       "confidence": "high",
       "source_redline": "EA_LOCAL.pdf",
-      "notes": "The entire policy page consists of red underlined text, indicating this is a wholly new local policy with no prior language. There is no red strikethrough text, so no removals were detected. The cover page title reads \"Discuss Revisions to Board Policy EA (Local),\" indicating a first reading."
+      "notes": "Page 2 shows the entire policy body in red underlined text, indicating this is entirely new language being added to a previously blank or minimal local policy. There is no red strikethrough text, so no language is being removed. The cover page heading reads \"Discuss Revisions to Board Policy EA (Local),\" indicating a first reading."
     }
   ],
   "timeline_legal": [],

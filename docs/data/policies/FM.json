@@ -27,30 +27,33 @@
       "school_year": "2025-2026",
       "action": "first_reading",
       "result": "first_reading",
-      "summary": "This update to Conroe ISD's Board Policy FM (Local) – Student Activities adds three new sections: Student Groups (requiring parental written consent for student group participation), Prohibitions (barring district authorization of groups based on sexual orientation or gender identity and restricting groups from violating certain board policies), and Holidays or Commemorative Months (establishing a three-prong test for how clubs may acknowledge federal/state holidays or commemorative months). No existing language was removed.",
+      "summary": "This update to Board Policy FM (Local) – Student Activities adds three new sections covering Student Groups, Prohibitions, and Holidays or Commemorative Months. The new language requires parental written consent for student group participation, prohibits groups based on sexual orientation or gender identity, and establishes a three-prong test for how student clubs may acknowledge federal/state holidays or commemorative months.",
       "changes_added": [
         "Student Groups: District may authorize or sponsor a student group. Before a student may participate in a student group, the parent of or person standing in parental relation to a student enrolled in the District shall provide written consent for participation.",
         "Prohibitions: The District shall not authorize or sponsor a student group based on sexual orientation or gender identity as defined in EMB (Local).",
         "Prohibitions: Student groups shall not violate the prohibition on certain topics found in Board Policies EFA (Local), EFB (Local), EMB (Local) and EMI (Local).",
-        "Holidays or Commemorative Months: If the club wants to acknowledge the significance of a federal or state holiday or commemorative month, consistent with Education Code 11.005(e)(2) and EMB (Local), the club acknowledgment should generally meet a three-prong test: 1. It should acknowledge the significance of a federal or state holiday or commemorative month (established through a Presidential Proclamation, Congressional law or Resolution, Gubernatorial Proclamation, or Texas legislative law or Resolution); 2. It should acknowledge how the holiday or month fits into the themes of history and the stories of this state and the United States of America; and 3. It should be consistent with the Texas Essential Knowledge and Skills (TEKS)."
+        "Holidays or Commemorative Months: If the club wants to acknowledge the significance of a federal or state holiday or commemorative month, consistent with Education Code 11.005(e)(2) and EMB (Local), the club acknowledgment should generally meet a three-prong test:",
+        "1. It should acknowledge the significance of a federal or state holiday or commemorative month (established through a Presidential Proclamation, Congressional law or Resolution, Gubernatorial Proclamation, or Texas legislative law or Resolution);",
+        "2. It should acknowledge how the holiday or month fits into the themes of history and the stories of this state and the United States of America; and",
+        "3. It should be consistent with the Texas Essential Knowledge and Skills (TEKS)."
       ],
       "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
       "confidence": "high",
       "source_redline": "FM_LOCAL.pdf",
-      "notes": "All red-underlined text appears on page 2 under three new section headings: Student Groups, Prohibitions, and Holidays or Commemorative Months. No red strikethrough (removed) text was identified. The cover page title reads \"Discuss Revisions to Board Policy FM (Local),\" indicating a first reading."
+      "notes": "All red-underlined text appears clearly on page 2. No red strikethrough (removal) text was identified — all changes are additions of entirely new policy sections. The cover page title reads \"Discuss Revisions to Board Policy FM (Local),\" indicating a first reading."
     },
     {
       "date": "2025-07-15",
       "school_year": "2024-2025",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This update to FM (LOCAL) Student Activities adds a cross-reference directing readers to FD(LOCAL) for the eligibility rules governing private school and homeschool students participating in extracurricular activities. The revision is part of a broader board action under SB 401 to explicitly decline granting non-enrolled students the opportunity to participate in UIL activities.",
+      "summary": "This update to FM (Local) – Student Activities adds a cross-reference directing readers to FD(LOCAL) for eligibility rules governing private school and homeschool students seeking to participate in extracurricular activities. The revision implements CISD's decision, as required by SB 401, to decline granting non-enrolled students the opportunity to participate in UIL activities.",
       "changes_added": [
         "[For eligibility of a private school student, including a homeschool student, to participate in extracurricular activities, see FD(LOCAL).]"
       ],
       "confidence": "high",
       "source_redline": "FM_LOCAL.pdf",
-      "notes": "The redline on page 2 shows one addition in blue/red underlined text (rendered in cyan/teal in the PDF) inserted under the Extracurricular Activity Absences section. No red strikethrough deletions were identified. The cover page title reads \"Consider and Adopt Revisions to Board Policies FD Local Admissions and FM Local Student Activities Declining to Grant Non-Enrolled Students the Opportunity to Participate in UIL Activities as Required by SB 401,\" which maps to action = 'adopted'. Only the FM(LOCAL) redline page was provided; FD(LOCAL) changes were not shown in this document."
+      "notes": "The added text appears in blue/cyan underlined formatting on the redline page, which in this document represents new language being added (consistent with TASB redline conventions). No red strikethrough deletions were present. The cover page title begins with \"Consider and Adopt,\" which maps to the 'adopted' action."
     }
   ],
   "timeline_legal": [],

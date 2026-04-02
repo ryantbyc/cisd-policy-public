@@ -12,23 +12,20 @@
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This update to Board Policy BF (Local) restructures terminology and streamlines language around legally referenced policies, removing a sentence requiring local and legally referenced policies to be read together, removing a standalone sentence stating legally referenced policies are not adopted by the Board, removing a phrase limiting policy development recommendations to the Superintendent, and updating the section header and body language for TASB Localized Policy Updates. Overall, the changes reflect a modernized, simplified approach to how Board policies are described and organized.",
-      "changes_added": [
-        "Legally referencesd policies contain provisions from federal and state statutes and regulations, case law, and other legal authority that together form the framework for local decision making and implementation. These policies are binding on the District until the cited provisions are repealed, revised, or superseded by legislative, regulatory, or judicial action. (revised/re-underlined section heading: 'Organization')",
-        "TASB Localized Policy Updates (revised section heading, replacing prior heading)",
-        "After Board review and adoption of local policies (replacing 'of legally referenced policies')"
-      ],
+      "summary": "This update to Board Policy BF (Local) streamlines language around legally referenced policies by removing references to them being \"not adopted by the Board\" and eliminating the instruction to read legal and local policies together, while also removing the requirement that policy amendments be generally recommended by the Superintendent. The section heading \"TASB Localized Policy Updates\" is updated and the phrase \"of legally referenced policies\" is removed from the post-adoption incorporation language.",
+      "changes_added": "[\"d policies\" (replacing \"d policies\" — the heading \"Organization\" is struck and the text \"Legally referencesd policies\" reflects a redline correction to \"Legally referenced policies\")]",
       "changes_removed": [
-        "At each policy code the legally referenced policy and the Board-adopted local policy must be read together to further a full understanding of a topic.",
+        "Organization (section heading — struck in red)",
         "Legally referencesd policies are not adopted by the Board.",
+        "At each policy code the legally referenced policy and the Board-adopted local policy must be read together to further a full understanding of a topic.",
         "but generally shall be recommended for the Board's consideration by the Superintendent.",
-        "of legally referenced policies (within the TASB Localized Policy Updates section)",
-        "TASB Localized Policy Updates (old heading style — struck through)"
+        "TASB Localized Policy Updates (section heading — struck in red)",
+        "of legally referenced policies"
       ],
       "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
       "confidence": "medium",
       "source_redline": "BF_LOCAL.pdf",
-      "notes": "The redline scan is somewhat low-resolution and the red text is faint in places, making it difficult to precisely delineate every addition vs. removal boundary. The 'Organization' section heading appears in red (struck through or re-added), suggesting a heading-level change. The phrase 'Legally referencesd policies are not adopted by the Board' appears to be struck through entirely. The Policy Development section has a struck-through clause removed. The TASB section heading and the phrase 'of legally referenced policies' appear struck through in the body text. Some underlined red additions may overlap with existing black text, making exact boundaries uncertain."
+      "notes": "The redline scan quality is somewhat low and the red text is partially difficult to distinguish from black in certain areas. The section headings \"Organization\" and \"TASB Localized Policy Updates\" appear in red, suggesting they are being changed or removed/replaced, but no clear red-underlined replacement text is visible for those headings. The \"changes_added\" array is minimal because very little new underlined text was identifiable — primarily the typographic correction to \"Legally referencesd\" appears as a tracked change artifact rather than a substantive addition. The main substantive changes are all removals (strikethroughs)."
     }
   ],
   "timeline_legal": []

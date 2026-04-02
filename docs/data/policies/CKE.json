@@ -10,7 +10,7 @@
       "school_year": "2025-2026",
       "action": "unknown",
       "result": "unknown",
-      "summary": "This is a new local policy (CKE) for Conroe ISD establishing the framework for Reserve Police Officers within the school district police department. The policy authorizes the chief of police to appoint reserve officers, defines their authority and qualifications under Education Code 37.0816, and clarifies their ineligibility for full-time employment benefits or pension funds.",
+      "summary": "This is a new local policy (CKE) for Conroe ISD establishing the framework for Reserve Police Officers within the school district police department. The policy authorizes the chief of police to appoint reserve officers, defines their authority and qualifications per Education Code 37.0816, and clarifies that reserve officers are not eligible for full-time employment benefits or pension funds.",
       "changes_added": [
         "Reserve Police Officers — section heading",
         "The Board authorizes the chief of police of the school district police department to appoint reserve police officers for the district consistent with meeting safety needs and the availability of funds.",
@@ -24,7 +24,7 @@
       "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
       "confidence": "medium",
       "source_redline": "CKE_LOCAL.pdf",
-      "notes": "The document appears to be a brand-new policy (Version 1, no prior text exists), so all content is shown in red underline as new additions with no removals. The cover page does not contain a standard board action title heading (e.g., \"Discuss,\" \"Adopt,\" etc.) — it is formatted as a recommendation/metadata page listing \"Rational: Required by Legislative Change.\" Action has been marked as 'unknown' because no determinative title heading was present. The rationale indicates this is driven by a legislative change (likely Texas Education Code 37.0816 authorizing school district reserve police officers)."
+      "notes": "This appears to be an entirely new policy (Version 1, no prior text exists), so all content is shown in red underline as additions. The cover page title heading is not a standard action phrase (it only shows the policy description and metadata without a \"Discuss,\" \"Adopt,\" or \"Second Reading\" prefix), so the board action could not be determined with confidence — marked as 'unknown'. The rationale states \"Required by Legislative Change,\" suggesting this is driven by new legislation (likely related to Education Code 37.0816 on reserve police officers)."
     },
     {
       "date": "2026-01-20",

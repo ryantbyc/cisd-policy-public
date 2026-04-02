@@ -24,14 +24,17 @@
       "school_year": "2025-2026",
       "action": "first_reading",
       "result": "first_reading",
-      "summary": "This update to Conroe ISD's Student Records policy (FL Local) adds school library checkout records as a new category of education records maintained by the District. The addition explicitly includes \"Records relating to school library materials the student obtains from a school library\" in the enumerated list of education record types.",
+      "summary": "This update to Conroe ISD's Student Records policy (FL Local) adds school library materials checkout records as a new category of education records maintained by the District, and removes the provision allowing parents to deny release of directory information by submitting a form available on the District's website.",
       "changes_added": [
-        "Records relating to school library materials the student obtains from a school library. (added as item 16 in the Types of Education Records list)"
+        "16. Records relating to school library materials the student obtains from a school library."
+      ],
+      "changes_removed": [
+        "Parents may deny the release of directory information by submitting a form that is available on the District's website."
       ],
       "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
-      "confidence": "high",
+      "confidence": "medium",
       "source_redline": "FL_LOCAL.pdf",
-      "notes": "The redline is clear: item 16 in the Types of Education Records list is rendered in red underlined text, indicating it is a new addition. All other policy text appears in standard black (unchanged). The cover page title reads \"Discuss Revisions to Board Policy FL (Local),\" which maps to a first_reading action. No red strikethrough text was identified anywhere in the document."
+      "notes": "Red underlined text was identified at item 16 on page 2 (new library records category). Red strikethrough text was identified on page 4 (directory information opt-out paragraph). The document was rendered in grayscale making colour identification somewhat ambiguous; however, the underlined formatting on item 16 and the strikethrough formatting on the directory information sentence were distinguishable from surrounding black text. The cover page heading reads \"Discuss Revisions to Board Policy FL (Local)\" indicating a first reading."
     }
   ],
   "timeline_legal": [],

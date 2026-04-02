@@ -93,7 +93,7 @@
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This update to Conroe ISD's FFB (Local) Student Welfare: Crisis Intervention policy strengthens the threat assessment process by requiring the Superintendent to ensure team members have expertise in specific areas, adding parental notification and participation requirements before and after assessments, mandating a concurrent threat assessment for suicide-risk students who also threaten others, and clarifying substance-related language.",
+      "summary": "This update to Conroe ISD's FFB (Local) Student Welfare: Crisis Intervention policy strengthens the threat assessment process by requiring the Superintendent to ensure team members have specific expertise, mandating parental notification and participation opportunities before and after assessments, and clarifying procedures for students at risk of suicide who also threaten others. It also updates substance-related language from \"having a substance abuse issue\" to \"using or possessing tobacco, drugs, or alcohol.\"",
       "changes_added": [
         "The Superintendent of the district shall ensure, to the greatest extent practicable, that the members appointed to each team have expertise in counseling, behavior management, mental health and substance use, classroom instruction, special education, school administration, school safety and security, emergency management, and law enforcement.",
         "and Education Code 37 (added to Threat Assessment Process reference)",
@@ -108,7 +108,7 @@
       "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-09-16_regular",
       "confidence": "high",
       "source_redline": "FFB_LOCAL.pdf",
-      "notes": "Red underlined and red strikethrough text was identified across pages 2 and 3. The cover page heading reads 'Discuss and Possibly Adopt Revisions to Board Policy FFB (Local)', which maps to action='adopted' per the provided rules. The addition of 'and Education Code 37' in the Threat Assessment Process section was a small inline addition embedded in otherwise black text."
+      "notes": "Red underlined and red strikethrough text was clearly distinguishable in the redline. The addition of \"and Education Code 37\" is a small inline addition within an existing sentence in the Threat Assessment Process section. The numbered list items 2 and 4 (parental notification before and after assessment) are entirely new additions shown in red underline."
     }
   ],
   "timeline_legal": [],
