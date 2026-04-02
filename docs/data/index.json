@@ -975,7 +975,7 @@
       "title": "Purchasing and Acquisition",
       "description_short": "This policy governs how the school district purchases goods and services, setting the rules for how money is spent on everything from supplies and equipment to…",
       "last_action_date": "2026-02-17",
-      "last_action_result": "unknown",
+      "last_action_result": "adopted",
       "timeline_count": 3,
       "has_local": true,
       "has_legal": false
@@ -1095,7 +1095,7 @@
       "title": "Safety Program/Risk Management: Emergency Plans",
       "description_short": "This policy covers a range of school district operations, including how board members request information, how the district purchases goods and services,…",
       "last_action_date": "2026-02-17",
-      "last_action_result": "unknown",
+      "last_action_result": "adopted",
       "timeline_count": 2,
       "has_local": true,
       "has_legal": false
@@ -1165,7 +1165,7 @@
       "title": "Buildings, Grounds, and Equipment Management",
       "description_short": "This page summarizes recent updates to several district policies covering how Board members request information, how the district purchases goods and services,…",
       "last_action_date": "2026-02-17",
-      "last_action_result": "unknown",
+      "last_action_result": "adopted",
       "timeline_count": 2,
       "has_local": true,
       "has_legal": false
@@ -1915,7 +1915,7 @@
       "title": "Employee Rights and Privileges: Immunity",
       "description_short": "This policy document covers updates to five separate school district policies affecting both employees and students, including staff legal protections, student…",
       "last_action_date": "2026-02-17",
-      "last_action_result": "unknown",
+      "last_action_result": "adopted",
       "timeline_count": 2,
       "has_local": true,
       "has_legal": false
@@ -2485,7 +2485,7 @@
       "title": "Academic Achievement: Grading/Progress Reports to Parents",
       "description_short": "This policy covers updates to five different local school district policies, all revised in response to recent changes in Texas law, addressing topics ranging…",
       "last_action_date": "2026-02-17",
-      "last_action_result": "unknown",
+      "last_action_result": "adopted",
       "timeline_count": 2,
       "has_local": true,
       "has_legal": false
@@ -2815,7 +2815,7 @@
       "title": "Wellness and Health Services: Medical Treatment",
       "description_short": "This policy covers a set of updates to five school district rules governing employee legal protections, student grading and progress reporting, medical…",
       "last_action_date": "2026-02-17",
-      "last_action_result": "unknown",
+      "last_action_result": "adopted",
       "timeline_count": 2,
       "has_local": true,
       "has_legal": false
@@ -2855,7 +2855,7 @@
       "title": "Student Welfare: Crisis Intervention",
       "description_short": "This policy governs how the school district responds to crisis situations involving students, including threats to safety, and outlines the teams and…",
       "last_action_date": "2026-02-17",
-      "last_action_result": "unknown",
+      "last_action_result": "adopted",
       "timeline_count": 4,
       "has_local": true,
       "has_legal": false
@@ -3531,5 +3531,5 @@
       "has_legal": false
     }
   ],
-  "generated_at": "2026-04-02T00:55:58Z"
+  "generated_at": "2026-04-02T00:56:53Z"
 }
