@@ -608,13 +608,15 @@
     }
 
     /* Changes added */
-    if (entry.changes_added && entry.changes_added.length) {
+    const changesAdded   = Array.isArray(entry.changes_added)   ? entry.changes_added   : [];
+    const changesRemoved = Array.isArray(entry.changes_removed) ? entry.changes_removed : [];
+    if (changesAdded.length) {
       const sec = document.createElement('div');
       sec.className = 'changes-section changes-added';
       sec.innerHTML = `<div class="changes-label">Language Added</div>`;
       const ul = document.createElement('ul');
       ul.className = 'changes-list';
-      entry.changes_added.forEach(c => {
+      changesAdded.forEach(c => {
         const li = document.createElement('li');
         li.textContent = c;
         ul.appendChild(li);
@@ -624,13 +626,13 @@
     }
 
     /* Changes removed */
-    if (entry.changes_removed && entry.changes_removed.length) {
+    if (changesRemoved.length) {
       const sec = document.createElement('div');
       sec.className = 'changes-section changes-removed';
       sec.innerHTML = `<div class="changes-label">Language Removed</div>`;
       const ul = document.createElement('ul');
       ul.className = 'changes-list';
-      entry.changes_removed.forEach(c => {
+      changesRemoved.forEach(c => {
         const li = document.createElement('li');
         li.textContent = c;
         ul.appendChild(li);

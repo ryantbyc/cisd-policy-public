@@ -308,11 +308,8 @@
   }
 
   function searchPolicies(q) {
-    const lower = q.toLowerCase();
-    return allPolicies.filter(p =>
-      p.code.toLowerCase().includes(lower) ||
-      (p.title || '').toLowerCase().includes(lower)
-    );
+    const upper = q.toUpperCase().trim();
+    return allPolicies.filter(p => p.code.toUpperCase() === upper);
   }
 
   function onSearch() {
