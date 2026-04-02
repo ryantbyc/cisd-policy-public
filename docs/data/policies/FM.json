@@ -44,13 +44,13 @@
       "school_year": "2024-2025",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This update to FM (Local) – Student Activities adds a cross-reference directing readers to FD (Local) for eligibility rules governing private school and homeschool students seeking to participate in extracurricular activities. This change is part of CISD's broader effort to formally decline granting non-enrolled students the opportunity to participate in UIL activities, as permitted under SB 401.",
+      "summary": "This update to FM (LOCAL) Student Activities adds a cross-reference directing readers to FD(LOCAL) for the eligibility rules governing private school and homeschool students participating in extracurricular activities. The revision is part of a broader board action under SB 401 to explicitly decline granting non-enrolled students the opportunity to participate in UIL activities.",
       "changes_added": [
         "[For eligibility of a private school student, including a homeschool student, to participate in extracurricular activities, see FD(LOCAL).]"
       ],
       "confidence": "high",
       "source_redline": "FM_LOCAL.pdf",
-      "notes": "The added text appears in blue/cyan underlined formatting on the redline page rather than red, but in context it is clearly the new language being added (marked as a proposed revision dated 6-16-25). The cover page title begins with \"Consider and Adopt,\" which most closely maps to the 'adopted' action. No red strikethrough removals were identified on the redline page."
+      "notes": "The redline on page 2 shows one addition in blue/red underlined text (rendered in cyan/teal in the PDF) inserted under the Extracurricular Activity Absences section. No red strikethrough deletions were identified. The cover page title reads \"Consider and Adopt Revisions to Board Policies FD Local Admissions and FM Local Student Activities Declining to Grant Non-Enrolled Students the Opportunity to Participate in UIL Activities as Required by SB 401,\" which maps to action = 'adopted'. Only the FM(LOCAL) redline page was provided; FD(LOCAL) changes were not shown in this document."
     }
   ],
   "timeline_legal": [],
