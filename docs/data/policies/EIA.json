@@ -3,63 +3,49 @@
   "title": "Academic Achievement: Grading/Progress Reports to Parents",
   "description": "Conroe ISD's grading and progress reporting policy sets the rules for how teachers assign grades and how the district communicates student academic performance to families. It covers expectations around grading practices, the frequency of progress reports, and how parents can stay informed about their child's standing in each class. Understanding this policy helps families know what to expect when tracking their child's academic progress throughout the school year.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy EIA (Local) were discussed. No action was taken.",
-      "discussion": "og items)\n- **Vote: Approved 7-0**\n\n---\n\n## Board Policy — Second Reading (Action Items)\n\n### Items A through H (State-Mandated Updates):\nPolicies: CH Local, CKC Local, CK Local, CL Local, DGC Local, EIA Local, FFAC Local, FFB Local\n- Board noted these are state-mandated changes from the legislative session, not district-initiated\n- Discussion about future process: putting routine legal updates on consent agenda; Dr. Vinson committed to providing small group review and board brief previews\n- Motion included authorization for non-substantive grammatical changes\n- **Vote: Approved 7-0**\n\n### Ite",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's EIA (Grading/Progress Reports to Parents) policy makes several legislative-driven changes: it adds a new Definitions section clarifying \"parent,\" allows electronic delivery and signing of written notices, replaces the generic nine-week report card language with a more specific nine-week written notice requirement including parental signature, replaces the vague interim report language with a detailed statutory requirement for unsatisfactory performance notices in foundation curriculum subjects, expands the Conferences section to require at least two in-person parent-teacher conferences per year, removes the reference to \"conferences scheduled on the campus calendar,\" and adds a requirement for the District to adopt implementing procedures.",
+      "changes_added": [
+        "Definitions section header and text: 'In this policy, \"parent\" includes a guardian, conservator, or other person having lawful control of a student.'",
+        "Progress Reporting introductory paragraph: 'In this Section, the District may provide written notices to parent's electronically and may permit a parent to sign written notices electronically through an electronic platform, provided the District retains a record verifying the parent's acknowledgment and offers the option of a handwritten signature.'",
+        "Notices exception paragraph: 'The notices under this Section shall not apply to a student who is 18 years of age or older and who is living in a different residence than the student's parents, is married, or has had the disabilities of minority removed for general purposes.'",
+        "Nine-Week Reports section: 'The District shall, at least once every nine weeks, provide written notice to a parent of a student's performance in each class or subject and require the parent's signature on the notice, to be returned to the District.'",
+        "Performance measurement sentence: 'Performance shall be measured in accordance with this Ppolicy, District procedures, and the standards established in EIE.'",
+        "Interim Reports replacement paragraph: 'Interim progress reports may be issued at the teacher's discretion; however, the District at least once every three weeks, or during the fourth week of each nine-week grading period, will give written notice to a parent or legal guardian of a student's performance in a subject included in the foundation curriculum under Section 28.002(a)(1) if the student's performance in the subject is consistently unsatisfactory, as determined by the District. The District may provide notice for other subjects. The notice required under this section shall provide for the signature of the student's parent and be returned to the District.'",
+        "Conferences section: 'The District shall provide for at least two opportunities for in-person conferences during each school year between each parent of a child enrolled in the District and the child's teachers.'",
+        "Closing sentence: 'The District shall adopt procedures to implement this Policy.'"
       ],
+      "changes_removed": [
+        "The District shall issue grade reports/report cards every nine weeks on a form approved by the Superintendent or designee.",
+        "Interim Reports original paragraph: 'Interim progress reports may be issued at the teacher's discretion; however, notice of a student's consistent unsatisfactory performance shall be issued in accordance with law.'",
+        "In the Conferences section: 'to conferences scheduled on the campus calendar,'"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. No action was taken. No specific change language available in these pages."
+      "source_redline": "EIA_LOCAL.pdf",
+      "notes": "The cover page title heading reads 'Academic Achievement: Grading/Progress Reports to Parents (EIA)' without specifying a reading stage (e.g., 'first reading,' 'adopt,' etc.), so the action could not be determined from the title alone; marked as 'unknown.' The rational states 'Legislative changes.' Red underlined text and red strikethrough text were clearly distinguishable throughout the document. The 'Ppolicy' capitalization anomaly in the Performance sentence appears to be a drafting artifact in the redline."
     },
     {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This page is a summary/cover document describing changes to five Local policies, all informed by recent Texas legislation: (1) DGC(Local): Updated per House Bill 6 to outline when professional employees are immune from disciplinary proceedings and to define disciplinary proceedings. (2) EIA(Local): Updated per Senate Bill 12 to add interim report requirements for unsatisfactory performance, require at least two parent-teacher conference opportunities, and mandate parent signature on progress reports at least every 12 weeks. (3) FFAC(Local): Updated per Senate Bill 920 to expand who may authorize a student to receive nonprescription medication (now includes legal guardians) and require dosing consistent with official container labeling. (4) FFB(Local): Updated per House Bills 6 & 121 to specify professionals required on the safe and supportive school team, allow a team to serve more than one campus, clarify when parents must be contacted, and establish new guidelines for threat assessments involving special education students. (5) FFG(Local): Updated per Senate Bill 571 and House Bill 4623 to identify sexual misconduct and improper student–teacher relationships as explicitly reportable, reduce reporting timeline from 48 to 24 hours, add students in educator preparation programs and Board Trustees as mandatory reporters, establish a parent notification process for alleged staff misconduct, and state that individuals may not assert official immunity for failure to report.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's EIA (Local) policy adds three new requirements: (1) parents must sign and return grade reports every 12 weeks, (2) interim progress reports for consistently unsatisfactory performance must also require a parent signature and be returned, and (3) parents must be provided at least two in-person conference opportunities per school year with their child's teacher. All signature requirements include an exemption for students 18 or older living independently, married, or with disabilities of minority removed.",
       "changes_added": [
-        "DGC(Local): Circumstances under which a professional employee is immune from disciplinary proceedings; definition of disciplinary proceedings",
-        "EIA(Local): New requirements for interim reports when student performance is unsatisfactory; at least two opportunities for teacher conferences; parent signature on progress reports at least every 12 weeks",
-        "FFAC(Local): Legal guardian added as authorized to grant permission for nonprescription medication; dosing must be consistent with container's official labeling",
-        "FFB(Local): Requirements regarding types of professionals on safe and supportive school team; conditions under which team may serve more than one campus; team responsibility for parent contact timing; guidelines for threat assessments involving special education students",
-        "FFG(Local): Sexual misconduct and improper student–teacher relationships explicitly identified as reportable; 24-hour reporting timeline; students in educator preparation programs and Board Trustees identified as mandatory reporters; new parent notification process for alleged staff misconduct involving their student; explicit statement that individuals may not assert official immunity and may incur legal liability for failure to report",
-        "Aggregate purchasing threshold increase from $50,000 to $100,000 (CH Local)",
-        "Non-discrimination clause for HUBs while maintaining same standards for all vendors (CH Local)",
-        "New requirements for interim reports when a student's performance is unsatisfactory (EIA Local)",
-        "Parents must be offered at least two opportunities for teacher conferences (EIA Local)",
-        "Progress reports must require a parent's signature at least every 12 weeks (EIA Local)"
+        "The District shall require a parent's signature on the report, to be returned to the District every 12 weeks. This shall not apply to a student who is 18 years of age or older and who is living in a different residence than the student's parents, is married, or has had the disabilities of minority removed for general purposes.",
+        "If a student's performance in the subject is consistently unsatisfactory, as determined by EIE(Local), the student's interim progress report shall require a parent's signature and be returned to the District. This shall not apply to a student who is 18 years of age or older and who is living in a different residence than the student's parents, is married, or has had the disabilities of minority removed for general purposes.",
+        "A student's parent shall be provided with at least two opportunities for in-person conferences during each school year between themselves and their child's teacher."
       ],
-      "changes_removed": [
-        "FFG(Local): 48-hour reporting timeline (replaced by 24 hours)"
-      ],
-      "discussion": ".\n- Board emphasized the need to compare old and new versions to avoid conflicting policies.\n\n### DGC Local — Employee Rights, Privileges, and Immunity\n- Aligns with statute. No concerns raised.\n\n### EIA Local — Academic Achievement, Grading, Progress Reports to Parents\n- Requires parents to sign progress reports every 12 weeks (per SB 12).\n- District is working with PowerSchool to implement digital signing capability — currently the only area of non-compliance.\n- Discussion about the requirement for at least two in-person parent-teacher conference opportunities per year — confirmed this is in",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        276,
-        285,
-        290
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
       "confidence": "high",
-      "notes": "This is a summary/cover page (page 290, labeled page 3) from a Texans for Excellence in Education (TEE) document, not a redline policy document itself. No underlined or strikethrough text is present; changes are described in narrative form. The action type (first reading, second reading, adoption) is not specified on this page. The meeting date is 2026-01-20."
+      "source_redline": "EIA_LOCAL.pdf",
+      "notes": "The cover page does not contain a standard TASB action title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\"). The document is labeled Version 1 with no date issued, and the cover page title simply reads \"Academic Achievement: Grading/Progress Reports to Parents (EIA)\" without a procedural action phrase. Action has been set to 'unknown' as a result. All three red-underlined additions were clearly identifiable. No red strikethrough (removed) text was present in the document."
     }
   ],
   "timeline_legal": [],

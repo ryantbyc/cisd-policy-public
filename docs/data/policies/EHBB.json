@@ -2,94 +2,71 @@
   "code": "EHBB",
   "title": "Special Programs: Gifted and Talented Students",
   "description": "Conroe ISD's approach to identifying and serving gifted and talented students is outlined here, covering how students are selected for these programs and what kinds of services and instruction they receive. The policy ensures the district meets state requirements for supporting students who demonstrate exceptional academic ability or creative talent. Parents, students, and educators can refer to this policy to understand their rights and the district's responsibilities in providing advanced learning opportunities.",
-  "last_action_date": "2025-12-16",
+  "last_action_date": "2025-11-18",
   "last_action_result": "adopted",
   "timeline_local": [
     {
-      "date": "2025-12-16",
+      "date": "2025-11-18",
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "Revisions to Board Policy EHBB (Local) were adopted unanimously at the November 18, 2025 Regular Board Meeting as part of a group adoption (Motion #7207). No specific language changes are described in the meeting minutes.",
-      "discussion": "Policy GKD (Discussion Only, No Action)",
-      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14
+      "summary": "This update to Conroe ISD's Gifted and Talented policy (EHBB Local) renames the \"selection\" committee to \"placement\" committee throughout the document, replaces vague exit-trigger language with a clearer student-needs standard, and substantially rewrites the Funding section to require the Superintendent to develop TEA-aligned administrative procedures and mandates that 100% of state G/T funds be spent on G/T services or program enhancement.",
+      "changes_added": [
+        "identification (replacing 'assessment' in the phrase describing the awareness session overview of identification/assessment procedures)",
+        "placement (replacing 'selection' in 'placement committee' — used throughout: Selection section, Interdistrict section, Exit Provisions section, Appeals section)",
+        "is not meeting the student's educational needs (replacing 'it is in the best interest of the student to exit')",
+        "services in (replacing 'selection for or exit from' in Appeals section)",
+        "Superintendent or designee shall develop administrative procedures to account for the expenditure of the (replacing 'District's' in Funding section)",
+        "allotment in alignment with the Texas Education Agency's financial compliance guidance. (added after 'gifted and talented' in Funding section)",
+        "One hundred percent of state funds allocated for gifted and talented education shall be spent on providing gifted and talented services or enhancing the District's gifted and talented program. (new sentence added to Funding section)"
       ],
-      "confidence": "medium",
-      "notes": "Adopted as part of a group motion (#7207) along with BBE, CAA, CDA, CQB, EHB, and GKB. Vote was 7-0. The specific redline changes are not described in these minutes pages."
-    },
-    {
-      "date": "2025-11-18",
-      "school_year": "2025-2026",
-      "action": "second_reading",
-      "result": "pending_adoption",
-      "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
-      "discussion": "policy and a superintendent Facebook post",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
+      "changes_removed": [
+        "assessment (in the phrase describing the awareness session overview of 'identification assessment procedures')",
+        "selection (replaced by 'placement' throughout — in Selection section, Interdistrict section, Exit Provisions section, Appeals section)",
+        "it is in the best interest of the student to exit (in Exit Provisions section)",
+        "selection for or exit from (in Appeals section)",
+        "District's (at the start of the Funding section sentence)",
+        "program shall address effective use of funds for programs and services consistent with the standards in the state plan for gifted and talented students. (removed from Funding section)"
       ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
-      "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
+      "source_redline": "EHBB_LOCAL.pdf",
+      "notes": "Red underlined and red strikethrough text was clearly distinguishable throughout pages 2–4. The committee rename from 'selection' to 'placement' occurs in multiple locations and is treated as a single recurring change. The Funding section had the most substantive rewrites. Page 5 is a date/version footer page with no policy text changes."
     },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "This page contains redline changes to the gifted and talented program policy covering Exit Provisions, Appeals, and Funding sections. Key changes include: (1) updating terminology from 'selection' to 'placement' committee; (2) revising exit standard language from 'best interest of the student to exit' to 'not meeting the student's educational needs'; (3) updating appeals language from 'selection for or exit from' to 'services in'; (4) overhauling the Funding section to require the Superintendent or designee to develop administrative procedures aligned with TEA financial compliance guidance, and adding a requirement that 100% of state G/T funds be spent on G/T services or program enhancement.",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's Gifted and Talented policy (EHBB Local) replaces \"selection\" with \"placement\" when referring to the program committee throughout the document, updates terminology in the screening/identification process, revises the exit provisions language to focus on student educational needs, and significantly rewrites the Funding section to align expenditures with TEA financial compliance guidance and require that 100% of state GT funds be spent on GT services or program enhancement.",
       "changes_added": [
-        "placement (replacing 'selection' in committee references throughout)",
-        "is not meeting the student's educational needs",
-        "services in the gifted and talented program (in Appeals section)",
-        "Superintendent or designee shall develop administrative procedures to account for the expenditure of the gifted and talented allotment in alignment with the Texas Education Agency's financial compliance guidance.",
-        "One hundred percent of state funds allocated for gifted and talented education shall be spent on providing gifted and talented services or enhancing the District's gifted and talented program.",
-        "placement (added before 'selection' in 'placement selection committee' in the Selection section)",
-        "placement (added before 'selection' in 'placement selection committee' in the Interdistrict section)",
-        "identification (replacing 'assessment' in the phrase 'provides an overview of the identification procedures and services for the program')"
+        "identification (replacing 'assessment' in the awareness session sentence under Screening And Identification Process)",
+        "placement (replacing 'selection' in the Selection section committee reference)",
+        "placement (replacing 'selection' in the Interdistrict Transfer Students committee reference)",
+        "placement (replacing 'selection' in the Exit Provisions committee reference)",
+        "is not meeting the student's educational needs (replacing 'it is in the best interest of the student to exit')",
+        "placement (replacing 'selection' in the Appeals section — committee reference)",
+        "services in (replacing 'selection for or exit from')",
+        "placement (replacing 'selection' in the second Appeals committee reference)",
+        "Superintendent or designee shall develop administrative procedures to account for the expenditure of the (replacing 'District's')",
+        "allotment in alignment with the Texas Education Agency's financial compliance guidance. (replacing the old program standards language)",
+        "One hundred percent of state funds allocated for gifted and talented education shall be spent on providing gifted and talented services or enhancing the District's gifted and talented program."
       ],
       "changes_removed": [
-        "selection (committee references throughout)",
-        "it is in the best interest of the student to exit the program",
-        "selection for or exit from (in Appeals section)",
-        "District's (before Superintendent in Funding section)",
-        "program shall address effective use of funds for programs and services consistent with the standards in the state plan for gifted and talented students.",
-        "selection (struck through as part of 'placement selection committee' in the Selection section — replacing standalone 'selection committee')",
-        "selection (struck through as part of 'placement selection committee' in the Interdistrict section)",
-        "assessment (in the phrase 'provides an overview of the assessment procedures and services for the program')"
+        "assessment (in the awareness session sentence, replaced by 'identification')",
+        "selection (in the Selection section committee reference, replaced by 'placement')",
+        "selection (in the Interdistrict Transfer Students committee reference, replaced by 'placement')",
+        "selection (in the Exit Provisions committee reference, replaced by 'placement')",
+        "it is in the best interest of the student to exit (replaced by 'is not meeting the student's educational needs')",
+        "selection for or exit from (in Appeals section, replaced by 'services in')",
+        "selection (in the second Appeals committee reference, replaced by 'placement')",
+        "District's (in Funding section, replaced by 'Superintendent or designee shall develop administrative procedures to account for the expenditure of the')",
+        "program shall address effective use of funds for programs and services consistent with the standards in the state plan for gifted and talented students."
       ],
-      "discussion": "policy EM (teaching about controversial issues). Raised two specific concerns: (1) the addition of \"unpatriotic or anti-American sentiments\" as prohibited — terms he called undefined and ambiguous; (2) a new \"prohibited terms\" section banning \"Latinx\" and \"minor attracted person,\" which he opposed. He urged the board to give these revisions appropriate scrutiny.",
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        261
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
       "confidence": "high",
-      "notes": "This is page 3 of the policy document, page 264 of the board packet, Policy Update Page Number 28. The Furloughs, Program Evaluation, and Community Awareness sections appear unchanged (shown in black text). The redline changes are shown in red text. The specific policy code is not visible on this page; EHBB is inferred from context."
+      "source_redline": "EHBB_LOCAL.pdf",
+      "notes": "Red underlined and red strikethrough text was clearly distinguishable throughout the document. The primary changes are: (1) consistent terminology shift from 'selection committee' to 'placement committee'; (2) 'assessment' to 'identification' in one instance; (3) exit provisions language update; and (4) a substantive rewrite of the Funding section adding a new sentence requiring 100% of state GT funds be spent on GT services/program enhancement."
     }
   ],
   "timeline_legal": [],

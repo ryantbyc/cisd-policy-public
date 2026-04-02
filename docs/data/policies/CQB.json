@@ -2,87 +2,36 @@
   "code": "CQB",
   "title": "Technology Resources: Cybersecurity",
   "description": "Conroe ISD's cybersecurity policy outlines how the district protects its technology systems, networks, and the sensitive data stored within them — including student and staff information. It establishes the responsibilities of district staff in preventing, detecting, and responding to cyber threats and security incidents. Keeping these systems secure helps ensure that learning is not disrupted and that personal information remains protected.",
-  "last_action_date": "2025-12-16",
+  "last_action_date": "2025-11-18",
   "last_action_result": "adopted",
   "timeline_local": [
     {
-      "date": "2025-12-16",
+      "date": "2025-11-18",
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "Revisions to Board Policy CQB (Local) were adopted unanimously at the November 18, 2025 Regular Board Meeting as part of a group adoption (Motion #7207). No specific language changes are described in the meeting minutes.",
-      "discussion": "Policy GKD (Discussion Only, No Action)",
-      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14
-      ],
-      "confidence": "medium",
-      "notes": "Adopted as part of a group motion (#7207) along with BBE, CAA, CDA, EHB, EHBB, and GKB. Vote was 7-0. The specific redline changes are not described in these minutes pages."
-    },
-    {
-      "date": "2025-11-18",
-      "school_year": "2025-2026",
-      "action": "second_reading",
-      "result": "pending_adoption",
-      "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
+      "summary": "This update to Conroe ISD's CQB (Local) Cybersecurity policy adds language clarifying the cybersecurity coordinator's role, specifying that the coordinator will oversee implementation of the district's cybersecurity plan and required staff training.",
       "changes_added": [
         "who will oversee implementation of the district's cybersecurity plan and required staff training"
       ],
-      "discussion": "definitions regarding tobacco, caffeine, and nicotine can be clarified; to return with enforceable language.\n**VOTE to table: Approved 7-0**\n\n**Remaining policies approved as a group:** BBE, CA, CDA, CQB, EHB, GKB (all local).\n**VOTE: Approved 7-0**\n\n---\n\n## Closed Session\nBoard entered closed session at **7:55 PM** under Texas Government Code sections 551.071, 551.072, and 551.074.\n\nBoard returned to open session at **11:13 PM**.\n\n---\n\n## Action Items from Closed Session\n\n### Level Three Grievance Hearing\n**Motion to reinstate employee Tim Bar**, subject to assignment by the superintendent.\n*",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
-      "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
+      "source_redline": "CQB_LOCAL.pdf",
+      "notes": "The only visible redline change is red underlined text in the Coordinator section on page 2. No red strikethrough (removed) text was identified. The cover page title reads 'Discuss and Possibly Adopt Revisions to Board Policy CQB (Local)', which maps to action = 'adopted'."
     },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "This is a local policy for Conroe ISD establishing cybersecurity requirements including: developing a cybersecurity plan, designating a cybersecurity coordinator, delegating training authority to the Superintendent, and establishing security breach notification procedures. The policy was issued 2023-10-30 (Version 1), suggesting this may be a new or recently adopted policy being documented.",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's CQB (Local) Cybersecurity policy adds language clarifying the role of the cybersecurity coordinator, specifying that they will oversee implementation of the district's cybersecurity plan and required staff training.",
       "changes_added": [
-        "who will oversee implementation of the district's cybersecurity plan and required staff training (underlined text in the Coordinator section)"
+        "who will oversee implementation of the district's cybersecurity plan and required staff training"
       ],
-      "discussion": "nues and Investments\n- Ensures district funds are invested in accordance with the Public Funds Investment Act.\n- Dr. Vinson noted CISD is conservative in its investment approach (TexPool, etc.).\n\n### CQB Local — Technology Resources/Cyber Security\n- Requires cyber security training for employees.\n- Confirmed the district's cyber security coordinator is in place.\n\n### DH Local — Employee Standards of Conduct\n- Updates language regarding vaping, e-cigarettes, and nicotine products to apply to all employees and service providers (not just educators).\n- Discussion about whether Zyn pouches (nicoti",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        250
-      ],
-      "confidence": "medium",
-      "notes": "Page 251 of the board packet, Policy Update Page Number 15. The document is labeled as a Local Policy dated 2023-10-30, Version 1. The only visible underlined (added) text appears in the Coordinator section: 'who will oversee implementation of the district's cybersecurity plan and required staff training.' This text appears in red/colored underline format indicating it is newly added language. The action hint suggests adoption. The remainder of the policy text appears to be existing language without redline markings. Only page 1 of the policy is visible; additional pages may exist."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
+      "confidence": "high",
+      "source_redline": "CQB_LOCAL.pdf",
+      "notes": "The cover page title reads \"Discuss Revisions to Board Policy CQB (Local)\" indicating a first reading. The only redline change visible is red underlined text in the Coordinator section on page 2. No red strikethrough (removed) text was identified. All other policy text appears in black (unchanged)."
     }
   ],
   "timeline_legal": [],

@@ -3,105 +3,56 @@
   "title": "Purchasing and Acquisition",
   "description": "Conroe ISD follows specific rules when spending public money to buy goods and services, ensuring purchases are made fairly and responsibly. These guidelines help prevent waste and require the district to seek competitive pricing on larger purchases, so taxpayer dollars go as far as possible. Community members can trust that school funds are being managed with accountability and transparency.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy CH (Local) were discussed. No action was taken.",
-      "discussion": "er and January acquisitions (donations and new catalog items)\n- **Vote: Approved 7-0**\n\n---\n\n## Board Policy — Second Reading (Action Items)\n\n### Items A through H (State-Mandated Updates):\nPolicies: CH Local, CKC Local, CK Local, CL Local, DGC Local, EIA Local, FFAC Local, FFB Local\n- Board noted these are state-mandated changes from the legislative session, not district-initiated\n- Discussion about future process: putting routine legal updates on consent agenda; Dr. Vinson committed to providing small group review and board brief previews\n- Motion included authorization for non-substantive g",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's Purchasing and Acquisition (CH Local) policy replaces the prior dollar-threshold trigger for Board approval with a broader \"non-routine and discretionary\" purchase framework requiring Superintendent notification, adds a detailed definition list of what qualifies as non-routine/discretionary, requires an annual vendor report to the Board, raises the competitive procurement threshold from $50,000 to $100,000, and adds a requirement for the District to adopt procedures to implement the policy.",
+      "changes_added": [
+        "non-routine and discretionary purchases, not previously included in a Board approved contract or memorandum of understanding, that costs or aggregates to a cost of $50,000 or more to a single vendor over the course of a 12-month fiscal period beginning September 1 of each year shall require the Superintendent to notify the Board in writing approval before a transaction may take place. If two or more Board members timely raise a concern with the purchase to the Superintendent, the purchase shall be timely placed on a Board agenda for Board approval or disapproval. If Board notification is not possible without delaying needed goods or services for District operations, the District may purchase the goods or services but shall notify the Board as soon as practicable thereafter.",
+        "Non-routine and discretionary purchases, include but are not limited to, goods or services that are:\n1. Non-recurring or one-time purchases;\n2. Unusual purchases;\n3. Pilot programs;\n4. District level awards and honors in excess of $2,500;\n5. Purchases that materially differ in type, scope, purpose, or cost from prior purchases;\n6. Purchases that do not align with Board Policy EMB (Local), EFA (Local), or EFB (Local); or\n7. Purchases for professional services, consulting services, technology systems or software platforms, and large equipment or infrastructure items.",
+        "The Board shall be provided annually with a report of all District vendors paid in the previous fiscal year.",
+        "$5100,000 (competitive procurement threshold raised to $100,000)",
+        "$5100,000 (bids, quotes, and other proposals under threshold raised to $100,000)",
+        "The District shall adopt procedures to implement this Policy."
       ],
-      "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. No action was taken. No specific change language available in these pages."
+      "changes_removed": [
+        "that costs or aggregates to a cost of $50,000 or more",
+        "over the course of a 12-month fiscal period beginning September 1 of each year",
+        "approval",
+        "$50,000 (competitive procurement threshold)",
+        "$50,000 (bids, quotes, and other proposals under threshold)"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
+      "confidence": "medium",
+      "source_redline": "CH_LOCAL.pdf",
+      "notes": "The cover page does not contain a standard TASB action title heading (e.g., \"Discuss,\" \"Adopt,\" etc.) — it only shows the policy name and a rationale line, so action is marked 'unknown'. The redline uses red underline for additions and red strikethrough for removals; however, the competitive procurement threshold change appears as \"$5100,000\" in the document, which is a typographical redline rendering of the change from $50,000 to $100,000 (the \"51\" represents strikethrough \"5\" and new \"1\" overlapping). Added and removed items for the threshold have been interpreted accordingly. Much of the new \"Purchasing Authority\" paragraph text is red-underlined as new language replacing the old simpler dollar-threshold language."
     },
     {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This is a summaries page covering multiple policy changes: (1) BBE(Local): Informed by HB 4310 — requires Board member PIR requests be fulfilled promptly and at no cost; establishes new process for handling requests for potentially confidential information. (2) CH(Local): Informed by SB 12 & 1173 — permits raising aggregate purchasing threshold from $50,000 to $100,000; adds non-discrimination clause for HUBs. (3) CKC(Local): Informed by HB 121 — requires district emergency plan to include provisions for safety of students, staff, and spectators during District-sponsored/sanctioned extracurricular activities. (4) CKE(Local): Informed by HB 1458 — adds process for Board to authorize use of reserve police officers, with new section on procedures, authority, standards, and limitations. (5) CL(Local): Informed by SB 8 ('bathroom bill') — defines multiple-occupancy private spaces, requires sex-designated signage, outlines exceptions (young children, those needing assistance), requires facility use aligned with sex at birth, adds locker room as instructional classroom section, and outlines violation process.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's Purchasing and Acquisition (CH) policy raises the threshold requiring Board approval and competitive procurement from $50,000 to $100,000, adds an exception for purchases made under Texas Education Code §44.031, and adds a new section on contracting with Historically Underutilized Businesses (HUBs).",
       "changes_added": [
-        "BBE(Local): Board member PIR requests must be fulfilled promptly and at no cost",
-        "BBE(Local): New process for handling requests for potentially confidential information",
-        "CH(Local): Aggregate purchasing threshold increase from $50,000 to $100,000 (optional for districts)",
-        "CH(Local): Non-discrimination clause for HUBs",
-        "CKC(Local): Emergency plan must include provisions for safety of students, staff, and spectators during District-sponsored or District-sanctioned extracurricular activities",
-        "CKE(Local): New policy section outlining process for Board authorization of reserve police officers, including procedures, authority, standards, and limitations",
-        "CL(Local): Definition of multiple-occupancy private spaces",
-        "CL(Local): Requirement for appropriate signage consistent with sex designated for each space",
-        "CL(Local): Specific exceptions (young children, individuals requiring assistance)",
-        "CL(Local): Requirement to use facilities aligned with sex at birth",
-        "CL(Local): New section addressing use of locker rooms as instructional classrooms",
-        "CL(Local): Process for violations of the policy",
-        "$100,000 (the '100' portion appears in red/underlined, indicating the new threshold amount)",
-        "Bids, Quotes, And Other Proposals Under $100,000 (section header updated)",
-        "Nothing in Board Policy may be construed to limit or prohibit the District from contracting with historically underutilized businesses or businesses owned by members of a minority group or by women in accordance with applicable state law; however, all vendors, including historically underutilized businesses, must meet the same qualifications, performance standards, and requirements applicable to all District vendors.",
-        "Aggregate purchasing threshold increase from $50,000 to $100,000 (CH Local)",
-        "Non-discrimination clause for HUBs while maintaining same standards for all vendors (CH Local)",
-        "New requirements for interim reports when a student's performance is unsatisfactory (EIA Local)",
-        "Parents must be offered at least two opportunities for teacher conferences (EIA Local)",
-        "Progress reports must require a parent's signature at least every 12 weeks (EIA Local)"
+        "unless the purchase is made in accordance with Texas Education Code §44.031",
+        "$100,000 (replacing $50,000 as the threshold in Purchasing Authority)",
+        "$100,000 (replacing $50,000 as the threshold in Competitive Procurement Requirements)",
+        "$100,000 (replacing $50,000 in the 'Bids, Quotes, And Other Proposals Under $100,000' heading)",
+        "Contracting with a Historically Underutilized Business (HUB) — full new section: 'Nothing in Board Policy may be construed to limit or prohibit the District from contracting with historically underutilized businesses or businesses owned by members of a minority group or by women in accordance with applicable state law; however, all vendors, including historically underutilized businesses, must meet the same qualifications, performance standards, and requirements applicable to all District vendors.'"
       ],
       "changes_removed": [
-        "$50,000 (the '50' portion appears struck through, indicating the old threshold amount)",
-        "Bids, Quotes, And Other Proposals Under $50,000 (old section header)"
+        "$50,000 (prior threshold in Purchasing Authority — replaced by $100,000)",
+        "$50,000 (prior threshold in Competitive Procurement Requirements — replaced by $100,000)",
+        "$50,000 (prior threshold in 'Bids, Quotes, And Other Proposals Under $50,000' heading — replaced by $100,000)"
       ],
-      "discussion": "/discussion only**; no votes taken. Second readings with possible action planned for February meeting.\n\n### BBE Local — Board Members Authority\n- Aligns with current statute. No concerns raised.\n\n### CH Local — Purchasing and Acquisition\n- **Not driven by legislative changes;** requested by district staff.\n- Key change: Raising the threshold for board approval of uncontracted purchases from $10,000 to $100,000 (aligning with SB 1173 competitive procurement threshold).\n- **HUB (Historically Underutilized Business) carve-out:** Board President Odenweller expressed concern that the HUB point stru",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        276,
-        283,
-        291,
-        295
-      ],
-      "confidence": "high",
-      "notes": "This is a summaries/cover page (page 289, labeled page 2) from a TASB policy update packet produced by Texans for Excellence in Education. It does not contain redline text directly but summarizes changes to multiple policies. Actual redline documents for each policy would appear on subsequent pages. Action type cannot be confirmed from this page alone; marked as 'unknown' pending review of meeting agenda context. Meeting date noted as 2026-01-20."
-    },
-    {
-      "date": "2025-11-18",
-      "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Policy CH (Purchasing and Acquisition) is referenced in multiple consent agenda items (V.H through V.K and V.L) as the governing policy authority under which the superintendent is authorized to make purchases from awarded RFP vendors. No revisions to CH are proposed; it is cited as existing authority.",
-      "discussion": "policy and a superintendent Facebook post",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        1,
-        2,
-        3
-      ],
-      "confidence": "high",
-      "notes": "CH is referenced in consent agenda items V.H, V.I, V.J, V.K, and V.L as the authorization basis for purchasing from selected RFP vendors. No policy text changes are proposed for CH at this meeting."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
+      "confidence": "medium",
+      "source_redline": "CH_LOCAL.pdf",
+      "notes": "The cover page does not contain a standard TASB action title heading (e.g., 'Discuss Revisions to...' or 'Adopt Revisions to...'); instead it shows only the policy title and metadata, so action is marked 'unknown'. The redline uses a layered number format (e.g., '$5̶1̶0̶0,000') where the red '1' is inserted and the '5' is struck through, indicating the threshold changes from $50,000 to $100,000. The new HUB section on page 3 is entirely red underlined, indicating it is fully new language. No text appears in red strikethrough for the HUB section."
     },
     {
       "date": "2025-08-19",

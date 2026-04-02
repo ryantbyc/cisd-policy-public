@@ -10,24 +10,14 @@
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "Policy FL (Student Records) was updated to add a new item #16 under Types of Education Records, specifically adding 'Records relating to school library materials the student obtains from a school library.' The existing item 16 (Other records) was renumbered to 17.",
+      "summary": "This update to Conroe ISD's Board Policy FL (Local) on Student Records adds a new item to the list of types of education records, specifically including records relating to school library materials that a student obtains from a school library.",
       "changes_added": [
-        "16. Records relating to school library materials the student obtains from a school library."
+        "Records relating to school library materials the student obtains from a school library. (added as item 16 under Types of Education Records)"
       ],
-      "discussion": "and crosswalk documents.\n\n### Batch Approval\n**Trustee Dungan moved to approve all policies except EM and FFB together.**\n\nPolicies approved in batch: **BD Local, DGBA Local, DFA Local, EA Local, FA, FL, FN, FNG, and GF**\n\n**VOTE: Approved 7-0**\n\n### EM Local — Teaching About Controversial Issues (Second Reading)\n**Discussion highlights:**\n- Trustee Semmler asked about language prohibiting private funding for curriculum — General Counsel clarified this prevents using donations as a workaround to purchase materials prohibited by district policy or state law.\n- Trustee Nelson asked whether this",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        204
-      ],
-      "confidence": "high",
-      "notes": "Item #16 appears underlined in the document, indicating it is newly added text. The previous item 16 ('Other records that may contribute to an understanding of the student') has been renumbered to 17. This is page 1 of 3 of the FL Local Policy, labeled as Policy Update Page Number 17, for Conroe ISD. The action is inferred as adoption based on the triage hint and meeting date of 2025-10-21."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
+      "confidence": "medium",
+      "source_redline": "FL_LOCAL.pdf",
+      "notes": "The redline text for item 16 appears underlined in the document (\"Records relating to school library materials the student obtains from a school library.\"), indicating it is newly added language. However, the document is a scanned PDF and color rendering is ambiguous — the underline formatting on item 16 was used to identify this as an addition rather than confirmed red color. No strikethrough/removed text was identified. The cover page title \"Discuss and Possibly Adopt Revisions to Board Policy FL (Local)\" maps to action = 'adopted' per the provided rules."
     },
     {
       "date": "2025-09-16",

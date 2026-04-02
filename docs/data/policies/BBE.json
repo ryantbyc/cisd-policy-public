@@ -2,157 +2,55 @@
   "code": "BBE",
   "title": "Board Members: Authority",
   "description": "Individual school board members have authority only when acting as part of the full board — no single member can make decisions or take actions on behalf of the district alone. Understanding this helps community members know how board decisions are made and who is accountable for them. When engaging with the board, residents should direct concerns through official channels rather than expecting individual members to act unilaterally.",
-  "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_date": "2026-01-20",
+  "last_action_result": "unknown",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/BBE",
   "timeline_local": [
     {
-      "date": "2026-02-17",
-      "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy BBE (Local) were discussed. No action was taken.",
-      "discussion": "Policy) — Multiple Speakers Opposed:\n- **Danell Cass:** Opposed SB11; distinguished existing silent prayer rights from organized religious reading; cited low student performance in core subjects\n- **Adriana Ruiz:** Called SB11 religious overreach; urged focus on education over political signaling\n- **Deborah Leiber:** Person of faith opposing the policy; cited administrative burden, consent form requirements, and legal risks\n- **Laurel Stevens:** Christian opposing the policy on pluralism grounds; urged preserving religious freedom\n- **Destiny Milton:** Criticized lack of transparency by label",
-      "votes": {
-        "for": [
-          "students"
-        ],
-        "against": [
-          "SB",
-          "challenges",
-          "to"
-        ],
-        "abstain": [],
-        "absent": [],
-        "tally": "6-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. The minutes explicitly state 'No action was taken on any of the above local policies.' No redline or specific change language is present in these pages. This appears to be a first reading / discussion only at this meeting."
-    },
-    {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This is a summaries page covering multiple policy changes: (1) BBE(Local): Informed by HB 4310 — requires Board member PIR requests be fulfilled promptly and at no cost; establishes new process for handling requests for potentially confidential information. (2) CH(Local): Informed by SB 12 & 1173 — permits raising aggregate purchasing threshold from $50,000 to $100,000; adds non-discrimination clause for HUBs. (3) CKC(Local): Informed by HB 121 — requires district emergency plan to include provisions for safety of students, staff, and spectators during District-sponsored/sanctioned extracurricular activities. (4) CKE(Local): Informed by HB 1458 — adds process for Board to authorize use of reserve police officers, with new section on procedures, authority, standards, and limitations. (5) CL(Local): Informed by SB 8 ('bathroom bill') — defines multiple-occupancy private spaces, requires sex-designated signage, outlines exceptions (young children, those needing assistance), requires facility use aligned with sex at birth, adds locker room as instructional classroom section, and outlines violation process.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's BBE (Board Members: Authority) policy adds new language clarifying that public information requested in compliance with law and policy shall be provided promptly and without charge, establishes a framework allowing the District to request Board members to sign confidentiality agreements for confidential public information (with specific requirements), grants Board members the right to seek an Attorney General opinion on confidentiality agreements, specifies that confidential information shall be redacted without charge, and clarifies that attorney-client privileged information is not subject to disclosure to a Board member unless the privilege applies to that member.",
       "changes_added": [
-        "BBE(Local): Board member PIR requests must be fulfilled promptly and at no cost",
-        "BBE(Local): New process for handling requests for potentially confidential information",
-        "CH(Local): Aggregate purchasing threshold increase from $50,000 to $100,000 (optional for districts)",
-        "CH(Local): Non-discrimination clause for HUBs",
-        "CKC(Local): Emergency plan must include provisions for safety of students, staff, and spectators during District-sponsored or District-sanctioned extracurricular activities",
-        "CKE(Local): New policy section outlining process for Board authorization of reserve police officers, including procedures, authority, standards, and limitations",
-        "CL(Local): Definition of multiple-occupancy private spaces",
-        "CL(Local): Requirement for appropriate signage consistent with sex designated for each space",
-        "CL(Local): Specific exceptions (young children, individuals requiring assistance)",
-        "CL(Local): Requirement to use facilities aligned with sex at birth",
-        "CL(Local): New section addressing use of locker rooms as instructional classrooms",
-        "CL(Local): Process for violations of the policy",
-        "The District may request a Board member who is receiving public information, that is confidential under law, to sign a confidentiality agreement that covers the information and requires that:",
-        "1. The information not be disclosed;",
-        "2. The information be labeled as confidential;",
-        "3. The information be kept securely; or",
-        "4. The number of copies made of the information or the notes taken from the information that implicate the confidential nature of the information be controlled, with all copies or notes that are not destroyed or returned remaining confidential and subject to the confidentiality agreement.",
+        "Public information requested in compliance with law and this policy shall be provided promptly and without charge.",
+        "The District may request a Board member who is receiving public information, that is confidential under law, to sign a confidentiality agreement that covers the information and requires that: 1. The information not be disclosed; 2. The information be labeled as confidential; 3. The information be kept securely; or 4. The number of copies made of the information or the notes taken from the information that implicate the confidential nature of the information be controlled, with all copies or notes that are not destroyed or returned remaining confidential and subject to the confidentiality agreement.",
         "A Board member who has received a request to sign a confidentiality agreement may seek a decision, from the Attorney General, about whether the information covered by the confidentiality agreement is confidential under law.",
         "Public information that is confidential under law shall be redacted from the information provided to the Board member without charge.",
-        "Information subject to attorney-client privilege is not subject to disclosure to a member of a Board member unless the attorney-client relationship upon which the privilege is based applies to the member. The district shall inform the Board member if information responsive to a request is withheld due to attorney-client privilege.",
-        "Public information requested in compliance with law and this policy shall be provided promptly and without charge."
+        "Information subject to attorney-client privilege is not subject to disclosure to a member of a Board member unless the attorney-client relationship upon which the privilege is based applies to the member. The district shall inform the Board member if information responsive to a request is withheld due to attorney-client privilege."
       ],
-      "discussion": "M\n\n---\n\n## Item 11: Board Policy Discussion — First Readings\n\nAll items are **first readings/discussion only**; no votes taken. Second readings with possible action planned for February meeting.\n\n### BBE Local — Board Members Authority\n- Aligns with current statute. No concerns raised.\n\n### CH Local — Purchasing and Acquisition\n- **Not driven by legislative changes;** requested by district staff.\n- Key change: Raising the threshold for board approval of uncontracted purchases from $10,000 to $100,000 (aligning with SB 1173 competitive procurement threshold).\n- **HUB (Historically Underutilized",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        283,
-        291
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
       "confidence": "high",
-      "notes": "This is a summaries/cover page (page 289, labeled page 2) from a TASB policy update packet produced by Texans for Excellence in Education. It does not contain redline text directly but summarizes changes to multiple policies. Actual redline documents for each policy would appear on subsequent pages. Action type cannot be confirmed from this page alone; marked as 'unknown' pending review of meeting agenda context. Meeting date noted as 2026-01-20."
-    },
-    {
-      "date": "2025-12-16",
-      "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "Revisions to Board Policy BBE (Local) were adopted unanimously at the November 18, 2025 Regular Board Meeting as part of a group adoption (Motion #7207). No specific language changes are described in the meeting minutes.",
-      "discussion": "Policy GKD (Discussion Only, No Action)",
-      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14
-      ],
-      "confidence": "medium",
-      "notes": "Adopted as part of a group motion (#7207) along with CAA, CDA, CQB, EHB, EHBB, and GKB. Vote was 7-0. The specific redline changes are not described in these minutes pages."
+      "source_redline": "BBE_LOCAL.pdf",
+      "notes": "The cover page does not contain a standard TASB action title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\") — it simply shows the policy title \"Board Members: Authority (BBE)\" as a header, so the board action could not be determined from the title convention. Action set to 'unknown'. All red underlined text has been captured; no red strikethrough (removal) text was identified in the document."
     },
     {
       "date": "2025-11-18",
       "school_year": "2025-2026",
-      "action": "second_reading",
-      "result": "pending_adoption",
-      "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This update to Conroe ISD's BBE (Local) Board Members: Authority policy adds an explicit clarification in the Board Authority section stating that an individual Board member has authority only when acting as a member of the Board in a duly called meeting or when delegated specific authority by Board action.",
       "changes_added": [
         "An individual Board member has authority only when acting as a member of the Board in a duly called meeting or when delegated specific authority by Board action."
       ],
-      "discussion": "Tabled until definitions regarding tobacco, caffeine, and nicotine can be clarified; to return with enforceable language.\n**VOTE to table: Approved 7-0**\n\n**Remaining policies approved as a group:** BBE, CA, CDA, CQB, EHB, GKB (all local).\n**VOTE: Approved 7-0**\n\n---\n\n## Closed Session\nBoard entered closed session at **7:55 PM** under Texas Government Code sections 551.071, 551.072, and 551.074.\n\nBoard returned to open session at **11:13 PM**.\n\n---\n\n## Action Items from Closed Session\n\n### Level Three Grievance Hearing\n**Motion to reinstate employee Tim Bar**, subject to assignment by the sup",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
-      "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
+      "source_redline": "BBE_LOCAL.pdf",
+      "notes": "Only one redline change is visible in the document — a red underlined sentence added to the Board Authority section on page 2. No red strikethrough (removed) text was identified. The cover page title reads \"Discuss and Possibly Adopt Revisions to Board Policy BBE (Local),\" which maps to action = \"adopted\" per the extraction rules."
     },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "Policy BBE for Conroe ISD is shown with one addition in the Board Authority section. A sentence clarifying when an individual Board member has authority was added, specifying that authority exists only when acting as a member of the Board in a duly called meeting or when delegated specific authority by Board action.",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's BBE (Local) policy on Board Members: Authority adds an explicit sentence clarifying that an individual Board member only holds authority when acting as part of the full Board in a duly called meeting, or when delegated specific authority by Board action.",
       "changes_added": [
         "An individual Board member has authority only when acting as a member of the Board in a duly called meeting or when delegated specific authority by Board action."
       ],
-      "discussion": "---\n\n## Board Policy — Discussion/First Reading Items (No Action Taken)\n\nDr. Vinson noted all of these are primarily compliance updates matching current law, with no significant local additions.\n\n### BBE Local — Board Members Authority\n- Discussion about individual board member authority vs. collective board action.\n- General counsel clarified this prevents individual board members from taking action or speaking on behalf of the board without authorization.\n- Discussion about delegation of authority to the board president (e.g., setting the agenda, speaking to media).\n- Trustee Dawson requeste",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        235
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
       "confidence": "high",
-      "notes": "The added text appears in red/highlighted color in the Board Authority section, indicating it is new language being inserted into the policy. The document is dated 2019-06-04, Version 1, and is page 236 of the meeting packet. The action hint from triage indicates adoption. No strikethrough (removed) text is visible on this page."
+      "source_redline": "BBE_LOCAL.pdf",
+      "notes": "Only one redline change was identified — a red-underlined addition in the Board Authority section on page 2. No red strikethrough (removed) text was present in the document. The cover page title reads \"Discuss Revisions to Board Policy BBE (Local),\" indicating this is a first reading."
     }
   ],
   "timeline_legal": [],

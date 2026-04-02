@@ -3,65 +3,47 @@
   "title": "Safety Program/Risk Management: Emergency Plans",
   "description": "Conroe ISD maintains emergency plans to help keep students and staff safe during crises such as severe weather, fires, or other threatening situations. The district coordinates these plans with local emergency management agencies to ensure a consistent and practiced response when emergencies occur. Parents and community members can feel confident that schools have documented procedures in place to protect everyone on campus.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy CKC (Local) were discussed. No action was taken.",
-      "discussion": "uary acquisitions (donations and new catalog items)\n- **Vote: Approved 7-0**\n\n---\n\n## Board Policy — Second Reading (Action Items)\n\n### Items A through H (State-Mandated Updates):\nPolicies: CH Local, CKC Local, CK Local, CL Local, DGC Local, EIA Local, FFAC Local, FFB Local\n- Board noted these are state-mandated changes from the legislative session, not district-initiated\n- Discussion about future process: putting routine legal updates on consent agenda; Dr. Vinson committed to providing small group review and board brief previews\n- Motion included authorization for non-substantive grammatical",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to CKC (Local Policy) restructures the Multihazard Emergency Operations Plan section by adding new language about the plan's required scope and the specific procedures it must address, while replacing the \"Violent Activity\" section heading and its associated paragraph with a broader \"Threat to Health or Safety\" framework that expands parent notification requirements beyond just violent activity.",
+      "changes_added": [
+        "The District shall adopt and implement a multihazard emergency operations plan for use in the District facilities. The plan must address prevention, mitigation, preparedness, response, reunification, and recovery in accordance with Texas law and regulation.",
+        "Multihazard (as underline/emphasis on the word in the heading 'Multihazard Emergency Operations Plan')",
+        "Threat to Health or Safety (replacing 'Violent Activity' in the section heading)",
+        "The Superintendent shall adopt procedures providing immediate notification to parents, guardians, and other persons standing in parental relation in circumstances involving a significant threat to the health or safety of students, including identification of the individual with responsibility for overseeing the notification."
       ],
+      "changes_removed": [
+        "As required by law, the emergency operations plan shall include the District's procedures addressing:",
+        "1. Reasonable security measures when District property is used as a polling place;",
+        "2. Response to an active shooter emergency;",
+        "3. Response to a nearby train derailment, as applicable; and",
+        "4. Access to campus buildings and materials necessary for a substitute teacher to carry out the duties of a District employee during an emergency or an emergency drill.",
+        "Violent Activity (from the section heading 'Notice Regarding Violent Activity')",
+        "The Superintendent shall develop procedures to notify parents regarding violent activity that has occurred or is being investigated at a campus or other District facility or at a District-sponsored activity."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. No action was taken. No specific change language available in these pages."
+      "source_redline": "CKC_LOCAL.pdf",
+      "notes": "The document does not include a cover page title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\") — the page shown appears to be the redline policy page itself, not a standard recommendation cover page. Action has been set to 'unknown' as a result. All red underlined text and red strikethrough text have been captured. The word 'Multihazard' in the heading appears underlined in red indicating it was added/emphasized. The four numbered list items under the emergency operations plan procedures are all struck through (removed)."
     },
     {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This is a summaries page covering multiple policy changes: (1) BBE(Local): Informed by HB 4310 — requires Board member PIR requests be fulfilled promptly and at no cost; establishes new process for handling requests for potentially confidential information. (2) CH(Local): Informed by SB 12 & 1173 — permits raising aggregate purchasing threshold from $50,000 to $100,000; adds non-discrimination clause for HUBs. (3) CKC(Local): Informed by HB 121 — requires district emergency plan to include provisions for safety of students, staff, and spectators during District-sponsored/sanctioned extracurricular activities. (4) CKE(Local): Informed by HB 1458 — adds process for Board to authorize use of reserve police officers, with new section on procedures, authority, standards, and limitations. (5) CL(Local): Informed by SB 8 ('bathroom bill') — defines multiple-occupancy private spaces, requires sex-designated signage, outlines exceptions (young children, those needing assistance), requires facility use aligned with sex at birth, adds locker room as instructional classroom section, and outlines violation process.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's CKC (Emergency Plans) local policy adds a new required item to the Emergency Operations Plan: provisions for ensuring the safety of students, staff, and spectators during extracurricular activities sponsored or sanctioned by the District.",
       "changes_added": [
-        "BBE(Local): Board member PIR requests must be fulfilled promptly and at no cost",
-        "BBE(Local): New process for handling requests for potentially confidential information",
-        "CH(Local): Aggregate purchasing threshold increase from $50,000 to $100,000 (optional for districts)",
-        "CH(Local): Non-discrimination clause for HUBs",
-        "CKC(Local): Emergency plan must include provisions for safety of students, staff, and spectators during District-sponsored or District-sanctioned extracurricular activities",
-        "CKE(Local): New policy section outlining process for Board authorization of reserve police officers, including procedures, authority, standards, and limitations",
-        "CL(Local): Definition of multiple-occupancy private spaces",
-        "CL(Local): Requirement for appropriate signage consistent with sex designated for each space",
-        "CL(Local): Specific exceptions (young children, individuals requiring assistance)",
-        "CL(Local): Requirement to use facilities aligned with sex at birth",
-        "CL(Local): New section addressing use of locker rooms as instructional classrooms",
-        "CL(Local): Process for violations of the policy",
         "Provisions for ensuring the safety of students, staff, and spectators during extracurricular activities sponsored or sanctioned by the District;"
       ],
-      "discussion": "th $100,000 threshold given existing guardrails\n- **Procedural note:** This was technically a second reading but was noticed only as \"discussion,\" so **action must wait until February meeting.**\n\n### CKC Local — Safety Program, Risk Management, Emergency Plans\n- Aligns with statute. No concerns raised.\n\n### CK Local — Program Risk Management, Security Personnel\n- Discussed whether to authorize the chief of police to hire **reserve officers** without returning to the board for permission each time.\n- Chief of Police explained reserve officers are traditionally used for large events; unlikely fo",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        276,
-        283,
-        291,
-        295,
-        297
-      ],
-      "confidence": "high",
-      "notes": "This is a summaries/cover page (page 289, labeled page 2) from a TASB policy update packet produced by Texans for Excellence in Education. It does not contain redline text directly but summarizes changes to multiple policies. Actual redline documents for each policy would appear on subsequent pages. Action type cannot be confirmed from this page alone; marked as 'unknown' pending review of meeting agenda context. Meeting date noted as 2026-01-20."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
+      "confidence": "medium",
+      "source_redline": "CKC_LOCAL.pdf",
+      "notes": "The cover page does not include a large bold action-determining title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\"); the document simply presents the policy with Version 1 and a blank Date Issued field. Board action could not be determined from the cover page title, so 'unknown' was used. The red underlined item #3 is clearly a new addition. No red strikethrough text was present, so no removals were recorded. This appears to be an initial adoption (Version 1) of this local policy."
     }
   ],
   "timeline_legal": [],

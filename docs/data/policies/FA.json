@@ -10,26 +10,16 @@
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This is a new local policy (FA Local) for Conroe ISD establishing parental engagement provisions. All text appears to be newly added (underlined/red), indicating this is a new local policy being created. It establishes: (1) an online portal for parents to submit comments to administrators and the Board; (2) a right for currently enrolled students' parents to speak first during the citizenship participation portion of board meetings, with a provision to identify parents; and (3) a requirement that board meetings be held outside of regular business hours.",
+      "summary": "This update creates a new \"Parental Engagement\" section in Policy FA (Local) for Conroe ISD, adding three new provisions: an online portal for parents to submit comments to administrators and the Board, a requirement that enrolled parents be allowed to speak first during the citizenship participation portion of board meetings, and a requirement that board meetings be held outside of regular business hours.",
       "changes_added": [
         "Parents of students enrolled in the District may submit comments to campus or District administrators and the Board of Trustees through an online portal made available on the District's website.",
         "Parents of students currently enrolled in the District shall be allowed to speak first during the citizenship participation portion of any public board meeting [See BED.]. The District shall make provision to ensure that parents are identified.",
         "Board meetings shall be held outside of regular business hours. [See BE.]"
       ],
-      "discussion": "ew, and crosswalk documents.\n\n### Batch Approval\n**Trustee Dungan moved to approve all policies except EM and FFB together.**\n\nPolicies approved in batch: **BD Local, DGBA Local, DFA Local, EA Local, FA, FL, FN, FNG, and GF**\n\n**VOTE: Approved 7-0**\n\n### EM Local — Teaching About Controversial Issues (Second Reading)\n**Discussion highlights:**\n- Trustee Semmler asked about language prohibiting private funding for curriculum — General Counsel clarified this prevents using donations as a workaround to purchase materials prohibited by district policy or state law.\n- Trustee Nelson asked whether t",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        199
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
       "confidence": "high",
-      "notes": "All text on this page appears in red underlined formatting, indicating this is entirely new local policy language. The document footer shows 'Date Issued: Update: 1 FA(Local)', confirming this is the first update/issuance of this local policy. Policy Update Page Number 14. Cross-references to BED (board meeting public participation) and BE (board meetings) are included."
+      "source_redline": "FA_LOCAL.pdf",
+      "notes": "All text on the redline page (page 2) appears in red underline, indicating this is entirely new language being added to what was previously a blank or minimal local policy. The section heading \"Parental Engagement\" is also red underlined, indicating it is new. No red strikethrough (removed) text was present."
     },
     {
       "date": "2025-09-16",

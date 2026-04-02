@@ -3,57 +3,34 @@
   "title": "Employee Rights and Privileges: Immunity",
   "description": "School district employees are protected from personal legal liability when they act in good faith while carrying out their official job duties. This protection encourages staff to make decisions and take actions in the best interest of students without fear of personal lawsuits. Understanding these protections helps the community know how accountability is structured when questions arise about employee conduct.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy DGC (Local) were discussed. No action was taken.",
-      "discussion": "d new catalog items)\n- **Vote: Approved 7-0**\n\n---\n\n## Board Policy — Second Reading (Action Items)\n\n### Items A through H (State-Mandated Updates):\nPolicies: CH Local, CKC Local, CK Local, CL Local, DGC Local, EIA Local, FFAC Local, FFB Local\n- Board noted these are state-mandated changes from the legislative session, not district-initiated\n- Discussion about future process: putting routine legal updates on consent agenda; Dr. Vinson committed to providing small group review and board brief previews\n- Motion included authorization for non-substantive grammatical changes\n- **Vote: Approved 7-0",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. No action was taken. No specific change language available in these pages."
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This is a new local policy (DGC, Version 1) for Conroe ISD that establishes definitions and immunity protections for professional employees from disciplinary proceedings when they report Chapter 37 violations or take good-faith actions to remove disruptive, unruly, or bullying students from class. The entire policy is new language, driven by a legislative change.",
+      "changes_added": "[\"Definitions — For this Policy, \"disciplinary proceeding\" means: 1. An action brought by the school district employing a professional employee of a school district to discharge or suspend the employee or terminate or not renew the employee's term contract; or 2. An action or proceeding brought by the State Board for Educator Certification.\", \"Immunity from Disciplinary Proceedings — A professional employee of a school district may not be subject to disciplinary proceedings for: 1. The reporting of a violation of Chapter 37 under the Texas Education Code to another professional employee of a school district, the agency, or a law enforcement agency; or 2. An action taken in good faith to remove a student from class consistent with Texas Education Code § 37.002, including removal of a student who: a. Repeatedly interferes with the teacher's ability to communicate effectively with the students in the class or with the ability of the student's classmates to learn; or b. Demonstrates behavior that is unruly, disruptive, or abusive toward the teacher, another adult, or another student; or c. Engages in conduct that constitutes bullying.\", \"The immunity provided by this policy is in addition to any other immunity provided by law and may not be construed to interfere with any other immunity provided by law.\"]",
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
+      "confidence": "medium",
+      "source_redline": "DGC_LOCAL.pdf",
+      "notes": "This appears to be a brand-new policy (Version 1) rather than a revision to existing text — all content is shown in red underline, indicating entirely new language with nothing removed. The cover page does not contain a large bold action-determining heading (e.g., \"Discuss,\" \"Adopt,\" etc.); it only shows metadata fields, so the board action could not be determined from the title heading convention and is marked 'unknown'. The rationale is listed as a legislative change."
     },
     {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This page is a summary/cover document describing changes to five Local policies, all informed by recent Texas legislation: (1) DGC(Local): Updated per House Bill 6 to outline when professional employees are immune from disciplinary proceedings and to define disciplinary proceedings. (2) EIA(Local): Updated per Senate Bill 12 to add interim report requirements for unsatisfactory performance, require at least two parent-teacher conference opportunities, and mandate parent signature on progress reports at least every 12 weeks. (3) FFAC(Local): Updated per Senate Bill 920 to expand who may authorize a student to receive nonprescription medication (now includes legal guardians) and require dosing consistent with official container labeling. (4) FFB(Local): Updated per House Bills 6 & 121 to specify professionals required on the safe and supportive school team, allow a team to serve more than one campus, clarify when parents must be contacted, and establish new guidelines for threat assessments involving special education students. (5) FFG(Local): Updated per Senate Bill 571 and House Bill 4623 to identify sexual misconduct and improper student–teacher relationships as explicitly reportable, reduce reporting timeline from 48 to 24 hours, add students in educator preparation programs and Board Trustees as mandatory reporters, establish a parent notification process for alleged staff misconduct, and state that individuals may not assert official immunity for failure to report.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This is a new local policy (DGC, Version 1) for Conroe ISD establishing employee immunity from disciplinary proceedings. It defines \"disciplinary proceeding\" and protects professional employees from discipline for reporting Chapter 37 violations or taking good-faith actions to remove disruptive, unruly, or bullying students from class.",
       "changes_added": [
-        "DGC(Local): Circumstances under which a professional employee is immune from disciplinary proceedings; definition of disciplinary proceedings",
-        "EIA(Local): New requirements for interim reports when student performance is unsatisfactory; at least two opportunities for teacher conferences; parent signature on progress reports at least every 12 weeks",
-        "FFAC(Local): Legal guardian added as authorized to grant permission for nonprescription medication; dosing must be consistent with container's official labeling",
-        "FFB(Local): Requirements regarding types of professionals on safe and supportive school team; conditions under which team may serve more than one campus; team responsibility for parent contact timing; guidelines for threat assessments involving special education students",
-        "FFG(Local): Sexual misconduct and improper student–teacher relationships explicitly identified as reportable; 24-hour reporting timeline; students in educator preparation programs and Board Trustees identified as mandatory reporters; new parent notification process for alleged staff misconduct involving their student; explicit statement that individuals may not assert official immunity and may incur legal liability for failure to report"
+        "Definitions section: For the purpose of this policy, \"disciplinary proceeding\" means: (1) An action brought by the school district employing a professional employee of a school district to discharge or suspend the employee or terminate or not renew the employee's term contract; or (2) An action or proceeding brought by the State Board for Educator Certification.",
+        "Immunity from Disciplinary Proceedings section: A professional employee of a school district may not be subject to disciplinary proceedings for: (1) The reporting of a violation of Chapter 37 under Texas Education Code to another professional employee of a school district, the agency, or a law enforcement agency; or (2) An action taken in good faith to remove a student from class: a. Who repeatedly interferes with the teacher's ability to communicate effectively with the students in the class or with the ability of the student's classmates to learn; or b. Who demonstrates behavior that is unruly, disruptive, or abusive toward the teacher, another adult, or another student; or c. Engages in conduct that constitutes bullying."
       ],
-      "changes_removed": [
-        "FFG(Local): 48-hour reporting timeline (replaced by 24 hours)"
-      ],
-      "discussion": ". Board members initially could not locate it; Dawson eventually found it and sent it to legal counsel.\n- Board emphasized the need to compare old and new versions to avoid conflicting policies.\n\n### DGC Local — Employee Rights, Privileges, and Immunity\n- Aligns with statute. No concerns raised.\n\n### EIA Local — Academic Achievement, Grading, Progress Reports to Parents\n- Requires parents to sign progress reports every 12 weeks (per SB 12).\n- District is working with PowerSchool to implement digital signing capability — currently the only area of non-compliance.\n- Discussion about the requirem",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        285,
-        290
-      ],
-      "confidence": "high",
-      "notes": "This is a summary/cover page (page 290, labeled page 3) from a Texans for Excellence in Education (TEE) document, not a redline policy document itself. No underlined or strikethrough text is present; changes are described in narrative form. The action type (first reading, second reading, adoption) is not specified on this page. The meeting date is 2026-01-20."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
+      "confidence": "medium",
+      "source_redline": "DGC_LOCAL.pdf",
+      "notes": "The entire document appears to be new (Version 1, all text in red underline), as there is no prior policy language shown. The cover page title heading is the large bold text \"Employee Rights And Privileges: Immunity (DGC)\" — this does not match any of the standard action title patterns (e.g., \"Discuss Revisions,\" \"Adopt Revisions,\" etc.), so the action has been set to \"unknown.\" The board action cannot be definitively determined from the provided cover page. There are no red strikethrough removals since this is a first-version policy creation."
     }
   ],
   "timeline_legal": [],

@@ -2,99 +2,46 @@
   "code": "EHB",
   "title": "Curriculum Design: Special Programs",
   "description": "Conroe ISD's approach to designing and delivering special academic programs — such as gifted and talented, advanced coursework, and other targeted instructional offerings — is guided by this policy. It outlines how the district identifies, develops, and supports these programs to meet the diverse learning needs of students. Parents and community members can use this policy to understand how specialized educational opportunities are structured and made available across the district.",
-  "last_action_date": "2025-12-16",
+  "last_action_date": "2025-11-18",
   "last_action_result": "adopted",
   "timeline_local": [
     {
-      "date": "2025-12-16",
+      "date": "2025-11-18",
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "Revisions to Board Policy EHB (Local) were adopted twice — first as part of the group adoption (Motion #7207) and then separately (Motion #7208) with a specific amendment: the word 'rules' was added following the word 'state' in the policy text.",
+      "summary": "This update to Conroe ISD's EHB (Local) policy on Curriculum Design: Special Programs streamlines the dyslexia compliance language by removing the reference to State Board of Education standards and commissioner guidance, and adds an explicit reference to the current version of The Dyslexia Handbook as the governing resource.",
       "changes_added": [
-        "The word 'rules' was added following the word 'state' in the policy text (per board amendment during adoption, Motion #7208)."
-      ],
-      "discussion": "Policy GKD (Discussion Only, No Action)",
-      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14
-      ],
-      "confidence": "medium",
-      "notes": "EHB appears in both the group adoption (Motion #7207) and a separate individual adoption (Motion #7208). The individual adoption includes a board-directed amendment to add the word 'rules' after 'state.' Both votes were 7-0. It is unclear whether the group adoption was superseded by the individual adoption or if these are separate policy versions."
-    },
-    {
-      "date": "2025-11-18",
-      "school_year": "2025-2026",
-      "action": "second_reading",
-      "result": "pending_adoption",
-      "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
-      "changes_added": [
+        "regarding",
         "This includes the current version of The Dyslexia Handbook."
       ],
       "changes_removed": [
-        "state rules and standards adopted by the State Board of Education and guidance published by the commissioner of education to implement the program to test' and 'regarding students with"
+        "and standards adopted by the State Board of Education and guidance published by the commissioner of education to implement the program to test",
+        "for"
       ],
-      "discussion": "tes** for **Charles Shirley** for a four-year term on the Montgomery County Central Appraisal District Board of Directors.\n**VOTE: Approved 7-0**\n\n### 11. Board Policy Second Readings\n\n**Amendment to EHB Local:** Insert the word \"rules\" after \"state\" (referencing State Board of Education rules on dyslexia education).\n**VOTE on amendment: Approved 7-0**\n**VOTE on EHB as amended: Approved 7-0**\n\n**⚠️ TABLED: GKA Local** — Tabled until definitions regarding tobacco, caffeine, and nicotine can be clarified; to return with enforceable language.\n**VOTE to table: Approved 7-0**\n\n**Remaining policies",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
-      "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
+      "source_redline": "EHB_LOCAL.pdf",
+      "notes": "The redline on page 2 shows red strikethrough and red underline text clearly. The removed text replaces a lengthy phrase about State Board of Education standards and commissioner guidance, and the word 'for' is removed after 'with'. The added text substitutes 'regarding' and appends a new sentence referencing The Dyslexia Handbook. Cover page title reads 'Discuss and Possibly Adopt Revisions to Board Policy EHB (Local)', mapped to action 'adopted'."
     },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "This policy update simplifies the compliance language regarding dyslexia and related disorders. The old text referenced complying with 'rules and standards adopted by the State Board of Education and guidance published by the commissioner of education to implement the program to test' students with dyslexia. The new language replaces this with a more streamlined reference to 'state' rules 'regarding' students with dyslexia and related disorders, and adds an explicit reference to the current version of The Dyslexia Handbook as the governing document.",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Policy EHB (Local) streamlines the compliance language for dyslexia and related disorders by replacing a detailed reference to specific State Board of Education rules, standards, and commissioner guidance with a broader reference to all state requirements, and explicitly adds a reference to the current version of The Dyslexia Handbook.",
       "changes_added": [
-        "state (replacing the longer phrase about State Board of Education rules and commissioner guidance)",
-        "regarding (replacing 'with for')",
+        "regarding",
+        "with for",
         "This includes the current version of The Dyslexia Handbook."
       ],
       "changes_removed": [
-        "rules and standards adopted by the State Board of Education and guidance published by the commissioner of education to implement the program to test",
-        "with for (replaced by 'regarding')"
+        "rules and standards adopted by the State Board of Education and guidance published by the commissioner of education to implement the program to test"
       ],
-      "discussion": "to all employees and service providers (not just educators).\n- Discussion about whether Zyn pouches (nicotine but no tobacco) would be covered — determined they would be as a \"nicotine product.\"\n\n### EHB Local — Special Programs (Curriculum Design)\n- Language cleanup related to dyslexia moving from a condition to special education.\n- Trustee identified a potential grammatical error (\"The district shall comply with all state students...\") — staff to review and correct if needed.\n\n### EHB Local — Gifted and Talented Students\n- Language changes: \"identification\" replaces \"assessment\"; \"placement\"",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        259
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
       "confidence": "high",
-      "notes": "Document is dated 2023-10-30, Version/Update 1. The redline text appears in red with strikethrough for removals and underline for additions. The second paragraph regarding regular training opportunities for teachers of students with dyslexia appears unchanged. Page number 260 in the board packet; Policy Update Page Number: 25."
+      "source_redline": "EHB_LOCAL.pdf",
+      "notes": "The redline replaces \"rules and standards adopted by the State Board of Education and guidance published by the commissioner of education to implement the program to test\" (red strikethrough) with \"regarding\" (red underlined), and replaces \"for\" with \"with for\" (red underlined addition of \"with\"), and adds the new sentence \"This includes the current version of The Dyslexia Handbook.\" The word \"state\" appears to be underlined in red as well, indicating it was retained/re-added as part of the revision. Cover page title heading reads \"Discuss Revisions to Board Policy EHB (Local)\" → first_reading."
     }
   ],
   "timeline_legal": [],

@@ -3,76 +3,48 @@
   "title": "Safety Program/Risk Management: Security Personnel",
   "description": "Conroe ISD maintains security personnel to help keep students, staff, and visitors safe on school campuses and at school-related activities. The district outlines how these security staff are selected, trained, and deployed to protect the school community. Parents and community members can expect that safety measures involving security personnel follow established guidelines designed to create a secure learning environment.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy CKE (Local) were discussed. No action was taken.",
-      "discussion": "Policy) — Multiple Speakers Opposed:\n- **Danell Cass:** Opposed SB11; distinguished existing silent prayer rights from organized religious reading; cited low student performance in core subjects\n- **Adriana Ruiz:** Called SB11 religious overreach; urged focus on education over political signaling\n- **Deborah Leiber:** Person of faith opposing the policy; cited administrative burden, consent form requirements, and legal risks\n- **Laurel Stevens:** Christian opposing the policy on pluralism grounds; urged preserving religious freedom\n- **Destiny Milton:** Criticized lack of transparency by label",
-      "votes": {
-        "for": [
-          "students"
-        ],
-        "against": [
-          "SB",
-          "challenges",
-          "to"
-        ],
-        "abstain": [],
-        "absent": [],
-        "tally": "6-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This is a new local policy (CKE) for Conroe ISD establishing the framework for Reserve Police Officers within the school district police department. The policy authorizes the chief of police to appoint reserve officers, defines their authority and qualifications under Education Code 37.0816, and clarifies their ineligibility for full-time employment benefits or pension funds.",
+      "changes_added": [
+        "Reserve Police Officers — section heading",
+        "The Board authorizes the chief of police of the school district police department to appoint reserve police officers for the district consistent with meeting safety needs and the availability of funds.",
+        "The District may provide an annual report to the Board on the appointment of reserve police.",
+        "Authority — subsection heading",
+        "A reserve police officer shall serve at the discretion of the chief of police of the school district police department and may be called into service at any time that the chief considers it necessary to have additional officers to preserve the peace and enforce the law.",
+        "The chief of police shall only authorize a reserve police officer who meets the qualifications outlined in Education Code 37.0816 and other relevant federal, state, and local laws and regulations.",
+        "The Chief of Police shall be responsible for ensuring that reserve police officers comply with all applicable requirements, duties, and responsibilities as set forth in Education Code 37.0816 and other relevant federal, state, and local laws and regulations.",
+        "A reserve police officer, regardless of whether the reserve police officer holds a permanent peace officer license issued under Chapter 1701, Occupations Code, is not eligible for participation in any program provided by the District or the Board that is normally considered a financial benefit of full-time employment or for any pension fund created by statute for the benefit of full-time paid peace officers and is not exempt from Chapter 1702, Occupations Code."
       ],
-      "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. No action was taken. No specific change language available in these pages."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
+      "confidence": "medium",
+      "source_redline": "CKE_LOCAL.pdf",
+      "notes": "The document appears to be a brand-new policy (Version 1, no prior text exists), so all content is shown in red underline as new additions with no removals. The cover page does not contain a standard board action title heading (e.g., \"Discuss,\" \"Adopt,\" etc.) — it is formatted as a recommendation/metadata page listing \"Rational: Required by Legislative Change.\" Action has been marked as 'unknown' because no determinative title heading was present. The rationale indicates this is driven by a legislative change (likely Texas Education Code 37.0816 authorizing school district reserve police officers)."
     },
     {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This is a summaries page covering multiple policy changes: (1) BBE(Local): Informed by HB 4310 — requires Board member PIR requests be fulfilled promptly and at no cost; establishes new process for handling requests for potentially confidential information. (2) CH(Local): Informed by SB 12 & 1173 — permits raising aggregate purchasing threshold from $50,000 to $100,000; adds non-discrimination clause for HUBs. (3) CKC(Local): Informed by HB 121 — requires district emergency plan to include provisions for safety of students, staff, and spectators during District-sponsored/sanctioned extracurricular activities. (4) CKE(Local): Informed by HB 1458 — adds process for Board to authorize use of reserve police officers, with new section on procedures, authority, standards, and limitations. (5) CL(Local): Informed by SB 8 ('bathroom bill') — defines multiple-occupancy private spaces, requires sex-designated signage, outlines exceptions (young children, those needing assistance), requires facility use aligned with sex at birth, adds locker room as instructional classroom section, and outlines violation process.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This policy update creates a brand-new local policy (CKE) for Conroe ISD governing Reserve Police Officers, establishing that the Board may authorize the chief of police to appoint reserve officers, defining their authority and discretionary service, setting qualification requirements under Education Code 37.0816, assigning compliance responsibility to the Chief of Police, and allowing the board to limit the number of reserve officers appointed.",
       "changes_added": [
-        "BBE(Local): Board member PIR requests must be fulfilled promptly and at no cost",
-        "BBE(Local): New process for handling requests for potentially confidential information",
-        "CH(Local): Aggregate purchasing threshold increase from $50,000 to $100,000 (optional for districts)",
-        "CH(Local): Non-discrimination clause for HUBs",
-        "CKC(Local): Emergency plan must include provisions for safety of students, staff, and spectators during District-sponsored or District-sanctioned extracurricular activities",
-        "CKE(Local): New policy section outlining process for Board authorization of reserve police officers, including procedures, authority, standards, and limitations",
-        "CL(Local): Definition of multiple-occupancy private spaces",
-        "CL(Local): Requirement for appropriate signage consistent with sex designated for each space",
-        "CL(Local): Specific exceptions (young children, individuals requiring assistance)",
-        "CL(Local): Requirement to use facilities aligned with sex at birth",
-        "CL(Local): New section addressing use of locker rooms as instructional classrooms",
-        "CL(Local): Process for violations of the policy",
+        "Reserve Police Officers — [section heading]",
         "The Board may authorize the chief of police of the school district police department to appoint reserve police officers for the district.",
+        "Authority — [subsection heading]",
         "A reserve police officer shall serve at the discretion of the chief of police of the school district police department and may be called into service at any time that the chief considers it necessary to have additional officers to preserve the peace and enforce the law.",
         "The chief of police shall only authorize a reserve police officer who meets the qualifications outlined in Education Code 37.0816 and other relevant federal, state, and local laws and regulations.",
         "The Chief of Police shall be responsible for ensuring that reserve police officers comply with all applicable requirements, duties, and responsibilities as set forth in Education Code 37.0816 and other relevant federal, state, and local laws and regulations.",
         "The board may limit the number of reserve police officers that the chief may appoint."
       ],
-      "discussion": "Board Policy EFB, Senate Bill 13)",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        276,
-        283,
-        291,
-        295,
-        297,
-        298
-      ],
-      "confidence": "high",
-      "notes": "This is a summaries/cover page (page 289, labeled page 2) from a TASB policy update packet produced by Texans for Excellence in Education. It does not contain redline text directly but summarizes changes to multiple policies. Actual redline documents for each policy would appear on subsequent pages. Action type cannot be confirmed from this page alone; marked as 'unknown' pending review of meeting agenda context. Meeting date noted as 2026-01-20."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
+      "confidence": "medium",
+      "source_redline": "CKE_LOCAL.pdf",
+      "notes": "The document appears to be an entirely new policy (Version 1, all text shown in red underline), so all content is \"added\" with nothing removed. The cover page does not contain a standard action title heading (e.g., \"Discuss,\" \"Adopt,\" etc.) — it reads only as a policy header/label, so the board action could not be determined from the title alone and is marked 'unknown'. The document may be a first reading of a new policy."
     }
   ],
   "timeline_legal": [],

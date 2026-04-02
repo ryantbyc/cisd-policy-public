@@ -2,117 +2,49 @@
   "code": "DH",
   "title": "Employee Standards of Conduct",
   "description": "Conroe ISD holds all employees to clear standards of professional and ethical behavior while they are working with students and representing the district. The policy outlines expectations for how staff should conduct themselves, including rules around honesty, appropriate relationships with students, and responsible use of district resources. Parents and community members can use this policy to understand the behavior the district expects from everyone on its payroll.",
-  "last_action_date": "2026-01-20",
+  "last_action_date": "2025-12-16",
   "last_action_result": "adopted",
   "timeline_local": [
-    {
-      "date": "2026-01-20",
-      "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "The board adopted revisions to strengthen the tobacco/e-cigarette prohibition for employees. The amendment expands the prohibition to explicitly cover e-cigarettes and 'similar products' (aligning with Health and Safety Code §161.081) on District property and while acting within the scope of employment on or off school property, or at school-related/sanctioned events. The provision allowing employees to request an exception was removed.",
-      "changes_added": [
-        "Employees shall not possess or use cigarettes, e-cigarettes, or tobacco products, as defined by Health and Safety Code §161.081 or similar product, on District property or while acting within the scope of their employment on or off school property or at a school-related or school sanctioned event or activity on or off school property."
-      ],
-      "changes_removed": [
-        "An employee may request an exception."
-      ],
-      "discussion": "Board Policy EFB, Senate Bill 13)",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "confidence": "high",
-      "notes": "Adopted at the December 16, 2025 regular board meeting via two motions (Motion #7301 and Motion #7302), both carried unanimously 6-0. These minutes were approved at the January 20, 2026 meeting. The removal of the exception clause represents a stricter enforcement stance."
-    },
     {
       "date": "2025-12-16",
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "This page shows redline changes to policy DH covering employee standards of conduct. Two sections have changes: (1) 'Relationships With Students' expands the notification requirement beyond just 'educator' to include 'employee or person acting as a service provider for the District'; (2) 'Tobacco And E-Cigarettes' adds 'or nicotine products' to the list of prohibited substances and adds a new sentence allowing employees to request an exception for smoking cessation products.",
+      "summary": "This update to Conroe ISD's Employee Standards of Conduct policy (DH Local) broadens the Relationships With Students notice provision to cover all employees and service providers (not just educators), expands the tobacco prohibition to include nicotine products and adds an exception for smoking cessation products, and renames the section heading to \"Tobacco And E-Cigarettes.\"",
       "changes_added": [
-        "employee or person acting as a service provider for the District (replacing/expanding 'educator' in the parent notification requirement)",
-        "or nicotine products (added to the list of prohibited substances alongside tobacco and e-cigarettes)",
-        "An employee may request an exception from this provision for a smoking cessation product."
+        "employee or person acting as a service provider for the District (replacing 'educator') in the Relationships With Students parent-notification sentence",
+        "or nicotine products (added to the tobacco/e-cigarette prohibition)",
+        "An employee may request an exception from this provision for a smoking cessation product.",
+        "E-Cigarettes (added to the section title 'Tobacco And E-Cigarettes')"
       ],
       "changes_removed": [
-        "educator (replaced by 'employee or person acting as a service provider for the District' in parent notification sentence)",
-        "or (changed from 'or e-cigarettes' to include nicotine products — the word 'or' before 'e-cigarettes' appears struck through, restructuring the list)"
+        "educator (removed from the Relationships With Students parent-notification sentence, replaced by 'employee or person acting as a service provider for the District')",
+        "or e-cigarettes (removed from the tobacco prohibition list — replaced by 'or nicotine products')"
       ],
-      "discussion": "made between what requires policy changes vs. procedural changes\n- A draft policy proposal will be brought back for board review at a future meeting\n\n---\n\n## Board Policy Actions\n\n### Item A: Policy DH (Employee Standards of Conduct) — Nicotine/Tobacco\n\n- Updates the policy to align with Texas Health and Safety Code §161.081 regarding prohibition of tobacco, e-cigarettes, and nicotine products on district property and at school-related events.\n- **Amendment:** Struck the sentence allowing employees to \"request an exception from this provision for a smoking cessation product,\" as no such excep",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "6-0"
-      },
-      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        80
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-12-16_regular",
       "confidence": "high",
-      "notes": "The added/underlined text appears in red on this document. Page is numbered '3' and '83', suggesting it is page 3 of the policy and page 83 of the board packet. The Tobacco section cross-references [See also GKA]. The Relationships With Students section cross-references [See FFF]."
-    },
-    {
-      "date": "2025-11-18",
-      "school_year": "2025-2026",
-      "action": "second_reading",
-      "result": "pending_adoption",
-      "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
-      "changes_added": [
-        "employee or person acting as a service provider for the District' and 'or nicotine products' and 'exception from this provision for a smoking cessation product."
-      ],
-      "discussion": "policy and a superintendent Facebook post",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
-      ],
-      "confidence": "high",
-      "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
+      "source_redline": "DH_LOCAL.pdf",
+      "notes": "Red underlined and red strikethrough text was clearly visible on page 4 of the PDF. The section heading change from 'Tobacco And' to 'Tobacco And E-Cigarettes' is reflected in the document header; the body text redlines confirm the substitution of 'or e-cigarettes' with 'or nicotine products' and the addition of the smoking cessation exception sentence. The parent-notification sentence in Relationships With Students shows 'educator' struck through and 'employee or person acting as a service provider for the District' underlined."
     },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "This page displays the Conroe ISD local policy DH (Employee Standards of Conduct), dated 2020-02-05, Version 1. It covers employee conduct standards, violations, and weapons prohibitions on District property. No redline changes (underlined additions or strikethrough removals) are visible on this page — it appears to be a clean/final version of the policy.",
-      "discussion": "pproach (TexPool, etc.).\n\n### CQB Local — Technology Resources/Cyber Security\n- Requires cyber security training for employees.\n- Confirmed the district's cyber security coordinator is in place.\n\n### DH Local — Employee Standards of Conduct\n- Updates language regarding vaping, e-cigarettes, and nicotine products to apply to all employees and service providers (not just educators).\n- Discussion about whether Zyn pouches (nicotine but no tobacco) would be covered — determined they would be as a \"nicotine product.\"\n\n### EHB Local — Special Programs (Curriculum Design)\n- Language cleanup related t",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "3-1"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        253
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's Employee Standards of Conduct policy (DH Local) makes three changes: it broadens the parent-notification requirement for misconduct to include non-educator service providers, expands the tobacco prohibition to include nicotine products, and adds an exception allowing employees to request an exemption for smoking cessation products.",
+      "changes_added": [
+        "employee or person acting as a service provider for the District (replacing 'educator' in the parent-notification sentence under Relationships With Students)",
+        "or nicotine products (added to the tobacco/e-cigarette prohibition)",
+        "An employee may request an exception from this provision for a smoking cessation product."
       ],
+      "changes_removed": [
+        "educator (removed from the parent-notification sentence under Relationships With Students, replaced by broader language)",
+        "or (standalone 'or' before 'e-cigarettes' in the tobacco prohibition, restructured with added language)"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
       "confidence": "medium",
-      "notes": "This is page 254 of the board packet, Policy Update Page Number 20. The document shows a clean (non-redlined) version of policy DH, Version 1, issued 2020-02-05. No tracked changes are visible. It is possible this is the adopted final text rather than a redline/comparison document. The policy addresses: employee accountability to Educators' Code of Ethics, violations of conduct standards, and weapons prohibition with exceptions (Board-authorized firearm use per CKE, locked vehicle storage with Texas handgun license, and District-approved supervised activities per FOD)."
+      "source_redline": "DH_LOCAL.pdf",
+      "notes": "The redline colour descriptions are inferred from the document's red text formatting as described. Page 4 shows red underlined additions and red strikethrough removals in the Relationships With Students and Tobacco And E-Cigarettes sections. The exact struck-through text for 'educator' and 'or' is partially ambiguous due to PDF rendering, but context makes the changes clear. No other redline changes were visible on pages 2–6."
     }
   ],
   "timeline_legal": [],

@@ -3,59 +3,42 @@
   "title": "Wellness and Health Services: Medical Treatment",
   "description": "Conroe ISD outlines how school staff respond when students need medical attention during the school day, including procedures for handling emergencies, administering first aid, and coordinating with parents or guardians. The policy also addresses when and how medications may be given to students at school, and what documentation is required to keep students safe. Parents and community members can rely on these guidelines to understand the care their children may receive if a health situation arises on campus.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy FFAC (Local) were discussed. No action was taken.",
-      "discussion": "**Vote: Approved 7-0**\n\n---\n\n## Board Policy — Second Reading (Action Items)\n\n### Items A through H (State-Mandated Updates):\nPolicies: CH Local, CKC Local, CK Local, CL Local, DGC Local, EIA Local, FFAC Local, FFB Local\n- Board noted these are state-mandated changes from the legislative session, not district-initiated\n- Discussion about future process: putting routine legal updates on consent agenda; Dr. Vinson committed to providing small group review and board brief previews\n- Motion included authorization for non-substantive grammatical changes\n- **Vote: Approved 7-0**\n\n### Item I: FFG Lo",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update revises the nonprescription medication administration provision to expand and clarify the conditions under which an authorized employee may administer nonprescription medication to a student without further authorization or written protocol from the student's health care provider, specifying requirements related to written parental request, unexpired medication, original container, and label-consistent dosing.",
+      "changes_added": [
+        "The authorized employee may administer nonprescription medication to a student without further authorization or written protocol from the student's health care provider if the district or school has received a written request to administer the medication from the parent, legal guardian, or other person having legal control of the student, the medication is unexpired and administered from a container that appears to be the original container and properly labeled, and the dose administered is consistent with the instructions on the container's label."
       ],
+      "changes_removed": [
+        "Nonprescription medication, upon a parent's written request, when properly labeled and in the original container."
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. No action was taken. No specific change language available in these pages."
+      "source_redline": "FFAC_LOCAL.pdf",
+      "notes": "The cover page does not contain a standard action title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\"); it only shows the policy name and metadata. Action has been set to 'unknown' as a result. The rationale is listed as 'Legislative change'. The redline on page 1 clearly shows red strikethrough (removed) and red underlined (added) text in item 2 of the Medication Provided By Parent section. All other policy text appears in black and is unchanged."
     },
     {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This page is a summary/cover document describing changes to five Local policies, all informed by recent Texas legislation: (1) DGC(Local): Updated per House Bill 6 to outline when professional employees are immune from disciplinary proceedings and to define disciplinary proceedings. (2) EIA(Local): Updated per Senate Bill 12 to add interim report requirements for unsatisfactory performance, require at least two parent-teacher conference opportunities, and mandate parent signature on progress reports at least every 12 weeks. (3) FFAC(Local): Updated per Senate Bill 920 to expand who may authorize a student to receive nonprescription medication (now includes legal guardians) and require dosing consistent with official container labeling. (4) FFB(Local): Updated per House Bills 6 & 121 to specify professionals required on the safe and supportive school team, allow a team to serve more than one campus, clarify when parents must be contacted, and establish new guidelines for threat assessments involving special education students. (5) FFG(Local): Updated per Senate Bill 571 and House Bill 4623 to identify sexual misconduct and improper student–teacher relationships as explicitly reportable, reduce reporting timeline from 48 to 24 hours, add students in educator preparation programs and Board Trustees as mandatory reporters, establish a parent notification process for alleged staff misconduct, and state that individuals may not assert official immunity for failure to report.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's FFAC policy expands who may authorize nonprescription medication administration to include legal guardians and other persons having legal control of the student (not just parents), and adds a new requirement that the dose administered must be consistent with the instructions on the container's label.",
       "changes_added": [
-        "DGC(Local): Circumstances under which a professional employee is immune from disciplinary proceedings; definition of disciplinary proceedings",
-        "EIA(Local): New requirements for interim reports when student performance is unsatisfactory; at least two opportunities for teacher conferences; parent signature on progress reports at least every 12 weeks",
-        "FFAC(Local): Legal guardian added as authorized to grant permission for nonprescription medication; dosing must be consistent with container's official labeling",
-        "FFB(Local): Requirements regarding types of professionals on safe and supportive school team; conditions under which team may serve more than one campus; team responsibility for parent contact timing; guidelines for threat assessments involving special education students",
-        "FFG(Local): Sexual misconduct and improper student–teacher relationships explicitly identified as reportable; 24-hour reporting timeline; students in educator preparation programs and Board Trustees identified as mandatory reporters; new parent notification process for alleged staff misconduct involving their student; explicit statement that individuals may not assert official immunity and may incur legal liability for failure to report"
+        "legal guardian, or other person having legal control of the student giving their",
+        "and the dose administered is consistent with the instructions on the container's label"
       ],
       "changes_removed": [
-        "FFG(Local): 48-hour reporting timeline (replaced by 24 hours)"
+        "'s"
       ],
-      "discussion": "compliance.\n- Discussion about the requirement for at least two in-person parent-teacher conference opportunities per year — confirmed this is in the law, not an additional district restriction.\n\n### FFAC Local — Wellness, Health Services, Medical Treatment\n- Aligns with statute.\n- Proposed amendment: Add \"unexpired\" to medication requirements (pill bottles must be unexpired) — required by law but omitted from TASB template.\n- Board consensus to add this language. Caution expressed about avoiding unintended consequences with medication policies.\n\n### FFB Local — Student Welfare, Crisis Interve",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        276,
-        284,
-        285,
-        290
-      ],
-      "confidence": "high",
-      "notes": "This is a summary/cover page (page 290, labeled page 3) from a Texans for Excellence in Education (TEE) document, not a redline policy document itself. No underlined or strikethrough text is present; changes are described in narrative form. The action type (first reading, second reading, adoption) is not specified on this page. The meeting date is 2026-01-20."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
+      "confidence": "medium",
+      "source_redline": "FFAC_LOCAL.pdf",
+      "notes": "The cover page does not contain a distinct board action title heading (e.g., \"Discuss,\" \"Adopt,\" etc.) — it appears to be the policy document itself rather than a separate recommendation/cover page. Action has been set to 'unknown' accordingly. The strikethrough removal is the possessive apostrophe-s (\"'s\") after \"parent\" which is replaced by the expanded phrase listing legal guardian and other persons with legal control. The red underlined additions expand the authorized requester and add the dosage consistency requirement."
     }
   ],
   "timeline_legal": [],

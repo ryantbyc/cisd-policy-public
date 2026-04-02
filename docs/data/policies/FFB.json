@@ -3,94 +3,90 @@
   "title": "Student Welfare: Crisis Intervention",
   "description": "Conroe ISD has procedures in place to identify and support students who may be experiencing a personal crisis, such as a mental health emergency or thoughts of self-harm. The district works to connect these students with appropriate care and resources as quickly as possible. Parents and community members can rely on these guidelines to understand how the school responds when a student's safety or well-being is at serious risk.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy FFB (Local) were discussed. No action was taken.",
-      "discussion": "roved 7-0**\n\n---\n\n## Board Policy — Second Reading (Action Items)\n\n### Items A through H (State-Mandated Updates):\nPolicies: CH Local, CKC Local, CK Local, CL Local, DGC Local, EIA Local, FFAC Local, FFB Local\n- Board noted these are state-mandated changes from the legislative session, not district-initiated\n- Discussion about future process: putting routine legal updates on consent agenda; Dr. Vinson committed to providing small group review and board brief previews\n- Motion included authorization for non-substantive grammatical changes\n- **Vote: Approved 7-0**\n\n### Item I: FFG Local — Studen",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's FFB (Crisis Intervention) Local Policy substantially expands and restructures the threat assessment framework, adding provisions for multi-campus teams, parental notification before assessments, written parental consent for mental health services, special education student protections, record retention requirements, and clarifying training provider language, while modernizing terminology throughout (e.g., replacing \"substance abuse program\" with \"substance use prevention and intervention\").",
+      "changes_added": [
+        "A team may serve more than one campus of the District, provided that: 1. Each District campus is assigned a team; and 2. In serving a particular campus, the team includes the person designated to serve as the campus behavior coordinator for that campus.",
+        "this Policy, and the District multi-hazard operational plan (added to list of team expertise areas)",
+        "The Superintendent shall adopt procedures to implement this Policy and Texas law, consistent with the model policies and procedures developed by the Texas School Safety Center.",
+        "Notice of a Threat section: The Superintendent shall require that, as soon as safe and practicable after an administrator or team for a District campus receives information regarding a threat made against that campus, including through social media, the administrator or team immediately provide to each member of the teaching staff, including teacher's aides, who may be directly affected by the threat notice that includes: (1) a statement of the existence of the threat; (2) the nature of the threat; and (3) any other pertinent details to ensure student and staff safety.",
+        "the Texas School Safety Center or a regional education service center regarding evidence-based threat assessment programs.",
+        "to the team (in Employee Confidentiality section)",
+        "for the team to assess and report individuals who make threats of violence or exhibit harmful, threatening, or violent behavior, gathering and analyzing data to determine the level of risk and appropriate intervention, including: 1. referring a student for mental health assessment; and 2. implementing an escalation procedure, if appropriate based on the team's assessment, in accordance with District policy.",
+        "making (replacing prior word in threat assessment process step 1)",
+        "the team or designee will (in step 2 pre-assessment language)",
+        "Notify (replacing 'Notifying' — grammatical correction to match 'will')",
+        "Provide (replacing 'Provideing' — grammatical correction, step 2b)",
+        "Provide (replacing 'Provideing' — grammatical correction, step 2c)",
+        "If a student in a special education program is the subject of a threat assessment, the team conducting the threat assessment must include at least one of the following persons who has specific knowledge of the student's disability and the disability's manifestations: (1) a special education teacher who provides instruction to the student; (2) a behavior analyst licensed under Chapter 506, Occupations Code; (3) a clinical or master social worker licensed under Chapter 505, Occupations Code; or (4) a specialist in school psychology licensed under Chapter 501, Occupations Code. The team may also include: (1) an educational diagnostician; (2) a behavior specialist.",
+        "if the individual is a student (qualifying language in serious-risk-of-violence reporting requirement)",
+        "This requirement does not prevent an employee of the school from acting immediately to prevent an imminent threat or respond to an emergency.",
+        "A team may not provide a mental health care service to a student who is under 18 years of age unless the team obtains written consent from the parent of or person standing in parental relation to the student before providing the mental health care service. The consent required must be submitted on a form developed by the District that complies with all applicable state and federal law. The student's parent or person standing in parental relation to the student may give consent for a student to receive ongoing services or may limit consent to one or more services provided on a single occasion.",
+        "Materials and information provided to or produced by a team during a threat assessment of a student under this section must be maintained in the student's school record until the student's 24th birthday.",
+        "Additionally, the Superintendent shall coordinate with law enforcement authorities as necessary and take other appropriate action in accordance with the District's multi-hazard emergency operations plan.",
+        "procedures related to substance use prevention and intervention.",
+        "to the community, school, or individual and support the District in implementing the District's multihazard emergency operations plan"
       ],
+      "changes_removed": [
+        "an approved provider on evidence-based threat assessment programs.",
+        "substance abuse program.",
+        "to another person, the campus, or the community"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. No action was taken. No specific change language available in these pages."
+      "source_redline": "FFB_LOCAL.pdf",
+      "notes": "The cover page title heading is not a traditional action title (e.g., \"Discuss Revisions\" or \"Adopt Revisions\") — it reads as a policy document header rather than a board agenda action item, so action is marked 'unknown'. The redline is Version 1, suggesting this is a new local policy being established. Red underlined and red strikethrough formatting was clearly distinguishable. Several additions involve grammatical corrections (Notifying→Notify, Provideing→Provide) that appear as tracked changes. The Notice of a Threat section header and its full text are entirely red-underlined, indicating it is a new section addition."
     },
     {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This page is a summary/cover document describing changes to five Local policies, all informed by recent Texas legislation: (1) DGC(Local): Updated per House Bill 6 to outline when professional employees are immune from disciplinary proceedings and to define disciplinary proceedings. (2) EIA(Local): Updated per Senate Bill 12 to add interim report requirements for unsatisfactory performance, require at least two parent-teacher conference opportunities, and mandate parent signature on progress reports at least every 12 weeks. (3) FFAC(Local): Updated per Senate Bill 920 to expand who may authorize a student to receive nonprescription medication (now includes legal guardians) and require dosing consistent with official container labeling. (4) FFB(Local): Updated per House Bills 6 & 121 to specify professionals required on the safe and supportive school team, allow a team to serve more than one campus, clarify when parents must be contacted, and establish new guidelines for threat assessments involving special education students. (5) FFG(Local): Updated per Senate Bill 571 and House Bill 4623 to identify sexual misconduct and improper student–teacher relationships as explicitly reportable, reduce reporting timeline from 48 to 24 hours, add students in educator preparation programs and Board Trustees as mandatory reporters, establish a parent notification process for alleged staff misconduct, and state that individuals may not assert official immunity for failure to report.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's FFB (Student Welfare: Crisis Intervention) policy adds specificity to the qualifications required for threat assessment team members, allows a single team to serve multiple campuses under defined conditions, and introduces new requirements for threat assessments involving students in special education programs, including the mandatory inclusion of at least one qualified special education professional on the assessment team.",
       "changes_added": [
-        "DGC(Local): Circumstances under which a professional employee is immune from disciplinary proceedings; definition of disciplinary proceedings",
-        "EIA(Local): New requirements for interim reports when student performance is unsatisfactory; at least two opportunities for teacher conferences; parent signature on progress reports at least every 12 weeks",
-        "FFAC(Local): Legal guardian added as authorized to grant permission for nonprescription medication; dosing must be consistent with container's official labeling",
-        "FFB(Local): Requirements regarding types of professionals on safe and supportive school team; conditions under which team may serve more than one campus; team responsibility for parent contact timing; guidelines for threat assessments involving special education students",
-        "FFG(Local): Sexual misconduct and improper student–teacher relationships explicitly identified as reportable; 24-hour reporting timeline; students in educator preparation programs and Board Trustees identified as mandatory reporters; new parent notification process for alleged staff misconduct involving their student; explicit statement that individuals may not assert official immunity and may incur legal liability for failure to report"
+        "who have expertise in counseling, behavior management, mental health and substance use, classroom instruction, special education, school administration, school safety and security, emergency management, and law enforcement",
+        "A team may serve more than one campus of a school district, provided that:",
+        "Each district campus is assigned a team; and",
+        "In serving a particular campus, the team includes the person designated to serve as the campus behavior coordinator for that campus.",
+        "If a student in a special education program, as defined by law, is the subject of a threat assessment, the team conducting the threat assessment must include at least one of the following persons who has specific knowledge of the student's disability and the disability's manifestations:",
+        "A special education teacher who provides instruction to the student;",
+        "A Licensed Behavior Analyst;",
+        "An educational diagnostician;",
+        "A behavior specialist;",
+        "A Licensed Clinical Social Worker or a Licensed Master Social Worker; or",
+        "A Licensed School Psychologist."
       ],
-      "changes_removed": [
-        "FFG(Local): 48-hour reporting timeline (replaced by 24 hours)"
-      ],
-      "discussion": "es must be unexpired) — required by law but omitted from TASB template.\n- Board consensus to add this language. Caution expressed about avoiding unintended consequences with medication policies.\n\n### FFB Local — Student Welfare, Crisis Intervention\n- Deals with threat assessment teams per campus (House Bill 6).\n- Discussion about whether the policy is overly prescriptive about who must serve on threat assessment teams; law requires one team per campus but may allow more flexibility in membership.\n- **Board consensus:** Amend to provide more flexibility in team composition while maintaining one",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        276,
-        284,
-        285,
-        290
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
       "confidence": "high",
-      "notes": "This is a summary/cover page (page 290, labeled page 3) from a Texans for Excellence in Education (TEE) document, not a redline policy document itself. No underlined or strikethrough text is present; changes are described in narrative form. The action type (first reading, second reading, adoption) is not specified on this page. The meeting date is 2026-01-20."
+      "source_redline": "FFB_LOCAL.pdf",
+      "notes": "The cover page does not contain a large bold heading indicating a specific board action (e.g., \"Discuss Revisions,\" \"Adopt Revisions,\" etc.) — it only shows the policy title and metadata. Action has been marked as 'unknown' because the action type cannot be determined from the available cover page content. All red underlined text has been captured; no red strikethrough text was identified in the document."
     },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "Policy FFB (Local) is being updated to add requirements related to the multidisciplinary threat assessment and safe and supportive team. Key additions include: (1) ensuring team members have expertise in specific areas, (2) adding parental notification and participation requirements before and after threat assessments, and (3) referencing Education Code 37 in the threat assessment process.",
+      "summary": "This update to Conroe ISD's FFB (Local) Crisis Intervention policy strengthens the threat assessment process by requiring team member expertise in specific areas, mandating parental notification and participation before and after assessments, and clarifying protocols for students at risk of suicide who also make threats of violence. It also updates substance-related language from \"having a substance abuse issue\" to \"using or possessing tobacco, drugs, or alcohol.\"",
       "changes_added": [
         "The Superintendent of the district shall ensure, to the greatest extent practicable, that the members appointed to each team have expertise in counseling, behavior management, mental health and substance use, classroom instruction, special education, school administration, school safety and security, emergency management, and law enforcement.",
-        "and Education Code 37 (added to Threat Assessment Process section)",
-        "2. Before an assessment takes place:",
-        "a. Notifying the parent of or person standing in parental relation to the student regarding the assessment.",
-        "b. Providing an opportunity for the parent of or person standing in parental relation to the student to participate in the assessment, either in person or remotely.",
-        "c. Providing an opportunity for the parent of or person standing in parental relation to the student to submit to the team information regarding the student.",
-        "4. After completing a threat assessment of a student, providing to the parent of or person standing in parental relation to the student the team's findings and conclusions regarding the student.",
+        "Before an assessment takes place: a. Notifying the parent of or person standing in parental relation to the student regarding the assessment. b. Providing an opportunity for the parent of or person standing in parental relation to the student to participate in the assessment, either in person or remotely. c. Providing an opportunity for the parent of or person standing in parental relation to the student to submit to the team information regarding the student.",
+        "After completing a threat assessment of a student, providing to the parent of or person standing in parental relation to the student the team's findings and conclusions regarding the student.",
         "If the student at risk of suicide also makes a threat of violence to others, the team shall conduct a threat assessment in addition to actions taken in accordance with the district's suicide prevention program.",
         "using or possessing tobacco, drugs, or alcohol"
       ],
       "changes_removed": [
         "having a substance abuse issue"
       ],
-      "discussion": "the board has been meticulous in reviewing policies, with individual briefings, legal review, and crosswalk documents.\n\n### Batch Approval\n**Trustee Dungan moved to approve all policies except EM and FFB together.**\n\nPolicies approved in batch: **BD Local, DGBA Local, DFA Local, EA Local, FA, FL, FN, FNG, and GF**\n\n**VOTE: Approved 7-0**\n\n### EM Local — Teaching About Controversial Issues (Second Reading)\n**Discussion highlights:**\n- Trustee Semmler asked about language prohibiting private funding for curriculum — General Counsel clarified this prevents using donations as a workaround to purch",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        201
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
       "confidence": "high",
-      "notes": "This is page 1 of 2 of policy FFB (Local) for Conroe ISD. Added text appears in red/underlined formatting. No strikethrough (removed) text is visible on this page. The document is labeled 'Update: 1' and 'Policy Update Page Number 15'."
+      "source_redline": "FFB_LOCAL.pdf",
+      "notes": "Red underlined and red strikethrough text were clearly distinguishable in the document. The cover page heading reads \"Discuss and Possibly Adopt Revisions to Board Policy FFB (Local)\" which maps to action = 'adopted' per the extraction rules."
     },
     {
       "date": "2025-09-16",

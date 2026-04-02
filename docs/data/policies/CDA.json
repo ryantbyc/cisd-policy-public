@@ -2,99 +2,40 @@
   "code": "CDA",
   "title": "Other Revenues: Investments",
   "description": "Conroe ISD follows specific rules for investing public funds — such as tax revenues and fees — to keep that money safe and growing until it is needed for school operations. The district is required to prioritize security and liquidity over maximizing returns, ensuring funds are available when needed for students and staff. These guidelines help protect taxpayer dollars and ensure the community's money is managed responsibly and transparently.",
-  "last_action_date": "2025-12-16",
+  "last_action_date": "2025-11-18",
   "last_action_result": "adopted",
   "timeline_local": [
     {
-      "date": "2025-12-16",
+      "date": "2025-11-18",
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "Revisions to Board Policy CDA (Local) were adopted unanimously at the November 18, 2025 Regular Board Meeting as part of a group adoption (Motion #7207). No specific language changes are described in the meeting minutes.",
-      "discussion": "Policy GKD (Discussion Only, No Action)",
-      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14
-      ],
-      "confidence": "medium",
-      "notes": "Adopted as part of a group motion (#7207) along with BBE, CAA, CQB, EHB, EHBB, and GKB. Vote was 7-0. The specific redline changes are not described in these minutes pages."
-    },
-    {
-      "date": "2025-11-18",
-      "school_year": "2025-2026",
-      "action": "second_reading",
-      "result": "pending_adoption",
-      "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
+      "summary": "This update to Conroe ISD's CDA (Local) investment policy adds two new requirements: (1) a statement that District funds shall be invested in accordance with the Public Funds Investment Act, and (2) a requirement that distributors of investment pools be registered with the Texas State Securities Board, SIPC/FINRA, and also be a registrant in good standing with the Municipal Securities Rulemaking Board (MSRB).",
       "changes_added": [
-        "Funds of the District shall be invested in accordance with the Public Funds Investment Act.' and 'Distributors of investment pools shall also be a registrant in good standing with the Municipal Securities Rulemaking Board (MSRB)."
+        "Funds of the District shall be invested in accordance with the Public Funds Investment Act.",
+        "and of distributors of investment pools",
+        "Distributors of investment pools shall also be a registrant in good standing with the Municipal Securities Rulemaking Board (MSRB)."
       ],
-      "discussion": "ntil definitions regarding tobacco, caffeine, and nicotine can be clarified; to return with enforceable language.\n**VOTE to table: Approved 7-0**\n\n**Remaining policies approved as a group:** BBE, CA, CDA, CQB, EHB, GKB (all local).\n**VOTE: Approved 7-0**\n\n---\n\n## Closed Session\nBoard entered closed session at **7:55 PM** under Texas Government Code sections 551.071, 551.072, and 551.074.\n\nBoard returned to open session at **11:13 PM**.\n\n---\n\n## Action Items from Closed Session\n\n### Level Three Grievance Hearing\n**Motion to reinstate employee Tim Bar**, subject to assignment by the superintende",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
-      "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
+      "source_redline": "CDA_LOCAL.pdf",
+      "notes": "Red underlined text was clearly identifiable on pages 3 and 5. No red strikethrough (removed) text was found in the document. The addition on page 5 inserts \"and of distributors of investment pools\" into an existing sentence about broker/dealer registration requirements, and adds a new sentence requiring MSRB registration for distributors of investment pools."
     },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "The Federal Awards Disclosure section is being updated to align with federal requirements. The changes clarify that the district, as an applicant, recipient, or subrecipient of a Federal award, must promptly disclose credible evidence of fraud, conflict of interest, bribery, or gratuity violations found in Title 18 of the U.S. Code or the civil False Claims Act. The revision removes the phrase 'in a timely manner' and replaces it with 'promptly,' expands the scope to include the agency's Office of Inspector General, and clarifies that disclosure applies to federal grant awards including activities or subawards thereunder.",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's CDA (Local) Investment Policy adds a sentence requiring District funds to be invested in accordance with the Public Funds Investment Act, and expands broker/dealer registration requirements to include distributors of investment pools, who must also be registered with the Municipal Securities Rulemaking Board (MSRB).",
       "changes_added": [
-        "As an applicant, recipient, or subrecipient of a Federal award, t",
-        "promptly",
-        "and agency's Office of Inspector General any credible evidence of the commission of a",
-        "conflict of interest,",
-        "found in Title 18 of the United States Code or a violation of the civil False Claims Act. This applies to",
-        "award (including any activities or subawards thereunder)",
-        "Funds of the District shall be invested in accordance with the Public Funds Investment Act."
+        "Funds of the District shall be invested in accordance with the Public Funds Investment Act.",
+        "and of distributors of investment pools",
+        "Distributors of investment pools shall also be a registrant in good standing with the Municipal Securities Rulemaking Board (MSRB)."
       ],
-      "changes_removed": [
-        "in a timely manner",
-        "or",
-        "ll violations",
-        "potentially affecting"
-      ],
-      "discussion": "closure of certain federal criminal law violations in connection with federal awards.\n- Trustee noted the legal reference tab on the website appears empty for this policy — staff to investigate.\n\n### CDA Local — Other Revenues and Investments\n- Ensures district funds are invested in accordance with the Public Funds Investment Act.\n- Dr. Vinson noted CISD is conservative in its investment approach (TexPool, etc.).\n\n### CQB Local — Technology Resources/Cyber Security\n- Requires cyber security training for employees.\n- Confirmed the district's cyber security coordinator is in place.\n\n### DH Local",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        241
-      ],
-      "confidence": "medium",
-      "notes": "This is page 3 of the policy document, Policy Update Page Number 8, document page 242. The redline changes are shown in red text. The section affected is 'Federal Awards Disclosure.' The policy code is not explicitly stated on this page but context and triage suggest CDA. The changes appear to update federal award fraud disclosure language to match current federal regulatory requirements."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
+      "confidence": "high",
+      "source_redline": "CDA_LOCAL.pdf",
+      "notes": "Red underlined text was clearly identifiable on pages 3 and 5. No red strikethrough (removal) text was detected anywhere in the redline document. The cover page title reads \"Discuss Revisions to Board Policy CDA (Local)\" indicating a first reading."
     }
   ],
   "timeline_legal": [],

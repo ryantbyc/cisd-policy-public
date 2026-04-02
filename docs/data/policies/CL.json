@@ -3,66 +3,52 @@
   "title": "Buildings, Grounds, and Equipment Management",
   "description": "Conroe ISD's buildings, grounds, and equipment policy covers how the district maintains, operates, and cares for its physical facilities and property. It establishes standards for keeping schools safe, clean, and functional for students, staff, and visitors. Community members can also look to this policy for guidance on how district facilities are managed and protected as public assets.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy CL (Local) were discussed. No action was taken.",
-      "discussion": "nations and new catalog items)\n- **Vote: Approved 7-0**\n\n---\n\n## Board Policy — Second Reading (Action Items)\n\n### Items A through H (State-Mandated Updates):\nPolicies: CH Local, CKC Local, CK Local, CL Local, DGC Local, EIA Local, FFAC Local, FFB Local\n- Board noted these are state-mandated changes from the legislative session, not district-initiated\n- Discussion about future process: putting routine legal updates on consent agenda; Dr. Vinson committed to providing small group review and board brief previews\n- Motion included authorization for non-substantive grammatical changes\n- **Vote: Ap",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This is a brand-new local policy (Version 1, Update 1) for Conroe ISD that establishes rules governing Multiple-Occupancy Private Spaces (restrooms, locker rooms, showers, etc.), requiring their assignment by biological sex, prohibiting cross-sex use, defining exceptions, and creating a violation-reporting and remediation process — all driven by a change in law.",
+      "changes_added": [
+        "Definitions section: 'Multiple-Occupancy Private Space includes, but not limited to, a rest room, locker room, changing facility, shower room, or similar facility designed or designated for simultaneous use by more than one individual and in which an individual may be in a state of undress in the presence of another individual, regardless of whether the facility provides curtains or partial walls for privacy.'",
+        "Multiple-Occupancy Private Spaces section heading (entire section is new)",
+        "Each Multiple-Occupancy Private Space within the District shall be assigned for the use of individuals of either the biological sex of male or female. The District shall take steps to provide proper signage and ensure individuals of the opposite sex assigned to a Multiple-Occupancy Private Space do not enter the private space.",
+        "No accommodation may allow an individual to use a Multiple-Occupancy Private Space designated for the exclusive use of individuals of the sex opposite to the individual's biological sex.",
+        "Birth certificate language: references to 'an individual's biological sex on the individual's official birth certificate' and 'individual's biological sex' (replacing prior 'student' references — underlined portions indicating new/revised language)",
+        "The District may establish a single-occupancy private space, family restroom, or changing room. Individuals who do not use a Multiple-Occupancy Private Space may instead use a single-occupancy private space, when available.",
+        "An exception to use of a Multiple-Occupancy Private Space shall apply when an individual enters a Multiple-Occupancy Private Space for: 1. Custodial purposes; 2. Maintenance or inspection purposes; 3. Rendering medical or other emergency assistance; 4. Accompanying and providing assistance to an individual who needs assistance in using the facility, including an elderly person or person with a disability; 5. Law-enforcement purposes; 6. Rendering assistance necessary to prevent a serious threat to order or safety; 7. A child nine years of age or younger who enters while accompanied by a caregiver responsible for the child.",
+        "Violations section heading (entire section is new)",
+        "Any violation of this Policy shall be reported in writing to the Superintendent and principal of the campus where the alleged violation occurred, as soon as reasonably possible following the occurrence. The District shall remedy or otherwise cure the violation within three business days.",
+        "The District shall adopt procedures to implement this Policy."
       ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. No action was taken. No specific change language available in these pages."
+      "source_redline": "CL_LOCAL.pdf",
+      "notes": "This is an entirely new policy (Version 1 / Update 1) — there is no prior policy text to remove, so all red-underlined content represents additions. The cover page does not contain a standard TASB action-heading (e.g., 'Discuss Revisions to...' or 'Adopt Revisions to...'); it only shows the policy title and metadata, so the board action could not be determined from the title heading alone and is marked 'unknown'. The birth certificate paragraph contains red underlines specifically on the words 'an individual's' (×2) and 'individual's' (×1), suggesting minor wording was adjusted from a 'student' framing to 'individual' framing within that paragraph."
     },
     {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This is a summaries page covering multiple policy changes: (1) BBE(Local): Informed by HB 4310 — requires Board member PIR requests be fulfilled promptly and at no cost; establishes new process for handling requests for potentially confidential information. (2) CH(Local): Informed by SB 12 & 1173 — permits raising aggregate purchasing threshold from $50,000 to $100,000; adds non-discrimination clause for HUBs. (3) CKC(Local): Informed by HB 121 — requires district emergency plan to include provisions for safety of students, staff, and spectators during District-sponsored/sanctioned extracurricular activities. (4) CKE(Local): Informed by HB 1458 — adds process for Board to authorize use of reserve police officers, with new section on procedures, authority, standards, and limitations. (5) CL(Local): Informed by SB 8 ('bathroom bill') — defines multiple-occupancy private spaces, requires sex-designated signage, outlines exceptions (young children, those needing assistance), requires facility use aligned with sex at birth, adds locker room as instructional classroom section, and outlines violation process.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This is an entirely new local policy (CL) for Conroe ISD establishing rules for the use of bathrooms and changing facilities based on biological sex, procedures for temporarily repurposing locker rooms as instructional classrooms, and a violation reporting and remedy process. All text is new (red underlined), as this appears to be a first-version policy with no prior language to remove.",
       "changes_added": [
-        "BBE(Local): Board member PIR requests must be fulfilled promptly and at no cost",
-        "BBE(Local): New process for handling requests for potentially confidential information",
-        "CH(Local): Aggregate purchasing threshold increase from $50,000 to $100,000 (optional for districts)",
-        "CH(Local): Non-discrimination clause for HUBs",
-        "CKC(Local): Emergency plan must include provisions for safety of students, staff, and spectators during District-sponsored or District-sanctioned extracurricular activities",
-        "CKE(Local): New policy section outlining process for Board authorization of reserve police officers, including procedures, authority, standards, and limitations",
-        "CL(Local): Definition of multiple-occupancy private spaces",
-        "CL(Local): Requirement for appropriate signage consistent with sex designated for each space",
-        "CL(Local): Specific exceptions (young children, individuals requiring assistance)",
-        "CL(Local): Requirement to use facilities aligned with sex at birth",
-        "CL(Local): New section addressing use of locker rooms as instructional classrooms",
-        "CL(Local): Process for violations of the policy"
+        "Use Of Bathrooms And Changing Facilities: Each multiple-occupancy rest room, locker room, changing facility, and shower room within the District shall be assigned for the use of individuals of one sex. The District shall take steps to provide proper signage and ensure individuals of the opposite sex assigned to a multiple-occupancy rest room, locker room, changing facility, or shower room due not enter the private space.",
+        "The District will formulate, interpret, and apply its rules concerning the use of rest rooms, locker rooms, changing facilities, shower room, and participation in all extracurricular activities, including sports competition in a manner consistent with the biological sex of each student.",
+        "For purposes of this policy, a statement of a student's biological sex on the student's official birth certificate is considered to have correctly stated the student's biological sex only if the statement was: 1. Entered at or near the time of the student's birth; or 2. Modified to correct any type of scrivener or clerical error in the student's biological sex.",
+        "An individual who elects not to use a multiple-occupancy space assigned to their sex may instead use a single-occupancy private space, subject to availability.",
+        "An exception to this rule shall apply when an individual enters a multiple-occupancy private space designated exclusively for individuals of the opposite sex for: 1. Custodial duties; 2. Maintenance or inspection purposes; 3. The provision of medical or other emergency assistance; 4. Accompanying and assisting an individual who requires aid in using the facility; 5. The performance of a law-enforcement function; or 6. Providing assistance necessary to prevent a serious threat to order or safety.",
+        "This exception shall also apply to a child nine years of age or younger who enters such a space while accompanied by a caregiver responsible for the child.",
+        "Use of Locker Rooms as Instructional Classrooms: When a locker room is required to be temporarily repurposed as a classroom for instructional purposes, written procedures for such use shall be developed and approved by the campus principal. At a minimum, these procedures shall include the following components: 1. A designated staff member or student leader of the same sex as the assigned sex of the locker room shall conduct a clearing process to ensure the space is fully vacated for instructional use. This process shall confirm that no individuals are showering, partially dressed, or otherwise not prepared for the space to transition into a classroom; 2. Interior and exterior signage shall be changed to clearly indicate that the space has transitioned to a classroom for instructional purposes and that the clearing process has been completed; 3. Staff members of the opposite sex entering the area shall carry a visible cue or identifier indicating that the space is in instructional use; 4. Staff members of the opposite sex shall always knock and verbally announce their entry prior to entering the space; 5. The established procedures shall be provided to all visiting teams, organizations, and groups that may utilize the facility; and 6. All procedures shall be communicated to staff and parents and shall be redistributed at the beginning of each school year.",
+        "A locker room repurposed for instructional use shall not be used for individual meetings with students under any circumstances. Such spaces may be used only for meetings involving an entire team or comparable group.",
+        "Violations: Any violation of this policy shall be reported in writing to the principal of the campus where the alleged violation occurred, as soon as reasonably possible following the occurrence. Upon receipt of the report, that principal shall immediately forward the information to the superintendent. The District shall remedy or otherwise cure the violation within three business days."
       ],
-      "discussion": "ul in the future.\n- **Board consensus:** Amend policy to grant the chief of police standing authorization to hire reserve officers. Amendment to be incorporated and voted on at February meeting.\n\n### CL Local — Buildings, Grounds, and Equipment Management\n- Implements **Senate Bill 8** (\"bathroom bill\"): Individuals use restrooms matching biological sex on all school property.\n- District policy goes beyond statute by:\n  - Applying to all extracurricular activities (law applies only to sports)\n  - Specifying sex on birth certificate \"around the time of birth\" (consistent with other district pol",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        276,
-        283,
-        285,
-        291,
-        295,
-        297,
-        298
-      ],
-      "confidence": "high",
-      "notes": "This is a summaries/cover page (page 289, labeled page 2) from a TASB policy update packet produced by Texans for Excellence in Education. It does not contain redline text directly but summarizes changes to multiple policies. Actual redline documents for each policy would appear on subsequent pages. Action type cannot be confirmed from this page alone; marked as 'unknown' pending review of meeting agenda context. Meeting date noted as 2026-01-20."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
+      "confidence": "medium",
+      "source_redline": "CL_LOCAL.pdf",
+      "notes": "The document header indicates \"Version: 1\" and all text is red underlined, confirming this is an entirely new policy with no prior language being removed. The cover page does not contain a standard TASB action title heading (e.g., \"Discuss,\" \"Adopt,\" etc.) — it only shows the district name and policy title — so the board action could not be determined from the cover page and is marked 'unknown'. The meeting date was provided externally as 2026-01-20."
     }
   ],
   "timeline_legal": [],

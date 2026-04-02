@@ -2,88 +2,59 @@
   "code": "CAA",
   "title": "Fiscal Management Goals and Objectives: Financial Ethics",
   "description": "Conroe ISD's financial ethics policy sets clear standards for how the district handles public money, ensuring funds are managed honestly and responsibly. It requires staff and officials to avoid conflicts of interest and make financial decisions that serve students and the community rather than personal gain. Residents can have confidence that the district is committed to transparency and accountability in all financial matters.",
-  "last_action_date": "2025-12-16",
+  "last_action_date": "2025-11-18",
   "last_action_result": "adopted",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CAA",
   "timeline_local": [
     {
-      "date": "2025-12-16",
+      "date": "2025-11-18",
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "Revisions to Board Policy CAA (Local) were adopted unanimously at the November 18, 2025 Regular Board Meeting as part of a group adoption (Motion #7207). No specific language changes are described in the meeting minutes.",
-      "discussion": "Policy GKD (Discussion Only, No Action)",
-      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14
-      ],
-      "confidence": "medium",
-      "notes": "Adopted as part of a group motion (#7207) along with BBE, CDA, CQB, EHB, EHBB, and GKB. Vote was 7-0. The specific redline changes are not described in these minutes pages."
-    },
-    {
-      "date": "2025-11-18",
-      "school_year": "2025-2026",
-      "action": "second_reading",
-      "result": "pending_adoption",
-      "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
+      "summary": "This update revises the Federal Awards Disclosure section of Policy CAA (Local) to align with federal grant requirements, clarifying that the District — as an applicant, recipient, or subrecipient of a Federal award — must promptly disclose credible evidence of fraud, conflict of interest, bribery, or gratuity violations (specifically those under Title 18 of the U.S. Code or the civil False Claims Act) to the federal awarding agency, pass-through entity, and the agency's Office of Inspector General, replacing the prior broader and less specific disclosure language.",
       "changes_added": [
-        "As an applicant, recipient, or subrecipient of a Federal award' and 'conflict of interest' and 'violation of the civil False Claims Act. This applies to potentially affecting a federal grant award (including any activities or subwards thereunder)."
+        "As an applicant, recipient, or subrecipient of a Federal award, t",
+        "promptly",
+        "and agency's Office of Inspector General any credible evidence of the commission of a",
+        "conflict of interest,",
+        "found in Title 18 of the United States Code or a violation of the civil False Claims Act. This applies to",
+        "award (including any activities or subawards thereunder)"
       ],
       "changes_removed": [
-        "in a timely manner"
+        "in a timely manner",
+        "or",
+        "ll",
+        "potentially affecting"
       ],
-      "discussion": "policy and a superintendent Facebook post",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
-      ],
-      "confidence": "high",
-      "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-11-18_regular",
+      "confidence": "medium",
+      "source_redline": "CAA_LOCAL.pdf",
+      "notes": "The redline on page 4 contains several interleaved additions and deletions within a single paragraph, making precise boundary identification of each change somewhat challenging. The additions and removals have been parsed as faithfully as possible from the red underlined and red strikethrough text visible in the document. The word \"t\" at the start of \"the District\" appears to be part of a sentence restructuring where \"As an applicant, recipient, or subrecipient of a Federal award, t\" was added and the original \"T\" was effectively lowercased/replaced. The fragments \"ll\" (completing \"all\") and \"or\" reflect small in-line substitutions. Color rendering in the PDF scan may have caused some ambiguity."
     },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "The Administration is recommending consideration, discussion, and adoption of revisions to Local Board Policy CAA (Local) — Fiscal Management Goals and Objectives: Financial Ethics. The specific content of the revisions is not visible on this cover/proposal page.",
-      "discussion": "elegation of authority to the board president (e.g., setting the agenda, speaking to media).\n- Trustee Dawson requested clarity on where existing delegation policies reside — staff to follow up.\n\n### CAA Local — Fiscal Management Goals/Financial Ethics\n- Requires disclosure of certain federal criminal law violations in connection with federal awards.\n- Trustee noted the legal reference tab on the website appears empty for this policy — staff to investigate.\n\n### CDA Local — Other Revenues and Investments\n- Ensures district funds are invested in accordance with the Public Funds Investment Act.",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        239
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update revises the Federal Awards Disclosure section of Policy CAA (Local) to align with updated federal regulatory language, specifying that the District, as an applicant, recipient, or subrecipient of a Federal award, must promptly disclose credible evidence of all violations of federal criminal law involving fraud, conflict of interest, bribery, or gratuity violations found in Title 18 of the U.S. Code or a violation of the civil False Claims Act, including any activities or subawards thereunder. The revision replaces vague legacy phrasing with more precise federal compliance terminology.",
+      "changes_added": [
+        "As an applicant, recipient, or subrecipient of a Federal award, t",
+        "promptly",
+        "and agency's Office of Inspector General any credible evidence of the commission of all",
+        "conflict of interest,",
+        "found in Title 18 of the United States Code or a violation of the civil False Claims Act. This applies to",
+        "award (including any activities or subawards thereunder)"
       ],
+      "changes_removed": [
+        "in a timely manner",
+        "or",
+        "violations",
+        "potentially affecting"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
       "confidence": "medium",
-      "notes": "This is a cover/proposal page (p. 239) recommending adoption of CAA (Local) revisions, as presented by Superintendent Dr. David Vinson. The actual redline document with specific added/removed language is not included on this page. The action is described as discussion with a recommendation for adoption. Specific change details would be found on subsequent pages of the packet."
+      "source_redline": "CAA_LOCAL.pdf",
+      "notes": "The redline on page 4 is rendered in red underline and red strikethrough within a single paragraph under \"Federal Awards Disclosure.\" Some of the added and removed text is interleaved within the same sentence, making precise boundary identification challenging. The additions and removals have been separated to the best extent possible based on the visible color-coding. The cover page title heading reads \"Discuss Revisions to Board Policy CAA (Local),\" indicating a first reading. The body text recommends adoption but per instructions, the title heading takes precedence."
     }
   ],
   "timeline_legal": [],

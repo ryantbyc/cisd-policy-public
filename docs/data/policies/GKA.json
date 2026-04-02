@@ -2,116 +2,59 @@
   "code": "GKA",
   "title": "Community Relations: Conduct on School Premises",
   "description": "Conroe ISD sets clear expectations for how visitors and community members should behave while on school campuses and other district property. The policy helps ensure that schools remain safe, orderly environments where students can learn without disruption. Parents, volunteers, and other guests visiting district facilities are expected to follow these conduct standards at all times.",
-  "last_action_date": "2026-01-20",
+  "last_action_date": "2025-12-16",
   "last_action_result": "adopted",
   "timeline_local": [
-    {
-      "date": "2026-01-20",
-      "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "The board adopted a revision to add or strengthen a prohibition on the possession or use of cigarettes, e-cigarettes, tobacco products, and similar products (as defined by Health and Safety Code §161.081) on District property or at school-related/sanctioned events on or off school property. This applies to the general public/visitors, paralleling the employee prohibition adopted in DH.",
-      "changes_added": [
-        "The District prohibits the possession or use of cigarettes, e-cigarettes, or tobacco products, as defined by Health and Safety Code §161.081 or similar product, on District property or on or off school property at a school-related or school sanctioned event or activity."
-      ],
-      "discussion": "Board Policy EFB, Senate Bill 13)",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "confidence": "high",
-      "notes": "Adopted at the December 16, 2025 regular board meeting via two motions (Motion #7303 and Motion #7304), both carried unanimously 6-0. Minutes approved January 20, 2026. No specific removal language was described in the minutes; the amendment language may have replaced or supplemented existing tobacco language. The removal list is left empty as no specific deletions were stated."
-    },
     {
       "date": "2025-12-16",
       "school_year": "2025-2026",
       "action": "adopted",
       "result": "adopted",
-      "summary": "Policy GKA is being updated to expand the tobacco prohibition language. The existing prohibition on 'tobacco products and e-cigarettes' is being amended to also explicitly include 'electronic vaporizing devices' on District property, in District vehicles, or at school-related activities.",
+      "summary": "This update to Conroe ISD's GKA (Local) policy on Conduct on School Premises expands the tobacco prohibition in the \"Tobacco and E-Cigarettes\" section to explicitly include \"electronic vaporizing devices,\" while removing the standalone word \"and\" that previously joined \"tobacco products\" and \"e-cigarettes.\"",
       "changes_added": [
         "and electronic vaporizing devices"
       ],
       "changes_removed": [
         "and"
       ],
-      "discussion": "as no such exception is permitted under Texas law.\n- Legal/policy counsel assisted with the language.\n\n**Vote on Amendment: Passed 6-0**\n**Vote on Policy as Amended: Passed 6-0**\n\n### Item B: Policy GKA (Community Relations — Conduct on School Premises)\n\n- Same tobacco/nicotine language amendment applied to this policy as well.\n\n**Vote on Amendment: Passed 6-0**\n**Vote on Policy as Amended: Passed 6-0**\n\n---\n\n## Closed Session Action Items\n\n### Level 3 Grievance — Access to District Facilities\n- **Motion:** To uphold the Level 2 determinations and deny the grievance.\n- **Vote: Passed 6-0**\n\n#",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "6-0"
-      },
-      "source_packet": "board_packet_December_16_2025_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        86
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-12-16_regular",
       "confidence": "high",
-      "notes": "The redline change appears in the 'Tobacco And E-Cigarettes' section. The word 'and' (shown in strikethrough/red) before 'e-cigarettes' is replaced with a comma, and the phrase 'and electronic vaporizing devices' is added (underlined/red) after 'e-cigarettes'. The result reads: '...tobacco products, e-cigarettes, and electronic vaporizing devices...' The Weapons section appears unchanged. Date Issued: 2021-01-14, Update: 1. This is page 2 of the policy document, Policy Update Page Number 31."
+      "source_redline": "GKA_LOCAL.pdf",
+      "notes": "The red underlined addition appears in the Tobacco and E-Cigarettes section, adding \", and electronic vaporizing devices\" after \"e-cigarettes.\" The red strikethrough removes the prior \"and\" that connected \"tobacco products\" and \"e-cigarettes,\" replacing it with a comma-separated list structure. All other policy text (Access to District Property, Ejection or Exclusion, Off-Campus Activities, Weapons) is unchanged black text."
     },
     {
       "date": "2025-11-18",
       "school_year": "2025-2026",
-      "action": "tabled",
-      "result": "tabled",
-      "summary": "This is a cover/agenda slide for a Second Reading of nine Local board policies for Conroe ISD. The policies span topics including board governance, fiscal management, revenues, cybersecurity, employee conduct, curriculum, gifted & talented programs, and campus conduct/advertising. No redline text or specific language changes are visible on this page.",
-      "discussion": "** Insert the word \"rules\" after \"state\" (referencing State Board of Education rules on dyslexia education).\n**VOTE on amendment: Approved 7-0**\n**VOTE on EHB as amended: Approved 7-0**\n\n**⚠️ TABLED: GKA Local** — Tabled until definitions regarding tobacco, caffeine, and nicotine can be clarified; to return with enforceable language.\n**VOTE to table: Approved 7-0**\n\n**Remaining policies approved as a group:** BBE, CA, CDA, CQB, EHB, GKB (all local).\n**VOTE: Approved 7-0**\n\n---\n\n## Closed Session\nBoard entered closed session at **7:55 PM** under Texas Government Code sections 551.071, 551.072,",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_November_18_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
+      "action": "adopted",
+      "result": "adopted",
+      "summary": "This update to Policy GKA (Local) expands the tobacco prohibition in the \"Tobacco and E-Cigarettes\" section to explicitly include \"electronic vaporizing devices\" alongside the existing prohibition on tobacco products and e-cigarettes on District property, in District vehicles, or at school-related activities.",
+      "changes_added": [
+        "and electronic vaporizing devices"
       ],
-      "confidence": "high",
-      "notes": "This is a table of contents / agenda slide (page 128) listing policies under 'Second Reading.' It does not contain redline text or specific policy language. Detailed changes would appear in subsequent pages of the packet for each individual policy."
+      "changes_removed": [
+        "and"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-11-18_regular",
+      "confidence": "medium",
+      "source_redline": "GKA_LOCAL.pdf",
+      "notes": "The red text in the Tobacco And E-Cigarettes section shows two changes: the word \"and\" (before \"e-cigarettes\") appears to be struck through in red and replaced, and the phrase \"and electronic vaporizing devices\" is added in red underline after \"e-cigarettes.\" The resulting sentence reads: \"...tobacco products, e-cigarettes, and electronic vaporizing devices...\" The strikethrough of \"and\" is a minor grammatical restructuring to accommodate the new addition. Document is black-and-white scan so colour distinction is inferred from context and underlining/strikethrough formatting visible on page 3."
     },
     {
       "date": "2025-10-21",
       "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "This page shows the text of Conroe ISD's local policy GKA (Community Relations: Conduct on School Premises), dated 2021-01-14, Version 1. It covers access to district property, ejection or exclusion under Education Code 37.105, off-campus activities, and begins a section on prohibitions. No redline changes (underlined additions or strikethrough removals) are visible on this page — it appears to be a clean policy text page, possibly part of a policy update packet (Policy Update Page Number: 30).",
-      "discussion": "; \"placement\" replaces \"selection.\"\n- Added exit provisions and appeals process language.\n- Funding provision updated: state provides 5% and district may spend 100% (previously more restricted).\n\n### GKA Local — Community Relations/Conduct on School Premises\n- Updates regarding advertising consistency with district values.\n- Adds e-cigarette/vaporizer devices to prohibited items on premises.\n- **Trustee noted inconsistency:** Previous policy (DH) uses \"nicotine\" while this uses \"tobacco.\" Requested language be made consistent — Dr. Vinson to research and update for second reading.\n\n### GKB Loc",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_October_21_2025_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        266
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's GKA (Local) policy on Conduct on School Premises expands the tobacco prohibition under the \"Tobacco And E-Cigarettes\" section to explicitly include \"electronic vaporizing devices\" in addition to the previously listed e-cigarettes.",
+      "changes_added": [
+        "and electronic vaporizing devices"
       ],
+      "changes_removed": [
+        "and"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2025-10-21_regular",
       "confidence": "medium",
-      "notes": "This page does not show any redline markup (no underlined or strikethrough text visible). It is page 1 of the GKA policy document, labeled as Policy Update Page Number 30, from what appears to be a policy adoption packet. The policy was issued 2021-01-14, Version 1. The page cuts off at the 'Prohibitions' section heading. Cannot confirm whether this is a new adoption or an existing policy being presented — no changes are visually distinguishable on this page."
+      "source_redline": "GKA_LOCAL.pdf",
+      "notes": "The redline on page 3 shows the Tobacco And E-Cigarettes section with red underlined text adding \", and electronic vaporizing devices\" after \"e-cigarettes.\" The word \"and\" before \"e-cigarettes\" appears to have been changed (the old standalone \"and\" is struck through and replaced with a comma + \"and electronic vaporizing devices\" appended after \"e-cigarettes\"). The colour rendering in the PDF scan is somewhat ambiguous — the strikethrough on \"and\" is faint — but the addition of \"and electronic vaporizing devices\" is clearly underlined in red. Board action determined from cover page title \"Discuss Revisions to Board Policy GKA (Local)\" → first_reading."
     }
   ],
   "timeline_legal": [],

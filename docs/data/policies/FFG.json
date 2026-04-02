@@ -3,76 +3,49 @@
   "title": "Student Welfare: Child Abuse and Neglect",
   "description": "Conroe ISD takes the safety of every student seriously by having clear procedures in place to identify and report suspected child abuse or neglect. District staff are required by law to report any reasonable concerns about a child's well-being to the appropriate authorities. Parents and community members can trust that school employees are trained to recognize warning signs and act quickly to help protect children.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "information_only",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "information_only",
-      "result": "information_only",
-      "summary": "Revisions to Board Policy FFG (Local) were discussed. No action was taken.",
-      "discussion": "ent agenda; Dr. Vinson committed to providing small group review and board brief previews\n- Motion included authorization for non-substantive grammatical changes\n- **Vote: Approved 7-0**\n\n### Item I: FFG Local — Student Welfare, Child Abuse and Neglect\n- **Two amendments made:**\n  1. Removed reference to \"member of the governing body of an open enrollment charter school\" (not applicable to ISD)\n  2. Expanded mandatory reporting training requirement to include both \"professional employees\" and \"employees\" (broadening to cover student teachers, interns, etc.)\n- **Amendment vote: Approved 7-0**\n-",
-      "votes": {
-        "for": [],
-        "against": [],
-        "abstain": [
-          "on",
-          "creating",
-          "the",
-          "Special",
-          "Education",
-          "Parent",
-          "Advisory",
-          "Council",
-          "on",
-          "creating",
-          "the",
-          "Special",
-          "Education",
-          "Parent",
-          "Advisory",
-          "Council"
-        ],
-        "absent": [],
-        "tally": "7-0"
-      },
-      "source_packet": "board_packet_February_17_2026_Board_Workshop_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        8,
-        9,
-        10,
-        11,
-        12
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's Child Abuse and Neglect policy (FFG) makes comprehensive legislative changes including: adding detailed definitions of abuse, professional, professional school employee, and a new \"subject person\" category; expanding training requirements; adding a new \"Notice to Parent or Guardian\" section; adding an \"Official Immunity Waived\" section for grossly negligent or reckless employees; removing the prior 48-hour written/oral report requirement language; and adding a new consequence for professional school employees who fail to report (loss of official immunity/legal liability).",
+      "changes_added": [
+        "Definitions section heading (entire section added as new): 'Abuse includes the following acts or omissions by a person: (1) mental or emotional injury to a child that results in an observable and material impairment in the child's growth, development, or psychological functioning; (2) causing or permitting the child to be in a situation in which the child sustains a mental or emotional injury that results in an observable and material impairment in the child's growth, development, or psychological functioning; (3) physical injury that results in substantial harm to the child, or the genuine threat of substantial harm from physical injury to the child, including an injury that is at variance with the history or explanation given and excluding an accident or reasonable discipline by a parent, guardian, or managing or possessory conservator that does not expose the child to a substantial risk of harm; (4) failure to make a reasonable effort to prevent an action by another person that results in physical injury that results in substantial harm to the child; (5) sexual conduct harmful to a child's mental, emotional, or physical welfare, including conduct that constitutes the offense of continuous sexual abuse of young child or disabled individual under Section 21.02, Penal Code, indecency with a child under Section 21.11, Penal Code, improper relationship between educator and student under Section 21.12, Penal Code, sexual assault under Section 22.011, Penal Code, or aggravated sexual assault under Section 22.021, Penal Code; (6) failure to make a reasonable effort to prevent sexual conduct harmful to a child; (7) compelling or encouraging the child to engage in sexual conduct as defined by Section 43.01, Penal Code, including compelling or encouraging the child in a manner that constitutes an offense of trafficking of persons under Section 20A.02(a)(7) or (8), Penal Code, solicitation of prostitution under Section 43.021, Penal Code, or compelling prostitution under Section 43.05(a)(2), Penal Code; (8) causing, permitting, encouraging, engaging in, or allowing the photographing, filming, or depicting of the child if the person knew or should have known that the resulting photograph, film, or depiction of the child is obscene as defined by Section 43.21, Penal Code, or pornographic; (9) the current use by a person of a controlled substance as defined by Chapter 481, Health and Safety Code, in a manner or to the extent that the use results in physical, mental, or emotional injury to a child; (10) causing, expressly permitting, or encouraging a child to use a controlled substance as defined by Chapter 481, Health and Safety Code; (11) causing, permitting, encouraging, engaging in, or allowing a sexual performance by a child as defined by Section 43.25, Penal Code; (12) knowingly causing, permitting, encouraging, engaging in, or allowing a child to be trafficked in a manner punishable as an offense under Section 20A.02(a)(5), (6), (7), or (8), Penal Code, or the failure to make a reasonable effort to prevent a child from being trafficked in a manner punishable as an offense under any of those sections; or (13) forcing or coercing a child to enter into a marriage.'",
+        "Professional definition added: 'Professional includes an individual who is licensed or certified by the state or who is an employee of a facility licensed, certified, or operated by the state and who, in the normal course of official duties or duties for which a license or certification is required, has direct contact with children, including teachers.'",
+        "Professional School Employee definition added: 'Professional School Employee includes: (1) a superintendent or administrator serving as educational leader and chief executive officer of the school, principal or equivalent chief operating officer, teacher, including a substitute teacher, supervisor, social worker, school counselor, nurse, and teacher's aide employed by a public school; (2) a teacher employed by a company that contracts with a public school to provide the teacher's services to the school; (3) a student in an education preparation program participating in a field experience or internship; (4) a school bus driver certified in accordance with standards and qualifications adopted by the Department of Public Safety of the State of Texas; (5) a member of the board of trustees of an independent school district or a member of the governing body of an open-enrollment charter school; and (6) any other person employed by a public school whose employment requires certification and the exercise of discretion.'",
+        "Subject Person definition added: 'Subject Person includes those persons who (1) are employed by the District, (2) volunteer time or services on behalf of the District (3) directly interact with District students including contractors, vendors, and other individuals.'",
+        "Training section: 'Professional School Employees' (replacing 'employees')",
+        "Training section: 'include this Policy and address mandatory reporting requirements, the definition of abuse, reporting to parents or guardians,' (added to training content description)",
+        "Reporting section: 'As defined in state law, child abuse and neglect include both sex and labor trafficking of a child.'",
+        "Reporting section: structured 'If a Professional has reasonable cause to believe: (1) that a child has been abused or neglected or may be abused or neglected; or (2) that a child is a victim of an offense under Section 21.11, Penal Code, or (3) that a child has been abused as defined by this Policy, The Professional shall make a report not later than the 24th hour after the hour the Professional first has reasonable cause to believe. A Professional may not delegate to or rely on another person to make the report.'",
+        "Notice to Parent or Guardian section (entire section added): 'The District shall provide notice to a parent or guardian of a student with whom a District Subject Person provider for the District is alleged to have engaged in misconduct. The notice shall include: (1) that allegation misconduct occured; (2) how the misconduct was addressed with the Subject Person, including whether the Subject Person was terminated following an investigation of the alleged misconduct or resigned before completion of the investigation; and (3) whether a report was submitted to the agency or board concerning the alleged misconduct. The report shall be made as soon as feasible after the District becomes aware that the alleged misconduct may have occurred. As used in this section, \"misconduct\" has the meaning assigned at Texas Education Code § 22A.051(a)(2)(A)-(D).'",
+        "Official Immunity Waived section (entire section added): 'A Public School Employee that is grossly negligent or reckless, or engages in intentional misconduct, is liable for an act or omission that is committed by the employee against a student enrolled in the school involving: (1) sexual misconduct; or (2) failure to report suspected child abuse or neglect.'",
+        "Failing to Report section, item 5 added: 'Who is a professional school district employee may be prohibited from asserting official immunity and may incur legal liability.'"
       ],
+      "changes_removed": [
+        "Training section: 'employees' (replaced by 'Professional School Employees')",
+        "Reporting section: 'The following individuals have an additional legal obligation to submit a written or oral report within 48 hours of learning of the facts giving rise to the suspicion of abuse or neglect: 1. Any District employee, agent, or contractor who suspects a child's physical or mental health or welfare has been adversely affected by abuse or neglect. 2. A professional who has reasonable cause to believe that a child has been or may be abused or neglected or may have been a victim of indecency with a child. A professional is anyone licensed or certified by the state who has direct contact with children in the normal course of duties for which the individual is licensed or certified.'"
+      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
-      "notes": "Listed as a Board Policy Discussion Item. No action was taken. No specific change language available in these pages."
+      "source_redline": "FFG_LOCAL.pdf"
     },
     {
       "date": "2026-01-20",
       "school_year": "2025-2026",
-      "action": "first_reading",
-      "result": "first_reading",
-      "summary": "This page is a summary/cover document describing changes to five Local policies, all informed by recent Texas legislation: (1) DGC(Local): Updated per House Bill 6 to outline when professional employees are immune from disciplinary proceedings and to define disciplinary proceedings. (2) EIA(Local): Updated per Senate Bill 12 to add interim report requirements for unsatisfactory performance, require at least two parent-teacher conference opportunities, and mandate parent signature on progress reports at least every 12 weeks. (3) FFAC(Local): Updated per Senate Bill 920 to expand who may authorize a student to receive nonprescription medication (now includes legal guardians) and require dosing consistent with official container labeling. (4) FFB(Local): Updated per House Bills 6 & 121 to specify professionals required on the safe and supportive school team, allow a team to serve more than one campus, clarify when parents must be contacted, and establish new guidelines for threat assessments involving special education students. (5) FFG(Local): Updated per Senate Bill 571 and House Bill 4623 to identify sexual misconduct and improper student–teacher relationships as explicitly reportable, reduce reporting timeline from 48 to 24 hours, add students in educator preparation programs and Board Trustees as mandatory reporters, establish a parent notification process for alleged staff misconduct, and state that individuals may not assert official immunity for failure to report.",
-      "changes_added": [
-        "DGC(Local): Circumstances under which a professional employee is immune from disciplinary proceedings; definition of disciplinary proceedings",
-        "EIA(Local): New requirements for interim reports when student performance is unsatisfactory; at least two opportunities for teacher conferences; parent signature on progress reports at least every 12 weeks",
-        "FFAC(Local): Legal guardian added as authorized to grant permission for nonprescription medication; dosing must be consistent with container's official labeling",
-        "FFB(Local): Requirements regarding types of professionals on safe and supportive school team; conditions under which team may serve more than one campus; team responsibility for parent contact timing; guidelines for threat assessments involving special education students",
-        "FFG(Local): Sexual misconduct and improper student–teacher relationships explicitly identified as reportable; 24-hour reporting timeline; students in educator preparation programs and Board Trustees identified as mandatory reporters; new parent notification process for alleged staff misconduct involving their student; explicit statement that individuals may not assert official immunity and may incur legal liability for failure to report"
-      ],
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's FFG (Child Abuse and Neglect) Local Policy strengthens reporting requirements by reducing the report submission window from 48 to 24 hours, expanding the list of mandatory reporters, adding sexual misconduct as a reportable condition, introducing a new \"Notice to Parent or Guardian\" section for alleged employee/service provider misconduct, and adding a consequence for employees who fail to report (loss of official immunity and potential legal liability).",
+      "changes_added": "[\"or sexual misconduct\", \"24\", \"including the suspicion of an improper relationship between a District employee and student\", \"student in an education preparation program participating in a field experience or internship, Board Trustee,\", \"Notice to Parent or Guardian (entire new section): The District shall provide notice to a parent or guardian of a student with whom a District employee or service provider for the District is alleged to have engaged in misconduct. For the purposes of this policy, \"service provider\" has the meaning assigned at Texas Education Code § 22A.001(8). The notice shall include: 1. That the alleged misconduct occurred; 2. Whether the person was terminated following an investigation of the alleged misconduct or resigned before completion of the investigation; and 3. Whether a report was submitted to the Texas Education Agency or State Board for Educator Certification concerning the alleged misconduct. The report shall be made as soon as feasible after the District becomes aware that the alleged misconduct may have occurred. As used in this section, \"misconduct\" has the meaning assigned at Texas Education Code § 22A.051(a)(2)(A)-(D).\", \"5. May not assert official immunity and may incur legal liability.\"]",
       "changes_removed": [
-        "FFG(Local): 48-hour reporting timeline (replaced by 24 hours)"
+        "48"
       ],
-      "discussion": "noted this policy appears nearly identical to one already on the website (previously approved with parent notification amendments). Board agreed to verify and avoid approving a duplicate policy.\n\n### FFG Local — Student Welfare, Child Abuse and Neglect\n- Aligns with current board policy and statute. No changes needed.\n- Will proceed to second reading in February with no amendments.\n\n### General Policy Discussion Notes:\n- Board requested verification that a hard copy policy manual with tracked changes exists and is maintained.\n- Dr. Vinson confirmed the district is compliant with all discussed",
-      "source_packet": "board_packet_January_20_2026_Regular_Board_Meeting.pdf",
-      "source_pages": [
-        276,
-        284,
-        285,
-        290
-      ],
+      "meeting_notes_url": "https://ryantbyc.github.io/cisd-bmm-public/meeting.html?id=2026-01-20_regular",
       "confidence": "high",
-      "notes": "This is a summary/cover page (page 290, labeled page 3) from a Texans for Excellence in Education (TEE) document, not a redline policy document itself. No underlined or strikethrough text is present; changes are described in narrative form. The action type (first reading, second reading, adoption) is not specified on this page. The meeting date is 2026-01-20."
+      "source_redline": "FFG_LOCAL.pdf",
+      "notes": "The cover page does not contain a standard TASB title heading indicating the board action stage (e.g., \"Discuss,\" \"Adopt,\" etc.) — it only shows policy metadata (Policy Type, Date Issued, Version 1). Action has been set to \"unknown\" as a result. All red underlined and red strikethrough text has been captured across all pages."
     }
   ],
   "timeline_legal": [],
