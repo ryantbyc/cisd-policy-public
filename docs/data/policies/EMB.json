@@ -14,6 +14,10 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-10-21_regular",
       "confidence": "medium",
       "source_redline": "EMB_LOCAL.pdf",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "analysis": "This policy update to Conroe ISD EMB contains both legally compelled elements and significant locally chosen structural and procedural additions. Texas S.B. 12 (89th Legislature) directly mandates several of the new provisions, including restrictions on human sexuality instruction and written parental consent requirements, prohibitions on pornographic material, restrictions on diversity/equity/inclusion programming, prohibitions on gender identity and social transitioning instruction, and limitations on certain terminology — failure to implement these would risk noncompliance with state law and potential loss of funding. The expansion of covered persons from 'teachers' to the broader category of 'Subject Persons' (defined to include employees, volunteers, and contractors) goes beyond what S.B. 12 strictly requires in its literal text and represents a locally chosen definitional expansion that broadens the policy's reach. The Commemorative Months/Holidays section is a locally discretionary addition not compelled by S.B. 12 or any identified Texas statute. The student First Amendment rights section, while referencing constitutional principles, is a locally chosen framing device rather than a direct statutory mandate. The superintendent compliance certification mechanism — requiring the superintendent to affirmatively certify compliance — is a locally added accountability structure not required by S.B. 12 or any identified Texas Administrative Code rule. Because the policy blends multiple provisions that are required by S.B. 12 (89th Leg.) with several locally tailored additions (the Subject Persons definitional expansion, the Commemorative Months section, the student First Amendment framing, and the superintendent certification mechanism), the appropriate classification is Mixed."
+      }
     },
     {
       "date": "2025-09-16",
