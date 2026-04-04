@@ -29,8 +29,76 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "medium",
       "source_redline": "CH_LOCAL.pdf",
-      "notes": "The cover page does not contain a standard TASB action title heading (e.g., \"Discuss,\" \"Adopt,\" etc.) — it only shows the policy name and a rationale line, so action is marked 'unknown'. The redline uses red underline for additions and red strikethrough for removals; however, the competitive procurement threshold change appears as \"$5100,000\" in the document, which is a typographical redline rendering of the change from $50,000 to $100,000 (the \"51\" represents strikethrough \"5\" and new \"1\" overlapping). Added and removed items for the threshold have been interpreted accordingly. Much of the new \"Purchasing Authority\" paragraph text is red-underlined as new language replacing the old simpler dollar-threshold language."
-      
+      "notes": "The cover page does not contain a standard TASB action title heading (e.g., \"Discuss,\" \"Adopt,\" etc.) — it only shows the policy name and a rationale line, so action is marked 'unknown'. The redline uses red underline for additions and red strikethrough for removals; however, the competitive procurement threshold change appears as \"$5100,000\" in the document, which is a typographical redline rendering of the change from $50,000 to $100,000 (the \"51\" represents strikethrough \"5\" and new \"1\" overlapping). Added and removed items for the threshold have been interpreted accordingly. Much of the new \"Purchasing Authority\" paragraph text is red-underlined as new language replacing the old simpler dollar-threshold language.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Competitive procurement threshold raised from $50,000 to $100,000",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §44.031(a) as amended by S.B. 1173, 89th Leg., R.S. (eff. Sept. 1, 2025)",
+            "verification_method": "web search confirmed — LegiScan enrolled text, TEA guidance (TAA Sept. 25, 2025 and Nov. 6, 2025 letters), Texas Capitol enrolled bill text, and multiple secondary sources all confirm S.B. 1173 amends TEC §44.031(a) to replace $50,000 with $100,000, effective September 1, 2025",
+            "litigation_status": "None identified",
+            "local_additions": "None — district policy language mirrors the statutory floor. Note that S.B. 1173 raises the floor at which competitive procurement is required; the district aligned its policy precisely to the new statutory threshold with no meaningful discretionary deviation."
+          },
+          {
+            "element": "Bids, quotes, and other proposals reference threshold also raised from $50,000 to $100,000",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §44.031(a) as amended by S.B. 1173, 89th Leg., R.S. (eff. Sept. 1, 2025)",
+            "verification_method": "web search confirmed — same enrolled bill text and TEA guidance as above; conforming reference in the policy to the statutory threshold",
+            "litigation_status": "None identified",
+            "local_additions": "None — this is a conforming update to the same statutory threshold change."
+          },
+          {
+            "element": "Non-routine and discretionary purchase framework — Superintendent written notification to Board required before transaction for qualifying purchases of $50,000 or more to a single vendor in a 12-month fiscal period",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None — no Texas statute or TAC rule mandates a 'non-routine and discretionary' purchase category or a Superintendent pre-purchase written Board notification requirement. TEC §44.031(d) authorizes the board to adopt rules and procedures using permissive 'MAY' language but does not compel this specific mechanism.",
+            "verification_method": "web search confirmed — TEC §44.031(d) text verified; no statute found imposing this notification obligation",
+            "litigation_status": "None identified",
+            "local_additions": "Entirely locally created framework. Statute uses permissive 'MAY' language (TEC §44.031(d)); district chose to create a mandatory pre-purchase written notification obligation from the Superintendent to the Board for non-routine/discretionary purchases at or above $50,000. The $50,000 internal trigger for this notification requirement is also locally chosen and is deliberately set below the new $100,000 statutory competitive procurement threshold, effectively filling an oversight gap the district identified in the space between $50,000 and $100,000 where S.B. 1173 removed the mandatory competitive bidding requirement."
+          },
+          {
+            "element": "Two-board-member escalation mechanism — if two or more Board members raise a concern, the purchase must be placed on a Board agenda for approval or disapproval",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None — no Texas statute requires or authorizes this specific two-member escalation trigger. TEC §44.031(d) authorizes local rules and procedures using permissive 'MAY' language.",
+            "verification_method": "web search confirmed — no statute found requiring or prescribing this mechanism",
+            "litigation_status": "None identified",
+            "local_additions": "Entirely locally created governance mechanism. Statute uses permissive 'MAY' language; district chose to establish a minority-of-board veto/escalation pathway. This goes beyond any statutory requirement and reflects a local board governance choice about how to exercise oversight."
+          },
+          {
+            "element": "Emergency exception — District may proceed with purchase without prior Board notification if delay would harm operations, but must notify Board as soon as practicable",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None mandating this specific exception. TEC §44.031 contains a separate emergency exception limited to school facility damage/catastrophic failure, but no statute requires or prescribes this broader operational-delay emergency carve-out. TEC §44.031(d) permits local rules using 'MAY' language.",
+            "verification_method": "web search confirmed — TEC §44.031 emergency provision verified as limited to facility/equipment emergencies; no statute found mandating or prescribing this broader operational-urgency carve-out",
+            "litigation_status": "None identified",
+            "local_additions": "Locally crafted safety valve. The district exercised discretion to create a workable exception to its own locally created notification requirement. This is a local policy design choice built on top of a locally created obligation."
+          },
+          {
+            "element": "Detailed definitional list of what qualifies as 'non-routine and discretionary' — seven enumerated categories including pilot programs, awards over $2,500, technology systems/software platforms, professional/consulting services, large equipment/infrastructure, purchases differing materially from prior purchases, and purchases not aligning with Board Policies EMB, EFA, or EFB",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None — no Texas statute defines or requires a 'non-routine and discretionary' purchase category or any of the seven enumerated sub-categories. TEC §44.031(d) permits local rules using permissive 'MAY' language.",
+            "verification_method": "web search confirmed — no statute found defining these categories or requiring their enumeration",
+            "litigation_status": "None identified",
+            "local_additions": "Entirely locally drafted taxonomy. The district exercised substantial discretion in defining each category, including the specific $2,500 award threshold, the cross-references to Board Policies EMB (Local), EFA (Local), and EFB (Local), and the enumeration of technology systems, software platforms, consulting services, and large equipment as per se qualifying purchases. These reflect local policy judgments about financial oversight, not statutory commands."
+          },
+          {
+            "element": "Annual vendor report — Board shall be provided annually with a report of all District vendors paid in the previous fiscal year",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None — no Texas statute requires a district-wide annual vendor payment report to the board of this scope. TEC §44.0331(b) requires an annual board report only for cooperative contract management fees, a far narrower obligation. TEC §44.031(d) permits the board to adopt rules using permissive 'MAY' language.",
+            "verification_method": "web search confirmed — TEC §44.0331 text verified and is limited to cooperative purchasing contract-related fees; no broader annual vendor payment reporting mandate found in TEC Chapter 44 or elsewhere",
+            "litigation_status": "None identified",
+            "local_additions": "Entirely locally created transparency and oversight mechanism. The district chose to require a comprehensive annual vendor-payment report as a Board oversight tool. This goes substantially beyond the narrower cooperative contract fee reporting required by TEC §44.0331(b) and reflects a local governance choice."
+          },
+          {
+            "element": "Requirement for the District to adopt procedures to implement the policy",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §44.031(d) authorizes — but does not require — the board to adopt rules and procedures using permissive 'MAY' language. No statute compels a district to adopt implementing procedures for a locally created purchasing oversight framework.",
+            "verification_method": "web search confirmed — TEC §44.031(d) text verified as permissive",
+            "litigation_status": "None identified",
+            "local_additions": "Statute uses permissive 'MAY' language; the district chose to self-impose an obligation to create implementing procedures. This is a locally chosen structural governance requirement layered on top of a locally created policy framework."
+          }
+        ]
+      }
     },
     {
       "date": "2026-01-20",
@@ -54,7 +122,6 @@
       "confidence": "medium",
       "source_redline": "CH_LOCAL.pdf",
       "notes": "The cover page does not contain a standard TASB action title heading (e.g., 'Discuss Revisions to...' or 'Adopt Revisions to...'); instead it shows only the policy title and metadata, so action is marked 'unknown'. The redline uses a layered number format (e.g., '$5̶1̶0̶0,000') where the red '1' is inserted and the '5' is struck through, indicating the threshold changes from $50,000 to $100,000. The new HUB section on page 3 is entirely red underlined, indicating it is fully new language. No text appears in red strikethrough for the HUB section."
-      
     },
     {
       "date": "2025-08-19",
@@ -89,7 +156,6 @@
       "confidence": "high",
       "source_redline": "CH_LOCAL.pdf",
       "notes": "The cover page title reads \"Discussion of Possible Revisions to Board Policy CH (Local)\", which maps to 'first_reading'. Dollar amounts in the redline use a strikethrough digit (e.g., \"$5̶1̶00,000\") to indicate the change from $50,000 to $100,000; context makes interpretation clear. The entire Vendor Alignment section is new (red underlined). All red-underlined and red-strikethrough text has been captured."
-      
     }
   ],
   "timeline_legal": [],
