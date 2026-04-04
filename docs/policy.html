@@ -267,6 +267,18 @@
     .toggle-count {
       font-size: 0.68rem; opacity: 0.75; font-weight: 400; text-transform: none; letter-spacing: 0;
     }
+    .collapsible-preview {
+      padding: 0.4rem 0.75rem 0.5rem;
+      font-size: 0.82rem; line-height: 1.5; color: var(--text-secondary);
+      position: relative; max-height: 6.5rem; overflow: hidden;
+    }
+    .collapsible-preview::after {
+      content: '';
+      position: absolute; bottom: 0; left: 0; right: 0; height: 2.5rem;
+      background: linear-gradient(transparent, var(--bg-card));
+      pointer-events: none;
+    }
+    .collapsible-open .collapsible-preview { display: none; }
     .collapsible-body { display: none; }
     .collapsible-open .collapsible-body { display: block; }
 
@@ -279,6 +291,10 @@
     .changes-removed .collapsible-toggle { background: var(--change-removed-bg); color: var(--change-removed-text); border-bottom: 1px solid transparent; }
     .changes-added.collapsible-open   .collapsible-toggle { border-bottom-color: var(--change-added-border); }
     .changes-removed.collapsible-open .collapsible-toggle { border-bottom-color: var(--change-removed-border); }
+    .changes-added   .collapsible-preview { background: var(--change-added-bg);   color: var(--change-added-text); }
+    .changes-removed .collapsible-preview { background: var(--change-removed-bg); color: var(--change-removed-text); }
+    .changes-added   .collapsible-preview::after { background: linear-gradient(transparent, var(--change-added-bg)); }
+    .changes-removed .collapsible-preview::after { background: linear-gradient(transparent, var(--change-removed-bg)); }
     .changes-added   { border: 1px solid var(--change-added-border); }
     .changes-removed { border: 1px solid var(--change-removed-border); }
 
@@ -723,6 +739,16 @@
       hdr.addEventListener('click', () => box.classList.toggle('collapsible-open'));
       box.appendChild(hdr);
 
+      /* Preview — show first few element names or start of analysis text */
+      const preview = document.createElement('div');
+      preview.className = 'collapsible-preview';
+      if (Array.isArray(ca.elements) && ca.elements.length) {
+        preview.textContent = ca.elements.slice(0, 6).map(el => `• ${el.element}`).join('\n');
+      } else if (ca.analysis) {
+        preview.textContent = ca.analysis;
+      }
+      box.appendChild(preview);
+
       const collapsibleBdy = document.createElement('div');
       collapsibleBdy.className = 'collapsible-body';
       const bdy = document.createElement('div');
@@ -814,6 +840,12 @@
         <span class="toggle-chevron">▶</span>`;
       btn.addEventListener('click', () => sec.classList.toggle('collapsible-open'));
       sec.appendChild(btn);
+
+      /* Preview — first 3 items fading out */
+      const preview = document.createElement('div');
+      preview.className = 'collapsible-preview';
+      preview.textContent = items.slice(0, 3).map(c => `${prefix} ${c}`).join('\n');
+      sec.appendChild(preview);
 
       const collBody = document.createElement('div');
       collBody.className = 'collapsible-body';
