@@ -800,7 +800,7 @@
             const v = document.createElement('span');
             v.className = 'compliance-element-value';
             if (label === 'Litigation' && val !== 'None identified') v.classList.add('litigation-active');
-            v.textContent = val;
+            v.textContent = val.charAt(0).toUpperCase() + val.slice(1);
             row.appendChild(lbl);
             row.appendChild(v);
             elBdy.appendChild(row);
@@ -817,9 +817,16 @@
         bdy.appendChild(analysis);
       }
 
+      const disclaimerText = 'AI-generated assessment. Verify citations independently before relying on this analysis.';
+      const disclaimerTop = document.createElement('p');
+      disclaimerTop.className = 'compliance-disclaimer';
+      disclaimerTop.style.marginBottom = '0.5rem';
+      disclaimerTop.textContent = disclaimerText;
+      bdy.insertBefore(disclaimerTop, bdy.firstChild);
+
       const disclaimer = document.createElement('p');
       disclaimer.className = 'compliance-disclaimer';
-      disclaimer.textContent = 'AI-generated assessment. Verify citations independently before relying on this analysis.';
+      disclaimer.textContent = disclaimerText;
       bdy.appendChild(disclaimer);
       collapsibleBdy.appendChild(bdy);
       box.appendChild(collapsibleBdy);
