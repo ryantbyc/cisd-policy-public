@@ -251,14 +251,34 @@
 
     .tl-summary { font-size: 0.875rem; line-height: 1.6; color: var(--text-primary); }
 
+    /* ── Collapsible sections (shared) ── */
+    .collapsible-toggle {
+      display: flex; align-items: center; justify-content: space-between;
+      width: 100%; cursor: pointer; user-select: none;
+      background: none; border: none; padding: 0.3rem 0.75rem; text-align: left;
+    }
+    .collapsible-toggle::-webkit-details-marker { display: none; }
+    .toggle-left { display: flex; align-items: center; gap: 0.5rem; }
+    .toggle-chevron {
+      font-size: 0.65rem; transition: transform 0.18s; display: inline-block;
+      color: inherit; opacity: 0.7;
+    }
+    .collapsible-open .toggle-chevron { transform: rotate(90deg); }
+    .toggle-count {
+      font-size: 0.68rem; opacity: 0.75; font-weight: 400; text-transform: none; letter-spacing: 0;
+    }
+    .collapsible-body { display: none; }
+    .collapsible-open .collapsible-body { display: block; }
+
     /* Changes sections */
     .changes-section { border-radius: 6px; overflow: hidden; }
     .changes-label {
       font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
-      padding: 0.3rem 0.75rem;
     }
-    .changes-added   .changes-label { background: var(--change-added-bg);   color: var(--change-added-text);   border-bottom: 1px solid var(--change-added-border); }
-    .changes-removed .changes-label { background: var(--change-removed-bg); color: var(--change-removed-text); border-bottom: 1px solid var(--change-removed-border); }
+    .changes-added   .collapsible-toggle { background: var(--change-added-bg);   color: var(--change-added-text);   border-bottom: 1px solid transparent; }
+    .changes-removed .collapsible-toggle { background: var(--change-removed-bg); color: var(--change-removed-text); border-bottom: 1px solid transparent; }
+    .changes-added.collapsible-open   .collapsible-toggle { border-bottom-color: var(--change-added-border); }
+    .changes-removed.collapsible-open .collapsible-toggle { border-bottom-color: var(--change-removed-border); }
     .changes-added   { border: 1px solid var(--change-added-border); }
     .changes-removed { border: 1px solid var(--change-removed-border); }
 
@@ -366,8 +386,11 @@
       display: flex; align-items: center; gap: 0.65rem; flex-wrap: wrap;
       padding: 0.3rem 0.75rem;
       background: #f5f3ff;
-      border-bottom: 1px solid #c4b5fd;
+      border-bottom: 1px solid transparent;
+      cursor: pointer; user-select: none;
     }
+    .compliance-box.collapsible-open .compliance-header { border-bottom-color: #c4b5fd; }
+    [data-theme="dark"] .compliance-box.collapsible-open .compliance-header { border-bottom-color: #6d28d9; }
     .compliance-badge {
       font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em;
       color: #5b21b6;
@@ -387,9 +410,31 @@
       font-size: 0.83rem; line-height: 1.55; color: var(--text-primary);
       margin-bottom: 0.35rem;
     }
+    /* Element table (new structured format) */
+    .compliance-elements { display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 0.4rem; }
+    .compliance-element {
+      border: 1px solid #e9d5ff; border-radius: 5px; overflow: hidden; font-size: 0.78rem;
+    }
+    .compliance-element-header {
+      display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;
+      padding: 0.3rem 0.6rem; background: #f5f3ff;
+    }
+    .compliance-element-name { font-weight: 600; color: var(--text-primary); flex: 1; min-width: 0; }
+    .compliance-element-body { padding: 0.35rem 0.6rem; display: flex; flex-direction: column; gap: 0.2rem; }
+    .compliance-element-row { display: flex; gap: 0.4rem; line-height: 1.45; }
+    .compliance-element-label {
+      flex: 0 0 7rem; font-weight: 600; color: var(--text-secondary); font-size: 0.72rem;
+      text-transform: uppercase; letter-spacing: 0.04em; padding-top: 0.05rem;
+    }
+    .compliance-element-value { flex: 1; color: var(--text-primary); }
+    .litigation-active { color: #b45309; font-weight: 600; }
     .compliance-disclaimer {
       font-size: 0.7rem; color: var(--text-secondary); font-style: italic;
     }
+    [data-theme="dark"] .compliance-element { border-color: #4c1d95; }
+    [data-theme="dark"] .compliance-element-header { background: #1e1030; }
+    [data-theme="dark"] .compliance-element-label { color: #9088b0; }
+    [data-theme="dark"] .litigation-active { color: #fbbf24; }
     [data-theme="dark"] .compliance-box { border-color: #6d28d9; }
     [data-theme="dark"] .compliance-header { background: #1e1030; border-bottom-color: #6d28d9; }
     [data-theme="dark"] .compliance-badge { color: #a78bfa; }
@@ -653,9 +698,9 @@
     if (entry.compliance_assessment) {
       const ca  = entry.compliance_assessment;
       const cls = ca.classification || '';
-      let clsClass = 'classification-discretionary';
-      if (cls === 'Required by Law')     clsClass = 'classification-required';
-      else if (cls === 'Mixed')          clsClass = 'classification-mixed';
+      const clsClass = cls === 'Required by Law' ? 'classification-required'
+                     : cls === 'Mixed'           ? 'classification-mixed'
+                     :                             'classification-discretionary';
 
       const box = document.createElement('div');
       box.className = 'compliance-box';
@@ -668,58 +713,124 @@
       const clsBadge = document.createElement('span');
       clsBadge.className = `compliance-classification ${clsClass}`;
       clsBadge.textContent = cls;
+      const chevron = document.createElement('span');
+      chevron.className = 'toggle-chevron';
+      chevron.style.marginLeft = 'auto';
+      chevron.textContent = '▶';
       hdr.appendChild(badge);
       hdr.appendChild(clsBadge);
+      hdr.appendChild(chevron);
+      hdr.addEventListener('click', () => box.classList.toggle('collapsible-open'));
       box.appendChild(hdr);
 
+      const collapsibleBdy = document.createElement('div');
+      collapsibleBdy.className = 'collapsible-body';
       const bdy = document.createElement('div');
       bdy.className = 'compliance-body';
-      const analysis = document.createElement('p');
-      analysis.className = 'compliance-analysis';
-      analysis.textContent = ca.analysis || '';
+
+      if (Array.isArray(ca.elements) && ca.elements.length) {
+        /* New structured format — render per-element table */
+        const elList = document.createElement('div');
+        elList.className = 'compliance-elements';
+        ca.elements.forEach(el => {
+          const elCls = el.classification === 'Required by Law' ? 'classification-required'
+                      : el.classification === 'Mixed'           ? 'classification-mixed'
+                      :                                           'classification-discretionary';
+          const elBox = document.createElement('div');
+          elBox.className = 'compliance-element';
+
+          const elHdr = document.createElement('div');
+          elHdr.className = 'compliance-element-header';
+          const elName = document.createElement('span');
+          elName.className = 'compliance-element-name';
+          elName.textContent = el.element || '';
+          const elBadge = document.createElement('span');
+          elBadge.className = `compliance-classification ${elCls}`;
+          elBadge.style.fontSize = '0.68rem';
+          elBadge.textContent = el.classification || '';
+          elHdr.appendChild(elName);
+          elHdr.appendChild(elBadge);
+          elBox.appendChild(elHdr);
+
+          const elBdy = document.createElement('div');
+          elBdy.className = 'compliance-element-body';
+          const rows = [
+            ['Statutory basis',   el.statutory_basis],
+            ['Verified via',      el.verification_method],
+            ['Litigation',        el.litigation_status],
+            ['Local additions',   el.local_additions],
+          ];
+          rows.forEach(([label, val]) => {
+            if (!val || val === 'None' || val === 'None identified') return;
+            const row = document.createElement('div');
+            row.className = 'compliance-element-row';
+            const lbl = document.createElement('span');
+            lbl.className = 'compliance-element-label';
+            lbl.textContent = label;
+            const v = document.createElement('span');
+            v.className = 'compliance-element-value';
+            if (label === 'Litigation' && val !== 'None identified') v.classList.add('litigation-active');
+            v.textContent = val;
+            row.appendChild(lbl);
+            row.appendChild(v);
+            elBdy.appendChild(row);
+          });
+          elBox.appendChild(elBdy);
+          elList.appendChild(elBox);
+        });
+        bdy.appendChild(elList);
+      } else if (ca.analysis) {
+        /* Legacy format — plain paragraph */
+        const analysis = document.createElement('p');
+        analysis.className = 'compliance-analysis';
+        analysis.textContent = ca.analysis;
+        bdy.appendChild(analysis);
+      }
+
       const disclaimer = document.createElement('p');
       disclaimer.className = 'compliance-disclaimer';
       disclaimer.textContent = 'AI-generated assessment. Verify citations independently before relying on this analysis.';
-      bdy.appendChild(analysis);
       bdy.appendChild(disclaimer);
-      box.appendChild(bdy);
-
+      collapsibleBdy.appendChild(bdy);
+      box.appendChild(collapsibleBdy);
       body.appendChild(box);
     }
 
     /* Changes added */
     const changesAdded   = Array.isArray(entry.changes_added)   ? entry.changes_added   : [];
     const changesRemoved = Array.isArray(entry.changes_removed) ? entry.changes_removed : [];
-    if (changesAdded.length) {
+
+    function makeChangesSection(items, typeClass, label, prefix) {
       const sec = document.createElement('div');
-      sec.className = 'changes-section changes-added';
-      sec.innerHTML = `<div class="changes-label">Language Added</div>`;
+      sec.className = `changes-section ${typeClass}`;
+
+      const btn = document.createElement('button');
+      btn.className = 'collapsible-toggle';
+      btn.innerHTML = `
+        <span class="toggle-left">
+          <span class="changes-label">${label}</span>
+          <span class="toggle-count">${items.length} item${items.length !== 1 ? 's' : ''}</span>
+        </span>
+        <span class="toggle-chevron">▶</span>`;
+      btn.addEventListener('click', () => sec.classList.toggle('collapsible-open'));
+      sec.appendChild(btn);
+
+      const collBody = document.createElement('div');
+      collBody.className = 'collapsible-body';
       const ul = document.createElement('ul');
       ul.className = 'changes-list';
-      changesAdded.forEach(c => {
+      items.forEach(c => {
         const li = document.createElement('li');
         li.textContent = c;
         ul.appendChild(li);
       });
-      sec.appendChild(ul);
-      body.appendChild(sec);
+      collBody.appendChild(ul);
+      sec.appendChild(collBody);
+      return sec;
     }
 
-    /* Changes removed */
-    if (changesRemoved.length) {
-      const sec = document.createElement('div');
-      sec.className = 'changes-section changes-removed';
-      sec.innerHTML = `<div class="changes-label">Language Removed</div>`;
-      const ul = document.createElement('ul');
-      ul.className = 'changes-list';
-      changesRemoved.forEach(c => {
-        const li = document.createElement('li');
-        li.textContent = c;
-        ul.appendChild(li);
-      });
-      sec.appendChild(ul);
-      body.appendChild(sec);
-    }
+    if (changesAdded.length)   body.appendChild(makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+'));
+    if (changesRemoved.length) body.appendChild(makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−'));
 
     /* Links row — meeting notes + redline download */
     const hasNotes   = !!entry.meeting_notes_url;
