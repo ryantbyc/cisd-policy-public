@@ -207,7 +207,7 @@
   <h2>Board Policies</h2>
   <div class="search-bar">
     <span class="search-icon">&#128269;</span>
-    <input type="search" id="search-input" placeholder="Search by policy code" autocomplete="off">
+    <input type="search" id="search-input" placeholder="Search by code or title" autocomplete="off">
   </div>
   <div class="list-controls">
     <div id="search-count" class="search-count" style="visibility:hidden"></div>
@@ -309,7 +309,10 @@
 
   function searchPolicies(q) {
     const upper = q.toUpperCase().trim();
-    return allPolicies.filter(p => p.code.toUpperCase() === upper);
+    return allPolicies.filter(p =>
+      p.code.toUpperCase().includes(upper) ||
+      (p.title || '').toUpperCase().includes(upper)
+    );
   }
 
   function onSearch() {
