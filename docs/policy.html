@@ -256,6 +256,7 @@
       display: flex; align-items: center; justify-content: space-between;
       width: 100%; cursor: pointer; user-select: none;
       background: none; border: none; padding: 0.3rem 0.75rem; text-align: left;
+      min-height: 44px;
     }
     .collapsible-toggle::-webkit-details-marker { display: none; }
     .toggle-left { display: flex; align-items: center; gap: 0.5rem; }
@@ -271,6 +272,7 @@
       padding: 0.4rem 0.75rem 0.5rem;
       font-size: 0.82rem; line-height: 1.5; color: var(--text-secondary);
       position: relative; max-height: 6.5rem; overflow: hidden;
+      cursor: pointer; user-select: none;
     }
     .collapsible-preview::after {
       content: '';
@@ -404,6 +406,7 @@
       background: #f5f3ff;
       border-bottom: 1px solid transparent;
       cursor: pointer; user-select: none;
+      min-height: 44px;
     }
     .compliance-box.collapsible-open .compliance-header { border-bottom-color: #c4b5fd; }
     [data-theme="dark"] .compliance-box.collapsible-open .compliance-header { border-bottom-color: #6d28d9; }
@@ -747,6 +750,7 @@
       } else if (ca.analysis) {
         preview.textContent = ca.analysis;
       }
+      preview.addEventListener('click', () => box.classList.toggle('collapsible-open'));
       box.appendChild(preview);
 
       const collapsibleBdy = document.createElement('div');
@@ -845,6 +849,7 @@
       const preview = document.createElement('div');
       preview.className = 'collapsible-preview';
       preview.textContent = items.slice(0, 3).map(c => `${prefix} ${c}`).join('\n');
+      preview.addEventListener('click', () => sec.classList.toggle('collapsible-open'));
       sec.appendChild(preview);
 
       const collBody = document.createElement('div');
