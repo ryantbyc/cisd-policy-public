@@ -102,8 +102,140 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-10-21_regular",
       "confidence": "high",
       "source_redline": "EMB_LOCAL.pdf",
-      "notes": "This is a comprehensive policy rewrite. Red underlined text = additions; red strikethrough = deletions. The document is largely new red-underlined text (new sections added per S.B. 12, 89th Texas Legislature). The cover page title reads 'Discuss and Possibly Adopt Revisions to Board Policy EMB (Local)' which maps to action='adopted' per the extraction rules. Many of the additions are entirely new sections with no prior counterpart. The term 'Gender Fluidity' is replaced throughout with 'Gender Identity.' The definition of 'Subject Persons' was moved from the body of the policy to a dedicated top-level defined section and slightly expanded to include 'contractors, vendors, and other individuals.'"
-
+      "notes": "This is a comprehensive policy rewrite. Red underlined text = additions; red strikethrough = deletions. The document is largely new red-underlined text (new sections added per S.B. 12, 89th Texas Legislature). The cover page title reads 'Discuss and Possibly Adopt Revisions to Board Policy EMB (Local)' which maps to action='adopted' per the extraction rules. Many of the additions are entirely new sections with no prior counterpart. The term 'Gender Fluidity' is replaced throughout with 'Gender Identity.' The definition of 'Subject Persons' was moved from the body of the policy to a dedicated top-level defined section and slightly expanded to include 'contractors, vendors, and other individuals.'",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Subject Persons Definition — expansion of covered persons to include employees, volunteers, and contractors who directly interact with students",
+            "classification": "Mixed",
+            "statutory_basis": "S.B. 12 (89th Leg., R.S.), eff. 9/1/2025 (DEI and social transitioning prohibitions expressly extend to contractors and volunteers per enrolled text); prior local policy already contained a narrower 'Subject Persons' definition",
+            "verification_method": "web search confirmed — LegiScan enrolled text and TEA guidance confirm SB 12 extends DEI and social transitioning prohibitions to contractors and volunteers",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 blocking Sections 3, 7, 24, and 27 as to Houston ISD, Katy ISD, and Plano ISD; Conroe ISD not currently enjoined",
+            "local_additions": "SB 12 compels extension of certain prohibitions to contractors and volunteers; district chose to consolidate this into a single defined term 'Subject Persons' used policy-wide and to apply that definition to non-statutory contexts such as classroom discussion rules and personal belief prohibitions. Breadth of application beyond SB 12-covered conduct is a local drafting choice."
+          },
+          {
+            "element": "Classroom Discussion of Controversial Issues — replacing 'Teachers' with 'Subject Persons,' prohibition on transmitting personal beliefs, requirement to conduct discussions fairly, requirement to explore topics objectively and free from political bias",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §28.0022 as enacted by S.B. 3 (87th Leg., 2nd Called Sess.), eff. 12/2/2021; S.B. 12 (89th Leg., R.S.), eff. 9/1/2025 (extends compliance obligations to contractors and volunteers for DEI and social transitioning contexts)",
+            "verification_method": "web search confirmed — TEA SB 3 guidance letter confirms TEC §28.0022 mandates instructional objectivity and prohibitions on transmitting personal beliefs; SB 12 enrolled text confirmed effective 9/1/2025",
+            "litigation_status": "None identified as to the core controversial-issues and objectivity provisions of TEC §28.0022",
+            "local_additions": "Substantive content requirements track TEC §28.0022. Extending these obligations to volunteers and contractors in all classroom discussion contexts — beyond what TEC §28.0022 expressly covers — is a local choice, though SB 12 compels the extension in DEI and social transitioning contexts specifically. The 'may discuss with the principal' procedural guidance is a locally added provision not required by statute."
+          },
+          {
+            "element": "Holidays and Commemorative Months — district may acknowledge or teach significance only if established by Presidential Proclamation, Congressional law or Resolution, Gubernatorial Proclamation, or Texas legislative law or Resolution, and fits TEKS history themes under Subchapter A, Chapter 28",
+            "classification": "Required by Law",
+            "statutory_basis": "S.B. 12 (89th Leg., R.S.), eff. 9/1/2025 (enrolled text addresses permissible holiday and commemorative month instruction and ties acknowledgment to official proclamations and TEKS history themes)",
+            "verification_method": "web search confirmed — SB 12 enrolled and effective 9/1/2025; LegiScan and TEA guidance confirm instructional content restrictions on holiday and commemorative month acknowledgment",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 (Sections 3, 7, 24, and 27 of SB 12); Conroe ISD not currently covered by injunction; applicability of injunction to holidays/commemorative months provision depends on specific section numbering within SB 12",
+            "local_additions": "The two-part conjunctive test tracking both official establishment and TEKS alignment mirrors SB 12 statutory language. No significant local additions identified."
+          },
+          {
+            "element": "Certain Instructional Requirements and Prohibitions — anti-CRT/systemic discrimination prohibitions, expanded 'psychological distress' language, anti-American sentiments prohibition, prohibition on private funding for prohibited curriculum topics",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §28.0022 as enacted by S.B. 3 (87th Leg., 2nd Called Sess.), eff. 12/2/2021 (controls instructional prohibitions; superseded HB 3979 (87th Leg., R.S.) effective 12/2/2021); S.B. 12 (89th Leg., R.S.), eff. 9/1/2025",
+            "verification_method": "web search confirmed — TEA SB 3 guidance letter confirms SB 3 superseded HB 3979 on instructional requirements effective 12/2/2021; SB 12 enrolled confirmed effective 9/1/2025",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 (Sections 3, 7, 24, and 27 of SB 12); injunction currently limited to three named districts, not Conroe ISD",
+            "local_additions": "TEC §28.0022 (via SB 3) prohibits race and sex stereotyping and compelled acceptance of blame on the basis of race or sex. The policy re-inserts 'discomfort, anguish, or guilt, or any other form of psychological distress' language originally from HB 3979 (87th Leg., R.S.), which SB 3 superseded — re-inclusion of this language is a local choice not required by the current operative statute. The explicit definition of Critical Race Theory and Systemic Discrimination Ideologies is a local drafting addition not contained in TEC §28.0022 or SB 12. The prohibition on accepting private funding for prohibited curriculum topics is a local expansion; no verified statute compels this specific funding restriction."
+          },
+          {
+            "element": "Student Lobbying for Course Credit prohibition — no employee shall require, award credit for, or make part of a course any student work or service learning for lobbying or social policy advocacy organizations",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §28.0022 as enacted by S.B. 3 (87th Leg., 2nd Called Sess.), eff. 12/2/2021 — NOTE: Policy cites HB 3979 (87th Leg., R.S.) as authority, but SB 3 (87th Leg., 2nd Called Sess.) superseded HB 3979 effective 12/2/2021 and is the operative controlling statute; SB 3 substantially retains but modifies the student lobbying prohibition",
+            "verification_method": "web search confirmed — TEA guidance and ATPE analysis confirm SB 3 superseded HB 3979 on instructional requirements effective 12/2/2021; core lobbying prohibition is preserved in operative law",
+            "litigation_status": "None identified",
+            "local_additions": "Policy's citation of HB 3979 as sole authority is legally inaccurate — SB 3 (87th Leg., 2nd Called Sess.) is the operative controlling statute. The policy language does not reflect SB 3's exception permitting teacher-directed student communications with officials without teacher influence over content, making this policy potentially more restrictive than current law requires — that additional restriction is a local choice. Statute uses 'MAY NOT' mandatory language for the core prohibition, so the prohibition itself is required."
+          },
+          {
+            "element": "Instruction on Human Sexuality — written parental consent required before instruction, 30-day advance notice, detailed 10-element consent form requirements",
+            "classification": "Mixed",
+            "statutory_basis": "S.B. 12 (89th Leg., R.S.), eff. 9/1/2025, TEC §28.0043 (as enacted by SB 12, requiring written parental consent for human sexuality instruction and advance notice); TEC §28.004 (pre-existing TEKS-alignment requirement for human sexuality instruction)",
+            "verification_method": "web search confirmed — TEA guidance (August 28, 2025 and updated September 8, 2025 FAQ) and SB 12 enrolled text confirm written parental consent requirement; TEA FAQ confirms SB 12 §28.0043 reinstates opt-in written consent requirement",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 (Sections 3, 7, 24, and 27 of SB 12); human sexuality parental consent provisions are not confirmed to fall within the enjoined sections; Conroe ISD not currently covered by injunction",
+            "local_additions": "SB 12 requires written parental consent and advance notice before human sexuality instruction. TEA guidance indicates a statutory notice period; the policy specifies 30 days — which is more restrictive than the statutory minimum and is a local choice. The 10-element detailed consent form content list (items 1 through 10) is entirely locally constructed; SB 12 requires written consent but does not prescribe specific form elements. Statute uses mandatory language for the consent requirement itself but does not compel the specific form contents the district has added."
+          },
+          {
+            "element": "Pornographic Material Prohibition — omnibus definition, prohibition on instructional and library materials containing such material, prohibition on instructing Subject Persons to teach or promote pornographic material",
+            "classification": "Mixed",
+            "statutory_basis": "Texas Penal Code §43.24 (harmful material definition, confirmed; amended by S.B. 412 (89th Leg., R.S.), eff. 9/1/2025, removing educational affirmative defense); S.B. 12 (89th Leg., R.S.), eff. 9/1/2025 (instructional and library material restrictions); TEC §33.021 reference to 'sexually explicit material' definition [CITATION UNVERIFIED: direct text of TEC §33.021 not confirmed by search — describe only as a statutory reference in the policy]",
+            "verification_method": "web search confirmed — Texas Penal Code §43.24 verified; S.B. 412 (89th Leg.) amendment removing educational affirmative defense confirmed by Texas Library Association reporting; TEC §33.021 reference unverified by direct text search",
+            "litigation_status": "None identified specific to pornographic material provisions",
+            "local_additions": "The statutory definition of 'harmful material' under Penal Code §43.24 is accurately incorporated as a required element. The policy's omnibus 'pornographic material' definition aggregates multiple statutory and non-statutory categories beyond what any single statute requires, including 'indecent content,' 'profane content,' vendor ratings, QR code references, the Board of Education v. Pico standard, and internet referral via links — this aggregation is a local policy construction. No single statute compels this consolidated definition. The prohibition on instructing Subject Persons to teach or promote pornographic material goes beyond direct statutory text and is a locally constructed prohibition."
+          },
+          {
+            "element": "Diversity, Equity, and Inclusion — definitions of DEI duties, prohibition on assigning DEI duties, prohibition on compelling DEI statements, HBCU and antidiscrimination law carve-outs, equity audit carve-out, contracting clarification for historically underutilized businesses",
+            "classification": "Mixed",
+            "statutory_basis": "S.B. 12 (89th Leg., R.S.), eff. 9/1/2025 (prohibits assignment of DEI duties; defines DEI duties; prohibits compelling DEI statements; carve-outs for HBCU recruitment and federal/state law compliance); TEC §39.053 (equity audit carve-out referenced); S.B. 3 (87th Leg., 2nd Called Sess.), eff. 12/2/2021 (controls instructional prohibition on race and sex stereotyping, superseding HB 3979 (87th Leg., R.S.) as to item 3 of the DEI duty definition)",
+            "verification_method": "web search confirmed — SB 12 enrolled text confirmed; LegiScan supplement confirms DEI duty definition and prohibitions; TEA guidance confirms scope of DEI prohibitions",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 blocking Section 7 (DEI provisions) in Houston ISD, Katy ISD, and Plano ISD; Conroe ISD not currently covered by injunction",
+            "local_additions": "Core DEI duty prohibitions and definitions track SB 12 enrolled text and are required. The 'Contracting Clarification' carve-out for historically underutilized businesses and minority and women-owned businesses is a locally added savings clause preserving existing procurement authority; SB 12 does not expressly address this carve-out. DEI duty item 3 references HB 3979 (87th Leg., R.S.) as authority, but SB 3 (87th Leg., 2nd Called Sess.) superseded HB 3979 on instructional prohibitions — the HB 3979 citation for that sub-element is legally inaccurate as sole authority."
+          },
+          {
+            "element": "Gender Identity and Sexual Orientation — prohibition on instruction, guidance, activities, or programming regarding sexual orientation or gender identity PreK–12, prohibition on using district resources to promote gender identity or sexual orientation, carve-outs for First Amendment student speech, authorized health services with parental consent, and single-sex organizations",
+            "classification": "Required by Law",
+            "statutory_basis": "S.B. 12 (89th Leg., R.S.), eff. 9/1/2025, TEC §28.0043 (as enacted by SB 12, prohibiting instruction on sexual orientation or gender identity PreK–12 and specifying carve-outs)",
+            "verification_method": "web search confirmed — LegiScan enrolled text of SB 12 confirms TEC §28.0043 prohibition and carve-outs; TEA guidance confirms prohibition and carve-outs as required by SB 12",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 blocking Section 3 (LGBT curriculum prohibition) in Houston ISD, Katy ISD, and Plano ISD; court noted all Texas districts remain obligated to comply with federal law even when contrary to state directives; Conroe ISD not currently enjoined",
+            "local_additions": "Statutory carve-outs for First Amendment student speech, authorized health services with parental consent, and single-sex organizations not advancing political or social agendas are required by SB 12 and accurately reflected. The added definition of 'sexual orientation' is a local elaboration for clarity not required by SB 12 text. The term update from 'Gender Fluidity' to 'Gender Identity' in the section heading aligns with SB 12 terminology and is required."
+          },
+          {
+            "element": "Social Transitioning — definition, prohibition on Subject Persons assisting students with social transitioning including providing information or guidelines, board reporting obligation to Commissioner when employee violates prohibition",
+            "classification": "Required by Law",
+            "statutory_basis": "S.B. 12 (89th Leg., R.S.), eff. 9/1/2025 (defines social transitioning; prohibits district employees, contractors, and volunteers from assisting students with social transitioning; requires board to report violations to Commissioner of Education)",
+            "verification_method": "web search confirmed — SB 12 enrolled text confirmed; TEA guidance and CFISD employee guidance confirm social transitioning prohibition and definition as required by SB 12",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 blocking Sections 3, 7, 24, and 27 of SB 12 in Houston ISD, Katy ISD, and Plano ISD; social transitioning prohibition and reporting requirement may fall within enjoined sections depending on section numbering; Conroe ISD not currently enjoined",
+            "local_additions": "Statutory definition of social transitioning and the prohibition on assisting students with social transitioning are required by SB 12. The board reporting obligation to the Commissioner tracks SB 12. No significant local additions identified beyond application to the locally defined 'Subject Persons' term."
+          },
+          {
+            "element": "Pronoun Usage — prohibition on use of pronoun identifiers inconsistent with biological sex as listed on specified records, updated from 'will not promote, require or encourage' to mandatory 'shall prohibit' language",
+            "classification": "Required by Law",
+            "statutory_basis": "S.B. 12 (89th Leg., R.S.), eff. 9/1/2025 (prohibits use of pronouns inconsistent with biological sex; enrolled text confirmed as mandating district prohibition)",
+            "verification_method": "web search confirmed — SB 12 enrolled text confirmed effective 9/1/2025; TEA guidance confirms pronoun prohibition as a mandatory district obligation under SB 12",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 blocking Sections 3, 7, 24, and 27 of SB 12 in Houston ISD, Katy ISD, and Plano ISD; pronoun prohibition may fall within enjoined sections; Conroe ISD not currently enjoined",
+            "local_additions": "Shift from 'will not promote, require or encourage' to 'shall prohibit' tracks the mandatory language of SB 12. Extension to all Subject Persons beyond district employees reflects SB 12's scope. No significant local additions identified."
+          },
+          {
+            "element": "Prohibited Terms — prohibition on use of 'Latinx' (requiring use of 'Hispanic,' 'Latino,' 'Latina,' etc.) and prohibition on use of 'minor-attracted person' (requiring use of 'pedophile')",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None — [CITATION UNVERIFIED: research did not confirm that SB 12 or any other verified Texas statute or TAC rule compels either the 'Latinx' prohibition or the 'minor-attracted person'/'pedophile' terminology requirement]",
+            "verification_method": "web search conducted — no verified statutory source found compelling either prohibited term provision",
+            "litigation_status": "None identified",
+            "local_additions": "Both prohibited terms provisions are locally constructed policy choices. No verified statute compels the district to prohibit 'Latinx' or to mandate use of 'pedophile' in place of 'minor-attracted person.' These are exercises of local board authority. The 'minor-attracted person' provision may implicate First Amendment considerations but represents a local policy determination, not a statutory mandate."
+          },
+          {
+            "element": "Student First Amendment Rights — savings clause that nothing in the policy may be construed to affect student rights under the First Amendment or Texas Constitution Article I Section 8",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "First Amendment to the United States Constitution; Texas Constitution Article I, Section 8 — these are constitutional provisions that independently protect student speech rights; SB 12 also contains a parallel carve-out in the gender identity and sexual orientation prohibition",
+            "verification_method": "web search confirmed — SB 12 enrolled text contains First Amendment carve-out in sexual orientation and gender identity section; separate standalone savings clause is a local drafting choice",
+            "litigation_status": "None identified specific to this savings clause",
+            "local_additions": "SB 12 contains a First Amendment carve-out within the gender identity and sexual orientation provision. The district chose to add a standalone policy-wide savings clause extending that protection to the entire policy — this is a local drafting expansion beyond what SB 12 requires in that specific section. Statute uses 'MAY NOT be construed to limit' language, confirming the carve-out is required within the gender identity provision, but the policy-wide standalone clause is locally chosen."
+          },
+          {
+            "element": "Discipline for Violations — violations constitute cause for discipline including termination of employees and contractors; non-employee Subject Persons may be immediately terminated or removed by Superintendent or designee",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §21.056 (general authority to terminate employees for good cause); S.B. 12 (89th Leg., R.S.), eff. 9/1/2025 (authorizes but does not mandate specific discipline procedures for violations)",
+            "verification_method": "web search confirmed — SB 12 enrolled text confirmed; no verified provision in SB 12 mandating a specific discipline framework of this type",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 (Sections 3, 7, 24, and 27 of SB 12); applicability to discipline provisions depends on section numbering; Conroe ISD not currently enjoined",
+            "local_additions": "SB 12 authorizes enforcement but does not mandate the specific discipline framework, immediate removal authority for non-employee Subject Persons, or the specific cross-references to DFAA, DFBA, and DFCA. Statute uses permissive authorization language as to enforcement mechanisms; the district chose to construct a mandatory discipline and removal framework. This is a local policy choice building on statutory authorization."
+          },
+          {
+            "element": "Policy Distribution — district shall make a copy of this policy available to all Subject Persons",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None — no verified statute compels distribution of a local board policy on controversial issues to all Subject Persons in this specific manner",
+            "verification_method": "web search conducted — no verified statutory mandate found for this specific distribution requirement",
+            "litigation_status": "None identified",
+            "local_additions": "Entirely locally constructed procedural requirement. Represents a local administrative choice to ensure awareness of policy obligations. Statute uses 'MAY' or is silent on this mechanism."
+          },
+          {
+            "element": "Superintendent Authority — Superintendent shall develop procedures to ensure compliance; Superintendent shall certify to the Board of Trustees that the District complies with this policy not later than February 1, 2026",
+            "classification": "Mixed",
+            "statutory_basis": "S.B. 12 (89th Leg., R.S.), eff. 9/1/2025 (requires superintendent compliance certification to TEA; verified research indicates statutory deadline is September 30 of each year, not February 1)",
+            "verification_method": "web search confirmed — SB 12 enrolled text confirmed effective 9/1/2025; research indicates statutory certification deadline is September 30 annually; February 1, 2026 deadline in this policy does not match verified statutory deadline",
+            "litigation_status": "Active — GSA Network et al. v. Morath, S.D. Tex., preliminary injunction granted 2/20/2026 (Sections 3, 7, 24, and 27 of SB 12); Conroe ISD not currently enjoined",
+            "local_additions": "SB 12 requires a superintendent compliance certification — this element is required. However, the statutory deadline for certification is September 30 annually per verified research; the policy specifies February 1, 2026, which is a locally chosen deadline that differs from and is earlier than the statutory deadline. The requirement to develop internal compliance procedures is a local administrative expansion beyond the statutory certification obligation."
+          }
+        ]
+      }
     },
     {
       "date": "2025-09-16",
