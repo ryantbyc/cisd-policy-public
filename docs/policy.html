@@ -138,6 +138,16 @@
     .policy-title-text .policy-last-action { font-size: 0.82rem; color: var(--text-secondary); margin-top: 0.2rem; }
     .policy-title-text .policy-last-action a { color: var(--border-accent); text-decoration: none; }
     .policy-title-text .policy-last-action a:hover { text-decoration: underline; }
+    .policy-connect-btn {
+      display: inline-block; margin-top: 0.5rem;
+      padding: 0.3rem 0.75rem; border-radius: 5px;
+      font-size: 0.78rem; font-weight: 600;
+      background: var(--bg-code); color: var(--text-code);
+      border: 1px solid var(--border-card);
+      text-decoration: none;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .policy-connect-btn:hover { border-color: var(--border-accent); background: var(--bg-card); }
 
     /* ── Controls ── */
     .controls-bar { background: var(--bg-header); border-bottom: 1px solid rgba(255,255,255,0.1); padding: 0.4rem 1.5rem; }
@@ -978,9 +988,12 @@
       titleText.appendChild(sub);
     }
     if (data.policy_connect_url) {
-      const link = document.createElement('div');
-      link.className = 'policy-last-action';
-      link.innerHTML = `<a href="${esc(data.policy_connect_url)}" target="_blank" rel="noopener">View on PolicyConnect ↗</a>`;
+      const link = document.createElement('a');
+      link.href = esc(data.policy_connect_url);
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.className = 'policy-connect-btn';
+      link.textContent = 'View Official Policy Record ↗';
       titleText.appendChild(link);
     }
     titleBlock.appendChild(codeBadge);
