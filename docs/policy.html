@@ -716,7 +716,7 @@
       hdr.className = 'compliance-header';
       const badge = document.createElement('span');
       badge.className = 'compliance-badge';
-      badge.textContent = 'Legal Compliance';
+      badge.textContent = 'Legal Compliance Details';
       const clsBadge = document.createElement('span');
       clsBadge.className = `compliance-classification ${clsClass}`;
       clsBadge.textContent = cls;
@@ -888,6 +888,48 @@
       body.appendChild(makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+'));
     } else if (changesRemoved.length) {
       body.appendChild(makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−'));
+    }
+
+    /* Legal Compliance Summary — plain-language bullets above the detailed box */
+    if (Array.isArray(entry.compliance_summary) && entry.compliance_summary.length) {
+      const sumBox = document.createElement('div');
+      sumBox.className = 'compliance-box';
+
+      const sumHdr = document.createElement('div');
+      sumHdr.className = 'compliance-header';
+      const sumBadge = document.createElement('span');
+      sumBadge.className = 'compliance-badge';
+      sumBadge.textContent = 'Legal Compliance Summary';
+      const sumChevron = document.createElement('span');
+      sumChevron.className = 'toggle-chevron';
+      sumChevron.style.marginLeft = 'auto';
+      sumChevron.textContent = '▶';
+      sumHdr.appendChild(sumBadge);
+      sumHdr.appendChild(sumChevron);
+      sumHdr.addEventListener('click', () => sumBox.classList.toggle('collapsible-open'));
+      sumBox.appendChild(sumHdr);
+
+      const sumPreview = document.createElement('div');
+      sumPreview.className = 'collapsible-preview';
+      sumPreview.textContent = entry.compliance_summary.slice(0, 3).map(b => `• ${b}`).join('\n');
+      sumPreview.addEventListener('click', () => sumBox.classList.toggle('collapsible-open'));
+      sumBox.appendChild(sumPreview);
+
+      const sumCollBdy = document.createElement('div');
+      sumCollBdy.className = 'collapsible-body';
+      const sumBdy = document.createElement('div');
+      sumBdy.className = 'compliance-body';
+      const sumUl = document.createElement('ul');
+      sumUl.className = 'changes-list';
+      entry.compliance_summary.forEach(bullet => {
+        const li = document.createElement('li');
+        li.textContent = bullet;
+        sumUl.appendChild(li);
+      });
+      sumBdy.appendChild(sumUl);
+      sumCollBdy.appendChild(sumBdy);
+      sumBox.appendChild(sumCollBdy);
+      body.appendChild(sumBox);
     }
 
     if (complianceBox) body.appendChild(complianceBox);
