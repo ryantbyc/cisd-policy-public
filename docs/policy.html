@@ -919,7 +919,7 @@
         a.href = `data/redlines/${date}/${entry.source_redline}`;
         a.download = entry.source_redline;
         a.className = 'redline-download';
-        a.innerHTML = '&#8615; Redline PDF';
+        a.innerHTML = `&#8615; Redline PDF ${esc(formatDate(entry.date))}`;
         linksRow.appendChild(a);
       }
       sec.appendChild(linksRow);
