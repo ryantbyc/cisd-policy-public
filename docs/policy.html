@@ -197,57 +197,27 @@
     /* ── Section heading ── */
     h2 { font-size: 1.1rem; color: var(--text-section); margin-bottom: 1.25rem; padding-bottom: 0.45rem; border-bottom: 2px solid var(--border-section); }
 
-    /* ── Timeline ── */
-    .timeline { position: relative; }
-    .timeline::before {
-      content: '';
-      position: absolute;
-      left: 1.1rem;
-      top: 0.6rem;
-      bottom: 0.6rem;
-      width: 2px;
-      background: var(--border-card);
+    /* ── Entry date tabs ── */
+    .entry-tabs {
+      display: flex; flex-wrap: wrap; gap: 0;
+      border-bottom: 2px solid var(--border-section);
+      margin-bottom: 1.25rem;
     }
+    .entry-tab-btn {
+      background: none; border: none; cursor: pointer;
+      padding: 0.55rem 1rem 0.5rem; margin-bottom: -2px;
+      border-bottom: 2px solid transparent;
+      display: flex; flex-direction: column; align-items: flex-start; gap: 0.2rem;
+      transition: background 0.12s; border-radius: 4px 4px 0 0;
+    }
+    .entry-tab-btn:hover { background: var(--bg-code); }
+    .entry-tab-btn.active { border-bottom-color: var(--border-section); background: var(--bg-card); }
+    .entry-tab-date { font-size: 0.82rem; font-weight: 700; color: var(--text-primary); white-space: nowrap; }
+    .entry-tab-school { font-size: 0.68rem; color: var(--text-secondary); }
+    .entry-tab-panel { display: none; }
+    .entry-tab-panel.active { display: block; }
 
-    .timeline-entry {
-      position: relative;
-      padding-left: 3rem;
-      margin-bottom: 1.75rem;
-    }
-    .timeline-dot {
-      position: absolute;
-      left: 0.55rem;
-      top: 0.55rem;
-      width: 1.1rem;
-      height: 1.1rem;
-      border-radius: 50%;
-      border: 2px solid var(--bg-card);
-      background: var(--border-accent);
-      z-index: 1;
-    }
-    .timeline-dot.dot-adopted   { background: #2e7d32; }
-    .timeline-dot.dot-tabled    { background: #c62828; }
-    .timeline-dot.dot-pending   { background: #e8a020; }
-    .timeline-dot.dot-info      { background: #5a80b0; }
-
-    .timeline-card {
-      background: var(--bg-card);
-      border: 1px solid var(--border-card);
-      border-radius: 8px;
-      box-shadow: var(--shadow-card);
-      overflow: hidden;
-    }
-
-    .timeline-header {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      padding: 0.85rem 1.1rem;
-      flex-wrap: wrap;
-    }
-    .tl-date { font-size: 0.85rem; font-weight: 600; color: var(--text-primary); white-space: nowrap; }
-    .tl-action-label { font-size: 0.72rem; color: var(--text-secondary); }
-    .tl-spacer { flex: 1; }
+    /* ── Result badge (used in tab buttons and elsewhere) ── */
     .result-badge {
       font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;
       padding: 0.2rem 0.55rem; border-radius: 3px; white-space: nowrap;
@@ -257,7 +227,19 @@
     .result-tabled    { background: var(--badge-tabled-bg);   color: var(--badge-tabled-text); }
     .result-info      { background: var(--badge-info-bg);     color: var(--badge-info-text); }
 
-    .timeline-body { padding: 0 1.1rem 1rem; display: flex; flex-direction: column; gap: 0.85rem; }
+    /* ── Timeline entry card ── */
+    .timeline-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 8px;
+      box-shadow: var(--shadow-card);
+      overflow: hidden;
+    }
+    .timeline-body { padding: 0.85rem 1.1rem 1rem; display: flex; flex-direction: column; gap: 0.85rem; }
+
+    /* ── Language split view ── */
+    .lang-split { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+    @media (max-width: 600px) { .lang-split { grid-template-columns: 1fr; } }
 
     .tl-summary { font-size: 0.875rem; line-height: 1.6; color: var(--text-primary); }
 
@@ -688,28 +670,8 @@
   }
 
   function buildEntry(entry) {
-    const rawResult = entry.result || entry.action || 'unknown';
-    // Only show actual outcome (adopted/tabled/etc.) if confirmed by meeting notes.
-    // Without meeting notes we only know a reading occurred.
-    const confirmed = !!entry.meeting_notes_url;
-    const result = confirmed ? rawResult : 'first_reading';
-    const dateStr = formatDate(entry.date);
-    const dot     = document.createElement('div');
-    dot.className = `timeline-dot ${dotClass(result)}`;
-
     const card = document.createElement('div');
     card.className = 'timeline-card';
-
-    /* Header row */
-    const hdr = document.createElement('div');
-    hdr.className = 'timeline-header';
-    const schoolYear = entry.school_year ? `<span class="tl-action-label">${esc(entry.school_year)}</span>` : '';
-    hdr.innerHTML = `
-      <span class="tl-date">${esc(dateStr)}</span>
-      ${schoolYear}
-      <span class="tl-spacer"></span>
-      <span class="result-badge ${resultBadgeClass(result)}">${esc(resultLabel(result))}</span>`;
-    card.appendChild(hdr);
 
     /* Body */
     const body = document.createElement('div');
@@ -883,8 +845,17 @@
       return sec;
     }
 
-    if (changesAdded.length)   body.appendChild(makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+'));
-    if (changesRemoved.length) body.appendChild(makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−'));
+    if (changesAdded.length && changesRemoved.length) {
+      const split = document.createElement('div');
+      split.className = 'lang-split';
+      split.appendChild(makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+'));
+      split.appendChild(makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−'));
+      body.appendChild(split);
+    } else if (changesAdded.length) {
+      body.appendChild(makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+'));
+    } else if (changesRemoved.length) {
+      body.appendChild(makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−'));
+    }
 
     /* Links row — meeting notes + redline download */
     const hasNotes   = !!entry.meeting_notes_url;
@@ -955,12 +926,7 @@
     }
 
     card.appendChild(body);
-
-    const wrapper = document.createElement('div');
-    wrapper.className = 'timeline-entry';
-    wrapper.appendChild(dot);
-    wrapper.appendChild(card);
-    return wrapper;
+    return card;
   }
 
   /* ── Main render ── */
@@ -1064,10 +1030,46 @@
         if (statusCard) panel.appendChild(statusCard);
 
         const sorted = [...entries].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-        const timelineEl = document.createElement('div');
-        timelineEl.className = 'timeline';
-        sorted.forEach(entry => timelineEl.appendChild(buildEntry(entry)));
-        panel.appendChild(timelineEl);
+
+        /* Date tab bar */
+        const entryTabs = document.createElement('div');
+        entryTabs.className = 'entry-tabs';
+        const entryPanels = document.createElement('div');
+
+        sorted.forEach((entry, i) => {
+          const confirmed = !!entry.meeting_notes_url;
+          const result = confirmed ? (entry.result || entry.action || 'unknown') : 'first_reading';
+
+          /* Tab button */
+          const btn = document.createElement('button');
+          btn.className = 'entry-tab-btn' + (i === 0 ? ' active' : '');
+          btn.dataset.idx = String(i);
+          const dateSpan = document.createElement('span');
+          dateSpan.className = 'entry-tab-date';
+          dateSpan.textContent = formatDate(entry.date);
+          const badge = document.createElement('span');
+          badge.className = `result-badge ${resultBadgeClass(result)}`;
+          badge.style.fontSize = '0.65rem';
+          badge.textContent = resultLabel(result);
+          btn.appendChild(dateSpan);
+          btn.appendChild(badge);
+          entryTabs.appendChild(btn);
+
+          /* Tab panel */
+          const entryPanel = document.createElement('div');
+          entryPanel.className = 'entry-tab-panel' + (i === 0 ? ' active' : '');
+          entryPanel.dataset.idx = String(i);
+          entryPanel.appendChild(buildEntry(entry));
+          entryPanels.appendChild(entryPanel);
+
+          btn.addEventListener('click', () => {
+            entryTabs.querySelectorAll('.entry-tab-btn').forEach(b => b.classList.toggle('active', b.dataset.idx === String(i)));
+            entryPanels.querySelectorAll('.entry-tab-panel').forEach(p => p.classList.toggle('active', p.dataset.idx === String(i)));
+          });
+        });
+
+        panel.appendChild(entryTabs);
+        panel.appendChild(entryPanels);
       }
 
       main.appendChild(panel);
