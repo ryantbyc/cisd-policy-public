@@ -610,7 +610,7 @@
   }
 
   /* ── Build a single timeline entry ── */
-  function buildStatusCard(entries) {
+  function buildStatusCard(entries, policyConnectUrl) {
     /* Find the most recent entry confirmed by meeting notes with a definitive result */
     const definitive = new Set(['adopted', 'tabled', 'rejected', 'withdrawn', 'pending_adoption']);
     const sorted = [...entries].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
@@ -663,6 +663,17 @@
       link.rel = 'noopener noreferrer';
       link.className = 'status-notes-link';
       link.textContent = 'Meeting notes ↗';
+      card.appendChild(link);
+    }
+
+    if (result === 'adopted' && policyConnectUrl) {
+      const link = document.createElement('a');
+      link.href = policyConnectUrl;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.className = 'policy-connect-btn';
+      link.style.marginTop = '0';
+      link.textContent = 'View Official Policy Record ↗';
       card.appendChild(link);
     }
 
@@ -848,8 +859,23 @@
     if (changesAdded.length && changesRemoved.length) {
       const split = document.createElement('div');
       split.className = 'lang-split';
-      split.appendChild(makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+'));
-      split.appendChild(makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−'));
+      const secAdded   = makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+');
+      const secRemoved = makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−');
+
+      /* Sync: toggling either section toggles both */
+      function syncToggle() {
+        const open = secAdded.classList.contains('collapsible-open') ||
+                     secRemoved.classList.contains('collapsible-open');
+        secAdded.classList.toggle('collapsible-open', open);
+        secRemoved.classList.toggle('collapsible-open', open);
+      }
+      [secAdded, secRemoved].forEach(sec => {
+        sec.querySelector('.collapsible-toggle').addEventListener('click', syncToggle, true);
+        sec.querySelector('.collapsible-preview').addEventListener('click', syncToggle, true);
+      });
+
+      split.appendChild(secAdded);
+      split.appendChild(secRemoved);
       body.appendChild(split);
     } else if (changesAdded.length) {
       body.appendChild(makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+'));
@@ -1026,7 +1052,7 @@
         panel.appendChild(empty);
       } else {
         /* Current status card */
-        const statusCard = buildStatusCard(entries);
+        const statusCard = buildStatusCard(entries, data.policy_connect_url);
         if (statusCard) panel.appendChild(statusCard);
 
         const sorted = [...entries].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
