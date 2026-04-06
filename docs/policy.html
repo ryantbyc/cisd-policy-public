@@ -934,7 +934,17 @@
         }
         sumUl.appendChild(li);
       });
+      const sumDisclaimerText = 'AI-generated assessment. Verify citations independently before relying on this analysis.';
+      const sumDisclaimerTop = document.createElement('p');
+      sumDisclaimerTop.className = 'compliance-disclaimer';
+      sumDisclaimerTop.style.marginBottom = '0.5rem';
+      sumDisclaimerTop.textContent = sumDisclaimerText;
+      sumBdy.appendChild(sumDisclaimerTop);
       sumBdy.appendChild(sumUl);
+      const sumDisclaimerBot = document.createElement('p');
+      sumDisclaimerBot.className = 'compliance-disclaimer';
+      sumDisclaimerBot.textContent = sumDisclaimerText;
+      sumBdy.appendChild(sumDisclaimerBot);
       sumCollBdy.appendChild(sumBdy);
       sumBox.appendChild(sumCollBdy);
       body.appendChild(sumBox);
