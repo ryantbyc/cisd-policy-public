@@ -690,6 +690,10 @@
 
     /* Summary */
     if (entry.summary) {
+      const sumHdr = document.createElement('p');
+      sumHdr.style.cssText = 'font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--text-section);margin-bottom:0.25rem;';
+      sumHdr.textContent = 'Policy Change Summary';
+      body.appendChild(sumHdr);
       const sumEl = document.createElement('p');
       sumEl.className = 'tl-summary';
       sumEl.textContent = entry.summary;
@@ -862,10 +866,12 @@
       const secAdded   = makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+');
       const secRemoved = makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−');
 
-      /* Sync: toggling either section toggles both */
-      function syncToggle() {
-        const open = secAdded.classList.contains('collapsible-open') ||
-                     secRemoved.classList.contains('collapsible-open');
+      /* Sync: toggling either section toggles both.
+         Capture phase + stopImmediatePropagation prevents the individual
+         handlers inside makeChangesSection from running. */
+      function syncToggle(e) {
+        e.stopImmediatePropagation();
+        const open = !secAdded.classList.contains('collapsible-open');
         secAdded.classList.toggle('collapsible-open', open);
         secRemoved.classList.toggle('collapsible-open', open);
       }
