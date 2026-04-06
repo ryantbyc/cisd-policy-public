@@ -700,7 +700,8 @@
       body.appendChild(sumEl);
     }
 
-    /* Compliance assessment */
+    /* Compliance assessment — built here, appended after language sections */
+    let complianceBox = null;
     if (entry.compliance_assessment) {
       const ca  = entry.compliance_assessment;
       const cls = ca.classification || '';
@@ -715,7 +716,7 @@
       hdr.className = 'compliance-header';
       const badge = document.createElement('span');
       badge.className = 'compliance-badge';
-      badge.textContent = 'AI Compliance Assessment';
+      badge.textContent = 'Legal Compliance';
       const clsBadge = document.createElement('span');
       clsBadge.className = `compliance-classification ${clsClass}`;
       clsBadge.textContent = cls;
@@ -817,7 +818,7 @@
       bdy.appendChild(disclaimer);
       collapsibleBdy.appendChild(bdy);
       box.appendChild(collapsibleBdy);
-      body.appendChild(box);
+      complianceBox = box;
     }
 
     /* Changes added */
@@ -888,6 +889,8 @@
     } else if (changesRemoved.length) {
       body.appendChild(makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−'));
     }
+
+    if (complianceBox) body.appendChild(complianceBox);
 
     /* Links row — meeting notes + redline download */
     const hasNotes   = !!entry.meeting_notes_url;
