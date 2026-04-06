@@ -923,7 +923,15 @@
       sumUl.className = 'changes-list';
       entry.compliance_summary.forEach(bullet => {
         const li = document.createElement('li');
-        li.textContent = bullet;
+        const colonIdx = bullet.indexOf(':');
+        if (colonIdx > 0 && colonIdx < 60) {
+          const lbl = document.createElement('strong');
+          lbl.textContent = bullet.slice(0, colonIdx + 1);
+          li.appendChild(lbl);
+          li.appendChild(document.createTextNode(bullet.slice(colonIdx + 1)));
+        } else {
+          li.textContent = bullet;
+        }
         sumUl.appendChild(li);
       });
       sumBdy.appendChild(sumUl);
