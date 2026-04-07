@@ -672,14 +672,19 @@
     card.appendChild(iconEl);
     card.appendChild(body);
 
+    const btnRow = document.createElement('div');
+    btnRow.style.cssText = 'display:flex;gap:0.5rem;flex-wrap:wrap;align-items:center;margin-top:0.75rem;';
+    card.appendChild(btnRow);
+
     if (latest.meeting_notes_url) {
       const link = document.createElement('a');
       link.href = latest.meeting_notes_url;
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       link.className = 'policy-connect-btn';
+      link.style.marginTop = '0';
       link.textContent = 'View Meeting Summary ↗';
-      card.appendChild(link);
+      btnRow.appendChild(link);
     }
 
     if (result === 'adopted' && policyConnectUrl) {
@@ -690,7 +695,7 @@
       link.className = 'policy-connect-btn';
       link.style.marginTop = '0';
       link.textContent = 'View Official Policy ↗';
-      card.appendChild(link);
+      btnRow.appendChild(link);
     }
 
     return card;
