@@ -339,10 +339,13 @@
     }
     .status-meta { font-size: 0.78rem; color: var(--text-secondary); margin-top: 0.15rem; }
     .status-notes-link {
-      font-size: 0.78rem; font-weight: 600; color: var(--border-accent);
-      text-decoration: none; white-space: nowrap;
+      font-size: 0.78rem; font-weight: 600; color: var(--text-secondary);
+      text-decoration: none; display: inline-flex; align-items: center; gap: 0.25rem;
+      border: 1px solid var(--border-card); border-radius: 4px;
+      padding: 0.2rem 0.55rem; background: var(--bg-card);
+      transition: border-color 0.15s, color 0.15s; margin-top: 0.5rem;
     }
-    .status-notes-link:hover { text-decoration: underline; }
+    .status-notes-link:hover { border-color: var(--border-accent); color: var(--text-primary); text-decoration: none; }
 
     /* Discussion */
     .discussion-section {
@@ -675,7 +678,7 @@
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       link.className = 'status-notes-link';
-      link.textContent = 'Meeting notes ↗';
+      link.textContent = 'View Meeting Summary ↗';
       card.appendChild(link);
     }
 
