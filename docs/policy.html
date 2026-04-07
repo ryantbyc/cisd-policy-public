@@ -117,8 +117,16 @@
     .header-inner { max-width: 900px; margin: 0 auto; display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
     .header-brand h1 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.02em; }
     .header-brand p  { margin-top: 0.35rem; font-size: 0.9rem; opacity: 0.8; }
-    .header-back { font-size: 0.8rem; opacity: 0.75; color: var(--text-header); text-decoration: none; white-space: nowrap; margin-top: 0.5rem; }
-    .header-back:hover { opacity: 1; text-decoration: underline; }
+    .header-back { display: none; }
+    .back-to-index {
+      display: inline-block; margin-bottom: 0.75rem;
+      padding: 0.3rem 0.75rem; border-radius: 5px;
+      font-size: 0.78rem; font-weight: 600;
+      border: 1px solid var(--border-card); background: var(--bg-card);
+      color: var(--text-secondary); text-decoration: none;
+      transition: border-color 0.15s, color 0.15s;
+    }
+    .back-to-index:hover { border-color: var(--border-accent); color: var(--text-primary); }
 
     /* ── Policy title block (in-page) ── */
     .policy-title-block {
@@ -344,12 +352,15 @@
       padding: 0.65rem 0.9rem;
     }
     .meeting-notes-link {
-      font-size: 0.83rem; font-weight: 600; color: var(--border-accent);
-      text-decoration: none; display: inline-block; padding: 0.1rem 0;
+      font-size: 0.78rem; font-weight: 600; color: var(--text-secondary);
+      text-decoration: none; display: inline-flex; align-items: center; gap: 0.25rem;
+      border: 1px solid var(--border-card); border-radius: 4px;
+      padding: 0.2rem 0.55rem; background: var(--bg-card);
+      transition: border-color 0.15s, color 0.15s;
     }
-    .meeting-notes-link:hover { text-decoration: underline; }
+    .meeting-notes-link:hover { border-color: var(--border-accent); color: var(--text-primary); text-decoration: none; }
 
-    .entry-links { display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; margin-top: 0.5rem; }
+    .entry-links { display: flex; gap: 0.6rem; flex-wrap: wrap; align-items: center; margin-top: 0.5rem; }
     .redline-download {
       font-size: 0.78rem; font-weight: 600; color: var(--text-secondary);
       text-decoration: none; display: inline-flex; align-items: center; gap: 0.25rem;
@@ -675,7 +686,7 @@
       link.rel = 'noopener noreferrer';
       link.className = 'policy-connect-btn';
       link.style.marginTop = '0';
-      link.textContent = 'View Official Policy Record ↗';
+      link.textContent = 'View Official Policy ↗';
       card.appendChild(link);
     }
 
@@ -974,7 +985,7 @@
         a.target = '_blank';
         a.rel = 'noopener noreferrer';
         a.className = 'meeting-notes-link';
-        a.textContent = 'Meeting summary ↗';
+        a.textContent = 'View Meeting Summary ↗';
         linksRow.appendChild(a);
       }
       if (hasRedline) {
@@ -983,7 +994,7 @@
         a.href = `data/redlines/${date}/${entry.source_redline}`;
         a.download = entry.source_redline;
         a.className = 'redline-download';
-        a.innerHTML = `&#8615; Redline PDF ${esc(formatDate(entry.date))}`;
+        a.textContent = `View Redline PDF ${esc(formatDate(entry.date))} ↗`;
         linksRow.appendChild(a);
       }
       sec.appendChild(linksRow);
@@ -1037,6 +1048,13 @@
 
     /* Policy title block */
     const titleBlock = document.createElement('div');
+    /* Back to index button above policy name */
+    const backBtn = document.createElement('a');
+    backBtn.href = 'index.html';
+    backBtn.className = 'back-to-index';
+    backBtn.textContent = '← All Policies';
+    main.appendChild(backBtn);
+
     titleBlock.className = 'policy-title-block';
     const codeBadge = document.createElement('div');
     codeBadge.className = 'policy-title-code';
@@ -1058,7 +1076,7 @@
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       link.className = 'policy-connect-btn';
-      link.textContent = 'View Official Policy Record ↗';
+      link.textContent = 'View Official Policy ↗';
       titleText.appendChild(link);
     }
     titleBlock.appendChild(codeBadge);
@@ -1115,7 +1133,7 @@
       /* Timeline */
       const entries = t.key === 'legal' ? tlLegal : tlLocal;
       const h2 = document.createElement('h2');
-      h2.textContent = `Timeline — ${entries.length} Board Action${entries.length !== 1 ? 's' : ''}`;
+      h2.textContent = 'Policy History';
       panel.appendChild(h2);
 
       if (!entries.length) {
