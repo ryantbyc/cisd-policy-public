@@ -1,20 +1,20 @@
 {
   "code": "CKC",
-  "title": "Safety Program/Risk Management: Emergency Plans",
-  "description": "Conroe ISD maintains emergency plans to help keep students and staff safe during crises such as severe weather, fires, or other threatening situations. The district coordinates these plans with local emergency management agencies to ensure a consistent and practiced response when emergencies occur. Parents and community members can feel confident that schools have documented procedures in place to protect everyone on campus.",
+  "title": "",
+  "description": "Conroe ISD's CKC policy governs emergency preparedness planning for district schools, including the development and maintenance of a multihazard emergency operations plan. It addresses procedures for responding to various threats and emergencies that may affect students, staff, and school facilities. The policy also covers notification requirements when a significant threat to health or safety arises.",
   "last_action_date": "2026-02-17",
-  "last_action_result": "adopted",
+  "last_action_result": "unknown",
   "timeline_local": [
     {
       "date": "2026-02-17",
       "school_year": "2025-2026",
-      "action": "adopted",
-      "result": "adopted",
-      "summary": "This update to CKC (Local Policy) restructures the Multihazard Emergency Operations Plan section by adding new language about the plan's required scope and the specific procedures it must address, while replacing the \"Violent Activity\" section heading and its associated paragraph with a broader \"Threat to Health or Safety\" framework that expands parent notification requirements beyond just violent activity.",
+      "action": "unknown",
+      "result": "unknown",
+      "summary": "This update to Conroe ISD's CKC (Emergency Plans) policy restructures the Multihazard Emergency Operations Plan section by adding a new opening paragraph with comprehensive plan requirements, removes the enumerated list of specific procedures (polling place security, active shooter, train derailment, substitute teacher access), and renames the notification section from \"Violent Activity\" to \"Threat to Health or Safety\" while replacing the violent-activity-specific notification paragraph with a broader significant-threat notification requirement.",
       "changes_added": [
         "The District shall adopt and implement a multihazard emergency operations plan for use in the District facilities. The plan must address prevention, mitigation, preparedness, response, reunification, and recovery in accordance with Texas law and regulation.",
-        "Multihazard (as underline/emphasis on the word in the heading 'Multihazard Emergency Operations Plan')",
-        "Threat to Health or Safety (replacing 'Violent Activity' in the section heading)",
+        "multihazard (underline added to word in 'multihazard emergency operations plan')",
+        "Threat to Health or Safety (section heading replacement for 'Violent Activity')",
         "The Superintendent shall adopt procedures providing immediate notification to parents, guardians, and other persons standing in parental relation in circumstances involving a significant threat to the health or safety of students, including identification of the individual with responsibility for overseeing the notification."
       ],
       "changes_removed": [
@@ -23,30 +23,90 @@
         "2. Response to an active shooter emergency;",
         "3. Response to a nearby train derailment, as applicable; and",
         "4. Access to campus buildings and materials necessary for a substitute teacher to carry out the duties of a District employee during an emergency or an emergency drill.",
-        "Violent Activity (from the section heading 'Notice Regarding Violent Activity')",
+        "Violent Activity (section heading)",
         "The Superintendent shall develop procedures to notify parents regarding violent activity that has occurred or is being investigated at a campus or other District facility or at a District-sponsored activity."
       ],
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
       "source_redline": "CKC_LOCAL.pdf",
-      "notes": "The document does not include a cover page title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\") — the page shown appears to be the redline policy page itself, not a standard recommendation cover page. Action has been set to 'unknown' as a result. All red underlined text and red strikethrough text have been captured. The word 'Multihazard' in the heading appears underlined in red indicating it was added/emphasized. The four numbered list items under the emergency operations plan procedures are all struck through (removed)."
-    },
-    {
-      "date": "2026-01-20",
-      "school_year": "2025-2026",
-      "action": "unknown",
-      "result": "unknown",
-      "summary": "This update to Conroe ISD's CKC (Emergency Plans) local policy adds a new required item to the Emergency Operations Plan: provisions for ensuring the safety of students, staff, and spectators during extracurricular activities sponsored or sanctioned by the District.",
-      "changes_added": [
-        "Provisions for ensuring the safety of students, staff, and spectators during extracurricular activities sponsored or sanctioned by the District;"
-      ],
-      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-01-20_regular",
-      "confidence": "medium",
-      "source_redline": "CKC_LOCAL.pdf",
-      "notes": "The cover page does not include a large bold action-determining title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\"); the document simply presents the policy with Version 1 and a blank Date Issued field. Board action could not be determined from the cover page title, so 'unknown' was used. The red underlined item #3 is clearly a new addition. No red strikethrough text was present, so no removals were recorded. This appears to be an initial adoption (Version 1) of this local policy."
+      "notes": "The cover page does not include a standard TASB action title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\"); it only shows the policy metadata, so action is set to 'unknown'. The redline colors are clearly distinguishable: red underlined = additions, red strikethrough = removals. The word 'multihazard' in the Superintendent sentence appears underlined in red, indicating it was added/changed, but this may simply be a formatting artifact of the word being part of a recognized term — noted for review.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "New opening paragraph: District shall adopt and implement a multihazard emergency operations plan addressing prevention, mitigation, preparedness, response, and recovery",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §37.108(a)",
+            "supporting_quote": "Each school district or public junior college district shall adopt and implement a multihazard emergency operations plan for use in the district's facilities. The plan must address prevention, mitigation, preparedness, response, and recovery as defined by the Texas School Safety Center in conjunction with the governor's office of homeland security, the commissioner of education, and the commissioner of higher education.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "Policy adds 'in accordance with Texas law and regulation' as a compliance qualifier — a minor local drafting addition not required by statute but not in conflict with it."
+          },
+          {
+            "element": "Addition of 'reunification' as a sixth required phase in the multihazard emergency operations plan",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §37.108(a) as amended by H.B. 33, 89th Leg. (eff. Sept. 1, 2025)",
+            "supporting_quote": "None in provided analysis — the statute analysis supporting quote omits 'reunification'; however, H.B. 33 (89th Leg.) has superseded the pre-2025 text by adding 'reunification' to the required phases. Web search confirmed via Texas School Safety Center and H.B. 33 bill analysis that EOPs must now address prevention, mitigation, preparedness, response, reunification, and recovery.",
+            "verification_method": "web search confirmed — Texas School Safety Center (txssc.txstate.edu) and H.B. 33 bill analysis (capitol.texas.gov) confirm reunification added as mandatory phase eff. Sept. 1, 2025",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "Addition of underline formatting to the word 'multihazard' in the plan title",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "unverified",
+            "litigation_status": "None identified",
+            "local_additions": "Purely a local typographic or editorial choice to define or emphasize a term; no statute requires or authorizes this specific formatting treatment."
+          },
+          {
+            "element": "Removal of enumerated list of specific plan procedures (polling place security, active shooter, train derailment, substitute teacher access)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §§37.108(d), 37.108(e), 37.108(f)(7), 37.108(g) — underlying statutory requirements remain operative independently",
+            "supporting_quote": "None — no statute requires these subsections to be enumerated in a LOCAL policy document. Each underlying statutory mandate remains legally operative regardless of whether the LOCAL policy text lists them.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "This is a local structural and drafting decision to simplify the LOCAL policy by removing redundant restatement of LEGAL-tier statutory requirements. The district retains all four underlying legal obligations. COMPLIANCE RISK NOTE: The conditional trigger for train derailment policy (TEC §37.108(d) — only required if a facility is within 1,000 yards of a railroad track) is no longer surfaced in the LOCAL policy; the district must ensure the underlying EOP still satisfies this conditional obligation where applicable."
+          },
+          {
+            "element": "Section heading rename from 'Violent Activity' to 'Threat to Health or Safety'",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §37.108(f)(5) (supports broader 'Threat to Health or Safety' framing); TEC §37.1131 (separately requires a policy specifically on violent activity notifications)",
+            "supporting_quote": "TEC §37.108(f)(5): 'provisions for providing immediate notification to parents, guardians, and other persons standing in parental relation in circumstances involving a significant threat to the health or safety of students.' TEC §37.1131: 'Each school district shall adopt a policy for providing notice described by Subsection (a) in a manner that meets the standards adopted under that subsection.'",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "Adopting the broader 'Threat to Health or Safety' heading tracks TEC §37.108(f)(5) language and is supported by statute. However, TEC §37.1131 independently mandates a violent-activity-specific notification policy; that obligation is not subsumed by the broader heading. If the violent-activity duty is not preserved in the CKC(LEGAL) policy or in the EOP itself, a compliance gap exists."
+          },
+          {
+            "element": "Replacement notification paragraph: Superintendent shall adopt procedures for immediate notification to parents regarding significant threat to health or safety of students, including identification of the individual responsible for overseeing notification",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §37.108(f)(5)",
+            "supporting_quote": "provisions for providing immediate notification to parents, guardians, and other persons standing in parental relation in circumstances involving a significant threat to the health or safety of students, including identification of the individual with responsibility for overseeing the notification",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The substantive content — immediate notification plus identification of the responsible individual — is Required by Law under TEC §37.108(f)(5). However, the statute requires these provisions to appear in the district's multihazard emergency operations plan (a board-level document) rather than specifically delegating their adoption to the Superintendent by administrative procedure. Assigning procedure adoption to the Superintendent is a locally discretionary structural choice. Additionally, this paragraph replaces rather than supplements the prior violent-activity-specific language tied to TEC §37.1131, potentially creating a compliance gap for that separate mandatory requirement."
+          },
+          {
+            "element": "Removal of violent-activity-specific notification paragraph (Superintendent to develop procedures notifying parents regarding violent activity at a campus, facility, or district-sponsored activity)",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §37.1131",
+            "supporting_quote": "Each school district shall adopt a policy for providing notice described by Subsection (a) in a manner that meets the standards adopted under that subsection.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The decision to remove this paragraph from the LOCAL policy is a locally discretionary drafting choice only if the TEC §37.1131 obligation is fully preserved in the CKC(LEGAL) policy or in the district's EOP. TEC §37.1131 remains a mandatory, independent statutory requirement that is not subsumed by the broader TEC §37.108(f)(5) language. Absent express treatment of violent-activity notification in either the LEGAL policy tier or the EOP, the district risks non-compliance with TEC §37.1131 and the TEA model standards adopted thereunder."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Emergency Plan Requirements: State law TEC §37.108(a) requires school districts to adopt and carry out a multihazard emergency operations plan covering prevention, mitigation, preparedness, response, and recovery. This policy update adds language reflecting those requirements.",
+        "Reunification Added to Plan: A 2025 state law, H.B. 33, added 'reunification' as a sixth required phase in a district's emergency operations plan under TEC §37.108(a). This policy change incorporates that new requirement, which takes effect September 1, 2025.",
+        "Specific Procedures Removed from Policy Text: The policy previously listed four specific emergency procedures — polling place security, active shooter response, train derailment, and substitute teacher access. Those procedures are still required by state law under various sections of TEC §37.108, but the district chose to remove the restatements from this policy document rather than repeat what the law already says.",
+        "Broader Notification Heading: The section previously titled 'Violent Activity' has been renamed 'Threat to Health or Safety,' which aligns with the language used in TEC §37.108(f)(5). A separate state law, TEC §37.1131, also requires districts to have a specific policy on notifying parents about violent activity at a campus or school event.",
+        "Parent Notification Procedures: Under TEC §37.108(f)(5), a district's emergency plan must include steps for immediately notifying parents when there is a significant threat to student health or safety, and must identify who is responsible for carrying out that notification. This policy update adds language directing the superintendent to develop those procedures.",
+        "Violent Activity Notification Language: The prior policy included a specific paragraph directing the superintendent to develop procedures for notifying parents about violent activity, tied to TEC §37.1131. That paragraph has been removed from this version of the policy, and TEC §37.1131 remains a separate, active state law requirement."
+      ]
     }
   ],
-  "timeline_legal": [],
-  "description_local": "This policy covers a range of school district operations, including how board members request information, how the district purchases goods and services, emergency and safety planning, security personnel, and the management of school buildings and grounds. It affects school board members, district staff, and anyone who uses school facilities or depends on the district's safety and security systems. Parents and community members should be aware of these policies because they directly shape how safe and well-maintained schools are, how public funds are spent, and how the district prepares for and responds to emergencies.",
-  "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/CKC"
+  "timeline_legal": []
 }

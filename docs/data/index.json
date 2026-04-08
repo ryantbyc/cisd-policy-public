@@ -1092,11 +1092,11 @@
     },
     {
       "code": "CKC",
-      "title": "Safety Program/Risk Management: Emergency Plans",
-      "description_short": "This policy covers a range of school district operations, including how board members request information, how the district purchases goods and services,…",
+      "title": "",
+      "description_short": "Conroe ISD's CKC policy governs emergency preparedness planning for district schools, including the development and maintenance of a multihazard emergency…",
       "last_action_date": "2026-02-17",
-      "last_action_result": "adopted",
-      "timeline_count": 2,
+      "last_action_result": "unknown",
+      "timeline_count": 1,
       "has_local": true,
       "has_legal": false
     },
@@ -3531,5 +3531,5 @@
       "has_legal": false
     }
   ],
-  "generated_at": "2026-04-07T16:16:15Z"
+  "generated_at": "2026-04-08T00:33:58Z"
 }
