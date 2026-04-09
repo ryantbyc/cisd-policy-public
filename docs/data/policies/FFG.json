@@ -30,7 +30,137 @@
       ],
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
-      "source_redline": "FFG_LOCAL.pdf"
+      "source_redline": "FFG_LOCAL.pdf",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Abuse definition (detailed 13-part statutory definition added to policy)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "Texas Family Code § 261.001, as amended by SB 571 (89th Leg., R.S., Ch. 1138)",
+            "supporting_quote": "excluding an accident or reasonable discipline by a parent, guardian, or managing or possessory conservator that does not expose the child to a substantial risk of harm",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute analysis provides only one partial verbatim quote from § 261.001 (the reasonable-discipline carve-out). The analysis contains no 'shall adopt' or 'must include' mandate requiring the district to reproduce the full 13-part definition in local policy. Under the GROUNDING RULE, no supporting quote from the statute analysis compels the district to publish this definition locally. The district chose to incorporate the statutory definition into its LOCAL policy — a compliance-motivated discretionary choice. Classified Locally Discretionary because no verbatim statutory mandate to reproduce the definition in local board policy is present in the statute analysis."
+          },
+          {
+            "element": "Professional definition added",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Family Code § 261.101(b), as amended by SB 571 (89th Leg., R.S., Ch. 1138)",
+            "supporting_quote": "the professional shall make a report not later than the 24th hour after the hour the professional first has reasonable cause to believe that the child has been or may be abused or neglected or is a victim of an offense under Section 21.11, Penal Code",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The 'Professional' definition is operationally required to correctly identify who bears the mandatory 24-hour reporting obligation under § 261.101(b). The statute's 'shall make a report' mandate applies specifically to a 'professional' as statutorily defined; the district must accurately reflect that definition to implement the mandatory duty. The added phrase 'including teachers' is consistent with the statute's scope. No local additions beyond the statutory definition are evident."
+          },
+          {
+            "element": "Professional School Employee definition added",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Civil Practice and Remedies Code Chapter 118, as created by HB 4623 (89th Leg., R.S., effective September 1, 2025)",
+            "supporting_quote": "A professional school employee from asserting official immunity under Subchapter B (Civil Immunity), Chapter 22 (School District Employees and Volunteers), Education Code, the common law, or any other law in an action brought under this chapter.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The definition is drawn directly from HB 4623's Ch. 118, CPRC framework, which creates immunity-waiver liability for 'professional school employees.' The district must correctly define the class of persons to whom the statutory prohibition and liability apply. The six enumerated subcategories track the statutory definition. No locally expanded categories are evident."
+          },
+          {
+            "element": "Subject Person definition added",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "unverified",
+            "litigation_status": "None identified",
+            "local_additions": "The 'Subject Person' category — encompassing District employees, volunteers, contractors, vendors, and other individuals who directly interact with students — does not appear in any statute cited in the statute analysis. No statute requires or expressly authorizes this defined category. The district created it locally, apparently to extend the scope of the Notice to Parent or Guardian section beyond the statutory minimum. This is an entirely local policy choice."
+          },
+          {
+            "element": "Training section — substitution of 'Professional School Employees' for 'employees'",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Civil Practice and Remedies Code Chapter 118, as created by HB 4623 (89th Leg., R.S., effective September 1, 2025)",
+            "supporting_quote": "A professional school employee from asserting official immunity under Subchapter B (Civil Immunity), Chapter 22 (School District Employees and Volunteers), Education Code, the common law, or any other law in an action brought under this chapter.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The substitution aligns the training section with the legally operative term 'Professional School Employee' defined in HB 4623 and used in Ch. 118, CPRC. This is a required conforming terminology update to reflect the statute's operative defined class. No local additions."
+          },
+          {
+            "element": "Training content expansion — adding 'this Policy and address mandatory reporting requirements, the definition of abuse, reporting to parents or guardians'",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "unverified",
+            "litigation_status": "None identified",
+            "local_additions": "The statute analysis contains no provision mandating or expressly authorizing this specific training content. No supporting quote from any cited statute compels inclusion of these specific topics in training. The district exercised genuine discretion in specifying these particular training content requirements."
+          },
+          {
+            "element": "Reporting section — trafficking language ('child abuse and neglect include both sex and labor trafficking')",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "Texas Family Code § 261.001, as amended by SB 571 (89th Leg., R.S., Ch. 1138)",
+            "supporting_quote": "knowingly causing, permitting, encouraging, engaging in, or allowing a child to be trafficked in a manner punishable as an offense under Section 20A.02(a)(5), (6), (7), or (8), Penal Code",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "While trafficking is included within the statutory definition of abuse under § 261.001, the statute analysis contains no mandate requiring the district to add a separate narrative statement in the Reporting section stating that abuse includes trafficking. The district chose to add this explanatory sentence. The underlying statutory fact is correct, but the local policy choice to restate it as a standalone sentence in the Reporting section is a locally discretionary drafting decision with no 'shall include' mandate in the statute analysis."
+          },
+          {
+            "element": "Reporting section — 24-hour mandatory reporting requirement for professionals (three-part trigger and non-delegation rule)",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Family Code § 261.101(b), as amended by SB 571 (89th Leg., R.S., Ch. 1138)",
+            "supporting_quote": "the professional shall make a report not later than the 24th hour after the hour the professional first has reasonable cause to believe that the child has been or may be abused or neglected or is a victim of an offense under Section 21.11, Penal Code",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The mandatory 24-hour reporting obligation ('shall make a report') is directly required by § 261.101(b). The non-delegation rule ('A Professional may not delegate to or rely on another person to make the report') is equally required by the statute's express prohibition. Both are grounded in verbatim quotes from the statute analysis. No local additions beyond the statutory requirements."
+          },
+          {
+            "element": "Removal of prior 48-hour written/oral report requirement language",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Family Code § 261.101(b), as amended by SB 571 (89th Leg., R.S., Ch. 1138)",
+            "supporting_quote": "the professional shall make a report not later than the 24th hour after the hour the professional first has reasonable cause to believe that the child has been or may be abused or neglected or is a victim of an offense under Section 21.11, Penal Code",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "SB 571 replaced the prior 48-hour framework with the 24-hour requirement. Retaining the prior 48-hour language would create a policy that directly conflicts with current law. Removal is a required conforming edit compelled by the statute's amendment. No local additions."
+          },
+          {
+            "element": "Notice to Parent or Guardian section — core statutory requirements (misconduct occurred; termination/resignation status; report to agency; as soon as feasible)",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Education Code § 22A.053, as created by SB 571 (89th Leg., R.S., Ch. 1138)",
+            "supporting_quote": "The board of trustees or governing body of an educational entity shall adopt a policy under which notice is provided to the parent or guardian of a student with whom a person employed by or acting as a service provider for the entity is alleged to have engaged in misconduct described by Section 22A.051(a)(2)(A), (B), (C), or (D)",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None for this sub-element. The three required content items (that misconduct occurred; termination/resignation status; whether a report was submitted) and the 'as soon as feasible' timing requirement are each grounded in verbatim quotes from TEC § 22A.053 in the statute analysis."
+          },
+          {
+            "element": "Notice to Parent or Guardian section — extension to locally defined 'Subject Person' (volunteers, contractors, vendors beyond statutory scope)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "unverified",
+            "litigation_status": "None identified",
+            "local_additions": "TEC § 22A.053 covers persons 'employed by or acting as a service provider for the entity.' The district's policy extends the notice obligation to its broader locally defined 'Subject Person' category, which includes volunteers and other individuals not clearly within the statutory scope. This expansion beyond the statutory minimum is a local policy choice not required or expressly authorized by any verbatim quote in the statute analysis."
+          },
+          {
+            "element": "Official Immunity Waived section (entire new section — gross negligence/recklessness/intentional misconduct liability for sexual misconduct or failure to report)",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Civil Practice and Remedies Code Chapter 118, as created by HB 4623 (89th Leg., R.S., effective September 1, 2025)",
+            "supporting_quote": "A professional school employee from asserting official immunity under Subchapter B (Civil Immunity), Chapter 22 (School District Employees and Volunteers), Education Code, the common law, or any other law in an action brought under this chapter.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The policy restates the operative legal effect of Ch. 118, CPRC: that public school employees who are grossly negligent, reckless, or engage in intentional misconduct lose official immunity and face liability for acts involving sexual misconduct or failure to report. Both the immunity prohibition and the governmental immunity waiver are grounded in verbatim quotes in the statute analysis. The district had no discretion to omit this legal consequence. No meaningful local additions — the policy accurately reflects the statutory liability framework."
+          },
+          {
+            "element": "Failing to Report section — item 5 (professional school district employees lose official immunity/face legal liability for failure to report)",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Civil Practice and Remedies Code Chapter 118, as created by HB 4623 (89th Leg., R.S., effective September 1, 2025)",
+            "supporting_quote": "A professional school employee from asserting official immunity under Subchapter B (Civil Immunity), Chapter 22 (School District Employees and Volunteers), Education Code, the common law, or any other law in an action brought under this chapter.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The new consequence — that a professional school employee who fails to report may be prohibited from asserting official immunity and may incur legal liability — is a direct restatement of the statutory prohibition in Ch. 118, CPRC, grounded in a verbatim quote from the statute analysis. The use of 'may be prohibited' and 'may incur' is a slightly conservative restatement of the statute's mandatory prohibition, but this understates rather than expands the statute and adds no local substance. No local additions."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Reporting Deadline Updated: State law S.B. 571 changed the required reporting deadline for certain school employees from 48 hours to 24 hours. This policy reflects that updated requirement and removes the old 48-hour language to stay consistent with current law.",
+        "New Employee Liability Rule: H.B. 4623 created a new state law, effective September 1, 2025, that removes legal protections for professional school employees who are grossly negligent, reckless, or commit intentional misconduct involving sexual abuse or failure to report abuse. This policy adds a new section that describes when an employee can lose that legal protection and face personal liability.",
+        "Parent Notification Requirements: S.B. 571 added a new section to the Texas Education Code (§ 22A.053) requiring schools to notify parents or guardians when a staff member is found to have committed misconduct against their child. The policy adds a new notice section that reflects those required content items and timing.",
+        "Expanded Notice Coverage: The state law requirement for parent notification covers employees and service providers. The district's policy extends that same notification process to a broader group it calls 'Subject Persons,' which includes volunteers, contractors, and vendors — a category the district defined locally beyond what the statute requires.",
+        "Mandatory Reporting Definitions: S.B. 571 updated the Texas Family Code to define who counts as a 'professional' required to report suspected abuse within 24 hours. The policy adds or updates definitions for 'Professional' and 'Professional School Employee' to match the classes of people identified in state law as having specific reporting duties or liability exposure.",
+        "Training Content Added: The policy expands the list of topics that must be covered in staff training to include this policy itself, mandatory reporting requirements, the definition of abuse, and how to notify parents or guardians. This specific list of training topics was not mandated by any cited state law and reflects a local decision by the district."
+      ]
     },
     {
       "date": "2026-01-20",

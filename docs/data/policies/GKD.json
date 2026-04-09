@@ -13,7 +13,83 @@
       "summary": "This is a comprehensive rewrite of Conroe ISD's GKD (Nonschool Use of School Facilities) local policy. The update introduces new defined categories of facility users (District Facility, Facility User, Campus Affiliated Facility User, Employee Facility User, Student Activity, Student After School Facility User), replaces the old paper-based application process with an online portal system, restructures scheduling priorities into a formal numbered hierarchy, overhauls fee structures with detailed provisions for different user categories, and replaces the old \"Special Provisions\" and \"Required Conduct\" sections with a new comprehensive \"Facility Use Requirements\" section, while adding a transition deadline of August 31, 2026.",
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "medium",
-      "source_redline": "GKD_LOCAL.pdf"
+      "source_redline": "GKD_LOCAL.pdf",
+      "compliance_assessment": {
+        "classification": "Locally Discretionary",
+        "elements": [
+          {
+            "element": "Creation of new defined user categories (District Facility, Facility User, Campus Affiliated Facility User, Employee Facility User, Student Activity, Student After School Facility User)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §11.151(c)",
+            "supporting_quote": "The trustees may adopt rules and bylaws necessary to carry out the powers and duties provided by Subsection (b).",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute authorizes general rulemaking but contains no requirement or express permission to define facility-user categories. The specific taxonomy of six user categories is entirely the district's own structural choice with no statutory analog."
+          },
+          {
+            "element": "Replacement of paper-based application process with an online portal system",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "No statute cited in the analysis requires or expressly authorizes an online portal over any other application mechanism. The choice of an online portal is a purely operational and administrative decision by Conroe ISD with no direct statutory basis."
+          },
+          {
+            "element": "Formal numbered scheduling priority hierarchy for facility use",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §11.151(c)",
+            "supporting_quote": "The trustees may adopt rules and bylaws necessary to carry out the powers and duties provided by Subsection (b).",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "While TEC §11.151 broadly permits the board to adopt rules governing district property management, no statute requires or specifically authorizes a tiered priority structure for scheduling. The numbered hierarchy, its specific ordering, and which user categories receive priority are entirely local design choices."
+          },
+          {
+            "element": "Overhauled fee structures with detailed provisions differentiated by user category",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §11.151(a)",
+            "supporting_quote": "receive bequests and donations or other moneys or funds coming legally into their hands",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "TEC §11.151(a) permits the board to receive funds lawfully obtained, providing background authority to charge fees for facility use. However, no statute in the analysis requires or expressly authorizes a specific fee schedule, fee differentiation by user category, or any particular fee structure. The detailed fee framework is a district-originated policy choice."
+          },
+          {
+            "element": "Replacement of 'Special Provisions' and 'Required Conduct' sections with new comprehensive 'Facility Use Requirements' section",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §11.151(c)",
+            "supporting_quote": "The trustees may adopt rules and bylaws necessary to carry out the powers and duties provided by Subsection (b).",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The restructuring and consolidation of conduct and operational requirements into a new section is a drafting and organizational choice by the district. No statute in the analysis mandates the content, format, or existence of a 'Facility Use Requirements' section. The board's general rulemaking authority under TEC §11.151(c) provides background governance authority, but all substantive content choices are locally discretionary."
+          },
+          {
+            "element": "Transition deadline of August 31, 2026",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "No statute cited in the analysis requires or authorizes any specific implementation deadline. The August 31, 2026 transition date is entirely a district-selected administrative timeline with no statutory compulsion."
+          },
+          {
+            "element": "Overall board authority to govern nonschool use of school facilities",
+            "classification": "Permitted by Law",
+            "statutory_basis": "TEC §11.151(a)-(c); TEC §11.1511",
+            "supporting_quote": "the trustees as a body corporate have the exclusive power and duty to govern and oversee the management of the public schools of the district",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "TEC §11.151 broadly vests governance and management of district property in the board and permits rulemaking, but no statute in the analysis specifically requires the district to adopt or maintain a facility use policy at all. The decision to have such a policy and to comprehensively rewrite it is the district's own exercise of permissive board authority. TEC §11.1511 adds authority to enter into contracts and delegate superintendent authority, providing further permissive grounding. No mandatory language compels a facility use policy or any particular rewrite."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Board Authority Over Facilities: Texas Education Code §11.151 gives school boards broad authority to manage district property and adopt rules about its use. This policy rewrite is the district's own choice to exercise that authority — no state law required it to update or maintain a facility use policy.",
+        "New User Categories: The updated policy creates six defined categories for people and groups who want to use school facilities, such as campus-affiliated users and employee facility users. State law does not require or describe these categories; the district designed this classification system on its own.",
+        "Online Application Portal: The policy replaces paper applications with an online portal for requesting facility use. No state law requires or specifically allows an online system over any other method — this is an administrative choice made entirely by the district.",
+        "Scheduling Priority System: The policy sets up a numbered priority list that determines which users get first access to facilities when there is scheduling competition. Texas Education Code §11.151 gives the board general authority to manage district property, but the specific ranking order and structure were designed by the district without any state requirement to do so.",
+        "Fee Structure by User Type: The policy establishes a detailed fee schedule that charges different amounts depending on which user category is requesting the facility. Texas Education Code §11.151(a) permits the board to receive funds lawfully obtained, but the specific fees and how they differ by user type are decisions made entirely by the district.",
+        "Transition Deadline: The policy sets August 31, 2026 as the deadline for moving to the new system. No state law requires this date or any specific implementation timeline — it is a scheduling decision made by the district."
+      ]
     },
     {
       "date": "2025-12-16",

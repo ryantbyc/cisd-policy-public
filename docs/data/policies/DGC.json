@@ -15,7 +15,73 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "medium",
       "source_redline": "DGC_LOCAL.pdf",
-      "notes": "This appears to be a brand-new policy (Version 1) rather than a revision to existing text — all content is shown in red underline, indicating entirely new language with nothing removed. The cover page does not contain a large bold action-determining heading (e.g., \"Discuss,\" \"Adopt,\" etc.); it only shows metadata fields, so the board action could not be determined from the title heading convention and is marked 'unknown'. The rationale is listed as a legislative change."
+      "notes": "This appears to be a brand-new policy (Version 1) rather than a revision to existing text — all content is shown in red underline, indicating entirely new language with nothing removed. The cover page does not contain a large bold action-determining heading (e.g., \"Discuss,\" \"Adopt,\" etc.); it only shows metadata fields, so the board action could not be determined from the title heading convention and is marked 'unknown'. The rationale is listed as a legislative change.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Definition of 'Disciplinary Proceeding' (district discharge/suspension/contract termination or nonrenewal; SBEC action)",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC § 22.05121(a), enacted by H.B. 6, 89th Leg., R.S., Ch. 1066, eff. June 20, 2025",
+            "supporting_quote": "A professional employee of a school district may not be subject to disciplinary proceedings for: (1) the reporting of a violation of Chapter 37 to another professional employee of a school district, the agency, or a law enforcement agency; or (2) an action taken in good faith to remove a student from class under Section 37.002.",
+            "verification_method": "web search confirmed — TEC § 22.05121 text confirmed at statutes.capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "The policy's two-part numbered definition of 'disciplinary proceeding' mirrors the statutory definition verbatim. No locally added categories are present."
+          },
+          {
+            "element": "Immunity from disciplinary proceedings for reporting a Chapter 37 violation to another professional employee, the agency, or a law enforcement agency",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC § 22.05121(b)(1), enacted by H.B. 6, 89th Leg., R.S., Ch. 1066, eff. June 20, 2025",
+            "supporting_quote": "A professional employee of a school district may not be subject to disciplinary proceedings for: (1) the reporting of a violation of Chapter 37 to another professional employee of a school district, the agency, or a law enforcement agency",
+            "verification_method": "web search confirmed — verbatim statutory text confirmed at statutes.capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "None. Policy language tracks the statute verbatim. The mandatory 'may not be subject to' language compels the district to recognize and implement this immunity in its own proceedings."
+          },
+          {
+            "element": "Immunity from disciplinary proceedings for good-faith removal of a student who repeatedly interferes with the teacher's ability to communicate effectively or with classmates' ability to learn (TEC § 37.002(b)(1))",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC § 22.05121(b)(2) and TEC § 37.002(b)(1), as amended by H.B. 6, 89th Leg., R.S., Ch. 1066, eff. June 20, 2025",
+            "supporting_quote": "A teacher may remove from class a student: (1) who has been documented by the teacher to repeatedly interfere with the teacher's ability to communicate effectively with the students in the class or with the ability of the student's classmates to learn",
+            "verification_method": "verbatim statute text — confirmed in statute analysis",
+            "litigation_status": "None identified",
+            "local_additions": "None. The sub-category tracks TEC § 37.002(b)(1) removal grounds directly."
+          },
+          {
+            "element": "Immunity from disciplinary proceedings for good-faith removal of a student who demonstrates unruly, disruptive, or abusive behavior toward the teacher, another adult, or another student (TEC § 37.002(b)(2))",
+            "classification": "Mixed",
+            "statutory_basis": "TEC § 22.05121(b)(2) and TEC § 37.002(b)(2), as amended by H.B. 6, 89th Leg., R.S., Ch. 1066, eff. June 20, 2025",
+            "supporting_quote": "whose behavior the teacher determines is so unruly, disruptive, or abusive that it seriously interferes with the teacher's ability to communicate effectively with the students in the class or with the ability of the student's classmates to learn",
+            "verification_method": "verbatim statute text — confirmed in statute analysis",
+            "litigation_status": "None identified",
+            "local_additions": "The statute requires that unruly, disruptive, or abusive behavior 'seriously interferes' with teaching or learning. The policy omits the 'seriously interferes' threshold qualifier and instead states the behavior is 'unruly, disruptive, or abusive toward the teacher, another adult, or another student.' This paraphrase is a locally chosen drafting adaptation that broadens the immunity's articulated scope beyond the statutory standard, making this element Mixed."
+          },
+          {
+            "element": "Immunity from disciplinary proceedings for good-faith removal of a student who engages in bullying as defined by TEC § 37.0832 (TEC § 37.002(b)(3))",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC § 22.05121(b)(2) and TEC § 37.002(b)(3), as amended by H.B. 6, 89th Leg., R.S., Ch. 1066, eff. June 20, 2025",
+            "supporting_quote": "who engages in conduct that constitutes bullying, as defined by Section 37.0832.",
+            "verification_method": "verbatim statute text — confirmed in statute analysis",
+            "litigation_status": "None identified",
+            "local_additions": "None. Policy language mirrors the statutory removal ground verbatim."
+          },
+          {
+            "element": "Statement that immunity under this policy is cumulative and may not be construed to interfere with any other immunity provided by law",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC § 22.05121(c), enacted by H.B. 6, 89th Leg., R.S., Ch. 1066, eff. June 20, 2025",
+            "supporting_quote": "The immunity provided by Subsection (b) is in addition to any other immunity provided by law. This section may not be construed to interfere with any other immunity provided by law.",
+            "verification_method": "web search confirmed — verbatim text confirmed at statutes.capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "The policy substitutes 'provided by this policy' for 'provided by Subsection (b),' which is an immaterial local drafting adaptation for readability. No substantive local additions are present."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "New Immunity Policy: Texas H.B. 6 (89th Legislature), effective June 20, 2025, required school districts to create protections for teachers facing disciplinary action in certain situations. Conroe ISD's new policy DGC, Version 1 puts those required protections into writing for the first time.",
+        "Reporting Protection: Under TEC § 22.05121(b)(1), teachers cannot be disciplined for reporting a Chapter 37 violation to another staff member, the Texas Education Agency, or a law enforcement agency. The policy reflects this requirement using language that closely follows the state statute.",
+        "Student Removal Protection: TEC § 22.05121(b)(2) prohibits the district from disciplining a teacher who removes a student from class in good faith under the grounds listed in TEC § 37.002(b). The policy covers three removal situations: a student who repeatedly disrupts learning, a student who behaves in an unruly or abusive way, or a student who engages in bullying as defined by TEC § 37.0832.",
+        "Behavior Wording Difference: For the second removal situation involving unruly or abusive behavior, TEC § 37.002(b)(2) requires that the behavior 'seriously interferes' with teaching or learning before a teacher can remove a student. The policy as written describes the behavior but leaves out that 'seriously interferes' threshold, which means the policy's wording is broader than what the statute says.",
+        "Other Legal Protections Preserved: TEC § 22.05121(c) requires that the new immunity not be read to cancel out any other legal protections a teacher may already have. The policy includes this requirement, noting that its protections are meant to add to, not replace, any other existing legal protections."
+      ]
     },
     {
       "date": "2026-01-20",

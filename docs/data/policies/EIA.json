@@ -29,7 +29,128 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
       "source_redline": "EIA_LOCAL.pdf",
-      "notes": "The cover page title heading reads 'Academic Achievement: Grading/Progress Reports to Parents (EIA)' without specifying a reading stage (e.g., 'first reading,' 'adopt,' etc.), so the action could not be determined from the title alone; marked as 'unknown.' The rational states 'Legislative changes.' Red underlined text and red strikethrough text were clearly distinguishable throughout the document. The 'Ppolicy' capitalization anomaly in the Performance sentence appears to be a drafting artifact in the redline."
+      "notes": "The cover page title heading reads 'Academic Achievement: Grading/Progress Reports to Parents (EIA)' without specifying a reading stage (e.g., 'first reading,' 'adopt,' etc.), so the action could not be determined from the title alone; marked as 'unknown.' The rational states 'Legislative changes.' Red underlined text and red strikethrough text were clearly distinguishable throughout the document. The 'Ppolicy' capitalization anomaly in the Performance sentence appears to be a drafting artifact in the redline.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Definitions section — 'parent' includes guardian, conservator, or other person having lawful control",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute analysis contains no requirement or permission compelling or authorizing this specific definitional language. TEC §28.022 as quoted uses 'parent' and 'parent or legal guardian' without defining those terms. The district independently chose to codify this definition in policy."
+          },
+          {
+            "element": "Electronic delivery of written notices and electronic parent signatures via district platform",
+            "classification": "Permitted by Law",
+            "statutory_basis": "TEC §28.022, as amended by S.B. 12 (89th Leg., R.S., effective 2025)",
+            "supporting_quote": "A district that uses an electronic platform for communicating student grade and performance information to parents may permit a parent to sign a notice required under Subsections (a)(2) and (a)(3) electronically",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified — active SB 12 preliminary injunction (S.D. Tex., Feb. 2026, covering Houston ISD, Katy ISD, Plano ISD) targets DEI, social transitioning, and curriculum provisions only; grading and notice provisions are not subject to any identified injunction as of April 9, 2026",
+            "local_additions": "None — policy tracks the statutory permission without expanding it"
+          },
+          {
+            "element": "Retention of record verifying parent acknowledgment when electronic signatures are accepted",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §28.022, as amended by S.B. 12 (89th Leg., R.S., effective 2025)",
+            "supporting_quote": "so long as the district retains a record verifying the parent's acknowledgment of the required notice",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None — policy mirrors the statutory condition exactly"
+          },
+          {
+            "element": "Option of handwritten signature must be offered when district accepts electronic signatures",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §28.022, as amended by S.B. 12 (89th Leg., R.S., effective 2025)",
+            "supporting_quote": "A district that accepts electronic signatures under this subsection must offer parents the option to provide a handwritten signature as provided under Subsection (b)",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "Notices exception — policy does not apply to student aged 18+ living apart from parents, married, or with disabilities of minority removed",
+            "classification": "Permitted by Law",
+            "statutory_basis": "TEC §28.022, as amended by S.B. 12 (89th Leg., R.S., effective 2025)",
+            "supporting_quote": "A policy adopted under this section does not apply to a student who: (1) is 18 years of age or older and who is living in a different residence than the student's parents ... (2) is married ... (3) has had the disabilities of minority removed for general purposes",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute creates automatic exclusions operative by their own terms; no supporting quote in the statute analysis compels the district to affirmatively reproduce this language in local policy text, so codification is a permitted rather than required act."
+          },
+          {
+            "element": "Nine-week written notice to parents of student performance in each class or subject, with required parental signature returned to district",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §28.022, as amended by S.B. 12 (89th Leg., R.S., effective 2025)",
+            "supporting_quote": "requires the district, at least once every 12 weeks, to give written notice to a parent of a student's performance in each class or subject | The notice required under Subsections (a)(2) and (a)(3) must: (1) provide for the signature of a student's parent ... (2) be returned to the district",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "MIXED: The obligation to issue written performance notice in each class or subject, require parental signature, and return it to the district is Required by Law. However, the statute mandates this 'at least once every 12 weeks'; Conroe ISD's policy sets the interval at 'at least once every nine weeks' — a more frequent cadence that exceeds the statutory floor and is a locally discretionary enhancement."
+          },
+          {
+            "element": "Performance measured in accordance with Policy, District procedures, and standards in EIE",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "This sentence cross-references internal policy (EIE) and district procedures with no corresponding requirement or permission in the statute analysis. It is an administrative housekeeping provision reflecting local discretion."
+          },
+          {
+            "element": "Interim progress reports at teacher's discretion (permissive provision)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute analysis contains no requirement or permission governing discretionary interim progress reports issued by individual teachers. This remains a local policy choice."
+          },
+          {
+            "element": "Written notice to parent/legal guardian at least once every three weeks or during the fourth week of each nine-week grading period for consistently unsatisfactory performance in foundation curriculum subjects",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §28.022, as amended by S.B. 12 (89th Leg., R.S., effective 2025)",
+            "supporting_quote": "requires the district, at least once every three weeks, or during the fourth week of each nine-week grading period, to give written notice to a parent or legal guardian of a student's performance in a subject included in the foundation curriculum under Section 28.002(a)(1) if the student's performance in the subject is consistently unsatisfactory, as determined by the district",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The policy adds 'The District may provide notice for other subjects' — this mirrors no express statutory text in the analysis and is a locally discretionary addition. The prefatory 'teacher's discretion' language for general interim reports is also locally discretionary (addressed in separate element above)."
+          },
+          {
+            "element": "Unsatisfactory performance notice must provide for parental signature and be returned to district",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §28.022, as amended by S.B. 12 (89th Leg., R.S., effective 2025)",
+            "supporting_quote": "The notice required under Subsections (a)(2) and (a)(3) must: (1) provide for the signature of a student's parent ... (2) be returned to the district",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "At least two in-person parent-teacher conference opportunities per school year",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §28.022, as amended by S.B. 12 (89th Leg., R.S., effective 2025)",
+            "supporting_quote": "The board of trustees of each school district shall adopt a policy that: (1) provides for at least two opportunities for in-person conferences during each school year between each parent of a child enrolled in the district and the child's teachers",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified — active SB 12 preliminary injunction (S.D. Tex., Feb. 2026) does not encompass this provision",
+            "local_additions": "Removal of prior language 'to conferences scheduled on the campus calendar' reflects conformance to the statutory in-person minimum; no locally chosen enhancements beyond the statutory floor are present in this element."
+          },
+          {
+            "element": "District shall adopt procedures to implement this Policy",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "No provision in the statute analysis requires the district to adopt implementing procedures. TEC §28.022 as quoted does not contain a 'shall adopt procedures' mandate directed at the district beyond adopting the policy itself. This is an administrative governance choice made locally by the board."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Nine-Week Progress Reports: State law S.B. 12 (TEC §28.022) requires schools to send parents a written report on their child's performance in every class or subject and collect a signed acknowledgment from parents. Conroe ISD's policy sets this notice at least once every nine weeks, which is more frequent than the state minimum of once every 12 weeks.",
+        "Unsatisfactory Performance Notices: Under TEC §28.022 as updated by S.B. 12, schools must notify parents in writing at least once every three weeks — or during the fourth week of each nine-week period — when a student is struggling in core curriculum subjects. The policy also requires parents to sign and return those notices to the district.",
+        "Electronic Signatures and Delivery: S.B. 12 allows schools to send required notices and collect parent signatures electronically through a district platform, instead of only using paper. If a district accepts electronic signatures, state law requires it to also offer a handwritten signature option and keep a record confirming the parent acknowledged the notice.",
+        "Parent-Teacher Conferences: TEC §28.022, as amended by S.B. 12, now requires schools to offer parents at least two in-person parent-teacher conferences each school year. The updated policy reflects this requirement and removes older language that tied conferences to the campus calendar schedule.",
+        "Locally Added Definitions: The policy includes a section defining 'parent' to cover guardians, conservators, and others with legal responsibility for a child. This definition was not required or specifically authorized by state law — the district chose to add it for clarity.",
+        "Procedures Requirement: The updated policy directs the district to create internal procedures to carry out the policy's requirements. State law does not specifically require this step; it is a local administrative decision made by the school board."
+      ]
     },
     {
       "date": "2026-01-20",

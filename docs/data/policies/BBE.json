@@ -22,7 +22,64 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-01-20_regular",
       "confidence": "high",
       "source_redline": "BBE_LOCAL.pdf",
-      "notes": "The cover page does not contain a standard TASB action title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\") — it simply shows the policy title \"Board Members: Authority (BBE)\" as a header, so the board action could not be determined from the title convention. Action set to 'unknown'. All red underlined text has been captured; no red strikethrough (removal) text was identified in the document."
+      "notes": "The cover page does not contain a standard TASB action title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\") — it simply shows the policy title \"Board Members: Authority (BBE)\" as a header, so the board action could not be determined from the title convention. Action set to 'unknown'. All red underlined text has been captured; no red strikethrough (removal) text was identified in the document.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Public information requested in compliance with law and policy shall be provided promptly and without charge",
+            "classification": "Mixed",
+            "statutory_basis": "Texas Government Code § 552.021; § 552.008",
+            "supporting_quote": "Public information is available to the public at a minimum during the normal business hours of the governmental body. / A governmental body on request by an individual member, agency, or committee of the legislature shall provide public information, including confidential information, to the requesting member, agency, or committee for inspection or duplication in accordance with this chapter",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The 'without charge' and 'promptly' specifications for Board members specifically are not verbatim mandated in the cited statutes for board member access contexts; these represent local elaboration beyond what the statute text explicitly compels for this specific scenario. The general availability requirement is statutory, but its application and fee-waiver framing for Board members is a local policy choice."
+          },
+          {
+            "element": "District may request Board members to sign confidentiality agreements for confidential public information, with specific requirements (non-disclosure, labeling, secure keeping, copy/note control)",
+            "classification": "Permitted by Law",
+            "statutory_basis": "Texas Government Code § 552.008",
+            "supporting_quote": "The governmental body may require the requesting individual member of the legislature, the requesting legislative agency or committee, or the members or employees of the requesting entity who will view or handle information that is received under this section and that is confidential under law to sign a confidentiality agreement that covers the information",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute authorizes confidentiality agreements for legislative members and their staff. Conroe ISD is extending this framework to its own Board members, which is a local policy choice applying the statutory permission by analogy. The four specific permissible requirements (non-disclosure, labeling, secure keeping, copy/note control) are drawn directly from § 552.008 permissions, but their application to Board members rather than legislative members is a local discretionary extension."
+          },
+          {
+            "element": "Board member right to seek an Attorney General opinion on confidentiality agreements",
+            "classification": "Permitted by Law",
+            "statutory_basis": "Texas Government Code § 552.008",
+            "supporting_quote": "A member, committee, or agency of the legislature required by a governmental body to sign a confidentiality agreement under Subsection (b) may seek a decision as provided by Subsection (b-2) about whether the information covered by the confidentiality agreement is confidential under law.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute grants this right to legislative members, agencies, and committees — not expressly to school board members. Conroe ISD is extending this right to its own Board members by local policy choice, applying the statutory framework by analogy. This is a permitted-by-law framework applied locally, making the extension itself locally discretionary."
+          },
+          {
+            "element": "Confidential public information shall be redacted from information provided to the Board member without charge",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "No statute in the analysis explicitly requires or permits redaction without charge specifically for Board member requests. The 'without charge' element for redaction is a local policy choice not grounded in any verbatim statutory text provided."
+          },
+          {
+            "element": "Attorney-client privileged information not subject to disclosure to a Board member unless privilege applies to that member; District shall inform Board member if information is withheld due to privilege",
+            "classification": "Mixed",
+            "statutory_basis": "Texas Government Code § 552.107",
+            "supporting_quote": "Information is excepted from the requirements of Section 552.021 if: (1) it is information that the attorney general or an attorney of a political subdivision is prohibited from disclosing because of a duty to the client under the Texas Rules of Evidence or the Texas Disciplinary Rules of Professional Conduct.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statutory exception for attorney-client privilege under § 552.107 supports withholding such information. However, the specific condition that 'the attorney-client relationship upon which the privilege is based applies to the member' and the affirmative notification requirement ('the district shall inform the Board member if information responsive to a request is withheld due to attorney-client privilege') are local policy additions not compelled by the verbatim statutory text."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Public Information Access: State law under Texas Government Code § 552.021 requires that public information be made available upon request. This policy adds that Board members will receive that information promptly and at no charge, which goes slightly beyond what the statute specifically spells out for Board member requests.",
+        "Confidentiality Agreements: Texas Government Code § 552.008 allows confidentiality agreements to be used when sharing certain sensitive public information with lawmakers. Conroe ISD is applying that same framework to its own Board members, requiring them to agree to conditions such as keeping information secure and not making unauthorized copies.",
+        "Attorney General Opinions: Under Texas Government Code § 552.008, lawmakers can ask the Attorney General to weigh in on confidentiality agreement disputes. This policy gives Conroe ISD Board members that same option, which is a local extension of a right the statute does not directly grant to school board members.",
+        "Redaction Without Charge: If information must be redacted before it is shared with a Board member, this policy states that the redaction will be provided at no cost. No state statute specifically requires this, making it a local policy decision by the district.",
+        "Attorney-Client Privilege Notice: Texas Government Code § 552.107 allows governments to withhold information protected by attorney-client privilege. This policy adds two local rules: that privilege only applies to a Board member if that member is part of the attorney-client relationship, and that the district must notify the Board member whenever information is withheld on that basis."
+      ]
     },
     {
       "date": "2025-11-18",

@@ -20,7 +20,35 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-12-16_regular",
       "confidence": "high",
       "source_redline": "GKA_LOCAL.pdf",
-      "notes": "The red underlined addition appears in the Tobacco and E-Cigarettes section, adding \", and electronic vaporizing devices\" after \"e-cigarettes.\" The red strikethrough removes the prior \"and\" that connected \"tobacco products\" and \"e-cigarettes,\" replacing it with a comma-separated list structure. All other policy text (Access to District Property, Ejection or Exclusion, Off-Campus Activities, Weapons) is unchanged black text."
+      "notes": "The red underlined addition appears in the Tobacco and E-Cigarettes section, adding \", and electronic vaporizing devices\" after \"e-cigarettes.\" The red strikethrough removes the prior \"and\" that connected \"tobacco products\" and \"e-cigarettes,\" replacing it with a comma-separated list structure. All other policy text (Access to District Property, Ejection or Exclusion, Off-Campus Activities, Weapons) is unchanged black text.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Prohibition on tobacco products and e-cigarettes (core statutory mandate)",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §38.006(b)(1)–(2) as amended by Acts 2015, 84th Leg., R.S., Ch. 181 (S.B. 97), eff. October 1, 2015",
+            "supporting_quote": "The board of trustees of a school district shall: (1) prohibit smoking or using e-cigarettes or tobacco products at a school-related or school-sanctioned activity on or off school property; (2) prohibit students from possessing e-cigarettes or tobacco products at a school-related or school-sanctioned activity on or off school property",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None — the policy's prohibition on tobacco products and e-cigarettes directly mirrors the statutory mandate. The grammatical restructuring (removal of standalone 'and') is an incidental drafting adjustment made necessary by the addition of the third term."
+          },
+          {
+            "element": "Explicit extension of the prohibition to 'electronic vaporizing devices' as a distinct named category",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "web search confirmed — TEC §38.006 text confirmed unchanged as to enumerated device categories; no 89th Leg. amendment to §38.006 or THSC §161.081 adds 'electronic vaporizing devices' as a separate statutory term compelled in school board policy",
+            "litigation_status": "None identified",
+            "local_additions": "The district chose to enumerate 'electronic vaporizing devices' as a third, standalone prohibited item beyond the two categories the statute names ('e-cigarettes' and 'tobacco products'). TEC §38.006 uses only the term 'e-cigarettes,' defined by reference to THSC §161.081. That definition may or may not encompass every device a layperson would call an 'electronic vaporizing device,' but the statute does not compel districts to use that specific term or to enumerate it separately. This is a locally chosen drafting expansion for policy clarity."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Tobacco and E-Cigarette Ban: State law (TEC §38.006, updated by S.B. 97 in 2015) requires school districts to prohibit tobacco products and e-cigarettes on school property. This policy reflects that existing legal requirement.",
+        "Electronic Vaporizing Devices Added: The updated policy adds 'electronic vaporizing devices' as a separately named prohibited item, beyond the two categories the state law specifically mentions. This addition was a local drafting choice by the district, not a state requirement.",
+        "Grammatical Restructuring: The word 'and' that previously connected 'tobacco products' and 'e-cigarettes' was removed to accommodate the newly added third category. This was a minor drafting adjustment with no change in legal meaning."
+      ]
     },
     {
       "date": "2025-11-18",

@@ -26,7 +26,92 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
       "source_redline": "CL_LOCAL.pdf",
-      "notes": "This is an entirely new policy (Version 1 / Update 1) — there is no prior policy text to remove, so all red-underlined content represents additions. The cover page does not contain a standard TASB action-heading (e.g., 'Discuss Revisions to...' or 'Adopt Revisions to...'); it only shows the policy title and metadata, so the board action could not be determined from the title heading alone and is marked 'unknown'. The birth certificate paragraph contains red underlines specifically on the words 'an individual's' (×2) and 'individual's' (×1), suggesting minor wording was adjusted from a 'student' framing to 'individual' framing within that paragraph."
+      "notes": "This is an entirely new policy (Version 1 / Update 1) — there is no prior policy text to remove, so all red-underlined content represents additions. The cover page does not contain a standard TASB action-heading (e.g., 'Discuss Revisions to...' or 'Adopt Revisions to...'); it only shows the policy title and metadata, so the board action could not be determined from the title heading alone and is marked 'unknown'. The birth certificate paragraph contains red underlines specifically on the words 'an individual's' (×2) and 'individual's' (×1), suggesting minor wording was adjusted from a 'student' framing to 'individual' framing within that paragraph.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Definition of 'Multiple-Occupancy Private Space'",
+            "classification": "Mixed",
+            "statutory_basis": "Texas Health and Safety Code §769.051 as enacted by S.B. 8 (89th Leg., 2nd C.S.)",
+            "supporting_quote": "A school district or open-enrollment charter school shall require that each multiple-occupancy bathroom or changing facility accessible to students and located in a school or school facility be designated for and used only by persons based on the person's biological sex.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified. S.B. 8 became effective December 4, 2025 and contains an internal anti-injunction provision. No external court injunction blocking enforcement has been identified as of April 9, 2026.",
+            "local_additions": "The statute references only 'bathroom or changing facility.' The district's definition expands coverage to 'shower room, or similar facility' and adds the clarification 'regardless of whether the facility provides curtains or partial walls for privacy.' These expansions beyond the statutory enumeration are Locally Discretionary. The core concept covering multiple-occupancy bathrooms and changing facilities is Required by Law."
+          },
+          {
+            "element": "Biological sex assignment and signage requirement for Multiple-Occupancy Private Spaces",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Health and Safety Code §769.051 as enacted by S.B. 8 (89th Leg., 2nd C.S.)",
+            "supporting_quote": "A school district or open-enrollment charter school shall require that each multiple-occupancy bathroom or changing facility accessible to students and located in a school or school facility be designated for and used only by persons based on the person's biological sex.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified as of April 9, 2026.",
+            "local_additions": "The policy adds a specific signage requirement ('take steps to provide proper signage') and a directive to prevent individuals of the opposite sex from entering. These implementation mechanics are locally chosen but flow directly from the statutory mandate. The signage specification is a locally discretionary implementation detail layered onto the legally required designation mandate."
+          },
+          {
+            "element": "Prohibition on cross-sex accommodations for Multiple-Occupancy Private Spaces",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Health and Safety Code §769.051 as enacted by S.B. 8 (89th Leg., 2nd C.S.)",
+            "supporting_quote": "A school district or open-enrollment charter school shall require that each multiple-occupancy bathroom or changing facility accessible to students and located in a school or school facility be designated for and used only by persons based on the person's biological sex.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified as of April 9, 2026.",
+            "local_additions": "None. The policy language ('No accommodation may allow an individual to use a Multiple-Occupancy Private Space designated for the exclusive use of individuals of the sex opposite to the individual's biological sex') is a direct and faithful restatement of the statutory mandate."
+          },
+          {
+            "element": "Definition of 'biological sex' by reference to official birth certificate",
+            "classification": "Required by Law",
+            "statutory_basis": "Texas Health and Safety Code §769.001 as enacted by S.B. 8 (89th Leg., 2nd C.S.)",
+            "supporting_quote": "'Biological sex' means the physical condition of being male or female, which is stated on a person's birth certificate.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified as of April 9, 2026.",
+            "local_additions": "None. The policy's reference to 'an individual's biological sex on the individual's official birth certificate' directly tracks the statutory definition."
+          },
+          {
+            "element": "Permission to establish single-occupancy private spaces as an alternative",
+            "classification": "Permitted by Law",
+            "statutory_basis": "Texas Health and Safety Code §769.052 as enacted by S.B. 8 (89th Leg., 2nd C.S.)",
+            "supporting_quote": "This subchapter does not prohibit a school district or open-enrollment charter school from providing an accommodation, including a single-occupancy bathroom or changing facility or the controlled use of a faculty bathroom or changing facility, on request due to special circumstances.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified as of April 9, 2026.",
+            "local_additions": "The statute authorizes this accommodation only 'on request due to special circumstances.' The policy frames it as a standing district option and adds 'family restroom' as a facility type not enumerated in the statute. These local design choices are Locally Discretionary in execution while the underlying authorization is Permitted by Law."
+          },
+          {
+            "element": "Enumerated exceptions to the biological sex designation rule",
+            "classification": "Mixed",
+            "statutory_basis": "Texas Health and Safety Code §769.053 as enacted by S.B. 8 (89th Leg., 2nd C.S.)",
+            "supporting_quote": "A designation of a multiple-occupancy bathroom or changing facility under Section 769.051 does not apply to a person entering a multiple-occupancy bathroom or changing facility designated for the biological sex opposite to the person's biological sex when: (1) rendering or receiving custodial, maintenance, repair, or inspection services ... (2) rendering or receiving medical or other emergency assistance ... (3) accompanying and providing assistance to an individual who needs assistance in using the facility, including an elderly person or person with a disability ... (4) law enforcement purposes ... (5) a child nine years of age or younger who enters while accompanied by a caregiver responsible for the child.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified as of April 9, 2026.",
+            "local_additions": "Policy exceptions 1–5 (custodial/maintenance/inspection; medical/emergency assistance; assistance to elderly or disabled; law enforcement; child nine and under with caregiver) are directly grounded in §769.053 and are Permitted by Law. Policy exception 6 ('Rendering assistance necessary to prevent a serious threat to order or safety') has no supporting verbatim quote in the statute analysis and does not appear in the §769.053 enumeration; per the Grounding Rule it is Locally Discretionary. The element is Mixed because five exceptions are statutorily grounded and one is locally added."
+          },
+          {
+            "element": "Violation-reporting and three-business-day remediation requirement",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified.",
+            "local_additions": "The statute analysis contains no requirement or express permission for a specific written reporting process to the Superintendent and principal or a three-business-day cure window at the board-policy level. This is an entirely locally designed internal compliance infrastructure."
+          },
+          {
+            "element": "Requirement that the District adopt implementing procedures",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "Texas Education Code §11.151 (general board governance authority)",
+            "supporting_quote": "The trustees as a body corporate have the exclusive power and duty to govern and oversee the management of the public schools of the district.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified.",
+            "local_additions": "No provision of S.B. 8 (89th Leg., 2nd C.S.) expressly requires a district to adopt separate written implementing procedures for this policy. TEC §11.151 provides only general governance authority and does not constitute a specific statutory mandate to create implementing procedures. This directive is a locally discretionary exercise of board governance power."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Biological Sex Designations Required: Texas S.B. 8 (effective December 4, 2025) requires schools to designate restrooms, locker rooms, and changing facilities by biological sex. This policy puts that state law requirement into effect for Conroe ISD.",
+        "Definition of Covered Spaces: S.B. 8 references bathrooms and changing facilities, but the district's policy also includes shower rooms and similar spaces, and notes that curtains or partial walls do not change how a space is classified. These additions go beyond what the state law specifically lists and reflect local decisions by the district.",
+        "Single-Occupancy Space Option: S.B. 8 allows schools to provide a single-occupancy space, such as a private restroom, as an alternative in special circumstances. Conroe ISD's policy treats this as a standing district option and also includes family restrooms, which are not specifically mentioned in the statute.",
+        "Exceptions to the Designation Rule: S.B. 8 lists five situations where someone of the opposite biological sex may enter a designated space, such as for emergencies, maintenance, or assisting a young child. The district's policy includes those five situations and adds a sixth — responding to a serious threat to order or safety — which is not listed in the statute and reflects a local policy choice.",
+        "Reporting and Remediation Process: The policy sets up a process for reporting violations to the superintendent and principal, with a three-business-day window to address the issue. This reporting and remediation structure is not required by S.B. 8 or any other identified statute and was designed locally by the district.",
+        "Implementing Procedures Directive: The policy directs the district to adopt separate written procedures to carry out these rules. No provision of S.B. 8 specifically requires this step; it is a local governance decision made under the district's general authority under Texas Education Code §11.151."
+      ]
     },
     {
       "date": "2026-01-20",

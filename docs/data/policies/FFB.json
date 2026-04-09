@@ -41,7 +41,173 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
       "source_redline": "FFB_LOCAL.pdf",
-      "notes": "The cover page title heading is not a traditional action title (e.g., \"Discuss Revisions\" or \"Adopt Revisions\") — it reads as a policy document header rather than a board agenda action item, so action is marked 'unknown'. The redline is Version 1, suggesting this is a new local policy being established. Red underlined and red strikethrough formatting was clearly distinguishable. Several additions involve grammatical corrections (Notifying→Notify, Provideing→Provide) that appear as tracked changes. The Notice of a Threat section header and its full text are entirely red-underlined, indicating it is a new section addition."
+      "notes": "The cover page title heading is not a traditional action title (e.g., \"Discuss Revisions\" or \"Adopt Revisions\") — it reads as a policy document header rather than a board agenda action item, so action is marked 'unknown'. The redline is Version 1, suggesting this is a new local policy being established. Red underlined and red strikethrough formatting was clearly distinguishable. Several additions involve grammatical corrections (Notifying→Notify, Provideing→Provide) that appear as tracked changes. The Notice of a Threat section header and its full text are entirely red-underlined, indicating it is a new section addition.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Multi-campus team structure: a team may serve more than one campus, provided each campus is assigned a team and the campus behavior coordinator is included",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §37.115",
+            "supporting_quote": "A team may serve more than one campus of a school district, provided that each district campus is assigned a team. | each district campus is assigned a team.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute permits multi-campus teams (Permitted by Law) and requires each campus be assigned a team (Required by Law). The specific requirement that when serving a particular campus the team must include that campus's designated campus behavior coordinator is a local addition beyond the statute's express text — Locally Discretionary. The overall element is Mixed across all three sub-classifications."
+          },
+          {
+            "element": "Addition of 'this Policy, and the District multi-hazard operational plan' to team expertise areas",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "TEC §37.115 enumerates specific expertise areas (counseling, behavior management, mental health and substance use, classroom instruction, special education, school administration, school safety and security, emergency management, and law enforcement). Appending 'this Policy and the District multi-hazard operational plan' as additional expertise areas is a district choice with no matching statutory requirement or permission."
+          },
+          {
+            "element": "Superintendent shall adopt procedures consistent with Texas School Safety Center model policies",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §37.115",
+            "supporting_quote": "The board of trustees of each school district shall establish a threat assessment and safe and supportive school team... and policies and procedures for the teams that are consistent with the model policies and procedures developed by the Texas School Safety Center.",
+            "verification_method": "verbatim statute text | web search confirmed",
+            "litigation_status": "None identified",
+            "local_additions": "The policy assigns this obligation specifically to the Superintendent rather than the board, which is a permissible local delegation choice, but the core obligation to adopt TxSSC-consistent procedures is statutory."
+          },
+          {
+            "element": "Notice of a Threat section: Superintendent shall require that, as soon as safe and practicable, administrators or team immediately provide teaching staff (including aides) who may be directly affected with notice of the threat's existence, nature, and pertinent details",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "web search confirmed — no matching verbatim statutory text identified in TEC §37.115 or any other cited statute in the statute analysis; no enacted provision specifically mandating this staff notification protocol was confirmed",
+            "litigation_status": "None identified",
+            "local_additions": "This entire provision — the Superintendent mandate, 'as soon as safe and practicable' timing standard, scope to teaching staff and aides, and three-part content requirement (existence, nature, pertinent details) — is a district-designed framework. No verbatim statute quote in the provided analysis supports this specific staff notification requirement. Under the Grounding Rule, this element classifies as Locally Discretionary."
+          },
+          {
+            "element": "Training provider language: Texas School Safety Center or a regional education service center regarding evidence-based threat assessment programs (replacing 'an approved provider')",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §37.115",
+            "supporting_quote": "each team to complete training provided by the TxSSC or a regional education service center (ESC)",
+            "verification_method": "verbatim statute text | web search confirmed",
+            "litigation_status": "None identified",
+            "local_additions": "None — the policy update aligns policy language with the statutory provider list, removing the prior vague 'approved provider' language."
+          },
+          {
+            "element": "Employee Confidentiality: limiting disclosure 'to the team' (addition of qualifying language in confidentiality section)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute analysis contains no verbatim quote requiring or expressly authorizing this specific qualifying language in the employee confidentiality provision. This is a local drafting clarification."
+          },
+          {
+            "element": "Team's core functions: assessing and reporting individuals who make threats or exhibit harmful/threatening/violent behavior; gathering and analyzing data to determine risk and appropriate intervention, including referring a student for mental health assessment and implementing an escalation procedure",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §37.115",
+            "supporting_quote": "assessing and reporting individuals who make threats of violence or exhibit harmful, threatening, or violent behavior | gathering and analyzing data to determine the level of risk and appropriate intervention, including: referring a student for mental health assessment; and implementing an escalation procedure, if appropriate",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None — the policy language tracks the statutory mandate closely."
+          },
+          {
+            "element": "Grammatical corrections ('making,' 'the team or designee will,' 'Notify,' 'Provide' x2) in threat assessment process steps",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "These are purely editorial and grammatical corrections to pre-existing locally drafted procedural language. No statute requires or dictates this specific wording."
+          },
+          {
+            "element": "Special education student protections: team conducting a threat assessment of a special education student must include at least one qualified professional with specific knowledge of the student's disability (special ed teacher, licensed behavior analyst, licensed clinical/master social worker, or licensed specialist in school psychology); team may also include an educational diagnostician or behavior specialist",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §37.115(d-1), as added by H.B. 6 (89th Leg., R.S., 2025)",
+            "supporting_quote": "Requires a threat assessment team and safe and supportive school conducting the threat assessment under Subsection (f), notwithstanding Subsection (d), if a student in a special education program under Subchapter A, Chapter 29, is the subject of the threat assessment, to include at least one of certain professionals who has specific knowledge of the student's disability and the disability's manifestations.",
+            "verification_method": "web search confirmed — H.B. 6 (89th Leg.) enacted and effective June 20, 2025; TEC §37.115(d-1) added",
+            "litigation_status": "None identified",
+            "local_additions": "The mandatory inclusion of at least one qualifying professional is Required by Law. The 'team may also include' list (educational diagnostician, behavior specialist) mirrors the statute's permissive language and is Permitted by Law. The combination makes this element Mixed."
+          },
+          {
+            "element": "Qualifying language 'if the individual is a student' in serious-risk-of-violence reporting requirement",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute analysis provides no verbatim quote requiring or expressly authorizing this specific qualifying clause. This is a locally drafted clarification of scope."
+          },
+          {
+            "element": "'This requirement does not prevent an employee of the school from acting immediately to prevent an imminent threat or respond to an emergency' (exception to pre-assessment parental notification requirement)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text — Grounding Rule applied; no verbatim quote in the statute analysis for H.B. 473 / TEC §37.115 creates this imminent-threat exception",
+            "litigation_status": "None identified",
+            "local_additions": "While this exception is a reasonable policy interpretation of general emergency-powers principles, no supporting verbatim statutory quote exists in the provided analysis. Under the Grounding Rule this classifies as Locally Discretionary."
+          },
+          {
+            "element": "Written parental consent for mental health care services to students under 18: no team-provided mental health service without prior written parental consent; consent on district-developed form complying with state/federal law; parent may consent to ongoing services or limit to single occasion",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §37.115 (current enacted text confirmed via web search)",
+            "supporting_quote": "A team may not provide a mental health care service to a student who is under 18 years of age unless the team obtains written consent from the parent of or person standing in parental relation to the student before providing the mental health care service. The consent required by this subsection must be submitted on a form developed by the school district that complies with all applicable state and federal law. The student's parent or person standing in parental relation to the student may give consent for a student to receive ongoing services or may limit consent to one or more services provided on a single occasion.",
+            "verification_method": "web search confirmed — verbatim statutory text retrieved from texas.public.law/statutes/tex._educ._code_section_37.115",
+            "litigation_status": "None identified",
+            "local_additions": "None — the policy tracks the statutory text closely."
+          },
+          {
+            "element": "Record retention: materials and information from a student threat assessment must be maintained in the student's school record until the student's 24th birthday",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §37.115",
+            "supporting_quote": "Materials and information provided to or produced by a team during a threat assessment of a student under this section must be maintained in the student's school record until the student's 24th birthday.",
+            "verification_method": "verbatim statute text | web search confirmed",
+            "litigation_status": "None identified",
+            "local_additions": "None — the policy language mirrors the statutory mandate verbatim."
+          },
+          {
+            "element": "Superintendent shall coordinate with law enforcement and take appropriate action in accordance with the District's multihazard emergency operations plan",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §37.108 (cited in statute analysis but no verbatim quotes extracted)",
+            "supporting_quote": "None — the statute analysis for TEC §37.108 expressly states: 'Complete verbatim statutory text was not retrieved. No elements have been extracted because no verbatim supporting quotes are available from the provided source text.'",
+            "verification_method": "unverified — Grounding Rule applied",
+            "litigation_status": "None identified",
+            "local_additions": "TEC §37.108 generally governs multihazard emergency operations plans, but because no verbatim supporting quote was available in the statute analysis, this element cannot be grounded as Required by Law or Permitted by Law. The district's decision to assign this coordination duty specifically to the Superintendent is also a local implementation choice."
+          },
+          {
+            "element": "Terminology modernization: 'substance use prevention and intervention' (replacing 'substance abuse program')",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §37.115",
+            "supporting_quote": "A team identifying a student using or possessing tobacco, drugs, or alcohol shall act in accordance with district policies and procedures related to substance use prevention and intervention.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None — the updated terminology directly tracks the mandatory statutory language."
+          },
+          {
+            "element": "Expanded statement of team purpose: 'to the community, school, or individual and support the District in implementing the District's multihazard emergency operations plan' (replacing 'to another person, the campus, or the community')",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text — Grounding Rule applied; TEC §37.108 yields no verbatim supporting quotes in the statute analysis and TEC §37.115 does not contain this specific framing",
+            "litigation_status": "None identified",
+            "local_additions": "The addition of language linking team purpose to the multihazard emergency operations plan is a local policy articulation without a grounded statutory basis in the provided analysis."
+          },
+          {
+            "element": "Parental notification before threat assessments: notify parent before conducting assessment; provide opportunity to participate in person or remotely; provide opportunity to submit information to the team; provide findings and conclusions after completing assessment",
+            "classification": "Required by Law",
+            "statutory_basis": "H.B. 473 (88th Leg., R.S., 2023), amending TEC §37.115",
+            "supporting_quote": "Before a team may conduct a threat assessment of a student, the team must notify the parent of or person standing in parental relation to the student regarding the assessment. | the team shall provide an opportunity for the parent or person to: (1) participate in the assessment, either in person or remotely | (2) submit to the team information regarding the student. | After completing a threat assessment of a student, the team shall provide to the parent of or person standing in parental relation to the student the team's findings and conclusions regarding the student.",
+            "verification_method": "verbatim statute text | web search confirmed — H.B. 473 signed by governor, effective September 1, 2023; no injunction identified",
+            "litigation_status": "None identified",
+            "local_additions": "None — the policy tracks all four statutory requirements without material addition."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Parental Notification Before Assessments: Under H.B. 473 (2023), school districts are now required to notify a parent before conducting a threat assessment of their child. This policy reflects that legal requirement and adds that parents may participate in person or remotely and may submit information to the team.",
+        "Written Consent for Mental Health Services: State law under TEC §37.115 requires that a school district obtain written parental consent before providing mental health services to a student under 18. This policy follows that requirement and specifies that parents may consent to ongoing services or limit consent to a single occasion.",
+        "Special Education Protections: H.B. 6 (2025) added a requirement to TEC §37.115 that when a threat assessment involves a special education student, at least one team member must have specific knowledge of that student's disability. The law also allows — but does not require — the team to include an educational diagnostician or behavior specialist.",
+        "Record Retention Requirement: TEC §37.115 requires that materials from a student threat assessment be kept in the student's school record until the student turns 24. This policy mirrors that statutory language directly.",
+        "Terminology Update: TEC §37.115 uses the phrase 'substance use prevention and intervention,' and this policy updates its language to match, replacing the older term 'substance abuse program.'",
+        "Staff Threat Notification: This policy adds a locally created requirement that administrators or the threat assessment team notify affected teachers and aides about a threat as soon as it is safe and practical to do so. This specific staff notification process is not required by state law and reflects a choice made by the district."
+      ]
     },
     {
       "date": "2026-01-20",

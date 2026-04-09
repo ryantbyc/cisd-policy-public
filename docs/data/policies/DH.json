@@ -24,7 +24,64 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-12-16_regular",
       "confidence": "high",
       "source_redline": "DH_LOCAL.pdf",
-      "notes": "Red underlined and red strikethrough text was clearly visible on page 4 of the PDF. The section heading change from 'Tobacco And' to 'Tobacco And E-Cigarettes' is reflected in the document header; the body text redlines confirm the substitution of 'or e-cigarettes' with 'or nicotine products' and the addition of the smoking cessation exception sentence. The parent-notification sentence in Relationships With Students shows 'educator' struck through and 'employee or person acting as a service provider for the District' underlined."
+      "notes": "Red underlined and red strikethrough text was clearly visible on page 4 of the PDF. The section heading change from 'Tobacco And' to 'Tobacco And E-Cigarettes' is reflected in the document header; the body text redlines confirm the substitution of 'or e-cigarettes' with 'or nicotine products' and the addition of the smoking cessation exception sentence. The parent-notification sentence in Relationships With Students shows 'educator' struck through and 'employee or person acting as a service provider for the District' underlined.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Expansion of Relationships With Students notice provision from 'educator' to 'employee or person acting as a service provider for the District'",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §22A (S.B. 571, 89th Leg., R.S.), effective June 20, 2025",
+            "supporting_quote": "None",
+            "verification_method": "web search confirmed — S.B. 571 / TEC Chapter 22A is enacted and in force; however, the statute analysis entry for TEC §22A contains no requirements, prohibitions, or permissions that compel or expressly authorize this specific parent-notification expansion. 19 TAC §247.2 supplies a requirement only as to 'educators,' not employees or service providers broadly. No verbatim quote from enacted text grounds a mandate or permission for this specific policy change.",
+            "litigation_status": "None identified — no court challenge to S.B. 571 / TEC Chapter 22A found as of April 9, 2026",
+            "local_additions": "The district chose to extend the parent-notification obligation in DH Local beyond the educator-only scope of 19 TAC §247.2 to cover all employees and service providers. While S.B. 571 broadly expanded misconduct-reporting infrastructure to service providers, the statute analysis supplies no verbatim quote compelling or expressly permitting this specific notice provision. The district exercised genuine local discretion in drafting this expansion."
+          },
+          {
+            "element": "Tobacco prohibition — retention of the core ban on smoking, e-cigarettes, and tobacco products (existing language)",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §38.006, as amended by S.B. 97 (84th Leg., R.S.), eff. October 1, 2015",
+            "supporting_quote": "The board of trustees of a school district shall: (1) prohibit smoking or using e-cigarettes or tobacco products at a school-related or school-sanctioned activity on or off school property",
+            "verification_method": "verbatim statute text — confirmed by web search; TEC §38.006 remains operative as amended by S.B. 97 (84th Leg.); no subsequent amendment to this section found in 88th or 89th Legislature sessions",
+            "litigation_status": "None identified — no active injunction or litigation against TEC §38.006 found as of April 9, 2026",
+            "local_additions": "None — this element simply preserves the pre-existing mandated prohibition"
+          },
+          {
+            "element": "Addition of 'or nicotine products' to the tobacco/e-cigarette prohibition",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None — TEC §38.006 as quoted in the statute analysis prohibits 'smoking or using e-cigarettes or tobacco products'; it does not mention 'nicotine products' as a separate enumerated category. No other statute in the analysis requires or expressly permits this specific extension.",
+            "verification_method": "web search confirmed — no amendment to TEC §38.006 adding 'nicotine products' was found in 88th or 89th Legislature enactments",
+            "litigation_status": "None identified",
+            "local_additions": "The district independently chose to expand the prohibition beyond the statutory categories (smoking, e-cigarettes, tobacco products) to encompass nicotine products more broadly — e.g., nicotine pouches, patches, or other non-tobacco-derived nicotine products. This is a locally chosen policy enhancement with no direct statutory anchor."
+          },
+          {
+            "element": "Smoking cessation product exception ('An employee may request an exception from this provision for a smoking cessation product')",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None — TEC §38.006 as quoted in the statute analysis contains no language authorizing, requiring, or contemplating a smoking cessation exception. No other statute in the analysis addresses this.",
+            "verification_method": "verbatim statute text — the enacted text quoted in the statute analysis is silent on any cessation-product exception",
+            "litigation_status": "None identified",
+            "local_additions": "This is an entirely local policy choice. The district created a carve-out for nicotine replacement/cessation products used by employees, which goes beyond — and partially softens — the statutory prohibition. No statute required or authorized this specific exception."
+          },
+          {
+            "element": "Section heading rename to 'Tobacco And E-Cigarettes'",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None — no statute in the analysis prescribes section heading nomenclature in board policy",
+            "verification_method": "verbatim statute text — purely a drafting/organizational choice",
+            "litigation_status": "None identified",
+            "local_additions": "The heading change is a local editorial decision. Notably, the change removes 'or e-cigarettes' from the prohibition list body (now subsumed under 'nicotine products') while adding 'E-Cigarettes' to the section title — a local drafting reconciliation, not a statutory mandate."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Relationships With Students Notice: The policy now requires that parents be notified about certain misconduct not just by teachers, but by all district employees and outside service providers. The district chose to go beyond the educator-focused scope of state rules by using broader authority provided under S.B. 571 (89th Legislature).",
+        "Tobacco and E-Cigarette Ban: State law TEC §38.006, updated by S.B. 97 in 2015, requires Texas school districts to prohibit smoking, tobacco products, and e-cigarettes on school property. This policy keeps that required prohibition in place.",
+        "Nicotine Products Added to Ban: The district expanded its prohibition to include nicotine products beyond traditional tobacco and e-cigarettes — such as nicotine pouches or patches. No state law required this addition; it is a local policy decision.",
+        "Smoking Cessation Exception: The updated policy allows employees to request an exception to the nicotine prohibition if they are using a product to help them quit smoking. This exception was created by the district on its own, as no state law requires or specifically authorizes it.",
+        "Section Heading Update: The section covering this topic has been renamed 'Tobacco And E-Cigarettes' to better reflect the range of products addressed by the policy. This is an editorial change made by the district with no statutory requirement behind it."
+      ]
     },
     {
       "date": "2025-10-21",

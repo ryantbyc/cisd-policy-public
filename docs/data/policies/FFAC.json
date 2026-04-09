@@ -20,7 +20,54 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "high",
       "source_redline": "FFAC_LOCAL.pdf",
-      "notes": "The cover page does not contain a standard action title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\"); it only shows the policy name and metadata. Action has been set to 'unknown' as a result. The rationale is listed as 'Legislative change'. The redline on page 1 clearly shows red strikethrough (removed) and red underlined (added) text in item 2 of the Medication Provided By Parent section. All other policy text appears in black and is unchanged."
+      "notes": "The cover page does not contain a standard action title heading (e.g., \"Discuss Revisions to...\" or \"Adopt Revisions to...\"); it only shows the policy name and metadata. Action has been set to 'unknown' as a result. The rationale is listed as 'Legislative change'. The redline on page 1 clearly shows red strikethrough (removed) and red underlined (added) text in item 2 of the Medication Provided By Parent section. All other policy text appears in black and is unchanged.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Written request from parent, legal guardian, or other person having legal control of the student as a precondition for nonprescription medication administration",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §22.052(a-1) as amended by S.B. 920 (89th Leg., R.S.) [NOTE: statute analysis incorrectly cites S.B. 965; operative bill confirmed via web search as S.B. 920]",
+            "supporting_quote": "the district or school has received a written request to administer the medication from the parent, legal guardian, or other person having legal control of the student",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The removed policy language referred only to 'a parent's written request'; the new language expands the authorized requestor class to include legal guardians and other persons having legal control of the student, tracking the statutory text precisely. No local additions beyond the statutory floor."
+          },
+          {
+            "element": "Medication must be unexpired and administered from a container that appears to be the original container and is properly labeled",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §22.052(a-1) as amended by S.B. 920 (89th Leg., R.S.) [NOTE: statute analysis incorrectly cites S.B. 965; operative bill confirmed via web search as S.B. 920]",
+            "supporting_quote": "the medication is unexpired and administered from a container that appears to be the original container and is properly labeled",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The removed language required medication to be 'properly labeled and in the original container.' The new policy adds the 'unexpired' condition and refines the container standard to 'appears to be the original container,' both of which mirror the enacted statutory language verbatim. No local additions beyond the statutory floor."
+          },
+          {
+            "element": "Dose administered must be consistent with the instructions on the container's label",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §22.052(a-1) as amended by S.B. 920 (89th Leg., R.S.) [NOTE: statute analysis incorrectly cites S.B. 965; operative bill confirmed via web search as S.B. 920]",
+            "supporting_quote": "the dose administered is consistent with the instructions on the container's label",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "This condition was not present in the removed policy language. It is entirely derived from the enacted statutory text; the district exercised no additional local discretion in this element."
+          },
+          {
+            "element": "Authorized employee may administer nonprescription medication without further authorization or written protocol from the student's health care provider",
+            "classification": "Permitted by Law",
+            "statutory_basis": "TEC §22.052(a-1) as amended by S.B. 920 (89th Leg., R.S.) [NOTE: statute analysis incorrectly cites S.B. 965; operative bill confirmed via web search as S.B. 920]",
+            "supporting_quote": "An authorized employee may administer nonprescription medication to a student without further authorization or written protocol from the student's health care provider if",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute uses 'may,' granting express permission but not imposing a mandate. The district chose to exercise this permission by incorporating it into local policy. The district's adoption of a policy enabling this practice is itself a prerequisite under the statute, confirming that the local policy decision is necessary to activate the statutory permission."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Who Can Request Medication: State law S.B. 920 now specifies that a written request to give a student nonprescription medication can come from a parent, legal guardian, or any other person who has legal control of the student. The updated policy reflects this expanded list, replacing older language that referred only to a parent.",
+        "Medication Container Requirements: S.B. 920 requires that nonprescription medication be given from what appears to be the original container and that the medication has not expired. The policy now includes both of these conditions, adding the expiration requirement and slightly adjusting the container standard to match the law's exact wording.",
+        "Dosing Instructions: S.B. 920 requires that any dose given to a student match the instructions printed on the medication's label. This condition was not in the previous policy and was added solely to bring the policy in line with the new statute.",
+        "District Choice to Allow Medication Administration: S.B. 920 gives school districts the option — but does not require them — to allow authorized employees to give nonprescription medication without needing approval from a student's doctor. The district chose to include this option in its policy, which is a necessary step to put the law's permission into effect."
+      ]
     },
     {
       "date": "2026-01-20",
