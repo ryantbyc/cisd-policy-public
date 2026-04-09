@@ -24,7 +24,83 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-02-17_regular",
       "confidence": "medium",
       "source_redline": "CKE_LOCAL.pdf",
-      "notes": "This appears to be an entirely new policy (Version 1, no prior text exists), so all content is shown in red underline as additions. The cover page title heading is not a standard action phrase (it only shows the policy description and metadata without a \"Discuss,\" \"Adopt,\" or \"Second Reading\" prefix), so the board action could not be determined with confidence — marked as 'unknown'. The rationale states \"Required by Legislative Change,\" suggesting this is driven by new legislation (likely related to Education Code 37.0816 on reserve police officers)."
+      "notes": "This appears to be an entirely new policy (Version 1, no prior text exists), so all content is shown in red underline as additions. The cover page title heading is not a standard action phrase (it only shows the policy description and metadata without a \"Discuss,\" \"Adopt,\" or \"Second Reading\" prefix), so the board action could not be determined with confidence — marked as 'unknown'. The rationale states \"Required by Legislative Change,\" suggesting this is driven by new legislation (likely related to Education Code 37.0816 on reserve police officers).",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Board authorization for chief of police to appoint reserve police officers",
+            "classification": "Permitted by Law",
+            "statutory_basis": "TEC §37.0816 as added by H.B. 1458 (89th Leg., R.S., 2025)",
+            "supporting_quote": "HB 1458 authorizes a school district's board of trustees to allow the chief of police of the school district police department to appoint reserve police officers for the district — web search confirmed permissive framing; no verbatim §37.0816 text retrieved in statute analysis",
+            "verification_method": "web search confirmed",
+            "litigation_status": "None identified",
+            "local_additions": "The policy adds the qualifier 'consistent with meeting safety needs and the availability of funds' — a local fiscal and operational gate not expressed in the statutory text. The board's choice to actually exercise this permissive authority rather than decline it is itself a locally discretionary act."
+          },
+          {
+            "element": "Annual report to the Board on reserve police appointments",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "unverified",
+            "litigation_status": "None identified",
+            "local_additions": "No statute in the analysis requires or expressly authorizes an annual report on reserve police appointments. This is a locally chosen accountability mechanism entirely within the district's discretion. The permissive policy language ('may provide') reinforces that this is a local choice."
+          },
+          {
+            "element": "Reserve officer serves at chief's discretion and may be called into service to preserve the peace and enforce the law",
+            "classification": "Permitted by Law",
+            "statutory_basis": "TEC §37.0816 as added by H.B. 1458 (89th Leg., R.S., 2025)",
+            "supporting_quote": "None — 'No verbatim text was retrieved for this statute. No requirements, prohibitions, or permissions can be extracted without a verbatim source.'",
+            "verification_method": "web search confirmed — bill enacted; verbatim §37.0816 text not retrieved in statute analysis",
+            "litigation_status": "None identified",
+            "local_additions": "The specific operational language that the officer 'shall serve at the discretion of the chief' and 'may be called into service at any time the chief considers it necessary' may mirror §37.0816 language, but because no verbatim statutory quote supports this mechanism in the statute analysis, the Grounding Rule bars elevation to 'Required by Law.' This is consistent with, but not compelled by, the verified statutory framework."
+          },
+          {
+            "element": "Qualification requirement — chief shall only authorize officers meeting TEC §37.0816 qualifications and other applicable law",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §37.0816 as added by H.B. 1458 (89th Leg., R.S., 2025); OC §1701.001(6) as amended by H.B. 1458",
+            "supporting_quote": "\"Reserve law enforcement officer\" means a person designated as a reserve law enforcement officer under Section 37.0816, Education Code, Section 85.004, 86.012, or 341.012, Local Government Code, or Section 60.0775, Water Code.",
+            "verification_method": "verbatim statute text (OC §1701.001(6)); web search confirmed for TEC §37.0816 enactment",
+            "litigation_status": "None identified",
+            "local_additions": "The core §37.0816 qualification compliance is required — lawful designation as a reserve law enforcement officer flows only through §37.0816 per the verbatim OC §1701.001(6) quote. The policy extension to 'other relevant federal, state, and local laws and regulations' is a locally chosen drafting expansion beyond what the verified statutory text specifies, though compliance with other applicable law is a general legal obligation independent of this policy."
+          },
+          {
+            "element": "Chief of Police responsible for ensuring ongoing compliance of reserve officers with §37.0816 requirements, duties, and responsibilities",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §37.0816 as added by H.B. 1458 (89th Leg., R.S., 2025)",
+            "supporting_quote": "None — 'No verbatim text was retrieved for this statute. No requirements, prohibitions, or permissions can be extracted without a verbatim source.'",
+            "verification_method": "web search confirmed — bill enacted; verbatim §37.0816 text not retrieved in statute analysis",
+            "litigation_status": "None identified",
+            "local_additions": "Assigning the specific ongoing compliance oversight responsibility to the Chief of Police is a local structural and administrative choice. While §37.0816 defines the compliance framework, no verbatim statutory text in the analysis imposes this supervisory responsibility on the chief specifically. Under the Grounding Rule, this cannot be classified as Required by Law without a supporting verbatim quote."
+          },
+          {
+            "element": "Reserve officer ineligibility for full-time employment financial benefits and pension funds",
+            "classification": "Permitted by Law",
+            "statutory_basis": "TEC §37.0816 as added by H.B. 1458 (89th Leg., R.S., 2025)",
+            "supporting_quote": "None — 'No verbatim text was retrieved for this statute. No requirements, prohibitions, or permissions can be extracted without a verbatim source.'",
+            "verification_method": "web search confirmed — bill enacted; verbatim §37.0816 text not retrieved in statute analysis",
+            "litigation_status": "None identified",
+            "local_additions": "This provision appears to restate a statutory prohibition that likely exists within §37.0816, and is consistent with the standard Texas reserve officer framework. However, because no verbatim §37.0816 text was retrieved in the statute analysis, the Grounding Rule requires that this element not be elevated to 'Required by Law.' The district may be restating a statutory mandate or adopting a locally clarifying restatement — without the verbatim text, 'Permitted by Law' is the appropriate ceiling classification."
+          },
+          {
+            "element": "Reserve officer not exempt from OC Chapter 1702 (Private Security Act)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None — 'No verbatim text was retrieved for this chapter. No requirements, prohibitions, or permissions can be extracted without a verbatim source.'",
+            "verification_method": "unverified",
+            "litigation_status": "None identified",
+            "local_additions": "The statute analysis explicitly excludes this provision for lack of verbatim source text. Under the Grounding Rule, this element cannot be classified as Required by Law or Permitted by Law based on a verified statutory quote. It may restate a rule contained in §37.0816 or OC Chapter 1702, but without a verbatim quote it is treated as a locally chosen clarifying restatement. Classified Locally Discretionary per the Grounding Rule."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Reserve Officer Program: Conroe ISD's new policy CKE creates a framework for reserve police officers within the district's police department, using authority provided by Texas Education Code §37.0816, added by H.B. 1458 during the 2025 legislative session.",
+        "Appointment Authority: The policy allows the chief of police to appoint reserve officers, consistent with safety needs and available funding. This reflects a local decision to use the option the state made available — the district was not required to create a reserve officer program.",
+        "Officer Qualifications: Reserve officers must meet the qualification standards set out in TEC §37.0816 and the Texas Occupations Code §1701.001(6). The policy also extends this requirement to other applicable federal, state, and local laws, which goes slightly beyond what the verified statutory text specifically requires.",
+        "Chief of Police Oversight: The policy assigns the chief of police responsibility for making sure reserve officers continue to meet all requirements under TEC §37.0816. This supervisory structure is a local administrative decision, as the statute does not specifically name the chief for this role.",
+        "Benefits Ineligibility: The policy states that reserve officers are not eligible for full-time employment benefits or pension funds. This appears to reflect a limitation included in TEC §37.0816, though the exact statutory wording was not available for confirmation.",
+        "Annual Reporting Option: The policy includes an option for the chief of police to report reserve officer appointments to the school board each year. No state law requires this — it is a locally chosen accountability measure the district added on its own."
+      ]
     },
     {
       "date": "2026-01-20",
