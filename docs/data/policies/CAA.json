@@ -29,7 +29,64 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-11-18_regular",
       "confidence": "medium",
       "source_redline": "CAA_LOCAL.pdf",
-      "notes": "The redline on page 4 contains several interleaved additions and deletions within a single paragraph, making precise boundary identification of each change somewhat challenging. The additions and removals have been parsed as faithfully as possible from the red underlined and red strikethrough text visible in the document. The word \"t\" at the start of \"the District\" appears to be part of a sentence restructuring where \"As an applicant, recipient, or subrecipient of a Federal award, t\" was added and the original \"T\" was effectively lowercased/replaced. The fragments \"ll\" (completing \"all\") and \"or\" reflect small in-line substitutions. Color rendering in the PDF scan may have caused some ambiguity."
+      "notes": "The redline on page 4 contains several interleaved additions and deletions within a single paragraph, making precise boundary identification of each change somewhat challenging. The additions and removals have been parsed as faithfully as possible from the red underlined and red strikethrough text visible in the document. The word \"t\" at the start of \"the District\" appears to be part of a sentence restructuring where \"As an applicant, recipient, or subrecipient of a Federal award, t\" was added and the original \"T\" was effectively lowercased/replaced. The fragments \"ll\" (completing \"all\") and \"or\" reflect small in-line substitutions. Color rendering in the PDF scan may have caused some ambiguity.",
+      "compliance_assessment": {
+        "classification": "Required by Law",
+        "elements": [
+          {
+            "element": "Mandatory disclosure of credible evidence of Federal criminal law violations (fraud, conflict of interest, bribery, gratuity violations under Title 18 U.S.C.) in connection with Federal award",
+            "classification": "Required by Law",
+            "statutory_basis": "2 CFR 200.113",
+            "supporting_quote": "An applicant, recipient, or subrecipient of a Federal award must promptly disclose whenever, in connection with the Federal award (including any activities or subawards thereunder), it has credible evidence of the commission of a violation of Federal criminal law involving fraud, conflict of interest, bribery, or gratuity violations found in Title 18 of the United States Code",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "Mandatory disclosure of credible evidence of civil False Claims Act violations in connection with Federal award",
+            "classification": "Required by Law",
+            "statutory_basis": "2 CFR 200.113",
+            "supporting_quote": "must promptly disclose whenever, in connection with the Federal award (including any activities or subawards thereunder), it has credible evidence of the commission of a violation of the civil False Claims Act (31 U.S.C. 3729-3733)",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "Written disclosure to the Federal agency, the agency's Office of Inspector General, and pass-through entity",
+            "classification": "Required by Law",
+            "statutory_basis": "2 CFR 200.113",
+            "supporting_quote": "The disclosure must be made in writing to the Federal agency, the agency's Office of Inspector General, and pass-through entity (if applicable).",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "Timing standard for disclosure changed from 'in a timely manner' to 'promptly'",
+            "classification": "Required by Law",
+            "statutory_basis": "2 CFR 200.113",
+            "supporting_quote": "An applicant, recipient, or subrecipient of a Federal award must promptly disclose",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "Nexus standard refined to 'in connection with the Federal award (including any activities or subawards thereunder)' replacing broader 'potentially affecting' language",
+            "classification": "Required by Law",
+            "statutory_basis": "2 CFR 200.113",
+            "supporting_quote": "in connection with the Federal award (including any activities or subawards thereunder)",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Federal Fraud Reporting Requirement: Federal regulations (2 CFR 200.113) require school districts that receive federal funding to report credible evidence of fraud, bribery, or similar offenses connected to that funding. This policy update reflects that requirement.",
+        "Civil False Claims Act Disclosures: Under 2 CFR 200.113, districts must also report credible evidence of violations of the civil False Claims Act, a federal law that addresses dishonest claims made to the government for money or property. This policy now specifically names that requirement.",
+        "Who Must Be Notified: Federal regulations specify that disclosures must be made in writing to three parties: the federal agency providing the funding, that agency's Office of Inspector General, and any pass-through entity that channeled the funds to the district. This policy update names all three recipients to match the regulatory requirement.",
+        "Faster Reporting Standard: The prior policy language required disclosure 'in a timely manner,' but 2 CFR 200.113 uses the word 'promptly.' This update brings the district's policy wording in line with the federal standard.",
+        "Clearer Scope of Coverage: The updated policy narrows the description of which situations trigger a reporting obligation, now specifying violations that occur 'in connection with the Federal award, including any activities or subawards thereunder.' This language comes directly from 2 CFR 200.113 and replaces a broader, less precise phrase used in the prior policy."
+      ]
     },
     {
       "date": "2025-10-21",

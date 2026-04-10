@@ -17,7 +17,34 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
       "source_redline": "CQB_LOCAL.pdf",
-      "notes": "The only visible redline change is red underlined text in the Coordinator section on page 2. No red strikethrough (removed) text was identified. The cover page title reads 'Discuss and Possibly Adopt Revisions to Board Policy CQB (Local)', which maps to action = 'adopted'."
+      "notes": "The only visible redline change is red underlined text in the Coordinator section on page 2. No red strikethrough (removed) text was identified. The cover page title reads 'Discuss and Possibly Adopt Revisions to Board Policy CQB (Local)', which maps to action = 'adopted'.",
+      "compliance_assessment": {
+        "classification": "Locally Discretionary",
+        "elements": [
+          {
+            "element": "Cybersecurity coordinator to oversee implementation of the district's cybersecurity plan",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §11.175",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The district assigned implementation oversight of the cybersecurity plan to the coordinator. TEC §11.175 requires districts to adopt a cybersecurity policy and designate a coordinator as a liaison to TEA, but contains no verbatim language requiring the coordinator to oversee plan implementation. This is a locally chosen expansion of the coordinator's defined statutory role."
+          },
+          {
+            "element": "Cybersecurity coordinator to oversee implementation of required staff training",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §11.175",
+            "supporting_quote": "Any other school district employee required to complete the cybersecurity training shall complete the training as determined by the district, in consultation with the district's cybersecurity coordinator.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute assigns the district — not the coordinator — authority to determine training requirements for employees other than the coordinator, with the coordinator serving only in a consultative capacity. Characterizing the coordinator as overseeing implementation of required staff training goes beyond the consultative role prescribed by statute and reflects a locally chosen expansion of coordinator responsibilities."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Cybersecurity Coordinator Role: Texas law (TEC §11.175) requires school districts to designate a cybersecurity coordinator, but the law does not specify that the coordinator must oversee the implementation of the district's cybersecurity plan. Conroe ISD added this responsibility on its own, beyond what the statute requires.",
+        "Coordinator Oversight of Staff Training: Under TEC §11.175, the cybersecurity coordinator serves in an advisory role when it comes to staff training decisions, with the district itself holding authority over those requirements. This policy expands the coordinator's role to include overseeing the implementation of required staff training, which goes beyond what the statute describes."
+      ]
     },
     {
       "date": "2025-10-21",

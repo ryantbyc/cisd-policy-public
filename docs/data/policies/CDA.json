@@ -19,7 +19,46 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
       "source_redline": "CDA_LOCAL.pdf",
-      "notes": "Red underlined text was clearly identifiable on pages 3 and 5. No red strikethrough (removed) text was found in the document. The addition on page 5 inserts \"and of distributors of investment pools\" into an existing sentence about broker/dealer registration requirements, and adds a new sentence requiring MSRB registration for distributors of investment pools."
+      "notes": "Red underlined text was clearly identifiable on pages 3 and 5. No red strikethrough (removed) text was found in the document. The addition on page 5 inserts \"and of distributors of investment pools\" into an existing sentence about broker/dealer registration requirements, and adds a new sentence requiring MSRB registration for distributors of investment pools.",
+      "compliance_assessment": {
+        "classification": "Locally Discretionary",
+        "elements": [
+          {
+            "element": "District funds shall be invested in accordance with the Public Funds Investment Act",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "Texas Government Code § 2256.005 (cited but no verbatim quote provided in statute analysis)",
+            "supporting_quote": "None",
+            "verification_method": "unverified",
+            "litigation_status": "None identified",
+            "local_additions": "District adopted a policy statement affirming PFIA compliance; the statute analysis contains no verbatim requirement text to ground a 'Required by Law' classification under the grounding rule"
+          },
+          {
+            "element": "Distributors of investment pools must be registered with Texas State Securities Board and SIPC/FINRA",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "Texas Government Code § 2256.016 (cited but no verbatim quote provided in statute analysis)",
+            "supporting_quote": "None",
+            "verification_method": "unverified",
+            "litigation_status": "None identified",
+            "local_additions": "District imposed registration requirements for investment pool distributors with the Texas State Securities Board and SIPC/FINRA; no supporting statutory quote exists in the provided statute analysis to establish compulsion or express permission"
+          },
+          {
+            "element": "Distributors of investment pools must be registrants in good standing with the Municipal Securities Rulemaking Board (MSRB)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "Texas Government Code § 2256.016 (cited but no verbatim quote provided in statute analysis)",
+            "supporting_quote": "None",
+            "verification_method": "unverified",
+            "litigation_status": "None identified",
+            "local_additions": "District added an MSRB good-standing requirement for investment pool distributors beyond any language found in the statute analysis; this represents a locally chosen standard not grounded in a verified statutory quote"
+          }
+        ],
+        "statute_retrieval": "low_confidence"
+      },
+      "compliance_summary": [
+        "PFIA Compliance Statement: The updated policy adds a statement that District funds will be invested following the Public Funds Investment Act (Texas Government Code § 2256.005). The District chose to include this language as a formal policy commitment, rather than being required to do so by the statute itself.",
+        "Investment Pool Distributor Registration: The policy now requires that distributors of investment pools be registered with the Texas State Securities Board and SIPC/FINRA, referencing Texas Government Code § 2256.016. This registration requirement reflects a standard the District selected on its own, as no verified statutory language was found that specifically compels or permits this exact requirement.",
+        "MSRB Good Standing Requirement: The policy also requires that investment pool distributors be in good standing with the Municipal Securities Rulemaking Board (MSRB), referencing Texas Government Code § 2256.016. This is an additional standard the District added beyond what the cited statute was confirmed to require or expressly allow.",
+        "Overall Classification: All three changes in this policy update are classified as Locally Discretionary, meaning the District made these additions based on its own judgment rather than a direct state law mandate. No litigation related to any of these provisions was identified."
+      ]
     },
     {
       "date": "2025-10-21",
