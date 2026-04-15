@@ -24,7 +24,82 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-09-16_regular",
       "confidence": "high",
       "source_redline": "EHBAG_LOCAL.pdf",
-      "notes": "The entire policy text appears in red underline, indicating this is a newly created LOCAL policy (no prior language existed). There is no red strikethrough text, confirming nothing was deleted. The cover page title \"Discuss and Possibly Adopt Revisions to Board Policy EHBAG (Local)\" maps to action = \"adopted\" per the provided rules."
+      "notes": "The entire policy text appears in red underline, indicating this is a newly created LOCAL policy (no prior language existed). There is no red strikethrough text, confirming nothing was deleted. The cover page title \"Discuss and Possibly Adopt Revisions to Board Policy EHBAG (Local)\" maps to action = \"adopted\" per the provided rules.",
+      "compliance_assessment": {
+        "classification": "Locally Discretionary",
+        "elements": [
+          {
+            "element": "Parent notification of rights and ARD-level dispute resolution preference",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §29.005; 20 U.S.C. §1232g; 29 U.S.C. §794",
+            "supporting_quote": "Before a child is enrolled in a special education program of a school district, the district shall establish a committee composed of the persons required under 20 U.S.C. Section 1414(d) to develop the child's individualized education program.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statutes cited in the analysis govern IEP committee composition and Section 504 nondiscrimination. None require a district to affirmatively state a policy preference for resolving disputes at the ARD level before litigation. The dispute-resolution preference is a local governance choice. While the general duty to inform parents of their rights is broadly grounded in IDEA and FERPA, the statute analysis contains no verbatim quote compelling this specific policy statement, so it cannot be classified as Required by Law under the grounding rule."
+          },
+          {
+            "element": "Definition of 'legal fees' for policy purposes (including parent fees, settlement amounts)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "No statute cited in the analysis requires or authorizes a district to define, categorize, or track 'legal fees' in any particular manner. The comprehensive definition (including fees for parents, settlement amounts, etc.) is entirely a local accounting and policy choice."
+          },
+          {
+            "element": "Monthly confidential attorney-client privileged report to Board on special education legal fees and litigation status",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "No statute cited in the analysis requires or expressly authorizes a monthly confidential Board-level report covering estimated legal fees year-to-date, general legal topics, anticipated district steps, copies of parent complaints, summaries of district legal positions, or settlement timelines. This is a local internal governance and oversight mechanism created entirely at the district's discretion."
+          },
+          {
+            "element": "Quarterly public website report on special education legal fees (aggregate, disaggregated by topic, covering prior two fiscal years and current fiscal year-to-date)",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "Texas Government Code §552.001; §552.021",
+            "supporting_quote": "it is the policy of this state that each person is entitled, unless otherwise expressly provided by law, at all times to complete information about the affairs of government and the official acts of public officials and employees.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "Texas Government Code §552.021 requires that public information be available during normal business hours when requested; §552.001 establishes a general policy favoring government transparency. Neither statute requires a district to affirmatively compile and proactively publish quarterly financial reports on special education legal expenditures disaggregated by topic. The decision to publish this report voluntarily on the district website is a local transparency choice that goes well beyond what the cited statutes mandate."
+          },
+          {
+            "element": "FERPA protection — exclusion of personally identifiable student information from both the confidential and public reports",
+            "classification": "Required by Law",
+            "statutory_basis": "20 U.S.C. §1232g (FERPA)",
+            "supporting_quote": "No funds under any applicable program shall be made available to any State educational agency (whether or not that agency is an educational agency or institution under this section) that has a policy of denying, or effectively prevents, the parents of students the right to inspect and review the education records maintained by the State educational agency on their children who are or have been in attendance at any school of an educational agency or institution that is subject to the provisions of this section.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The policy's exclusion of FERPA-protected personally identifiable information from both reports is required by federal law. The district had no discretion to omit this protection once it chose to create reports that could otherwise contain such information. The framing language ('to the extent practicable' and 'shall not include') appropriately implements FERPA's prohibition on unauthorized disclosure of education records."
+          },
+          {
+            "element": "Confidential monthly report exempt from Government Code Chapter 552 (Texas Public Information Act) disclosure",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "Texas Government Code §552.001",
+            "supporting_quote": "it is the policy of this state that each person is entitled, unless otherwise expressly provided by law, at all times to complete information about the affairs of government and the official acts of public officials and employees.",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "Texas Government Code §552.001 permits restrictions on disclosure where 'otherwise expressly provided by law,' which accommodates attorney-client privilege and FERPA exemptions. However, the statute analysis does not contain a verbatim quote expressly exempting this specific type of report from Chapter 552 disclosure. The district's designation of the report as confidential and not subject to public release is a local policy choice that relies on existing privilege doctrines and FERPA, but the labeling decision itself is locally discretionary."
+          },
+          {
+            "element": "Implementation deadline of February 1, 2026",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "No statute cited in the analysis sets or requires this implementation deadline. The February 1, 2026 date is an entirely local policy choice establishing the district's self-imposed compliance timeline."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "New Transparency Policy: Conroe ISD created a brand-new policy, EHBAG (Local), that sets up reporting requirements for how much the district spends on special education-related legal costs. No state or federal law required the district to create this policy — it was entirely the district's own choice.",
+        "Monthly Board Report: The policy requires a confidential monthly report to the school board covering special education legal fees and related legal matters. No law required or specifically authorized this type of report; the district created it as an internal oversight tool.",
+        "Quarterly Public Report: The policy requires the district to post a report on its website every three months showing special education legal spending, broken down by topic and covering the past two fiscal years plus the current year. Texas Government Code §552.001 supports government transparency generally, but does not require districts to publish this kind of detailed report on their own.",
+        "Student Privacy Protection: Both the confidential board report and the public website report must leave out any information that could identify individual students. This requirement comes from federal law — specifically FERPA (20 U.S.C. §1232g) — which prohibits schools from sharing students' personal education records without authorization.",
+        "Implementation Deadline: The policy sets February 1, 2026 as the date by which all requirements must be fully in place. No law set this deadline; it was chosen by the district."
+      ]
     },
     {
       "date": "2025-08-19",
