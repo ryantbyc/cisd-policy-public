@@ -1903,10 +1903,10 @@
     {
       "code": "DGBA",
       "title": "Personnel-Management Relations: Employee Complaints/Grievances",
-      "description_short": "This policy governs the process by which district employees can formally raise workplace complaints or grievances with district administration.",
+      "description_short": "This policy governs the process by which district employees can formally raise workplace grievances with district administration.",
       "last_action_date": "2025-10-21",
       "last_action_result": "adopted",
-      "timeline_count": 2,
+      "timeline_count": 1,
       "has_local": true,
       "has_legal": false
     },
@@ -3531,5 +3531,5 @@
       "has_legal": false
     }
   ],
-  "generated_at": "2026-04-23T03:02:15Z"
+  "generated_at": "2026-04-23T16:44:16Z"
 }
