@@ -916,35 +916,6 @@
       return sec;
     }
 
-    if (changesAdded.length && changesRemoved.length) {
-      const split = document.createElement('div');
-      split.className = 'lang-split';
-      const secAdded   = makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+');
-      const secRemoved = makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−');
-
-      /* Sync: toggling either section toggles both.
-         Capture phase + stopImmediatePropagation prevents the individual
-         handlers inside makeChangesSection from running. */
-      function syncToggle(e) {
-        e.stopImmediatePropagation();
-        const open = !secAdded.classList.contains('collapsible-open');
-        secAdded.classList.toggle('collapsible-open', open);
-        secRemoved.classList.toggle('collapsible-open', open);
-      }
-      [secAdded, secRemoved].forEach(sec => {
-        sec.querySelector('.collapsible-toggle').addEventListener('click', syncToggle, true);
-        sec.querySelector('.collapsible-preview').addEventListener('click', syncToggle, true);
-      });
-
-      split.appendChild(secAdded);
-      split.appendChild(secRemoved);
-      body.appendChild(split);
-    } else if (changesAdded.length) {
-      body.appendChild(makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+'));
-    } else if (changesRemoved.length) {
-      body.appendChild(makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−'));
-    }
-
     /* Legal Compliance Summary — plain-language bullets above the detailed box */
     if (Array.isArray(entry.compliance_summary) && entry.compliance_summary.length) {
       const sumBox = document.createElement('div');
@@ -1006,6 +977,35 @@
     }
 
     if (complianceBox) body.appendChild(complianceBox);
+
+    if (changesAdded.length && changesRemoved.length) {
+      const split = document.createElement('div');
+      split.className = 'lang-split';
+      const secAdded   = makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+');
+      const secRemoved = makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−');
+
+      /* Sync: toggling either section toggles both.
+         Capture phase + stopImmediatePropagation prevents the individual
+         handlers inside makeChangesSection from running. */
+      function syncToggle(e) {
+        e.stopImmediatePropagation();
+        const open = !secAdded.classList.contains('collapsible-open');
+        secAdded.classList.toggle('collapsible-open', open);
+        secRemoved.classList.toggle('collapsible-open', open);
+      }
+      [secAdded, secRemoved].forEach(sec => {
+        sec.querySelector('.collapsible-toggle').addEventListener('click', syncToggle, true);
+        sec.querySelector('.collapsible-preview').addEventListener('click', syncToggle, true);
+      });
+
+      split.appendChild(secAdded);
+      split.appendChild(secRemoved);
+      body.appendChild(split);
+    } else if (changesAdded.length) {
+      body.appendChild(makeChangesSection(changesAdded,   'changes-added',   'Language Added',   '+'));
+    } else if (changesRemoved.length) {
+      body.appendChild(makeChangesSection(changesRemoved, 'changes-removed', 'Language Removed', '−'));
+    }
 
     /* Links row — meeting notes + redline download */
     const hasNotes   = !!entry.meeting_notes_url;
