@@ -22,7 +22,36 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
       "source_redline": "EHB_LOCAL.pdf",
-      "notes": "The redline on page 2 shows red strikethrough and red underline text clearly. The removed text replaces a lengthy phrase about State Board of Education standards and commissioner guidance, and the word 'for' is removed after 'with'. The added text substitutes 'regarding' and appends a new sentence referencing The Dyslexia Handbook. Cover page title reads 'Discuss and Possibly Adopt Revisions to Board Policy EHB (Local)', mapped to action 'adopted'."
+      "notes": "The redline on page 2 shows red strikethrough and red underline text clearly. The removed text replaces a lengthy phrase about State Board of Education standards and commissioner guidance, and the word 'for' is removed after 'with'. The added text substitutes 'regarding' and appends a new sentence referencing The Dyslexia Handbook. Cover page title reads 'Discuss and Possibly Adopt Revisions to Board Policy EHB (Local)', mapped to action 'adopted'.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Removal of explicit reference to State Board of Education standards and commissioner guidance",
+            "classification": "Mixed",
+            "statutory_basis": "TEC §38.003(b); 19 TAC §74.28",
+            "supporting_quote": "adopt and implement a policy requiring the district to comply with all rules and standards adopted by the State Board of Education to implement the program, including: (A) the Dyslexia Handbook: Procedures Concerning Dyslexia and Related Disorders, as adopted by the State Board of Education, and its subsequent amendments",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The statute requires compliance with SBOE rules and standards broadly; removing the explicit textual reference to SBOE standards and commissioner guidance is a locally chosen drafting decision. The underlying legal obligation to comply with SBOE standards remains compelled by statute, but the choice to omit the reference from local policy language is discretionary. This creates a mixed classification: the substantive compliance obligation is Required by Law, but the drafting simplification is Locally Discretionary."
+          },
+          {
+            "element": "Addition of explicit reference to the current version of The Dyslexia Handbook as the governing resource",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC §38.003(b); 19 TAC §74.28",
+            "supporting_quote": "adopt and implement a policy requiring the district to comply with all rules and standards adopted by the State Board of Education to implement the program, including: (A) the Dyslexia Handbook: Procedures Concerning Dyslexia and Related Disorders, as adopted by the State Board of Education, and its subsequent amendments; The strategies and techniques are described in the Dyslexia Handbook provided in this subsection.",
+            "verification_method": "verbatim statute text; web search confirmed current Dyslexia Handbook effective June 30, 2024",
+            "litigation_status": "None identified",
+            "local_additions": "The phrase 'current version' is a local clarifying choice, but the underlying obligation to follow the Dyslexia Handbook and its subsequent amendments is compelled by TEC §38.003(b) and 19 TAC §74.28. No meaningful additional local discretion is exercised beyond the clarifying phrasing."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Dyslexia Program Standards: Texas law (TEC §38.003(b) and 19 TAC §74.28) requires school districts to follow State Board of Education rules when providing services for students with dyslexia. This policy previously included a direct reference to those SBOE standards and commissioner guidance, which has been removed from the local policy text.",
+        "Ongoing Legal Obligation: Even though the written reference to SBOE standards was removed, the district's legal duty to follow those standards still exists under state law. Removing the language from the policy document does not change what the law requires.",
+        "Dyslexia Handbook Reference: State law (TEC §38.003(b) and 19 TAC §74.28) requires districts to follow The Dyslexia Handbook, a document published by the Texas Education Agency that outlines how schools must identify and support students with dyslexia. This policy now names that handbook directly as the governing resource.",
+        "Current Version Language: The policy uses the phrase 'current version' when referring to The Dyslexia Handbook. This wording is a local drafting choice, though the underlying requirement to follow the handbook and any updates to it comes from state law."
+      ]
     },
     {
       "date": "2025-10-21",

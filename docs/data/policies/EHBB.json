@@ -31,7 +31,82 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
       "source_redline": "EHBB_LOCAL.pdf",
-      "notes": "Red underlined and red strikethrough text was clearly distinguishable throughout pages 2–4. The committee rename from 'selection' to 'placement' occurs in multiple locations and is treated as a single recurring change. The Funding section had the most substantive rewrites. Page 5 is a date/version footer page with no policy text changes."
+      "notes": "Red underlined and red strikethrough text was clearly distinguishable throughout pages 2–4. The committee rename from 'selection' to 'placement' occurs in multiple locations and is treated as a single recurring change. The Funding section had the most substantive rewrites. Page 5 is a date/version footer page with no policy text changes.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Rename 'selection' committee to 'placement' committee throughout policy document",
+            "classification": "Required by Law",
+            "statutory_basis": "19 TAC §89.1 (amended effective September 1, 2024)",
+            "supporting_quote": "provide that the placement committee responsible for making decisions on the identification and exit of students shall be trained in procedures and considerations related to identifying and serving students with diverse backgrounds, including students from low socioeconomic backgrounds, students of color, students with disabilities, and English learners",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None — the term 'placement committee' is mandated by 19 TAC §89.1; district had no discretion to retain 'selection committee' terminology"
+          },
+          {
+            "element": "Replace 'it is in the best interest of the student to exit' with 'is not meeting the student's educational needs' as the exit trigger standard",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "District's own choice of language to clarify the substantive standard for exit decisions. Neither TEC §29.122, TEC §48.109, 19 TAC §89.1, nor 19 TAC §89.4 prescribe the specific substantive standard for when a student may be exited from a G/T program."
+          },
+          {
+            "element": "Replace 'assessment' with 'identification' in the awareness session overview language",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "Terminological clarification chosen by district. While 19 TAC §89.1 requires 'assessment procedures,' it does not mandate specific word choices in awareness session descriptions. This is a local editorial choice."
+          },
+          {
+            "element": "Superintendent or designee shall develop administrative procedures to account for the expenditure of the G/T allotment in alignment with TEA financial compliance guidance",
+            "classification": "Required by Law",
+            "statutory_basis": "19 TAC §89.4 (amended effective September 1, 2024); TEC §48.109",
+            "supporting_quote": "establish a method to account for the expenditure of the gifted and talented allotment in alignment with the Texas Education Agency's financial compliance guidance",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The assignment of this duty to 'Superintendent or designee' is a local implementation choice, but the underlying obligation to establish an accounting method aligned with TEA guidance is mandated by 19 TAC §89.4."
+          },
+          {
+            "element": "One hundred percent of state funds allocated for gifted and talented education shall be spent on providing gifted and talented services or enhancing the District's gifted and talented program",
+            "classification": "Required by Law",
+            "statutory_basis": "19 TAC §89.4 (amended effective September 1, 2024); TEC §48.109",
+            "supporting_quote": "ensure that 100% of state funds allocated for gifted and talented education are spent on providing gifted and talented services or enhancing the district's gifted and talented program",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "None — policy language mirrors the mandatory rule requirement almost verbatim; no district additions beyond what is compelled."
+          },
+          {
+            "element": "Appeals section revised to reference 'services in' gifted and talented programs (replacing 'selection for or exit from')",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "Terminological revision chosen by district to align with the broader 'placement committee' renaming. No statute in the analysis prescribes the specific phrasing used to describe the scope of the appeals process."
+          },
+          {
+            "element": "Removal of prior Funding section language requiring that the program 'address effective use of funds for programs and services consistent with the standards in the state plan for gifted and talented students'",
+            "classification": "Required by Law",
+            "statutory_basis": "19 TAC §89.4 (amended effective September 1, 2024)",
+            "supporting_quote": "School districts shall adopt a policy regarding the use of funds to support the district's program for gifted and talented students, as required by Texas Education Code, §29.022(b).",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "The removal reflects updating the policy to conform to the revised 19 TAC §89.4 requirements, which replaced the prior 'state plan' standard with specific TEA financial compliance guidance and 100% expenditure requirements. Removal of the superseded language was compelled by the regulatory revision."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Committee Renamed 'Placement': A 2024 update to state rule 19 TAC §89.1 required school districts to replace the term 'selection committee' with 'placement committee' in their gifted and talented policies. Conroe ISD updated its policy language to match this requirement.",
+        "G/T Funds Must Stay in G/T: State rule 19 TAC §89.4, updated effective September 1, 2024, requires that 100% of state gifted and talented funding be spent on gifted and talented services or program improvements. The revised policy repeats this requirement almost word for word.",
+        "Superintendent Accountable for Fund Tracking: State rule 19 TAC §89.4 and Texas Education Code §48.109 require districts to have a method for tracking how gifted and talented funds are spent, in line with guidance from the Texas Education Agency. The updated policy assigns the Superintendent or a designee the job of creating those tracking procedures.",
+        "Outdated Funding Language Removed: The previous policy required the program to follow the standards in the state plan for gifted and talented students. Because 19 TAC §89.4 was rewritten in 2024 to replace that standard with new spending and accountability rules, the old language was removed to bring the policy up to date.",
+        "Exit Standard Clarified: The policy now says a student may be exited from the gifted and talented program when the program 'is not meeting the student's educational needs,' replacing broader language about what is in the student's best interest. No state law required this specific wording — it was a choice made by the district to clarify its own standard."
+      ]
     },
     {
       "date": "2025-10-21",

@@ -17,7 +17,26 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2025-11-18_regular",
       "confidence": "high",
       "source_redline": "GKB_LOCAL.pdf",
-      "notes": "The red underlined text on page 2 is clearly identifiable. No red strikethrough text was present in the document. The cover page title reads \"Discuss and Possibly Adopt Revisions to Board Policy GKB (Local)\" which maps to action = 'adopted'."
+      "notes": "The red underlined text on page 2 is clearly identifiable. No red strikethrough text was present in the document. The cover page title reads \"Discuss and Possibly Adopt Revisions to Board Policy GKB (Local)\" which maps to action = 'adopted'.",
+      "compliance_assessment": {
+        "classification": "Locally Discretionary",
+        "elements": [
+          {
+            "element": "Rejection of advertising not aligned with district values and compliance with EMB Local, EFA Local, EFB Local, and EMI Local policies",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC §11.151 (general trustee authority)",
+            "supporting_quote": "All powers and duties not specifically delegated by statute to the agency or to the State Board of Education are reserved for the trustees",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "District chose to establish specific advertising content standards tied to internal policy alignment and district values; no statute mandates or expressly authorizes this particular advertising rejection standard — it is an exercise of the board's reserved general governance authority"
+          }
+        ]
+      },
+      "compliance_summary": [
+        "New Advertising Standard: The district added a rule that allows it to reject advertising that does not align with district values or comply with four related internal policies (EMB Local, EFA Local, EFB Local, and EMI Local). This creates a clear, written standard for what kinds of advertising can be turned down.",
+        "Board Authority Used: No state law required or specifically authorized this change — the district made it on its own using its general authority to govern local school matters under Texas Education Code §11.151. School boards in Texas have broad power to set policies like this when state law does not address the specific topic.",
+        "No Legal Challenges Found: There are no known court cases or legal disputes connected to this type of advertising policy change. The addition reflects a local governance decision rather than a response to litigation."
+      ]
     },
     {
       "date": "2025-10-21",

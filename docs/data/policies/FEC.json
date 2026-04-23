@@ -3,8 +3,90 @@
   "title": "Attendance: Attendance for Credit",
   "description": "This policy governs the relationship between student attendance and the awarding of academic credit. It establishes the conditions under which absences may affect a student's ability to earn credit for a course. The policy sets out the rules schools follow when determining whether a student has attended enough to receive credit.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FEC",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline_local": [],
+  "last_action_date": "2026-04-21",
+  "last_action_result": "first_reading",
+  "timeline_local": [
+    {
+      "date": "2026-04-21",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's FEC (Local) policy on Attendance for Credit revises the Student Health Care and Personal Illness section to explicitly require the principal or attendance committee to consider health care and serious/life-threatening illness absences as extenuating circumstances, updates the terminology from \"administrative regulations\" to \"District procedure,\" replaces \"health-care professional provider\" with \"health-care professional,\" and adds a new sentence requiring the District to adopt procedures to implement the policy.",
+      "changes_added": [
+        "In determining extenuating circumstances, T (capitalization change integrating new introductory clause)",
+        "the principal or attendance committee shall consider absence for appointments with health care professionals and absence resulting from a serious or life-threatening illness or related treatment as defined in Texas Education Code Section 25.087. The principal or attendance committee",
+        "District procedure",
+        "an appointment for health care or",
+        "The District shall adopt procedures to implement this policy."
+      ],
+      "changes_removed": [
+        "Tthe (formatting artifact of original capital T being lowercased into the new clause)",
+        "administrative regulations",
+        "professional provider",
+        "for health care or"
+      ],
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-04-21_regular",
+      "confidence": "medium",
+      "source_redline": "FEC_LOCAL.pdf",
+      "notes": "The redline on page 3 shows the \"Student Health Care and Personal Illness\" section heading itself is underlined in red, suggesting it may be a new or renamed section heading, though the section existed previously. The main substantive changes are: (1) adding explicit language that the principal/attendance committee SHALL consider health care and serious/life-threatening illness absences when determining extenuating circumstances (previously this was implied or less direct); (2) replacing \"administrative regulations\" with \"District procedure\"; (3) replacing \"professional provider\" with \"professional\"; and (4) adding the new closing sentence \"The District shall adopt procedures to implement this policy.\" Some of the tracked changes involved mid-sentence restructuring making clean separation of added vs. removed text slightly ambiguous. The cover page title says \"Consider and Adopt Revisions,\" which maps to action = \"adopted\" per the rules.",
+      "compliance_assessment": {
+        "classification": "Mixed",
+        "elements": [
+          {
+            "element": "Requirement that principal or attendance committee shall consider health care professional appointment absences as extenuating circumstances",
+            "classification": "Mixed",
+            "statutory_basis": "TEC \u00a7 25.092(b); TEC \u00a7 25.087(b)(2)",
+            "supporting_quote": "a temporary absence resulting from an appointment with health care professionals, including mental health professionals, for the student or the student's child if the student commences classes or returns to school on the same day of the appointment",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.087(b)(2) as amended by S.B. 207, enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "TEC \u00a7 25.092(b) requires the board to establish extenuating circumstance guidelines, and TEC \u00a7 25.087(b)(2) mandates excusal of health care appointment absences, providing the legal foundation. However, the statute does not expressly mandate that the principal or attendance committee specifically must treat health care appointments as extenuating circumstances in the attendance-for-credit context \u2014 that specific directive is a local policy choice layering the two statutes together."
+          },
+          {
+            "element": "Requirement that principal or attendance committee shall consider serious or life-threatening illness absences (as defined in TEC \u00a7 25.087) as extenuating circumstances",
+            "classification": "Mixed",
+            "statutory_basis": "TEC \u00a7 25.092(b); TEC \u00a7 25.087(b)(3)",
+            "supporting_quote": "Each board of trustees shall establish guidelines to determine what constitutes extenuating circumstances | A school district shall excuse a student from attending school for: ... an absence resulting from a serious or life-threatening illness or related treatment that makes the student's attendance infeasible, if the student or the student's parent or guardian provides on a form adopted by the district under Subsection (g) a certification from a physician licensed to practice medicine in this state",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "TEC \u00a7 25.092 further provides that a student's excused absence under \u00a7 25.087(b)(3) may not be counted against attendance requirements, creating a strong statutory basis. However, neither statute explicitly mandates that these absences be designated extenuating circumstances in the committee or principal review process \u2014 the district is layering the two statutes into a specific procedural directive, which goes beyond what either statute alone expressly compels."
+          },
+          {
+            "element": "Terminology change from 'administrative regulations' to 'District procedure'",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "None",
+            "supporting_quote": "None",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "No statute in the analysis prescribes how the district must label its implementing documents. This is a purely stylistic and organizational drafting choice by Conroe ISD."
+          },
+          {
+            "element": "Terminology change from 'health-care professional provider' to 'health-care professional'",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC \u00a7 25.087(b)(2)",
+            "supporting_quote": "a temporary absence resulting from an appointment with health care professionals, including mental health professionals, for the student or the student's child if the student commences classes or returns to school on the same day of the appointment",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.087(b)(2) as amended by S.B. 207, enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "While the revision aligns district terminology more closely with the statutory phrase 'health care professionals,' no statute mandates this specific wording in local policy. The change is a clerical drafting refinement chosen locally."
+          },
+          {
+            "element": "New sentence requiring the District to adopt procedures to implement this policy",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC \u00a7 25.092(b)",
+            "supporting_quote": "Each board of trustees shall establish guidelines to determine what constitutes extenuating circumstances | shall adopt policies establishing alternative ways for students to make up work or regain credit or a final grade lost because of absences",
+            "verification_method": "verbatim statute text",
+            "litigation_status": "None identified",
+            "local_additions": "TEC \u00a7 25.092(b) requires the board to establish guidelines and adopt policies, but it does not mandate that the board policy itself contain a self-referential sentence directing the district to adopt implementing procedures. The addition of this sentence is a locally chosen drafting mechanism to ensure administrative follow-through, not a requirement expressed in the statute."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Health Care Appointment Absences: The updated policy requires the principal or attendance committee to treat absences for health care appointments as extenuating circumstances when deciding whether a student receives credit. Texas law under TEC \u00a7 25.087(b)(2) requires schools to excuse these absences, and TEC \u00a7 25.092(b) requires the board to set guidelines for extenuating circumstances, though combining these two requirements into one specific directive is a local policy decision by Conroe ISD.",
+        "Serious Illness Absences: The policy now also requires the principal or attendance committee to treat absences caused by a serious or life-threatening illness as extenuating circumstances in the attendance-for-credit review process. TEC \u00a7 25.087(b)(3) and TEC \u00a7 25.092 together provide a strong legal foundation for this, though the specific procedural directive is a local choice made by Conroe ISD.",
+        "Terminology Update \u2014 Health Care Professional: The policy replaces the phrase 'health-care professional provider' with 'health-care professional,' which more closely matches the wording used in TEC \u00a7 25.087(b)(2). This is a drafting refinement chosen by the district and is not required by state law.",
+        "Terminology Update \u2014 District Procedure: The policy changes the term 'administrative regulations' to 'District procedure' when referring to how the policy will be carried out. No state law requires this specific wording, making it a local drafting choice.",
+        "Procedures Requirement Added: A new sentence was added stating that the District must adopt procedures to put this policy into practice. TEC \u00a7 25.092(b) requires the board to establish guidelines and adopt policies, but the specific addition of this sentence directing the district to create implementing procedures is a local drafting decision."
+      ]
+    }
+  ],
   "timeline_legal": []
 }

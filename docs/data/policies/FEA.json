@@ -3,8 +3,164 @@
   "title": "Attendance: Compulsory Attendance",
   "description": "This policy governs the requirement for students to attend school regularly, in accordance with compulsory attendance laws. It outlines the rules and expectations that determine when student attendance is considered mandatory, as well as the conditions under which absences may be addressed.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/FEA",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline_local": [],
+  "last_action_date": "2026-04-21",
+  "last_action_result": "first_reading",
+  "timeline_local": [
+    {
+      "date": "2026-04-21",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update to Conroe ISD's FEA (Local) Compulsory Attendance policy adds an entirely new \"Real Time Course\" section, implementing Texas Senate Bill 1049 (Acts 2025), which establishes a framework for excused absences when students attend released time courses (religious instruction offered by a private entity). The new section defines released time courses, sets out District procedures, parental consent requirements, prohibitions on use of District funds/property, transportation responsibilities, private entity obligations, and student responsibilities.",
+      "changes_added": [
+        "Real Time Course [section heading]",
+        "Definition: For the purpose of this section, released time course shall mean a course in religious instruction offered by a private entity.",
+        "Release Time Course Excused Absence: The District shall adopt a procedure for a parent or legal guardian to request their student to be excused from attending school to attend a released time course for at least one but not more than five hours per week. The District shall not interfere with the ability of the student's parent or legal guardian to request or access a released time course for their student.",
+        "As part of the District procedure, the District will require the student's parent or legal guardian to provide written consent for the student to attend the released time course.",
+        "District Prohibitions: The District shall prohibit: 1. The use of District or school funds, to facilitate the provision of a released time course, excluding de minimis costs. 2. The private entity from offering the released time course on District or school property, unless permitted under a neutral Board Policy or District procedure that provides equal access to community organizations to use District or school property. See School Board Policy GKD (Local).",
+        "Transportation: It shall be the responsibility of the private entity providing the course, the parent or legal guardian, or the student to arrange, assume responsibility, and provide transportation to and from the location where the released time course is offered. This shall include transportation for students with disabilities.",
+        "Private Entity Responsibility: The private entity offering the released time course shall: 1. Make appropriate provisions for and assume full liability for the student while the student is under its supervision and private care; 2. Monitor student attendance; 3. Report any student failure to attend the real time course to the District as soon as practicable; and 4. Maintain accurate attendance records and provide them on a regular basis to the District.",
+        "Student Responsibility: The student shall assume responsibility for any District schoolwork during the student's absence and for continuous attendance at the real time course.",
+        "The District shall adopt procedures to implement this policy."
+      ],
+      "changes_removed": [
+        "2023-10-30 [strikethrough on DATE ISSUED line]"
+      ],
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-04-21_regular",
+      "confidence": "high",
+      "source_redline": "FEA_LOCAL.pdf",
+      "notes": "The cover page title reads \"Consider and Adopt Revisions to Board Policy FEA (Local)\" with no \"First Reading\" qualifier, indicating adoption. All red-underlined text on pages 3\u20134 (and the side-by-side amended board policy panel on pages 5\u20137) consistently represents the new \"Real Time Course\" section added wholesale to the policy, driven by Texas SB 1049 (89th Legislature, eff. September 1, 2025). The only red strikethrough visible is on the DATE ISSUED line (2023-10-30), reflecting the policy update date change. The legislative basis pages (pages 5\u20136) are reference/context pages highlighted in yellow and are not themselves policy text changes.",
+      "compliance_assessment": {
+        "classification": "Required by Law",
+        "elements": [
+          {
+            "element": "Adoption of procedure for released time course excused absences (1\u20135 hours per week)",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "Each school district and open-enrollment charter school shall adopt a policy for excusing a student enrolled at the district or school from attending school to attend a released time course.",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "The statute requires adoption of a 'policy'; the CISD policy uses the word 'procedure' in places. The 1\u20135 hours per week limit comes from \u00a725.0875(b): 'excuse the student from attending school to attend a released time course for at least one but not more than five hours a week.' Both subsections verified against enrolled bill."
+          },
+          {
+            "element": "Prohibition on District interference with parental right to request or access a released time course",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "may not interfere with the ability of the student's parent or legal guardian to request or access a released time course for the student",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c)(3), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "Written parental/guardian consent requirement as part of District procedure",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "the student's parent or legal guardian to provide written consent for the student to attend the released time course",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c)(1)(A), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "None \u2014 verbatim match. Note: framed in statute as a required policy element under \u00a725.0875(c)(1)(A), not a standalone district mandate."
+          },
+          {
+            "element": "Prohibition on use of District or school funds to facilitate a released time course (excluding de minimis costs)",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "the district or school from using district or school funds, excluding de minimis costs, to facilitate the provision of a released time course",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c)(2)(A), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "Prohibition on private entity offering released time course on District/school property unless neutral equal-access policy applies",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "the private entity from offering the released time course on district or school property, unless permitted under a neutral policy of equal access that allows community organizations to use district or school property",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c)(2)(B), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "The policy references 'a neutral Board Policy or District procedure that provides equal access' and cross-references GKD (Local). The statute says 'a neutral policy of equal access that allows community organizations to use district or school property.' The policy adds 'Board Policy or District procedure' framing not present in the statute, but the substance is consistent."
+          },
+          {
+            "element": "Transportation responsibility (private entity, parent/guardian, or student; including students with disabilities)",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "the private entity, parent or legal guardian, or student to assume responsibility for transportation, including transportation for a student with a disability, to and from any location at which the released time course is offered",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c)(1)(C), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "None"
+          },
+          {
+            "element": "Private entity liability and supervision obligation",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "the private entity to make provisions for and assume liability for the student enrolled in the released time course while the student is under the private entity's care",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c)(1)(D), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "The policy says 'make appropriate provisions for and assume full liability...while the student is under its supervision and private care.' The statute says 'make provisions for and assume liability...while the student is under the private entity's care.' 'Appropriate,' 'full,' and 'supervision and private' are local additions not present in the enrolled bill."
+          },
+          {
+            "element": "Private entity obligation to monitor student attendance",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "None",
+            "verification_method": "not in enrolled bill \u2014 TEC \u00a725.0875, S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "RECLASSIFIED: 'Monitor student attendance' does not appear in the enrolled bill. The statute's single private entity attendance obligation is \u00a725.0875(c)(1)(B): 'maintain attendance records and make the records available to the district or school at which the student is enrolled.' The policy's standalone 'monitor' obligation is a local addition."
+          },
+          {
+            "element": "Private entity obligation to report student failure to attend to District as soon as practicable",
+            "classification": "Locally Discretionary",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "None",
+            "verification_method": "not in enrolled bill \u2014 TEC \u00a725.0875, S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "RECLASSIFIED: 'Report any student failure to attend the released time course to the District as soon as practicable' does not appear anywhere in the enrolled bill. The statute only requires the private entity to maintain attendance records and make them available (\u00a725.0875(c)(1)(B)). This is a local policy addition with no statutory basis."
+          },
+          {
+            "element": "Private entity obligation to maintain accurate attendance records and provide them regularly to the District",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "the private entity offering the released time course to maintain attendance records and make the records available to the district or school at which the student is enrolled",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c)(1)(B), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "The policy says 'maintain accurate attendance records and provide them on a regular basis to the District.' The statute says 'maintain attendance records and make the records available to the district or school.' 'Accurate' and 'on a regular basis' are local additions; 'make the records available' is softer than 'provide them.'"
+          },
+          {
+            "element": "Student responsibility for District schoolwork during absence and continuous attendance at released time course",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "the student to assume responsibility for any schoolwork issued during the student's absence",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c)(1)(E), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "The policy adds 'and for continuous attendance at the real time course.' 'Continuous attendance' does not appear in the enrolled bill \u2014 it is a local addition beyond the statutory requirement."
+          },
+          {
+            "element": "Definition of 'released time course' as a course in religious instruction offered by a private entity",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "In this section, 'released time course' means a course in religious instruction offered by a private entity.",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(a), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "The policy section heading uses the phrase 'Real Time Course' rather than 'Released Time Course,' which appears to be a typographical inconsistency in the policy draft but does not alter the statutory basis. The definition itself tracks the statutory meaning."
+          },
+          {
+            "element": "District adoption of implementing procedures",
+            "classification": "Required by Law",
+            "statutory_basis": "TEC \u00a725.0875 as enacted by S.B. 1049 (89th Leg., R.S.)",
+            "supporting_quote": "Each school district and open-enrollment charter school shall adopt a policy for excusing a student enrolled at the district or school from attending school to attend a released time course.",
+            "verification_method": "verbatim statute text \u2014 TEC \u00a725.0875(c), S.B. 1049 enrolled bill, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "The policy adds a standalone sentence directing the District to adopt procedures to implement this policy, which mirrors the statutory mandate and adds no independent local content."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Released Time Courses Defined: Texas S.B. 1049 (2025) created a new category of excused absence for students who leave campus to attend religious instruction offered by a private organization. Conroe ISD's updated policy adds this definition and a framework for how the district will handle these absences, as required by state law (TEC \u00a725.0875).",
+        "Parental Consent Required: Under TEC \u00a725.0875, a parent or guardian must give written consent before a student can be excused from school to attend a released time course. The district's policy includes this consent requirement as part of its official procedures.",
+        "No District Funds or Property: State law prohibits the district from spending school funds to support released time courses, and private organizations generally may not use school property to offer them. An exception exists if the district already has a neutral, equal-access policy allowing outside groups to use its facilities, which Conroe ISD addressed by referencing its existing Policy GKD (Local).",
+        "Transportation Is Not the District's Responsibility: TEC \u00a725.0875 requires that transportation to and from a released time course be arranged by the private organization, the parent or guardian, or the student \u2014 not the school district. This applies to students with disabilities as well.",
+        "Private Organization Obligations: The statute (TEC \u00a725.0875(c)(1)) places three obligations on private entities offering released time courses: (1) maintain attendance records and make them available to the district; (2) assume responsibility for transportation including for students with disabilities; and (3) make provisions for and assume liability for the student while under the private entity's care. The CISD policy expands this into four items, adding a standalone 'monitor student attendance' obligation and a 'report any student failure to attend as soon as practicable' requirement \u2014 neither of which appears in the enrolled bill. Those two items are local additions classified as Locally Discretionary.",
+        "Student Responsibilities During Absence: The statute requires the student to assume responsibility for any schoolwork issued during the absence (TEC \u00a725.0875(c)(1)(E)). The CISD policy adds a requirement for 'continuous attendance at the real time course,' which does not appear in the enrolled bill and is a local addition."
+      ]
+    }
+  ],
   "timeline_legal": []
 }

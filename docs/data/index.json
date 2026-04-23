@@ -1592,12 +1592,12 @@
     },
     {
       "code": "DBD",
-      "title": "Employment Requirements and Restrictions: Conflict of Interest",
-      "description_short": "This policy addresses situations where an employee's personal interests may conflict with their professional responsibilities or the interests of the…",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "title": "",
+      "description_short": "",
+      "last_action_date": "2026-04-21",
+      "last_action_result": "adopted",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -2724,10 +2724,10 @@
       "code": "FEA",
       "title": "Attendance: Compulsory Attendance",
       "description_short": "This policy governs the requirement for students to attend school regularly, in accordance with compulsory attendance laws.",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2026-04-21",
+      "last_action_result": "first_reading",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -2744,10 +2744,10 @@
       "code": "FEC",
       "title": "Attendance: Attendance for Credit",
       "description_short": "This policy governs the relationship between student attendance and the awarding of academic credit.",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2026-04-21",
+      "last_action_result": "first_reading",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -3344,10 +3344,10 @@
       "code": "GC",
       "title": "Public Notices",
       "description_short": "This policy governs the requirements and procedures for public notices issued by the organization.",
-      "last_action_date": null,
-      "last_action_result": null,
-      "timeline_count": 0,
-      "has_local": false,
+      "last_action_date": "2026-04-21",
+      "last_action_result": "first_reading",
+      "timeline_count": 1,
+      "has_local": true,
       "has_legal": false
     },
     {
@@ -3531,5 +3531,5 @@
       "has_legal": false
     }
   ],
-  "generated_at": "2026-04-15T23:16:20Z"
+  "generated_at": "2026-04-23T02:51:41Z"
 }

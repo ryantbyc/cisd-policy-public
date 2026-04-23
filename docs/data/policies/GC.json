@@ -3,8 +3,105 @@
   "title": "Public Notices",
   "description": "This policy governs the requirements and procedures for public notices issued by the organization. It covers how and when official notices must be communicated to the public, ensuring transparency in organizational actions and decisions.",
   "policy_connect_url": "https://policyconnect.org/policy/conroe-isd/GC",
-  "last_action_date": null,
-  "last_action_result": null,
-  "timeline_local": [],
+  "last_action_date": "2026-04-21",
+  "last_action_result": "first_reading",
+  "timeline_local": [
+    {
+      "date": "2026-04-21",
+      "school_year": "2025-2026",
+      "action": "first_reading",
+      "result": "first_reading",
+      "summary": "This update creates a new Local Policy GC (Public Notices) for Conroe ISD, adding an entirely new \"Digital Newspaper\" section that establishes the criteria a digital newspaper must meet for the District to use it for publishing public notices. The policy is driven by Texas Senate Bill 1062, which amended Government Code \u00a7 2051.0441 to allow digital newspapers as an alternative publication venue.",
+      "changes_added": [
+        "Digital Newspaper \u2014 section heading (new)",
+        "The District may utilize a digital newspaper to publish public notices as long as the digital newspaper:",
+        "1. Has an audited paid-subscriber base;",
+        "2. Has been in business for at least three years;",
+        "3. Employs staff who are residents from within the District's geographic area;",
+        "4. Reports on local events and governmental activities in the District's geographic area;",
+        "5. Provides news of general interest to residents from within the District's geographic area; and",
+        "6. Updates its news at least once each week."
+      ],
+      "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-04-21_regular",
+      "confidence": "high",
+      "source_redline": "GC_LOCAL.pdf",
+      "notes": "This appears to be a brand-new local policy (Version 1, no prior text shown), so all red-underlined text represents new additions with no deletions. The cover page title reads \"Consider and Adopt Revisions to Board Policy GC (Local)\" \u2014 no \"First Reading\" language \u2014 so action is recorded as \"adopted.\" The legislative basis document (page 3) confirms the change stems from Texas Senate Bill 1062 amending Tex. Gov't Code \u00a7 2051.0441. Page 4 appears blank/logo only and contains no additional policy text.",
+      "compliance_assessment": {
+        "classification": "Permitted by Law",
+        "elements": [
+          {
+            "element": "Digital Newspaper \u2014 section heading and general authorization to use digital newspapers for public notices",
+            "classification": "Permitted by Law",
+            "statutory_basis": "TEX. GOV'T CODE \u00a7 2051.0441(b-1) (as amended by S.B. 1062, 89th Leg.)",
+            "supporting_quote": "In lieu of publishing a notice in a newspaper under Subsection (b), a governmental entity may publish a notice in a digital newspaper if that digital newspaper meets the criteria set out in this subsection.",
+            "verification_method": "verbatim statute text \u2014 S.B. 1062 enrolled bill text, 89th Leg., R.S., capitol.texas.gov (\u00a72051.0441(b-1) as added by S.B. 1062)",
+            "litigation_status": "None identified as of April 2026",
+            "local_additions": "The statute creates an optional alternative to traditional newspaper publication; the district's decision to adopt a local policy exercising that option is a local choice, but the authorization itself comes directly from \u00a72051.0441(b-1)."
+          },
+          {
+            "element": "Criterion 1 \u2014 audited paid-subscriber base requirement",
+            "classification": "Required by Law",
+            "statutory_basis": "TEX. GOV'T CODE \u00a7 2051.0441(b-1)",
+            "supporting_quote": "has an audited paid-subscriber base",
+            "verification_method": "verbatim statute text \u2014 \u00a72051.0441(b-1)(1) as added by S.B. 1062, enrolled bill text, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "Verbatim statutory match. Policy criterion 1 corresponds to \u00a72051.0441(b-1)(1). Order matches."
+          },
+          {
+            "element": "Criterion 2 \u2014 three-year minimum business history",
+            "classification": "Required by Law",
+            "statutory_basis": "TEX. GOV'T CODE \u00a7 2051.0441(b-1)",
+            "supporting_quote": "has been in business for at least three years",
+            "verification_method": "verbatim statute text \u2014 \u00a72051.0441(b-1)(2) as added by S.B. 1062, enrolled bill text, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "Verbatim statutory match. Policy criterion 2 corresponds to \u00a72051.0441(b-1)(2). Order matches."
+          },
+          {
+            "element": "Criterion 3 \u2014 staff who are residents from within the District's geographic area",
+            "classification": "Required by Law",
+            "statutory_basis": "TEX. GOV'T CODE \u00a7 2051.0441(b-1)",
+            "supporting_quote": "employs staff in the jurisdiction of the governmental entity",
+            "verification_method": "adapted statute text \u2014 \u00a72051.0441(b-1)(3) as added by S.B. 1062, enrolled bill text, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "DEVIATION: The statute says 'employs staff in the jurisdiction of the governmental entity.' The policy says 'employs staff who are residents from within the District's geographic area.' Adding a residency requirement \u2014 staff must live in the area, not merely work there \u2014 is a local addition that goes beyond the statutory criterion and could be more restrictive than state law requires."
+          },
+          {
+            "element": "Criterion 4 \u2014 reports on local events and governmental activities in the District's geographic area",
+            "classification": "Required by Law",
+            "statutory_basis": "TEX. GOV'T CODE \u00a7 2051.0441(b-1)",
+            "supporting_quote": "reports on local events and governmental activities in the jurisdiction of the governmental entity",
+            "verification_method": "adapted statute text \u2014 \u00a72051.0441(b-1)(4) as added by S.B. 1062, enrolled bill text, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "'District's geographic area' substituted for 'jurisdiction of the governmental entity.' Functionally equivalent; not verbatim."
+          },
+          {
+            "element": "Criterion 5 \u2014 provides news of general interest to residents from within the District's geographic area",
+            "classification": "Required by Law",
+            "statutory_basis": "TEX. GOV'T CODE \u00a7 2051.0441(b-1)",
+            "supporting_quote": "provides news of general interest to people in the jurisdiction of the governmental entity",
+            "verification_method": "adapted statute text \u2014 \u00a72051.0441(b-1)(5) as added by S.B. 1062, enrolled bill text, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "'residents from within the District's geographic area' substituted for 'people in the jurisdiction of the governmental entity.' Adds 'residents from within' framing consistent with the broader residency theme in the policy, but the statute simply says 'people in the jurisdiction.'"
+          },
+          {
+            "element": "Criterion 6 \u2014 updates its news at least once each week",
+            "classification": "Required by Law",
+            "statutory_basis": "TEX. GOV'T CODE \u00a7 2051.0441(b-1)",
+            "supporting_quote": "updates its news at least once each week",
+            "verification_method": "verbatim statute text \u2014 \u00a72051.0441(b-1)(6) as added by S.B. 1062, enrolled bill text, 89th Leg., R.S., capitol.texas.gov",
+            "litigation_status": "None identified",
+            "local_additions": "None \u2014 verbatim match."
+          }
+        ]
+      },
+      "compliance_summary": [
+        "Digital Newspaper Authorization \u2014 Permitted by Law: Texas S.B. 1062 (89th Leg., R.S.) amended Government Code \u00a72051.0441 to add subsection (b-1), which allows governmental entities to publish public notices in a digital newspaper as an alternative to a traditional print newspaper, provided the digital newspaper meets six specific statutory criteria. Conroe ISD's policy exercises this option. The authorization is statutory, not locally invented.",
+        "Criteria 1, 2, and 6 \u2014 Verbatim Statutory Language: The requirements for an audited paid-subscriber base (criterion 1), at least three years in business (criterion 2), and weekly news updates (criterion 6) are taken verbatim from \u00a72051.0441(b-1). The order of criteria in the policy differs from the statutory order but the language is identical.",
+        "Criterion 3 \u2014 Residency Deviation: The statute requires the digital newspaper to 'employ staff in the jurisdiction of the governmental entity.' The policy instead requires staff who are 'residents from within the District's geographic area.' This adds a residency requirement not present in the statute \u2014 staff must live in the area, not merely work there. This is a local addition that exceeds the statutory criterion.",
+        "Criteria 4 and 5 \u2014 Adapted Language: The policy substitutes 'District's geographic area' for 'jurisdiction of the governmental entity' in the local news coverage and general interest criteria. The meaning is functionally equivalent but the language is not verbatim.",
+        "Overall Classification Corrected: The prior assessment classified all elements as Locally Discretionary and marked all statutory quotes as unverified because the Claude API failed to extract the statutory text from the TEE legislative basis column. The statutory text of \u00a72051.0441(b-1) was present in the source document and has now been applied. The correct overall classification is Permitted by Law."
+      ]
+    }
+  ],
   "timeline_legal": []
 }
