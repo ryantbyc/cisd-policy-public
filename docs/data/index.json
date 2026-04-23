@@ -1593,7 +1593,7 @@
     {
       "code": "DBD",
       "title": "Employment Requirements and Restrictions: Conflict of Interest",
-      "description_short": "",
+      "description_short": "This policy addresses conflicts of interest related to the employment of District administrators.",
       "last_action_date": "2026-04-21",
       "last_action_result": "adopted",
       "timeline_count": 1,
@@ -3531,5 +3531,5 @@
       "has_legal": false
     }
   ],
-  "generated_at": "2026-04-23T02:59:58Z"
+  "generated_at": "2026-04-23T03:02:15Z"
 }

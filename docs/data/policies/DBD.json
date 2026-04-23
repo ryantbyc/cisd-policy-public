@@ -1,7 +1,7 @@
 {
   "code": "DBD",
   "title": "Employment Requirements and Restrictions: Conflict of Interest",
-  "description": "",
+  "description": "This policy addresses conflicts of interest related to the employment of District administrators. It defines who qualifies as an administrator and sets rules around administrators receiving financial benefits from businesses or educational entities that have dealings with the District. The policy also outlines a Board-approval process for certain financial arrangements and establishes disclosure requirements and penalties for violations.",
   "last_action_date": "2026-04-21",
   "last_action_result": "adopted",
   "timeline_local": [
@@ -10,13 +10,13 @@
       "school_year": "2025-2026",
       "action": "first_reading",
       "result": "first_reading",
-      "summary": "This update to Board Policy DBD (Local) adds a new \"Administrator Financial Benefit\" section that defines who qualifies as an administrator, prohibits administrators from receiving financial benefits for personal services rendered to businesses dealing with the District or other educational entities, and establishes a Board-approval process with public disclosure requirements and a $10,000 civil penalty for violations. The changes are driven by Texas House Bill 3372 (Education Code \u00a711.006).",
+      "summary": "This update to Board Policy DBD (Local) adds a new \"Administrator Financial Benefit\" section that defines who qualifies as an administrator, prohibits administrators from receiving financial benefits for personal services rendered to businesses dealing with the District or other educational entities, and establishes a Board-approval process with public disclosure requirements and a $10,000 civil penalty for violations. The changes are driven by Texas House Bill 3372 (Education Code §11.006).",
       "changes_added": [
-        "Administrator Financial Benefit \u2014 section heading (new section)",
-        "Definition \u2014 subsection heading",
+        "Administrator Financial Benefit — section heading (new section)",
+        "Definition — subsection heading",
         "For this section, an administrator means a person who has significant administrative duties relating to the operation of the District, including the operation of a campus, program, or other subdivision of the District.",
         "The definition of administrator does not include: 1. A school district employee whose employment contract responsibilities primarily include the in-classroom instruction of students; or 2. A Board of Trustees member.",
-        "Financial Benefit \u2014 subsection heading",
+        "Financial Benefit — subsection heading",
         "Except as provided by this policy, an administrator may not receive any financial benefit for the performance of personal services for: 1. Any business entity that conducts or solicits business with the District; 2. An education business that provides services regarding the curriculum or administration of any school district; or 3. Another school district, open-enrollment charter school, or regional education service center.",
         "An administrator, other than a member of a Board of Trustees, superintendent, or assistant superintendent, may receive a financial benefit for the performance of personal services for (2) or (3) only if: 1. A written contract describing the services to be performed by the administrator is provided to the Board; and 2. The Board votes to approve the contract after determining that: a. The contract will not harm the District; b. The arrangement does not present a conflict of interest; and c. The services to be performed will be performed entirely on the administrator's personal time.",
         "A contract provided to a Board under these conditions shall be subject to public disclosure.",
@@ -30,14 +30,14 @@
       "meeting_notes_url": "https://cisd.boardmonitor.app/meeting.html?id=2026-04-21_regular",
       "confidence": "high",
       "source_redline": "DBD_LOCAL.pdf",
-      "notes": "The cover page title reads \"Consider and Adopt Revisions to Board Policy DBD (Local)\" with no \"First Reading\" qualifier, so action is recorded as 'adopted'. All red-underlined text in the Administrator Financial Benefit section (pages 3\u20134) constitutes entirely new language; no pre-existing policy text was removed other than the original issue date in the footer. The TEE (Texans for Excellence in Education) comparison pages (5\u20136) show the corresponding statutory language from HB 3372 / Education Code \u00a711.006 as context but are not part of the policy text itself.",
+      "notes": "The cover page title reads \"Consider and Adopt Revisions to Board Policy DBD (Local)\" with no \"First Reading\" qualifier, so action is recorded as 'adopted'. All red-underlined text in the Administrator Financial Benefit section (pages 3–4) constitutes entirely new language; no pre-existing policy text was removed other than the original issue date in the footer. The TEE (Texans for Excellence in Education) comparison pages (5–6) show the corresponding statutory language from HB 3372 / Education Code §11.006 as context but are not part of the policy text itself.",
       "compliance_assessment": {
         "classification": "Required by Law",
         "elements": [
           {
             "element": "Administrator Definition (including exclusions for classroom instructors and board members)",
             "classification": "Required by Law",
-            "statutory_basis": "TEC \u00a711.006 as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "statutory_basis": "TEC §11.006 as enacted by H.B. 3372 (89th Leg., R.S.)",
             "supporting_quote": "an administrator may not receive any financial benefit for the performance of personal services for: (1) any business entity that conducts or solicits business with the school district",
             "verification_method": "adapted statute text",
             "litigation_status": "None identified",
@@ -46,7 +46,7 @@
           {
             "element": "Prohibition on financial benefits from business entities conducting or soliciting business with the District",
             "classification": "Required by Law",
-            "statutory_basis": "TEC \u00a711.006(b)(1) as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "statutory_basis": "TEC §11.006(b)(1) as enacted by H.B. 3372 (89th Leg., R.S.)",
             "supporting_quote": "an administrator may not receive any financial benefit for the performance of personal services for: (1) any business entity that conducts or solicits business with the school district",
             "verification_method": "verbatim statute text",
             "litigation_status": "None identified",
@@ -55,7 +55,7 @@
           {
             "element": "Prohibition on financial benefits from education businesses providing curriculum or administration services",
             "classification": "Required by Law",
-            "statutory_basis": "TEC \u00a711.006(b)(2) as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "statutory_basis": "TEC §11.006(b)(2) as enacted by H.B. 3372 (89th Leg., R.S.)",
             "supporting_quote": "an administrator may not receive any financial benefit for the performance of personal services for: (2) an education business that provides services regarding the curriculum or administration of any school district",
             "verification_method": "verbatim statute text",
             "litigation_status": "None identified",
@@ -64,7 +64,7 @@
           {
             "element": "Prohibition on financial benefits from other school districts, charter schools, or ESCs",
             "classification": "Required by Law",
-            "statutory_basis": "TEC \u00a711.006(b)(3) as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "statutory_basis": "TEC §11.006(b)(3) as enacted by H.B. 3372 (89th Leg., R.S.)",
             "supporting_quote": "an administrator may not receive any financial benefit for the performance of personal services for: (3) another school district, open-enrollment charter school, or regional education service center",
             "verification_method": "verbatim statute text",
             "litigation_status": "None identified",
@@ -73,7 +73,7 @@
           {
             "element": "Absolute prohibition for superintendents and assistant superintendents (no board-approval exception available)",
             "classification": "Required by Law",
-            "statutory_basis": "TEC \u00a711.006(b)-(c) as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "statutory_basis": "TEC §11.006(b)-(c) as enacted by H.B. 3372 (89th Leg., R.S.)",
             "supporting_quote": "An administrator, other than a member of a board of managers, superintendent, or assistant superintendent, may receive a financial benefit for the performance of personal services for a purpose described by Subsection (b)(2) or (3) only if",
             "verification_method": "adapted statute text",
             "litigation_status": "None identified",
@@ -82,7 +82,7 @@
           {
             "element": "Written contract requirement as prerequisite for board approval of financial benefit",
             "classification": "Required by Law",
-            "statutory_basis": "TEC \u00a711.006(c) as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "statutory_basis": "TEC §11.006(c) as enacted by H.B. 3372 (89th Leg., R.S.)",
             "supporting_quote": "a written contract describing the services to be performed by the administrator is provided to the board",
             "verification_method": "verbatim statute text",
             "litigation_status": "None identified",
@@ -91,7 +91,7 @@
           {
             "element": "Board vote with three-part determination (no harm to district, no conflict of interest, personal time only)",
             "classification": "Required by Law",
-            "statutory_basis": "TEC \u00a711.006(c) as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "statutory_basis": "TEC §11.006(c) as enacted by H.B. 3372 (89th Leg., R.S.)",
             "supporting_quote": "the board votes to approve the contract after determining that: the contract will not harm the school district; the arrangement does not present a conflict of interest; the services to be performed will be performed entirely on the administrator's personal time",
             "verification_method": "verbatim statute text",
             "litigation_status": "None identified",
@@ -100,7 +100,7 @@
           {
             "element": "Public disclosure of contracts submitted for board approval",
             "classification": "Required by Law",
-            "statutory_basis": "TEC \u00a711.006(c) as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "statutory_basis": "TEC §11.006(c) as enacted by H.B. 3372 (89th Leg., R.S.)",
             "supporting_quote": "A contract provided to the board under Subsection (c) is subject to public disclosure.",
             "verification_method": "verbatim statute text",
             "litigation_status": "None identified",
@@ -109,17 +109,17 @@
           {
             "element": "$10,000 civil penalty per violation for administrators who violate the section",
             "classification": "Required by Law",
-            "statutory_basis": "TEC \u00a711.006 as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "statutory_basis": "TEC §11.006 as enacted by H.B. 3372 (89th Leg., R.S.)",
             "supporting_quote": "An administrator who violates this section is liable to the state for a civil penalty in the amount of $10,000 for each violation.",
             "verification_method": "verbatim statute text",
             "litigation_status": "None identified",
-            "local_additions": "None \u2014 policy restates the statutory penalty without enhancement"
+            "local_additions": "None — policy restates the statutory penalty without enhancement"
           },
           {
             "element": "District obligation to adopt implementation procedures",
             "classification": "Mixed",
-            "statutory_basis": "TEC \u00a711.006 as enacted by H.B. 3372 (89th Leg., R.S.)",
-            "supporting_quote": "None \u2014 no verbatim statutory quote in the statute analysis directly mandates that the district adopt implementing procedures",
+            "statutory_basis": "TEC §11.006 as enacted by H.B. 3372 (89th Leg., R.S.)",
+            "supporting_quote": "None — no verbatim statutory quote in the statute analysis directly mandates that the district adopt implementing procedures",
             "verification_method": "verbatim statute text",
             "litigation_status": "None identified",
             "local_additions": "The directive that 'the District shall adopt procedures to implement this policy' is not supported by a verbatim quote in the statute analysis provided; the specific procedural content the district will adopt is locally discretionary. Classified Mixed because the overall compliance framework is statutorily required but the procedural implementation mandate in the policy text lacks a supporting verbatim statutory quote and reflects local board choice."
@@ -128,10 +128,10 @@
       },
       "compliance_summary": [
         "Administrator Definition: Texas House Bill 3372 (H.B. 3372) required school districts to define which employees count as 'administrators' under a new financial ethics rule. The definition in this policy follows state law exactly, and does not include classroom teachers or school board members.",
-        "Financial Benefit Prohibitions: H.B. 3372, codified as Texas Education Code \u00a711.006, prohibits administrators from receiving personal payments or other financial benefits from companies doing business with the district, education service providers, or other school districts and charter schools. This policy restates those three categories of prohibited relationships directly from the statute.",
-        "Superintendent-Level Restrictions: Under TEC \u00a711.006, superintendents and assistant superintendents face a stricter standard than other administrators \u2014 there is no approval process available to them, meaning they may not receive these types of financial benefits under any circumstances.",
-        "Board Approval Process: For administrators other than superintendents and assistant superintendents, TEC \u00a711.006 allows the school board to approve outside financial arrangements if certain conditions are met \u2014 a written contract must exist, the board must confirm there is no harm to the district, no conflict of interest, and that the work is done on personal time, and the contract must be made available to the public.",
-        "$10,000 Civil Penalty: State law sets a civil penalty of $10,000 per violation for administrators who break these rules. This policy restates that penalty amount directly from TEC \u00a711.006 without adding to it.",
+        "Financial Benefit Prohibitions: H.B. 3372, codified as Texas Education Code §11.006, prohibits administrators from receiving personal payments or other financial benefits from companies doing business with the district, education service providers, or other school districts and charter schools. This policy restates those three categories of prohibited relationships directly from the statute.",
+        "Superintendent-Level Restrictions: Under TEC §11.006, superintendents and assistant superintendents face a stricter standard than other administrators — there is no approval process available to them, meaning they may not receive these types of financial benefits under any circumstances.",
+        "Board Approval Process: For administrators other than superintendents and assistant superintendents, TEC §11.006 allows the school board to approve outside financial arrangements if certain conditions are met — a written contract must exist, the board must confirm there is no harm to the district, no conflict of interest, and that the work is done on personal time, and the contract must be made available to the public.",
+        "$10,000 Civil Penalty: State law sets a civil penalty of $10,000 per violation for administrators who break these rules. This policy restates that penalty amount directly from TEC §11.006 without adding to it.",
         "Implementation Procedures: The policy directs the district to create internal procedures for carrying out this new rule. While the overall compliance framework comes from H.B. 3372, the specific procedures the district will develop are a local decision made by the school board."
       ]
     }
