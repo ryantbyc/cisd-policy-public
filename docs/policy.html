@@ -114,10 +114,34 @@
       padding: 1.4rem 1.5rem 1.2rem;
       border-bottom: 4px solid var(--border-accent);
     }
-    .header-inner { max-width: 900px; margin: 0 auto; display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+    .header-inner { max-width: 900px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
     .header-brand h1 { font-size: 1.75rem; font-weight: 700; letter-spacing: -0.02em; }
     .header-brand p  { margin-top: 0.35rem; font-size: 0.9rem; opacity: 0.8; }
     .header-back { display: none; }
+
+    /* ── Hamburger nav ─────────────────────────────────────────── */
+    .header-nav { position: relative; display: flex; align-items: center; gap: 0.75rem; }
+    .header-back-link { font-size: 0.8rem; opacity: 0.75; color: var(--text-header); text-decoration: none; white-space: nowrap; }
+    .header-back-link:hover { opacity: 1; text-decoration: underline; }
+    .hamburger-btn {
+      background: none; border: none; cursor: pointer;
+      padding: 0.5rem; display: flex; flex-direction: column; gap: 5px; border-radius: 4px;
+    }
+    .hamburger-btn:hover { background: rgba(255,255,255,0.12); }
+    .hamburger-btn span { display: block; width: 22px; height: 2px; background: var(--text-header); border-radius: 2px; }
+    .nav-dropdown {
+      position: absolute; top: calc(100% + 0.5rem); right: 0;
+      background: var(--bg-card); border: 1px solid var(--border-subtle);
+      border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+      min-width: 180px; z-index: 200; overflow: hidden;
+    }
+    .nav-dropdown a {
+      display: block; padding: 0.75rem 1.1rem;
+      color: var(--text-primary); text-decoration: none; font-size: 0.9rem;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+    .nav-dropdown a:last-child { border-bottom: none; }
+    .nav-dropdown a:hover { background: rgba(0,0,0,0.05); }
     .back-to-index {
       display: inline-block; margin-bottom: 0.75rem;
       padding: 0.3rem 0.75rem; border-radius: 5px;
@@ -484,7 +508,15 @@
       <h1>CISD Policy Tracker</h1>
       <p>Constituent board policy tracking for Conroe ISD</p>
     </div>
-    <a class="header-back" href="index.html">&#8592; All Policies</a>
+    <div class="header-nav">
+      <a class="header-back-link" href="index.html">&#8592; All Policies</a>
+      <button class="hamburger-btn" id="hamburger-btn" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-dropdown" id="nav-dropdown" hidden>
+        <a href="https://cisd.boardmonitor.app" target="_blank" rel="noopener">Meeting Monitor</a>
+      </div>
+    </div>
   </div>
 </header>
 
@@ -1224,6 +1256,18 @@
         console.error(err);
       });
   }
+
+  // Hamburger menu
+  const hamburgerBtn = document.getElementById('hamburger-btn');
+  const navDropdown  = document.getElementById('nav-dropdown');
+  hamburgerBtn.addEventListener('click', e => {
+    e.stopPropagation();
+    const open = navDropdown.hidden;
+    navDropdown.hidden = !open;
+    hamburgerBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  document.addEventListener('click', () => { navDropdown.hidden = true; hamburgerBtn.setAttribute('aria-expanded','false'); });
+  navDropdown.addEventListener('click', e => e.stopPropagation());
 </script>
 </body>
 </html>
